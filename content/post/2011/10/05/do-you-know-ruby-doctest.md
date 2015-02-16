@@ -15,18 +15,20 @@ thesis_thumb_width:
 thesis_thumb_height:
   - 66
 categories:
-  - Beginners
-  - Ruby
+  - beginners
+  - ruby
+  - doctest
 tags:
   - programming
-  - Ruby DocTest
-  - ruby programming
+  - doctest
+  - ruby
 ---
-## Do you know Ruby Doctest? 
+## Do you know Ruby Doctest?
 
 This guest post is by Victor Goff, who enjoys mentoring Ruby at
-RubyLearning.org since 2008. You can reach him on IRC Chat at #rubylearning.org on
-freenode.net. He also blogs occasionally at https://aavalam.github.io.
+RubyLearning.org since 2008. <!--more--> You can reach him on IRC Chat at
+#rubylearning.org on freenode.net. He also blogs occasionally at
+https://aavalam.github.io.
 
 [Victor Goff] Rubydoctest is a gem that we will be installing. The purpose
 of the gem is simply to provide a way to document our programs using IRB
@@ -67,15 +69,15 @@ supplied you would end up seeing ‘default’ as the title.
 
     To use rubydoctest:
     USAGE: rubydoctest [options]
-    
+
       rubydoctest parses Ruby files (.rb) or DocTest files (.doctest) for irb-style
       sessions in comments, and runs the commented sessions as tests.
-    
+
       Options:
         Output Format:
           --html  - output in HTML format
           --plain - force output in plain text (no Ansi colors)
-    
+
         Debug:
           --ignore-interactive - do not heed !!! special directives
           --trace     - turn backtrace on to debug Ruby DocTest
