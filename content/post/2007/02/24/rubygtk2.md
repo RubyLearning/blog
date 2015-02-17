@@ -1,11 +1,11 @@
 ---
 title: Ruby/GTK2
 author: Satish Talim
-date: 2007-02-24
+date: "2007-02-24"
 layout: post
 permalink: /2007/02/24/rubygtk2/
 categories:
-  - Ruby
+  - ruby
 ---
 <div>
   <!--adsense-->

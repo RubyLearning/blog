@@ -1,13 +1,13 @@
 ---
-title: 'on-page.net &#8211; A useful Ruby resource'
+title: 'on-page.net – A useful Ruby resource'
 author: Satish Talim
-date: 2007-03-12
+date: "2007-03-12"
 layout: post
 permalink: /2007/03/12/on-pagenet-a-useful-ruby-resource/
 topsy_short_url:
   - http://bit.ly/Sa2wV3
 categories:
-  - Ruby
+  - ruby
 ---
 <div>
   <!--adsense-->
@@ -17,31 +17,31 @@ categories:
   <p>
     How many times have you ever needed to find just one argument of a Ruby method/function/operator or just some word of syntax while working?
   </p>
-  
+
   <p>
-    The first thing you have to do is to google it or to use the index of .chm or just Ctrl+F through some manuals or pages&#8230; and as a result you have a lot of garbage and you need to search again for some useful sample or description.
+    The first thing you have to do is to google it or to use the index of .chm or just Ctrl+F through some manuals or pages… and as a result you have a lot of garbage and you need to search again for some useful sample or description.
   </p>
-  
+
   <p>
     On-page.net is an attempt to reduce the garbage and give to you just what you really need.
   </p>
-  
+
   <p>
     The idea is this: only one page with information blocks. Each block can describe from one to a few keywords. All the keywords are marked (indexed) by block creator (No machine index and search! Closer to Web 3.0). Every visitor can add, modify and/or delete a block, but all changes will be pre-moderated.
   </p>
-  
+
   <p>
-    As a result, you have a page where you can find a useful sample or a description of any keyword or symbol, just by typing it right in your browser. You don&#8217;t even need to use Ctrl+F&#8230; and you can navigate between keyword places via arrows or F3.
+    As a result, you have a page where you can find a useful sample or a description of any keyword or symbol, just by typing it right in your browser. You don't even need to use Ctrl+F… and you can navigate between keyword places via arrows or F3.
   </p>
-  
+
   <p>
-    Ruby.on-page.net is just the beginning of new level of online help. For now it is just a beta version of the engine and for only one language &#8211; Ruby (includes just some scraps from &#8220;Programming Ruby&#8221;). Now the author is trying to improve the functionality, stability and performance of the interface. Also, it must work cross-browser and support many languages and localizations. What he really needs now is your advice and ideas, or any feedback that can help him make it better and useful. Try not to concentrate on bugs and errors, but think about what is good and what is bad&#8230;
+    Ruby.on-page.net is just the beginning of new level of online help. For now it is just a beta version of the engine and for only one language – Ruby (includes just some scraps from "Programming Rubyi"). Now the author is trying to improve the functionality, stability and performance of the interface. Also, it must work cross-browser and support many languages and localizations. What he really needs now is your advice and ideas, or any feedback that can help him make it better and useful. Try not to concentrate on bugs and errors, but think about what is good and what is bad.
   </p>
-  
+
   <p>
-    You can mail him (des7ign@gmail.com) or you can use the feedback form on the site&#8217;s page.
+    You can mail him (des7ign@gmail.com) or you can use the feedback form on the site's page.
   </p>
-  
+
   <p>
     And you can try it right <strong><a href="http://ruby.on-page.net" >there</a></strong> (for now just in Firefox).
   </p>

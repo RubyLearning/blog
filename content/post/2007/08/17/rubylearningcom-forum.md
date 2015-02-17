@@ -1,18 +1,21 @@
 ---
 title: RubyLearning.com Forum
 author: Satish Talim
-date: 2007-08-17
+date: "2007-08-17"
 layout: post
 permalink: /2007/08/17/rubylearningcom-forum/
 categories:
-  - News
-  - Rails
-  - Ruby
+  - news
+  - rails
+  - ruby
 ---
-<div>
-  <p>
-    You demanded it. You have it! The <a href="http://www.rubylearning.com/forum/index.php">RubyLearning.com Forum</a> is up and running. You have sub-forums related to many topics such Ruby Certification, Book Reviews, Events, Jobs amongst others. Register and frequent the forums.
-  </p>
-</div>
+You demanded it. You have it! The RubyLearning.com
+Forum is up and running. (No longer in this form)
 
-Technorati Tags: <a href="http://technorati.com/tag/RubyLearning.com" rel="tag">RubyLearning.com</a>, <a href="http://technorati.com/tag/RubyLearning.com+Forum" rel="tag">RubyLearning.com Forum</a>
+You have sub-forums related to many topics such Ruby Certification, Book
+Reviews, Events, Jobs amongst others. Register and frequent the forums.
+
+Technorati Tags:
+[RubyLearning.com](http://technorati.com/tag/RubyLearning.com),
+[RubyLearning.com
+Forum](http://technorati.com/tag/RubyLearning.com+Forum)

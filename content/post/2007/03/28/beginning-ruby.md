@@ -1,12 +1,12 @@
 ---
 title: Beginning Ruby
 author: Satish Talim
-date: 2007-03-28
+date: "2007-03-28"
 layout: post
 permalink: /2007/03/28/beginning-ruby/
 categories:
-  - News
-  - Ruby
+  - news
+  - ruby
 ---
 <div>
   <!--adsense-->
@@ -14,7 +14,7 @@ categories:
 
 <div>
   <p>
-    The book, <strong>Beginning Ruby</strong> is a complete beginner&#8217;s guide to Ruby and ideal for both people who&#8217;ve not programmed before or those who&#8217;ve done a little programming but don&#8217;t understand the finer details (such as OOP, dynamic languages, or scripting).
+    The book, <strong>Beginning Ruby</strong> is a complete beginner's guide to Ruby and ideal for both people who've not programmed before or those who've done a little programming but don't understand the finer details (such as OOP, dynamic languages, or scripting).
   </p>
   
   <p>

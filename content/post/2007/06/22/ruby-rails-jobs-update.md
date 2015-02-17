@@ -1,30 +1,34 @@
 ---
 title: Ruby Rails Jobs Update
 author: Satish Talim
-date: 2007-06-22
+date: "2007-06-22"
 layout: post
 permalink: /2007/06/22/ruby-rails-jobs-update/
 categories:
-  - Rails
-  - Ruby
+  - rails
+  - ruby
 ---
-<div>
-  <p>
-    The <strong><a href="http://rubylearning.com/jobs/ruby_jobs.html" >Learning Ruby Job Board</a></strong> is getting a very good response from the Ruby and Rails readers of <a href="http://rubylearning.com/" >RubyLearning.com</a>.
-  </p>
-  
-  <p>
-    Two new job posts need mention here:
-  </p>
-  
-  <ul>
-    <li>
-      <strong><a href="http://learningruby.jobcoin.com/jobs/show/27959-college-age-junior-developer-designer" >DormAid, NY, USA</a></strong> &#8211; DormAid is a college service company operating at over 40 major campuses. They are planning to extend their cutting edge web applications to interact with tech-savvy students in more interesting ways. They are looking for college-age web developers/designers who know Ruby on Rails or are willing to learn.
-    </li>
-    <li>
-      <strong><a href="http://learningruby.jobcoin.com/jobs/show/28612-web-application-developer" >Codeweavers Ltd, UK</a></strong> &#8211; They are looking to recruit a developer to work on an existing project built using Rails, RSpec and PostgreSQL. The site is in its early stages and will likely expand rapidly. They are equally happy to take on junior as well as experienced developers.
-    </li>
-  </ul>
-</div>
+The **[Learning Ruby Job
+Board](http://rubylearning.com/jobs/ruby_jobs.html)** is getting a very
+good response from the Ruby and Rails readers of
+[RubyLearning.com](http://rubylearning.com/).
 
-Technorati Tags: <a href="http://technorati.com/tag/Jobs" rel="tag">Jobs</a>, <a href="http://technorati.com/tag/Ruby+Rails+Jobs" rel="tag">Ruby Rails Jobs</a>, <a href="http://technorati.com/tag/Learning+Ruby+Job+Board" rel="tag">Learning Ruby Job Board</a>
+Two new job posts need mention here:
+
+-   **[DormAid, NY,
+    USA](http://learningruby.jobcoin.com/jobs/show/27959-college-age-junior-developer-designer)**
+    – DormAid is a college service company operating at over 40 major
+    campuses. They are planning to extend their cutting edge web
+    applications to interact with tech-savvy students in more
+    interesting ways. They are looking for college-age web
+    developers/designers who know Ruby on Rails or are willing to learn.
+-   **[Codeweavers Ltd,
+    UK](http://learningruby.jobcoin.com/jobs/show/28612-web-application-developer)**
+    – They are looking to recruit a developer to work on an existing
+    project built using Rails, RSpec and PostgreSQL. The site is in its
+    early stages and will likely expand rapidly. They are equally happy
+    to take on junior as well as experienced developers.
+
+Technorati Tags: [Jobs](http://technorati.com/tag/Jobs), [Ruby Rails
+Jobs](http://technorati.com/tag/Ruby+Rails+Jobs), [Learning Ruby Job
+Board](http://technorati.com/tag/Learning+Ruby+Job+Board)
