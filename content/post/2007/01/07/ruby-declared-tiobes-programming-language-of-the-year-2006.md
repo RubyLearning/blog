@@ -1,13 +1,13 @@
 ---
 title: 'Ruby declared TIOBE&#8217;s Programming Language of the Year 2006!'
 author: Satish Talim
-date: 2007-01-07
+date: "2007-01-07"
 layout: post
 permalink: /2007/01/07/ruby-declared-tiobes-programming-language-of-the-year-2006/
 categories:
-  - News
-  - Rails
-  - Ruby
+  - news
+  - rails
+  - ruby
 ---
 <div>
   <!--adsense-->

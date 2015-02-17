@@ -1,11 +1,11 @@
 ---
-title: PDF::Writer for Ruby
+title: "PDF::Writer for Ruby"
 author: Satish Talim
-date: 2007-02-26
+date: "2007-02-26"
 layout: post
 permalink: /2007/02/26/pdfwriter-for-ruby/
 categories:
-  - Ruby
+  - ruby
 ---
 <div>
   <!--adsense-->

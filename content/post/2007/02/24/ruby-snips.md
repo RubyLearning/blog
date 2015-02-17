@@ -1,13 +1,13 @@
 ---
 title: Ruby Snips
 author: Satish Talim
-date: 2007-02-24
+date: "2007-02-24"
 layout: post
 permalink: /2007/02/24/ruby-snips/
 categories:
-  - Code Snippets
-  - News
-  - Ruby
+  - code snippets
+  - news
+  - ruby
 ---
 <div>
   <!--adsense-->
@@ -20,11 +20,11 @@ categories:
   
   <blockquote>
     <p>
-      Ruby Snips is an idea that Iâ€™ve had for a while, but only recently have put together in my mind. I love Code Snippets, formerly owned by Peter Cooper, but Iâ€™ve always found myself wishing to be able to search the snippets easily and have a semi-brief explanation of the snippet being displayed.
+      Ruby Snips is an idea that I've had for a while, but only recently have put together in my mind. I love Code Snippets, formerly owned by Peter Cooper, but I've always found myself wishing to be able to search the snippets easily and have a semi-brief explanation of the snippet being displayed.
     </p>
     
     <p>
-      Another aspect that has brought about this site is that I am always learning new things that can be done with Ruby and Iâ€™d like to have a centralized place of snippets with explanations and thoughts for myself and for anyone else learning Ruby. This site isnâ€™t terribly unique in any sense, but rather another resource for the Ruby community.
+      Another aspect that has brought about this site is that I am always learning new things that can be done with Ruby and I'd like to have a centralized place of snippets with explanations and thoughts for myself and for anyone else learning Ruby. This site isn't terribly unique in any sense, but rather another resource for the Ruby community.
     </p>
   </blockquote>
 </div>

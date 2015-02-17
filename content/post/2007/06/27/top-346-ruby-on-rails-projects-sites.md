@@ -1,17 +1,16 @@
 ---
 title: Top 346 Ruby on Rails Projects Sites
 author: Satish Talim
-date: 2007-06-27
+date: "2007-06-27"
 layout: post
 permalink: /2007/06/27/top-346-ruby-on-rails-projects-sites/
 categories:
-  - Rails
-  - Ruby
+  - rails
+  - ruby
 ---
-<div>
-  <p>
-    A quick note. My friend Sunil Kelkar pointed me to this interesting link &#8211; <a href="http://webdeveloper.econsultant.com/ruby-rails-projects-sites/" >Top 346 Ruby on Rails Projects Sites</a>.
-  </p>
-</div>
+A quick note. My friend Sunil Kelkar pointed me to this interesting link
+– [Top 346 Ruby on Rails Projects
+Sites](http://webdeveloper.econsultant.com/ruby-rails-projects-sites/).
 
-Technorati Tags: <a href="http://technorati.com/tag/Top+346+Ruby+on+Rails+Projects+Sites" rel="tag">Top 346 Ruby on Rails Projects Sites</a>
+Technorati Tags: [Top 346 Ruby on Rails Projects
+Sites](http://technorati.com/tag/Top+346+Ruby+on+Rails+Projects+Sites)

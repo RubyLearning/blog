@@ -1,13 +1,13 @@
 ---
 title: Ruby and Rails News
 author: Satish Talim
-date: 2007-03-08
+date: "2007-03-08"
 layout: post
 permalink: /2007/03/08/ruby-and-rails-news/
 categories:
-  - News
-  - Rails
-  - Ruby
+  - news
+  - rails
+  - ruby
 ---
 <div>
   <!--adsense-->

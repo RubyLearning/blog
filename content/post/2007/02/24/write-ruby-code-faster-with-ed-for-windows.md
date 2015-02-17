@@ -1,12 +1,12 @@
 ---
 title: Write Ruby code faster with ED for Windows
 author: Satish Talim
-date: 2007-02-24
+date: "2007-02-24"
 layout: post
 permalink: /2007/02/24/write-ruby-code-faster-with-ed-for-windows/
 categories:
-  - News
-  - Ruby
+  - news
+  - ruby
 ---
 <div>
   <!--adsense-->
@@ -14,19 +14,19 @@ categories:
 
 <div>
   <p>
-    ED4W is a full featured Programmer&#8217;s Editor/IDE with support for 30+ languages. It includes all of the editing capabilities you would expect, plus a built-in Source Database Engine that tracks every class, method, module, struct etc. in real time enabling you to instantly jump to any function etc. and making navigation of large complex code bases much easier.
+    ED4W is a full featured Programmer's Editor/IDE with support for 30+ languages. It includes all of the editing capabilities you would expect, plus a built-in Source Database Engine that tracks every class, method, module, struct etc. in real time enabling you to instantly jump to any function etc. and making navigation of large complex code bases much easier.
   </p>
-  
+
   <hr />
-  For business email many go with 
-  <a href="http://www.intermedia.net/about-us/news/2007/exchange-2007-for-mid-sized-companies.asp">Exchange email outsourcing</a> to handle their issues. A good <a href="http://it.med.miami.edu/x294.xml">Microsoft Exchange</a> solution is useful even for colleges, so consider outsourcing or hosting your own <a href="http://www.intermedia.net/it-professionals/hosted-exchange/hosted-exchange.asp"> Microsoft Exchange server</a> for business email needs.<br /> 
-  
+  For business email many go with
+  <a href="http://www.intermedia.net/about-us/news/2007/exchange-2007-for-mid-sized-companies.asp">Exchange email outsourcing</a> to handle their issues. A good <a href="http://it.med.miami.edu/x294.xml">Microsoft Exchange</a> solution is useful even for colleges, so consider outsourcing or hosting your own <a href="http://www.intermedia.net/it-professionals/hosted-exchange/hosted-exchange.asp"> Microsoft Exchange server</a> for business email needs.<br />
+
   <hr />
-  
+
   <p>
     The <a href="http://blog.surfulater.com/2007/02/21/write-ruby-code-faster-with-ed-for-windows/" >blog post</a> will give you a good overview of ED&#8217;s capabilities with a specific focus on Ruby.
   </p>
-  
+
   <p>
     You can download the 30-day trial version from the <a href="http://www.getsoft.com/" >ED Web site</a>.
   </p>
