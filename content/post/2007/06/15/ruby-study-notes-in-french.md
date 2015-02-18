@@ -1,5 +1,5 @@
 ---
-title: Ruby Study Notes in French
+title: "Ruby Study Notes in French"
 author: Satish Talim
 date: "2007-06-15"
 layout: post

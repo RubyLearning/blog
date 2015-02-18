@@ -1,5 +1,5 @@
 ---
-title: JRuby Inside
+title: "JRuby Inside"
 author: Satish Talim
 date: "2007-07-17"
 layout: post

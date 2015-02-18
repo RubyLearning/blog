@@ -1,5 +1,5 @@
 ---
-title: Ruby ActiveRecord and MySQL
+title: "Ruby ActiveRecord and MySQL"
 author: Satish Talim
 date: "2007-08-02"
 layout: post

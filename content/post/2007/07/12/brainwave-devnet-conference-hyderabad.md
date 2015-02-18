@@ -1,5 +1,5 @@
 ---
-title: Brainwave DevNet Conference, Hyderabad
+title: "Brainwave DevNet Conference, Hyderabad"
 author: Satish Talim
 date: "2007-07-12"
 layout: post

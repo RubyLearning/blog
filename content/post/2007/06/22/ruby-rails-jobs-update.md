@@ -1,5 +1,5 @@
 ---
-title: Ruby Rails Jobs Update
+title: "Ruby Rails Jobs Update"
 author: Satish Talim
 date: "2007-06-22"
 layout: post

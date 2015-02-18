@@ -1,13 +1,13 @@
 ---
-title: Free Ruby Lessons
+title: "Free Ruby Lessons"
 draft: true
 author: Satish Talim
-date: 2007-08-22
+date: "2007-08-22"
 layout: post
 permalink: /2007/08/22/free-ruby-lessons/
 categories:
-  - Ruby
-  - Training
+  - ruby
+  - training
 ---
 <div>
   <p>

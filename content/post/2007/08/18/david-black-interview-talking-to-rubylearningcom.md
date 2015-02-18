@@ -1,15 +1,15 @@
 ---
 title: 'David Black Interview: Talking to RubyLearning.com'
 author: Satish Talim
-date: 2007-08-18
+date: "2007-08-18"
 layout: post
 permalink: /2007/08/18/david-black-interview-talking-to-rubylearningcom/
 categories:
-  - Beginners
-  - Interview
-  - Rails
-  - Ruby
-  - Training
+  - beginners
+  - interview
+  - rails
+  - ruby
+  - training
 ---
 <div style="float: right; margin-left: 10px; margin-bottom: 10px;">
   <a href="http://www.rubylearning.com/images/david.jpg" title="David Black"><img src="http://www.rubylearning.com/images/david.jpg" alt="David Black" /></a>

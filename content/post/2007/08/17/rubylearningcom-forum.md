@@ -1,5 +1,5 @@
 ---
-title: RubyLearning.com Forum
+title: "RubyLearning.com Forum"
 author: Satish Talim
 date: "2007-08-17"
 layout: post

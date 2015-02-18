@@ -1,5 +1,5 @@
 ---
-title: University of Virginia using RubyLearning.com
+title: "University of Virginia using RubyLearning.com"
 author: Satish Talim
 date: "2007-07-25"
 layout: post
