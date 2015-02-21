@@ -1,9 +1,8 @@
 ---
 title: 'Interview: Charles Nutter'
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-04-26"
 layout: post
-permalink: /2007/04/26/interview-charles-nutter/
 categories:
   - rails
   - ruby

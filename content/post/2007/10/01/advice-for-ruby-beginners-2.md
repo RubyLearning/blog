@@ -1,9 +1,8 @@
 ---
 title: "Advice For Ruby Beginners 2"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-10-01"
 layout: post
-permalink: /2007/10/01/advice-for-ruby-beginners-2/
 categories:
   - beginners
   - interview

@@ -1,9 +1,8 @@
 ---
-title: 'JRuby: Caffeinated Ruby'
-author: Satish Talim
+title: "JRuby: Caffeinated Ruby"
+author: "Satish Talim"
 date: "2007-04-27"
 layout: post
-permalink: /2007/04/27/jruby-caffeinated-ruby/
 categories:
 - jruby
 - rails
@@ -15,7 +14,7 @@ platform and there are millions of lines of Java code being written each
 month, that the world will have to live with for a long time from now.
 By leveraging Java the platform with the power of the Ruby programming
 language, programmers get the best from both worlds. *You better not
-ignore JRuby any more!*
+ignore JRuby any more!*<!--more-->
 
 **What is JRuby**?
 

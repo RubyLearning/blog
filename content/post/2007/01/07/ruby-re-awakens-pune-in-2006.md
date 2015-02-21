@@ -1,11 +1,8 @@
 ---
 title: "Ruby Re-Awakens Pune in 2006"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-01-07"
 layout: post
-permalink: /2007/01/07/ruby-re-awakens-pune-in-2006/
-topsy_short_url:
-  - http://bit.ly/1rPXKKu
 categories:
   - news
   - rails

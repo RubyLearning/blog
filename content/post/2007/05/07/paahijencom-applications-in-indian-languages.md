@@ -1,9 +1,8 @@
 ---
 title: 'paahijen.com: Applications in Indian Languages'
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-05-07"
 layout: post
-permalink: /2007/05/07/paahijencom-applications-in-indian-languages/
 categories:
   - news
   - rails

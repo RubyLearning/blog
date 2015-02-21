@@ -1,9 +1,8 @@
 ---
 title: 'Kidzworld: One Of The Largest Ruby On Rails Sites Ever Deployed'
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-01-20"
 layout: post
-permalink: /2007/01/20/kidzworld-one-of-the-largest-ruby-on-rails-sites-ever-deployed/
 categories:
   - news
   - rails

@@ -1,9 +1,8 @@
 ---
-title: 'Ruby: Thrift'
-author: Satish Talim
+title: "Ruby: Thrift"
+author: "Satish Talim"
 date: "2007-04-06"
 layout: post
-permalink: /2007/04/06/ruby-thrift/
 categories:
   - news
   - rails

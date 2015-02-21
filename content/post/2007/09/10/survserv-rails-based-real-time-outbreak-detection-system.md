@@ -1,9 +1,8 @@
 ---
-title: 'Survserv: Rails based Real Time Outbreak Detection System'
-author: Satish Talim
+title: "Survserv: Rails based Real Time Outbreak Detection System"
+author: "Satish Talim"
 date: "2007-09-10"
 layout: post
-permalink: /2007/09/10/survserv-rails-based-real-time-outbreak-detection-system/
 categories:
   - interview
   - news

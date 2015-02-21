@@ -1,9 +1,8 @@
 ---
 title: "Update to Rails 1.2"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-01-18"
 layout: post
-permalink: /2007/01/18/update-to-rails-12/
 categories:
   - rails
 ---

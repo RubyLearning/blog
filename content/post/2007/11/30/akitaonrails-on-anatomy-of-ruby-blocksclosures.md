@@ -1,11 +1,8 @@
 ---
 title: '"AkitaOnRails" On Anatomy of Ruby Blocks/Closures'
-author: Fabio Akita
+author: "Fabio Akita"
 date: "2007-11-30"
 layout: post
-permalink: /2007/11/30/akitaonrails-on-anatomy-of-ruby-blocksclosures/
-topsy_short_url:
-  - http://bit.ly/97Jc8R
 categories:
   - beginners
   - rails
@@ -15,7 +12,7 @@ categories:
 ***Fabio Akita’s*** "AkitaOnRails" series at RubyLearning.com, for
 would-be Ruby developers, has been quite a hit. Today in another
 article, Fabio talks in depth about Ruby’s **Blocks/Closures**, This is
-a rather long article but well worth the time invested in reading it.
+a rather long article but well worth the time invested in reading it.<!--more-->
 The entire source code for the programs in this article is available
 [here](http://tinyurl.com/2zjgjb).
 
@@ -39,7 +36,7 @@ really needs for day-to-day activities.
 
 Let’s start with an example:
 
-    <span style="color:blue"># program1.rb
+    # program1.rb
     for i in [1,2,3,4]
       puts i
     end
@@ -49,19 +46,19 @@ Let’s start with an example:
     while a < b.length
       puts b[a]
       a += 1
-    end</span>
+    end
 
 These are very simple iterators, similar to what we have in several
 languages. The first one with a ‘**for**‘ construct and the second with
 the familiar ‘**while**‘ statement. Nothing fancy here. But let’s see
 another way of accomplishing the same thing in Ruby:
 
-    <span style="color:blue"># program2.rb
+    # program2.rb
     [1,2,3,4].each { |i| puts i }
 
     [1,2,3,4].each do |i|
       puts i
-    end</span>
+    end
 
 Not too shabby, simpler and elegant, but that’s where people start
 gasping. The pipes notation is particularly threatening for
@@ -70,20 +67,20 @@ enclosed piece of code that we name as ‘blocks’ or ‘closures’. What’s
 between the pipes are like parameters to a method. It ‘feels’ like this
 pseudo-code:
 
-    <span style="color:blue">def unnamed_method(i)
+    def unnamed_method(i)
       puts i
     end
 
-    [1,2,3,4].each(unnamed_method)</span>
+    [1,2,3,4].each(unnamed_method)
 
 This is not valid Ruby code, of course. That’s similar to what we would
 do in C\# with delegates. We have something similar in JavaScript (using
 the "Prototype" [http://www.prototypejs.org/api/enumerable/each](http://www.prototypejs.org/api/enumerable/each)
 library):
 
-    <span style="color:blue">[1,2,3,4].each(function(i) {
+    [1,2,3,4].each(function(i) {
       alert(i);
-    });</span>
+    });
 
 In Javascript functions are first-class citizens of the language and
 they can be defined anonymously (without a name), and then passed as
@@ -95,7 +92,7 @@ extract a method from an object and wrap it around a ‘**Method**‘
 object, but it holds the context of its object, so it is not
 independent.
 
-    <span style="color:blue"># program3.rb
+    # program3.rb
     class Test
       def initialize
         @hello = "Hello!"
@@ -107,7 +104,7 @@ independent.
 
     m = Test.new.method(:say)
     puts m.call # => "Hello!"
-    puts m.class # => "Method"</span>
+    puts m.class # => "Method"
 
 Here, we extracted the :say method from the instantiated Test instance.
 Notice that we can now manipulate the method as a normal object.
@@ -122,10 +119,10 @@ is bound to the original object’s context and we don’t usually want
 that: it would be nice to have an independent block of code. So, let’s
 create one very simple block of code referenced by a variable:
 
-    <span style="color:blue"># program4.rb
+    # program4.rb
     c = lambda { |i| puts i }
     c.call(1) # => 1
-    c.call(2) # => 2</span>
+    c.call(2) # => 2
 
 The ‘**lambda**‘ keyword encloses the code within brackets as an object
 block, an instance of the **Proc** class. This object responds to the
@@ -134,7 +131,7 @@ block, an instance of the **Proc** class. This object responds to the
 inside the block. So, it acts as an independent entity, detached from
 any particular class. Let’s test it:
 
-    <span style="color:blue"># program5.rb
+    # program5.rb
     c = lambda { |i| puts i }
 
     class Test
@@ -144,7 +141,7 @@ any particular class. Let’s test it:
     end
 
     c.call(self.class) # => Object
-    Test.new.say(c)    # => Test</span>
+    Test.new.say(c)    # => Test
 
 We’re using the same block defined above in the variable ‘c’. After the
 definition of the Test class, we call the block object passing
@@ -160,12 +157,12 @@ anonymous delegates from C\#, anonymous inner classes from Java. This is
 a very useful construct that was primarily created to better handle
 iterators. For instance:
 
-    <span style="color:blue"># program6.rb
+    # program6.rb
     [1,2,3,4].reverse_each { |i| puts i }
     # => 4 
     # => 3
     # => 2
-    # => 1</span>
+    # => 1
 
 Now, this is different from the Array’s ‘**each**‘ method we used
 before. ‘**reverse\_each**‘ navigates backwards through the Array’s
@@ -180,7 +177,7 @@ Now we’re on our own. What if we need something more complicated like an
 iterator that only walks through even elements? In Ruby we can define
 such a method like this:
 
-    <span style="color:blue"># program7.rb
+    # program7.rb
     class Array
       def even
         i = 0
@@ -194,7 +191,7 @@ such a method like this:
     [1,2,3,4,5,6].even { |i| puts i }
     # => 1
     # => 3
-    # => 5</span>
+    # => 5
 
 First of all, remember that Ruby’s classes are all open, so we can
 easily redefine the standard **Array** class and append new methods to
@@ -208,7 +205,7 @@ block.
 We can rewrite this method in a slightly different way but with the same
 behavior:
 
-    <span style="color:blue"># program8.rb
+    # program8.rb
     class Array
       def even(&code)
         i = 0
@@ -217,7 +214,7 @@ behavior:
           i += 1
         end
       end
-    end</span>
+    end
 
 So, now we explicitly defined that the ‘even’ method expects to receive
 a block, converting it to the ‘code’ parameter. Then, inside it we send
@@ -226,7 +223,7 @@ result is exactly the same as using the **yield** keyword.
 
 We can still do it differently:
 
-    <span style="color:blue"># program9.rb
+    # program9.rb
     class Array
       def even(block)
         i = 0
@@ -235,14 +232,14 @@ We can still do it differently:
           i += 1
         end
       end
-    end</span>
+    end
 
 Now we’re doing it without the ampersand in the parameter. In the
 previous example, the ampersand operator ‘captures’ a block into a
 **Proc** instance object. In the latest example, the ‘even’ method
 expects to directly receive a **Proc** object, like this:
 
-    <span style="color:blue"># program10.rb
+    # program10.rb
     class Array
       def even(block)
         i = 0
@@ -253,12 +250,12 @@ expects to directly receive a **Proc** object, like this:
       end
     end
     c = lambda { |i| puts i }
-    [1,2,3,4,5,6].even( c )</span>
+    [1,2,3,4,5,6].even( c )
 
 Let’s go back to the Array’s ‘**each**‘ method as we displayed before:
 
-    <span style="color:blue">c = lambda { |i| puts i }
-    [1,2,3,4].each( &c )</span>
+    c = lambda { |i| puts i }
+    [1,2,3,4].each( &c )
 
 A little bit different, because the ‘**each**‘ method doesn’t expect a
 **Proc** object as a parameter, but an actual Block. So we use the
@@ -271,21 +268,21 @@ Block, but with this construct we are storing code within an object. We
 can define a method that receives as many blocks as we need, for
 instance:
 
-    <span style="color:blue"># program11.rb
+    # program11.rb
     def foo(name, block1, block2)
       block1.call
       puts name
       block2.call
     end
 
-    foo "Fabio", lambda { puts "Hello" }, lambda { puts "World" }</span>
+    foo "Fabio", lambda { puts "Hello" }, lambda { puts "World" }
 
 This example receives a normal parameter and 2 blocks instead of one. We
 can pass blocks as enclosed **Proc** objects in the parameters list as
 we would do with any other kind of object. We usually don’t need that
 many discrete blocks inside a single method. The most usual style is:
 
-    <span style="color:blue"># program12.rb
+    # program12.rb
     def foo( param1, param2 )
       # do something
       some_param = 1
@@ -294,7 +291,7 @@ many discrete blocks inside a single method. The most usual style is:
 
     foo(1, 2) do |some_param|
       # do something
-    end</span>
+    end
 
 So we define a normal method, with normal parameters. But inside it we
 ask ‘**block\_given?**‘. If positive, it ‘yields’ its block passing some
@@ -310,11 +307,11 @@ multiple statements inside.
 
 There’s a gotcha:
 
-    <span style="color:blue">foo a, b do |some_param|
+    foo a, b do |some_param|
       # do something
     end
 
-    foo a, b { |some_param| # do something }</span>
+    foo a, b { |some_param| # do something }
 
 Both brackets and do .. end constructs define blocks, so at first glance
 the 2 above statements seems to do the same thing. But the gotcha is
@@ -331,10 +328,10 @@ We now understand that **Blocks are pieces of code that can be exchanged
 between method calls, as parameters or returned values**. But there is
 more to it:
 
-    <span style="color:blue"># program13.rb
+    # program13.rb
     c = lambda { |i| puts i }
     c = Proc.new { |i| puts i }
-    c = proc { |i| puts i }</span>
+    c = proc { |i| puts i }
 
 The above 3 statements do the same thing: instantiate a block object.
 ‘proc’ is an alias for ‘**lambda**‘ and they work slightly different
@@ -360,7 +357,7 @@ Ruby Blocks can enclose not only code and it’s own inner local
 variables, but it can enclose the surrounding context variables. That’s
 why it is called a ‘closure’. Let’s see an example:
 
-    <span style="color:blue"># program14.rb
+    # program14.rb
     def greetings_factory(prefix)
       Proc.new { |name| "#{prefix}, #{name} !"}
     end
@@ -369,7 +366,7 @@ why it is called a ‘closure’. Let’s see an example:
     xmas = greetings_factory("Merry XMas")
 
     puts birthday.call("David") # => "Happy Birthday, David !"
-    puts xmas.call("Matz")      # => "Merry XMas, Matz !"</span>
+    puts xmas.call("Matz")      # => "Merry XMas, Matz !"
 
 The first thing is a method definition for ‘greetings\_factory’. It gets
 a prefix as a parameter and returns a **Proc** object, whose inner
@@ -386,12 +383,12 @@ stored the ‘prefix’ variable passed before, while still accepting the
 Keep in mind that every Ruby Block is a Closure, that’s why this
 construct actually works:
 
-    <span style="color:blue"># program15.rb
+    # program15.rb
     list = []
     [1,2,3,4].each do |i| 
       list << i * 2 
     end
-    puts list.inspect # => [2, 4, 6, 8]</span>
+    puts list.inspect # => [2, 4, 6, 8]
 
 So, we defined a ‘list’ array \*before\* we create the iterator block.
 Then, inside the block we refer to the external ‘list’ array and
@@ -412,16 +409,16 @@ Another very important usage is to enclose widely used code patterns.
 For example, Rails has the following construct to use database
 transactions:
 
-    <span style="color:blue">User.transaction do 
+    User.transaction do 
       u = User.new(:login => 'admin')
       u.save!
-    end</span>
+    end
 
 ‘User’ would be the **ActiveRecord** instance. One example of the
 structure for the model’s ‘transaction’ class method would resemble this
 structure:
 
-    <span style="color:blue">class ActiveRecord::Base
+    class ActiveRecord::Base
       def self.transaction
         begin
           ActiveRecord::Base.establish_connection
@@ -432,7 +429,7 @@ structure:
           ActiveRecord::Base.remove_connection 
         end
       end
-    end</span>
+    end
 
 This means: open the database then try to ‘yield’ the block if provided.
 If anything wrong happens, get the error message and log it. Finally

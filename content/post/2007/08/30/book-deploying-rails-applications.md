@@ -1,9 +1,8 @@
 ---
 title: 'Book: Deploying Rails Applications'
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-08-30"
 layout: post
-permalink: /2007/08/30/book-deploying-rails-applications/
 categories:
   - rails
   - ruby

@@ -1,9 +1,8 @@
 ---
 title: "Ruby and Rails on Update-Scout"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-01-19"
 layout: post
-permalink: /2007/01/19/ruby-and-rails-on-update-scout/
 categories:
   - rails
   - ruby

@@ -1,9 +1,8 @@
 ---
-title: 'Interview: Elliot Temple'
-author: Satish Talim
+title: "Interview: Elliot Temple"
+author: "Satish Talim"
 date: "2007-04-03"
 layout: post
-permalink: /2007/04/03/interview-elliot-temple/
 categories:
   - rails
   - ruby
@@ -14,7 +13,7 @@ Today we talk to **Elliot Temple**.
 
 **Satish Talim\>\>** Hello Elliot, and welcome to PuneRuby. Could you
 tell us something about yourself – your background; where you are
-based…?
+based…?<!--more-->
 
 **Elliot Temple\>\>** I am in Berkeley, California. I’ve programmed on
 and off since I was 13 when I learned Scheme and C++. I’ve done contract

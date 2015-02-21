@@ -1,9 +1,8 @@
 ---
-title: 'Interview: Peat Bakke'
-author: Satish Talim
+title: "Interview: Peat Bakke"
+author: "Satish Talim"
 date: "2007-04-07"
 layout: post
-permalink: /2007/04/07/interview-peat-bakke/
 categories:
   - news
   - rails
@@ -13,7 +12,7 @@ categories:
 
 There is a lot to learn from experienced **Ruby** developers and in our
 continuing series of talking to such Ruby enthusiasts from around the
-world, Satish Talim today talks to **Peat Bakke**.
+world, Satish Talim today talks to **Peat Bakke**.<!--more-->
 
 **Satish Talim\>\>** Hello Peat, and welcome to PuneRuby. Could you tell
 us something about yourself?

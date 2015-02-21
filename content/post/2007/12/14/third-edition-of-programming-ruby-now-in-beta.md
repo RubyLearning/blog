@@ -1,9 +1,8 @@
 ---
-title: 'Third edition of &#8220;Programming Ruby&#8221; now in beta'
-author: Satish Talim
+title: 'Third edition of "Programming Ruby" now in beta'
+author: "Satish Talim"
 date: "2007-12-14"
 layout: post
-permalink: /2007/12/14/third-edition-of-programming-ruby-now-in-beta/
 categories:
   - news
   - ruby

@@ -1,9 +1,8 @@
 ---
-title: 'Interview with Ola Bini &#8211; JRuby Core Developer'
-author: Satish Talim
+title: "Interview with Ola Bini &#8211; JRuby Core Developer"
+author: "Satish Talim"
 date: "2007-08-30"
 layout: post
-permalink: /2007/08/30/interview-with-ola-bini-jruby-core-developer/
 categories:
   - interview
   - jruby

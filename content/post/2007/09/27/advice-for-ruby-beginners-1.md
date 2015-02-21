@@ -1,13 +1,8 @@
 ---
 title: "Advice For Ruby Beginners 1"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-09-27"
 layout: post
-permalink: /2007/09/27/advice-for-ruby-beginners-1/
-thesis_keywords:
-  - Ruby for Noobs, Ruby beginners
-topsy_short_url:
-  - http://bit.ly/9VarRD
 categories:
   - beginners
   - interview
@@ -27,8 +22,8 @@ RubyLearning.com and more keep joining everyday. Most Ruby beginners
 have a plethora of questions related to the language; opportunities in
 Ruby; Ruby’s future.*<!--more-->
 
-***Satish Talim** of RubyLearning.com talked to Ruby Gurus from around
-the world, to get their views and opinions.*
+***Satish Talim*** of RubyLearning.com talked to Ruby Gurus from around
+the world, to get their views and opinions.
 
 *We are pleased to have with us, Ruby Gurus: **Agnieszka Figiel** from
 Poland, **David Black** from USA, **Fabio Akita** from Brazil, **Jamie

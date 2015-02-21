@@ -1,9 +1,8 @@
 ---
 title: 'Introduction to Ruby: Videos'
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-05-17"
 layout: post
-permalink: /2007/05/17/introduction-to-ruby-videos/
 categories:
   - ruby
 ---

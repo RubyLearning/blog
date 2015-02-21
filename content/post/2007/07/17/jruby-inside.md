@@ -1,9 +1,8 @@
 ---
 title: "JRuby Inside"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-07-17"
 layout: post
-permalink: /2007/07/17/jruby-inside/
 categories:
   - jruby
   - news

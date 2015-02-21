@@ -1,9 +1,8 @@
 ---
 title: "Top 346 Ruby on Rails Projects Sites"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-06-27"
 layout: post
-permalink: /2007/06/27/top-346-ruby-on-rails-projects-sites/
 categories:
   - rails
   - ruby

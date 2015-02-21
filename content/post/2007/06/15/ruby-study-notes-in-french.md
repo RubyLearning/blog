@@ -1,9 +1,8 @@
 ---
 title: "Ruby Study Notes in French"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-06-15"
 layout: post
-permalink: /2007/06/15/ruby-study-notes-in-french/
 categories:
   - news
   - ruby

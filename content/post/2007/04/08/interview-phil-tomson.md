@@ -1,9 +1,8 @@
 ---
-title: 'Interview: Phil Tomson'
-author: Satish Talim
+title: "Interview: Phil Tomson"
+author: "Satish Talim"
 date: "2007-04-08"
 layout: post
-permalink: /2007/04/08/interview-phil-tomson/
 categories:
   - news
   - rails
@@ -11,7 +10,7 @@ categories:
 ---
 (This interview appeared before on 18th Aug. 2006 on the PuneRuby blog).
 
-Today, we shall be talking to another Ruby Guru – **Phil Tomson**.
+Today, we shall be talking to another Ruby Guru – **Phil Tomson**.<!--more-->
 
 **Satish Talim\>\>** Hello Phil, and welcome to PuneRuby. Could you tell
 us something about yourself?

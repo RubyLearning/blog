@@ -1,9 +1,8 @@
 ---
 title: 'Trend: India on a RoR wave'
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-07-03"
 layout: post
-permalink: /2007/07/03/trend-india-on-a-ror-wave/
 categories:
   - rails
   - ruby

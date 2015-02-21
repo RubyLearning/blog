@@ -1,9 +1,8 @@
 ---
-title: 'Web 2.0 Developer &#8211; Consultant @ Accenture'
-author: Satish Talim
+title: "Web 2.0 Developer -- Consultant @ Accenture"
+author: "Satish Talim"
 date: "2007-08-29"
 layout: post
-permalink: /2007/08/29/web-20-developer-consultant-accenture/
 categories:
   - jobs
   - rails

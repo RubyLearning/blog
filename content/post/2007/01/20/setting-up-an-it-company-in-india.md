@@ -1,11 +1,8 @@
 ---
 title: "Setting Up An IT Company In India"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-01-20"
 layout: post
-permalink: /2007/01/20/setting-up-an-it-company-in-india/
-topsy_short_url:
-  - http://bit.ly/dnQBsl
 categories:
   - rails
   - ruby

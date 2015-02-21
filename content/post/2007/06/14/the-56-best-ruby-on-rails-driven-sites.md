@@ -1,9 +1,8 @@
 ---
-title: The 56 Best Ruby on Rails Driven Sites
-author: Satish Talim
+title: "The 56 Best Ruby on Rails Driven Sites"
+author: "Satish Talim"
 date: "2007-06-14"
 layout: post
-permalink: /2007/06/14/the-56-best-ruby-on-rails-driven-sites/
 categories:
   - rails
 ---

@@ -1,9 +1,8 @@
 ---
 title: "PLUG MASHUP"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-09-14"
 layout: post
-permalink: /2007/09/14/plug-mashup/
 categories:
   - news
   - rails

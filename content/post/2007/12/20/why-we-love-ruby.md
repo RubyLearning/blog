@@ -1,9 +1,8 @@
 ---
 title: "Why We Love Ruby"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-12-20"
 layout: post
-permalink: /2007/12/20/why-we-love-ruby/
 categories:
   - interview
   - ruby
