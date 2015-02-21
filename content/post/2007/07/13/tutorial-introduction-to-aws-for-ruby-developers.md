@@ -1,9 +1,8 @@
 ---
 title: 'Tutorial: Introduction to AWS for Ruby Developers'
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-07-13"
 layout: post
-permalink: /2007/07/13/tutorial-introduction-to-aws-for-ruby-developers/
 categories:
   - rails
   - ruby

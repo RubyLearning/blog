@@ -1,9 +1,8 @@
 ---
 title: "RubyLearning.com Forum"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-08-17"
 layout: post
-permalink: /2007/08/17/rubylearningcom-forum/
 categories:
   - news
   - rails

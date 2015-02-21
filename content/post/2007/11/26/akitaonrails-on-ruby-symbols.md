@@ -1,9 +1,8 @@
 ---
 title: '"AkitaOnRails" On Ruby Symbols'
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-11-26"
 layout: post
-permalink: /2007/11/26/akitaonrails-on-ruby-symbols/
 categories:
   - beginners
   - code snippets

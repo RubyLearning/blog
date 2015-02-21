@@ -1,9 +1,8 @@
 ---
-title: 7 Things You Can Do With Ruby
-author: Satish Talim
+title: "7 Things You Can Do With Ruby"
+author: "Satish Talim"
 date: "2007-05-22"
 layout: post
-permalink: /2007/05/22/7-things-you-can-do-with-ruby/
 categories:
   - humor
   - rails

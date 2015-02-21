@@ -1,9 +1,8 @@
 ---
 title: "Startups.in Interview"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-04-29"
 layout: post
-permalink: /2007/04/29/startupsin-interview/
 categories:
   - news
   - rails

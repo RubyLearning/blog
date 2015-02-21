@@ -1,9 +1,8 @@
 ---
-title: Ruby MySQL Tutorial
-author: Satish Talim
+title: "Ruby MySQL Tutorial"
+author: "Satish Talim"
 date: "2007-05-14"
 layout: post
-permalink: /2007/05/14/ruby-mysql-tutorial/
 categories:
   - code snippets
   - ruby

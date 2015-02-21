@@ -1,9 +1,8 @@
 ---
 title: "Ruby ActiveRecord and MySQL"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-08-02"
 layout: post
-permalink: /2007/08/02/ruby-activerecord-and-mysql/
 categories:
   - rails
   - ruby

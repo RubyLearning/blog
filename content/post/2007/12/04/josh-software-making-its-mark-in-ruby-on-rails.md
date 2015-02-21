@@ -1,9 +1,8 @@
 ---
 title: 'Josh Software: Making its mark in Ruby on Rails'
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-12-04"
 layout: post
-permalink: /2007/12/04/josh-software-making-its-mark-in-ruby-on-rails/
 categories:
   - interview
   - rails

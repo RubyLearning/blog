@@ -1,9 +1,8 @@
 ---
 title: "Advice For Ruby Beginners 3"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-10-04"
 layout: post
-permalink: /2007/10/04/advice-for-ruby-beginners-3/
 categories:
   - beginners
   - interview

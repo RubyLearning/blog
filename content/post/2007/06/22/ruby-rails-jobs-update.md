@@ -1,9 +1,8 @@
 ---
 title: "Ruby Rails Jobs Update"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-06-22"
 layout: post
-permalink: /2007/06/22/ruby-rails-jobs-update/
 categories:
   - rails
   - ruby

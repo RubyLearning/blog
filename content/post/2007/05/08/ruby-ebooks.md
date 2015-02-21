@@ -1,19 +1,11 @@
 ---
-title: Ruby eBooks
-author: Satish Talim
+title: "Ruby eBooks"
+author: "Satish Talim"
 date: "2007-05-08"
 layout: post
-permalink: /2007/05/08/ruby-ebooks/
-topsy_short_url:
-  - http://bit.ly/bQKq5R
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
-thesis_title:
-  - eBooks
 categories:
   - ruby
+  - ebooks
 ---
 Ruby is growing in popularity. For those looking at learning Ruby, there
 are many online resources available. In case you want to learn Ruby

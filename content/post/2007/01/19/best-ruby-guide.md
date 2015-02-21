@@ -1,9 +1,8 @@
 ---
 title: "Best Ruby Guide"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-01-19"
 layout: post
-permalink: /2007/01/19/best-ruby-guide/
 categories:
   - ruby
 ---

@@ -1,15 +1,8 @@
 ---
-title: Connect JRuby to MySQL using JDBC
-author: Satish Talim
+title: "Connect JRuby to MySQL using JDBC"
+author: "Satish Talim"
 date: "2007-05-05"
 layout: post
-permalink: /2007/05/05/connect-jruby-to-mysql-using-jdbc/
-topsy_short_url:
-  - http://bit.ly/RpYUwO
-thesis_thumb_width:
-  - 66
-thesis_thumb_height:
-  - 66
 categories:
   - jruby
   - rails
@@ -18,7 +11,7 @@ categories:
 **JRuby** is a 100% pure-Java implementation of the Ruby programming
 language that runs in the JVM. **MySQL** is a one of the most popular
 open source databases around and is used by many prominent organizations
-from Yahoo to NASA.
+from Yahoo to NASA.<!--more-->
 
 This brief tutorial demonstrates how to *install and configure JRuby to
 connect to the MySQL database*. The tutorial is written for beginners
@@ -37,16 +30,16 @@ Again, I am assuming that you have MySQL running and are familiar with
 the basics. Run the mysql client program from the command line (as shown
 below) so that we can execute some administration commands.
 
-    <span style="color:blue">C:/mysql/bin> mysql --user=root mysql</span>
+    C:/mysql/bin> mysql --user=root mysql
 
 First create a database called “ruby” within MySQL and the user is root.
 
-    <span style="color:blue">mysql> CREATE DATABASE ruby;
-    Query OK, 1 row affected (0.02 sec)</span>
+    mysql> CREATE DATABASE ruby;
+    Query OK, 1 row affected (0.02 sec)
 
 and check that it has been created using
 
-    <span style="color:blue">mysql> SHOW DATABASES;
+    mysql> SHOW DATABASES;
     +------------+
     | Database   |
     +------------+
@@ -54,26 +47,26 @@ and check that it has been created using
     | mysql      |
     | test       |
     +------------+
-    3 rows in set (0.01 sec)</span>
+    3 rows in set (0.01 sec)
 
 Let’s create a table in our database ruby
 
-    <span style="color:blue">use ruby;
-    create table student (id VARCHAR(2), name VARCHAR(20), rank VARCHAR(2));</span>
+    use ruby;
+    create table student (id VARCHAR(2), name VARCHAR(20), rank VARCHAR(2));
 
 To check whether the table has been created, type:
 
-    <span style="color:blue">show tables;
+    show tables;
     +---------------------+
     | Tables_in_ruby      |
     +---------------------+
     | student             |
     +---------------------+
-    1 row in set (0.00 sec)</span>
+    1 row in set (0.00 sec)
 
 To verify your table, type:
 
-    <span style="color:blue">mysql> describe student;
+    mysql> describe student;
     +--------+----------------+------+------+-----------+--------+
     | Field  | Type           | Null | Key  | Default   | Extra  |
     +--------+----------------+------+------+-----------+--------+
@@ -81,18 +74,18 @@ To verify your table, type:
     | name   | varchar(20)    | YES  |      | NULL      |        |
     | rank   | char(2)        | YES  |      | NULL      |        |
     +--------+----------------+------+------+-----------+--------+
-    3 rows in set (0.04 sec)</span>
+    3 rows in set (0.04 sec)
 
 Now let us insert 3 records into student table:
 
-    <span style="color:blue">mysql> insert into student values ('01', 'Peter', '10');
+    mysql> insert into student values ('01', 'Peter', '10');
     Query OK, 1 row affected (0.06 sec)
 
     mysql> insert into student values ('02', 'Bruce', '08');
     Query OK, 1 row affected (0.01 sec)
 
     mysql> insert into student values ('03', 'Pat', '06');
-    Query OK, 1 row affected (0.00 sec)</span>
+    Query OK, 1 row affected (0.00 sec)
 
 #### Download type 4 pure JDBC driver
 
@@ -111,7 +104,7 @@ next task is to connect to that database using JRuby. To do so, create a
 new file named jrubyjdbc.rb. Open this file in a text editor, and enter
 the lines shown below:
 
-    <span style="color:blue">require 'java'
+    require 'java'
 
     module JavaLang
       include_package "java.lang"
@@ -136,14 +129,14 @@ the lines shown below:
       puts "ClassNotFoundException"
     rescue JavaSql::SQLException
       puts "SQLException"
-    end</span>
+    end
 
 The code should work and you should get the output as:
 
-    <span style="color:blue">C:/rubyprograms>jruby jrubyjdbc.rb
+    C:/rubyprograms>jruby jrubyjdbc.rb
     Peter
     Bruce
-    Pat</span>
+    Pat
 
 #### Some code explanation
 

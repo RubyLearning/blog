@@ -1,11 +1,8 @@
 ---
-title: Ruby on Rails in India
-author: Satish Talim
+title: "Ruby on Rails in India"
+author: "Satish Talim"
 date: "2007-04-24"
 layout: post
-permalink: /2007/04/24/ruby-on-rails-in-india/
-softmindsystems@gmail.com:
-  - SoftMind
 categories:
   - rails
   - ruby

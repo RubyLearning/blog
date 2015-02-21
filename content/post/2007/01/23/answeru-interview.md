@@ -1,9 +1,8 @@
 ---
 title: "AnswerU Interview"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-01-23"
 layout: post
-permalink: /2007/01/23/answeru-interview/
 categories:
   - rails
   - ruby
@@ -108,8 +107,6 @@ will keep you posted on our launch.
 
 I really appreciate you giving me the opportunity to talk about our
 experience with RoR and AnswerU.com. Thanks and Good Luck!
-
-[](http://technorati.com/tag/Instant+Rails)[](http://technorati.com/tag/Quick+Ruby)[](http://technorati.com/tag/Instant+Rails)[](http://technorati.com/tag/Pune+Ruby)[](http://technorati.com/tag/Quick+Ruby+Guide)[](http://technorati.com/tag/Programming+Languages)[](http://technorati.com/tag/Blogs)[](http://technorati.com/tag/Ruby)[](http://technorati.com/tag/Ruby+on+Rails)[](http://technorati.com/tag/PuneRuby)[](http://technorati.com/tag/QuickRuby)[](http://technorati.com/tag/PuneBloggers)[](http://technorati.com/tag/PuneBlogs)[](http://technorati.com/tag/Blogosphere)[](http://technorati.com/tag/Digg)[](http://technorati.com/tag/Media)[](http://technorati.com/tag/Tip)[](http://technorati.com/tag/RSS)[](http://technorati.com/tag/Marketing)[](http://technorati.com/tag/News)[](http://technorati.com/tag/IndianGuru)[](http://technorati.com/tag/Blogging)[](http://technorati.com/tag/Internet)[](http://technorati.com/tag/Blog)[](http://technorati.com/tag/Technical+Support)[](http://technorati.com/tag/Free+Software)[](http://technorati.com/tag/Help)[](http://technorati.com/tag/Pune)[](http://technorati.com/tag/India)[](http://technorati.com/tag/SatishTalim)[](http://technorati.com/tag/Satish+Talim)[](http://technorati.com/tag/Weblog)[](http://technorati.com/tag/Weblogs)[](http://technorati.com/tag/Training)[](http://technorati.com/tag/Free+Training)[](http://technorati.com/tag/Tutorial)[](http://technorati.com/tag/Education)[](http://technorati.com/tag/Teacher)[](http://technorati.com/tag/Learning+Ruby)
 
 Technorati Tags: [Anil Dharni](http://technorati.com/tag/Anil+Dharni),
 [AnswerU](http://technorati.com/tag/AnswerU)

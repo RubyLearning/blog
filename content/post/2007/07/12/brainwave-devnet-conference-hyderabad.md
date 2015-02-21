@@ -1,9 +1,8 @@
 ---
 title: "Brainwave DevNet Conference, Hyderabad"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-07-12"
 layout: post
-permalink: /2007/07/12/brainwave-devnet-conference-hyderabad/
 categories:
   - news
   - rails

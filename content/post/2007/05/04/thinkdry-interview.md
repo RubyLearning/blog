@@ -1,9 +1,8 @@
 ---
-title: ThinkDRY Interview
-author: Satish Talim
+title: "ThinkDRY Interview"
+author: "Satish Talim"
 date: "2007-05-04"
 layout: post
-permalink: /2007/05/04/thinkdry-interview/
 categories:
   - news
   - rails

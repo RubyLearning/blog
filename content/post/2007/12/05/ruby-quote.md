@@ -1,9 +1,8 @@
 ---
 title: "Ruby Quote"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-12-05"
 layout: post
-permalink: /2007/12/05/ruby-quote/
 categories:
   - interview
   - ruby

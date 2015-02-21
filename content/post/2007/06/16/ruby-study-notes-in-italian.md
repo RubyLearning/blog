@@ -1,9 +1,8 @@
 ---
 title: "Ruby Study Notes in Italian?"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-06-16"
 layout: post
-permalink: /2007/06/16/ruby-study-notes-in-italian/
 categories:
   - news
   - rails

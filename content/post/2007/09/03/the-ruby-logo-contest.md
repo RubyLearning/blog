@@ -1,9 +1,8 @@
 ---
 title: "The Ruby Logo Contest"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-09-03"
 layout: post
-permalink: /2007/09/03/the-ruby-logo-contest/
 categories:
   - news
   - ruby

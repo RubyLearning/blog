@@ -1,9 +1,8 @@
 ---
 title: 'Interview: Karmen Blake'
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-10-03"
 layout: post
-permalink: /2007/10/03/interview-karmen-blake/
 categories:
   - interview
   - ruby
@@ -15,7 +14,7 @@ Blake](http://rubylearning.com/images/karmen.jpg)](http://rubylearning.com/image
 (This interview appeared before on 23rd Sept. 2006 on the PuneRuby
 blog).
 
-Today we talk to **Karmen Blake**, a Ruby/Rails teacher at [Spokane
+Today we talk to **Karmen Blake**<!--more-->, a Ruby/Rails teacher at [Spokane
 Community
 College](http://webdev.scc.spokane.edu:3000/2007/10/2/cis-282).
 

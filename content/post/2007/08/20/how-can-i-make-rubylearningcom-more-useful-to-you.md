@@ -1,9 +1,8 @@
 ---
 title: "How Can I Make RubyLearning.com More Useful To You?"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-08-20"
 layout: post
-permalink: /2007/08/20/how-can-i-make-rubylearningcom-more-useful-to-you/
 categories:
   - rails
   - ruby

@@ -1,9 +1,8 @@
 ---
-title: 'Interview: Shashank Date'
-author: Satish Talim
+title: "Interview: Shashank Date"
+author: "Satish Talim"
 date: "2007-04-11"
 layout: post
-permalink: /2007/04/11/interview-shashank-date/
 categories:
   - news
   - rails

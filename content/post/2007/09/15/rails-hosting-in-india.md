@@ -1,9 +1,8 @@
 ---
 title: "Rails Hosting In India"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-09-15"
 layout: post
-permalink: /2007/09/15/rails-hosting-in-india/
 categories:
   - news
   - rails

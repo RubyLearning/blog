@@ -1,9 +1,8 @@
 ---
 title: "ColourCode in Ruby"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-04-19"
 layout: post
-permalink: /2007/04/19/colourcode-in-ruby/
 categories:
   - news
   - ruby

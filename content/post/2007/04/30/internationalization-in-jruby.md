@@ -1,16 +1,15 @@
 ---
-title: Internationalization in JRuby
-author: Satish Talim
+title: "Internationalization in JRuby"
+author: "Satish Talim"
 date: "2007-04-30"
 layout: post
-permalink: /2007/04/30/internationalization-in-jruby/
 categories:
   - jruby
   - ruby
 ---
 I have been using and teaching Java since 1995. The other day, I was
-talking to my students about Internationalization in Java.
-<!--more-->
+talking to my students about Internationalization in Java.  <!--more-->
+
 > *Internationalization* is the process of designing an application so
 > that it can be adapted to various languages and regions without
 > engineering changes.

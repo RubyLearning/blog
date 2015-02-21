@@ -1,9 +1,8 @@
 ---
-title: 'Interview: Bruce Tate'
-author: Satish Talim
+title: "Interview: Bruce Tate"
+author: "Satish Talim"
 date: 2007-04-02
 layout: post
-permalink: /2007/04/02/interview-bruce-tate/
 categories:
   - rails
   - ruby
@@ -15,7 +14,7 @@ Java is no longer the answer to every software development problem.
 1990s. Developers are driving the revolution, and the amazing
 productivity of **Ruby on Rails** is fueling it. So who better to talk
 about Ruby and Rails than the strongest proponent of Ruby, **Bruce
-Tate**.
+Tate**.<!--more-->
 
 In this interview with Satish Talim, Bruce talks about the growth of
 Ruby and Rails and what's in it for us in the future.

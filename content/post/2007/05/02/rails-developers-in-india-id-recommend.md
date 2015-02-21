@@ -1,9 +1,8 @@
 ---
 title: "Rails Developers in India, I'd Recommend"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-05-02"
 layout: post
-permalink: /2007/05/02/rails-developers-in-india-id-recommend/
 categories:
   - rails
   - ruby
@@ -14,7 +13,7 @@ I too constantly get emails from various readers of
 [RubyLearning.com](http://rubylearning.com/), who are looking for
 **Rails developers in India** for their projects. As I don’t do this
 myself, I have to keep giving out a list of Rails developers I know and
-trust or have had good feedback about.
+trust or have had good feedback about.<!--more-->
 
 My previous blog post [Ruby on Rails in
 India](http://rubylearning.com/blog/2007/04/24/ruby-on-rails-in-india/)

@@ -1,20 +1,19 @@
 ---
 title: "Ruby Usage Trend in Indian Cities"
-author: Satish Talim
+author: "Satish Talim"
 date: "2007-11-29"
 layout: post
-permalink: /2007/11/29/ruby-usage-trend-in-indian-cities/
 categories:
   - news
   - ruby
 ---
 The [RubyLearning.com](http://rubylearning.com/) site has been active
 for some time now and the users of my site are normally people learning
-the Ruby programming language. For the last two years, I have been
+the Ruby programming language.<!--more--> For the last two years, I have been
 promoting the Ruby language in whatever way I can and have been keen
 knowing whether Ruby is catching on in India or not. With the help of
 [Google Analytics](http://www.google.com/analytics/), I sat down to
-analyze the ‘**Ruby Usage Trend in Indian Cities**‘.<!--more-->
+analyze the ‘**Ruby Usage Trend in Indian Cities**‘.
 
 Statistical purists might laugh at my sampling data but I believe that
 this data represents the trend fairly accurately. Amongst the 100’s of
