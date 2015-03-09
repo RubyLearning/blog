@@ -1,5 +1,5 @@
 ---
-title: 'RubyLearning&#8217;s Sponsor Locaweb on a High!'
+title: "RubyLearning's Sponsor Locaweb on a High!"
 author: Satish Talim
 date: 2008-11-07
 layout: post
@@ -9,14 +9,14 @@ keywords:
 description:
   - Locaweb was able to deliver Rails Summit Latin America 2008, the largest and the best Rails conference ever in Latin America.
 categories:
-  - Ruby
-  - Sponsors
+  - ruby
+  - sponsors
 tags:
-  - Locaweb
+  - locaweb
   - morena_opensource
-  - Rails Summit Latin America 2008
-  - Ruby
-  - Sponsors
+  - rails summit latin america 2008
+  - ruby
+  - sponsors
 ---
 <div>
   <p>
@@ -30,7 +30,7 @@ tags:
   </blockquote>
   
   <p>
-    The biggest news of October is that <a href="http://www.locaweb.com.br/portal.html">Locaweb</a> was able to deliver <strong>Rails Summit Latin America 2008</strong>, the largest and the best Rails conference ever in Latin America. They had over 500 attendees, more than 20 speakers, several well known names such as Chad Fowler, Obie Fernandez, the Phusion guys, Dr. Nic, Jay Fields and more<sup class='footnote'><a href='#fn-832-2' id='fnref-832-2'>2</a></sup>.
+  The biggest news of October is that <a href="http://www.locaweb.com.br/portal.html">Locaweb</a> was able to deliver <strong>Rails Summit Latin America 2008</strong>, the largest and the best Rails conference ever in Latin America.<!--more--> They had over 500 attendees, more than 20 speakers, several well known names such as Chad Fowler, Obie Fernandez, the Phusion guys, Dr. Nic, Jay Fields and more<sup class='footnote'><a href='#fn-832-2' id='fnref-832-2'>2</a></sup>.
   </p>
   
   <p>

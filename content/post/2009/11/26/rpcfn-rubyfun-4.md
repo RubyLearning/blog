@@ -1,5 +1,5 @@
 ---
-title: 'RPCFN: Ruby**Fun (#4)'
+title: 'RPCFN: Ruby**Fun 4'
 author: Satish Talim
 date: 2009-11-26
 layout: post
@@ -11,16 +11,16 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/4BEeSk
 categories:
-  - Beginners
-  - RPCFN
-  - Ruby
+  - beginners
+  - rpcfn
+  - ruby
 tags:
-  - Michael Kohl
+  - michael kohl
   - programming
-  - RPCFN
-  - Ruby
-  - Ruby Programming Challenge For Newbies
-  - The Ruby Programming Language
+  - rpcfn
+  - ruby
+  - ruby programming challenge for newbies
+  - the ruby programming language
 ---
 <div>
   <h3>

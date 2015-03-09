@@ -1,5 +1,5 @@
 ---
-title: 'Felipe Elias Philipp Winner RPCFN #1'
+title: 'Felipe Elias Philipp Winner RPCFN - 1'
 author: Satish Talim
 date: 2009-10-08
 layout: post
@@ -9,15 +9,15 @@ thesis_description:
 thesis_keywords:
   - Felipe Elias Philipp,Ruby,Ruby programming,RPCFN,Brazil
 categories:
-  - Beginners
-  - Interview
-  - RPCFN
-  - Ruby
+  - beginners
+  - interview
+  - rpcfn
+  - ruby
 tags:
-  - Brazil
-  - Felipe Elias Philipp
-  - RPCFN
-  - Ruby
+  - brazil
+  - felipe elias philipp
+  - rpcfn
+  - ruby
   - ruby programming
 ---
 <div>

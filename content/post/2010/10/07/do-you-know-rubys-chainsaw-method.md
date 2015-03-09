@@ -1,5 +1,5 @@
 ---
-title: 'Do YOU know Ruby&#8217;s &#8216;Chainsaw&#8217; method?'
+title: Do YOU know Ruby's "Chainsaw" method?
 author: Paolo Perrotta
 date: 2010-10-07
 layout: post
@@ -11,17 +11,17 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/ceoL1Z
 categories:
-  - Beginners
-  - Popular
-  - Ruby
-  - Ruby Masters
+  - beginners
+  - popular
+  - ruby
+  - ruby masters
 tags:
   - method_missing
-  - Paolo Perrotta
+  - paolo perrotta
   - programming
-  - Ruby
-  - Ruby Beginners
-  - Ruby for Noobs
+  - ruby
+  - ruby beginners
+  - ruby for noobs
 ---
 <div>
   <h3>

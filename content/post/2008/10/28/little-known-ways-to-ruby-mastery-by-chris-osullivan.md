@@ -1,5 +1,5 @@
 ---
-title: 'Little Known Ways to Ruby Mastery by Chris O&#8217;Sullivan'
+title: "Little Known Ways to Ruby Mastery by Chris O'Sullivan"
 author: Satish Talim
 date: 2008-10-28
 layout: post
@@ -9,17 +9,17 @@ keywords:
 description:
   - The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to and answers questions confronting Ruby beginners from across the globe.
 categories:
-  - Beginners
-  - Interview
-  - Ruby
-  - Ruby Masters
+  - beginners
+  - interview
+  - ruby
+  - ruby masters
 tags:
-  - "Chris O'Sullivan"
+  - "chris o'sullivan"
   - interviews
-  - Little Known Ways to Ruby Mastery
-  - Ruby
-  - "Ruby Beginners' Questions"
-  - The Ruby Programming Language
+  - little known ways to ruby mastery
+  - ruby
+  - "ruby beginners' questions"
+  - the ruby programming language
 ---
 <div>
   <h3>
@@ -27,7 +27,7 @@ tags:
   </h3>
   
   <p class="update">
-    Welcome to the next installment of the weekly interview series on the <abbr title="RubyLearning">RL</abbr> blog &#8211; &#8220;<strong>Path to Ruby Mastery</strong>&#8221; &#8211; by top trainers and developers in the <strong>Ruby community</strong>, from across the globe. The interview series will provide insight and commentary from these notable Ruby trainers and developers, with the goal of facilitating and providing answers to the questions <strong>Ruby beginners</strong> face. We welcome your suggestions for interviewees and questions. Look for a new post every Tuesday!
+  Welcome to the next installment of the weekly interview series on the <abbr title="RubyLearning">RL</abbr> blog &#8211; &#8220;<strong>Path to Ruby Mastery</strong>&#8221; &#8211; by top trainers and developers in the <strong>Ruby community</strong>, from across the globe.<!--more--> The interview series will provide insight and commentary from these notable Ruby trainers and developers, with the goal of facilitating and providing answers to the questions <strong>Ruby beginners</strong> face. We welcome your suggestions for interviewees and questions. Look for a new post every Tuesday!
   </p>
   
   <p>

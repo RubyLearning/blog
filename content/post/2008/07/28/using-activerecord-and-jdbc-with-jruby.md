@@ -7,12 +7,12 @@ permalink: /2008/07/28/using-activerecord-and-jdbc-with-jruby/
 topsy_short_url:
   - http://bit.ly/dluxgS
 categories:
-  - JRuby
-  - Ruby
+  - jruby
+  - ruby
 tags:
-  - ActiveRecord
-  - JDBC
-  - JRuby
+  - activerecord
+  - jdbc
+  - jruby
 ---
 <div>
   <h3>
@@ -22,7 +22,7 @@ tags:
   <p>
     The participants of the <a href="http://rubylearning.org/">FORPC101</a> series of courses have been requesting me for a small article related to JRuby; so here it is.
   </p>
-  
+  <!--more-->
   <p>
     In this article, we shall see how easy it is to connect to a database (MySQL) using ActiveRecord and a JDBC driver using JRuby.
   </p>

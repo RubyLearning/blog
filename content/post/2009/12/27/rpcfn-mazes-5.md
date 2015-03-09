@@ -1,5 +1,5 @@
 ---
-title: 'RPCFN: Mazes (#5)'
+title: 'RPCFN: Mazes - 5'
 author: Satish Talim
 date: 2009-12-27
 layout: post
@@ -11,16 +11,16 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/57HLXY
 categories:
-  - Beginners
-  - RPCFN
-  - Ruby
+  - beginners
+  - rpcfn
+  - ruby
 tags:
-  - Peter Cooper
+  - peter cooper
   - programming
-  - RPCFN
-  - Ruby
-  - Ruby Programming Challenge For Newbies
-  - The Ruby Programming Language
+  - rpcfn
+  - ruby
+  - ruby programming challenge for newbies
+  - the ruby programming language
 ---
 <div>
   <p class="update">

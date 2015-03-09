@@ -1,5 +1,5 @@
 ---
-title: 'Charles Feduke Winner RPCFN #2'
+title: 'Charles Feduke Winner RPCFN - 2'
 author: Satish Talim
 date: 2009-10-22
 layout: post
@@ -9,17 +9,17 @@ thesis_keywords:
 thesis_description:
   - An interview with Charles Feduke, winner of the second Ruby Programming Challenge for Newbies.
 categories:
-  - Beginners
-  - Interview
-  - RPCFN
-  - Ruby
+  - beginners
+  - interview
+  - rpcfn
+  - ruby
 tags:
-  - Charles Feduke
-  - RPCFN
-  - Ruby
-  - Ruby Challenge
+  - charles feduke
+  - rpcfn
+  - ruby
+  - ruby challenge
   - ruby programming
-  - USA
+  - usa
 ---
 <div>
   <p class="alert">

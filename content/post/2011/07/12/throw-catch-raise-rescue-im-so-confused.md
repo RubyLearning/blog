@@ -1,5 +1,5 @@
 ---
-title: 'Throw, Catch, Raise, Rescue&#8230; I&#8217;m so confused!'
+title: "Throw, Catch, Raise, Rescue- I'm so confused!"
 author: Avdi Grimm
 date: 2011-07-12
 layout: post
@@ -11,11 +11,11 @@ thesis_keywords:
 topsy_short_url:
   - 
 categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
+  - beginners
+  - ruby
+  - ruby masters
 tags:
-  - Avdi Grimm
+  - avdi grimm
   - programming
   - ruby programming
 ---

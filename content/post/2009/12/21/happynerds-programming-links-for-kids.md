@@ -1,5 +1,5 @@
 ---
-title: 'Happynerds &#8211; Programming Links for Kids'
+title: 'Happynerds - Programming Links for Kids'
 author: Satish Talim
 date: 2009-12-21
 layout: post
@@ -9,14 +9,14 @@ thesis_description:
 thesis_keywords:
   - Ruby,The Ruby Programming Language,Happynerds,Michael Kohl
 categories:
-  - Heroku
-  - Ruby
-  - Sinatra
+  - heroku
+  - ruby
+  - sinatra
 tags:
-  - Happynerds
-  - Michael Kohl
-  - Ruby
-  - The Ruby Programming Language
+  - happynerds
+  - michael kohl
+  - ruby
+  - the ruby programming language
 ---
 <div>
   <h3>

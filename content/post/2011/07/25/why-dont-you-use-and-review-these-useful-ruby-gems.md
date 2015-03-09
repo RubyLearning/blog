@@ -1,5 +1,5 @@
 ---
-title: 'Why don&#8217;t you use and review these useful Ruby Gems?'
+title: "Why don't you use and review these useful Ruby Gems?"
 author: Satish Talim
 date: 2011-07-25
 layout: post
@@ -11,13 +11,13 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/ogfWey
 categories:
-  - Beginners
-  - Ruby
+  - beginners
+  - ruby
 tags:
   - programming
-  - Ruby
-  - Ruby Gems
-  - Rubyists
+  - ruby
+  - ruby gems
+  - rubyists
 ---
 <div>
   <h3>

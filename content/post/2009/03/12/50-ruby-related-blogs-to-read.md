@@ -11,12 +11,12 @@ description:
 topsy_short_url:
   - http://bit.ly/6hzbL3
 categories:
-  - Ruby
+  - ruby
 tags:
-  - Ruby
-  - Ruby Blogs List
-  - Ruby on Rails
-  - Rubyists Blogs
+  - ruby
+  - ruby blogs list
+  - ruby on rails
+  - rubyists blogs
 ---
 <div>
   <h3>
@@ -24,7 +24,7 @@ tags:
   </h3>
   
   <p>
-    I have compiled a list of over 50 Ruby-related blogs of Rubyists and companies, in alphabetical order. The list is <em>not</em> intended to be all-inclusive, but it should give you a great start to read the blogs of some very talented Rubyists.
+  I have compiled a list of over 50 Ruby-related blogs of Rubyists and companies, in alphabetical order. The list is <em>not</em> intended to be all-inclusive, but it should give you a great start to read the blogs of some very talented Rubyists.<!--more-->
   </p>
   
   <h3>

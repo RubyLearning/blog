@@ -1,5 +1,5 @@
 ---
-title: 'In the News: RubyLearning&#8217;s Sponsor FiveRuns'
+title: "In the News: RubyLearning's Sponsor FiveRuns"
 author: Satish Talim
 date: 2008-09-09
 layout: post
@@ -9,13 +9,13 @@ metadescription:
 metakeywords:
   - ruby rails tutorial,rails tutorial,ruby on rails
 categories:
-  - Ruby
-  - Sponsors
+  - ruby
+  - sponsors
 tags:
-  - David Flanagan
-  - FiveRuns
-  - Ruby
-  - Sponsors
+  - david flanagan
+  - fiveruns
+  - ruby
+  - sponsors
 ---
 <div>
   <p class="note">
@@ -23,7 +23,7 @@ tags:
   </p>
   
   <p>
-    Two things worth mentioning here are:
+  Two things worth mentioning<!--more--> here are:
   </p>
   
   <ul>

@@ -1,5 +1,5 @@
 ---
-title: 'Guillaume Petit Winner RPCFN #6'
+title: 'Guillaume Petit Winner RPCFN - 6'
 author: Satish Talim
 date: 2010-02-26
 layout: post
@@ -11,16 +11,16 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/cvH7wy
 categories:
-  - Beginners
-  - Interview
-  - RPCFN
-  - Ruby
+  - beginners
+  - interview
+  - rpcfn
+  - ruby
 tags:
-  - France
-  - Guillaume Petit
-  - RPCFN
-  - Ruby
-  - Ruby Challenge
+  - france
+  - guillaume petit
+  - rpcfn
+  - ruby
+  - ruby challenge
   - ruby programming
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-title: 'Sinatra and Google Currency API &#8211; Part 2'
+title: 'Sinatra and Google Currency API - Part 2'
 author: Girish Sonawane
 date: "2013-09-13"
 layout: post
@@ -11,13 +11,13 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/161LcAm
 categories:
-  - Beginners
-  - Ruby
-  - Sinatra
+  - beginners
+  - ruby
+  - sinatra
 tags:
-  - Girish Sonawane
-  - Google currency API
-  - Sinatra
+  - girish sonawane
+  - google currency api
+  - sinatra
 ---
 <div>
   <h2>

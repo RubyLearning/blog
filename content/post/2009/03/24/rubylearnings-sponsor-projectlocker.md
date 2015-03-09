@@ -1,5 +1,5 @@
 ---
-title: 'RubyLearning&#8217;s Sponsor: ProjectLocker'
+title: "RubyLearning's Sponsor: ProjectLocker"
 author: Satish Talim
 date: 2009-03-24
 layout: post
@@ -9,13 +9,13 @@ keywords:
 description:
   - ProjectLocker is one of the silver sponsor of the Using Twitter with Ruby course at RubyLearning.
 categories:
-  - Ruby
-  - Sponsors
+  - ruby
+  - sponsors
 tags:
-  - ProjectLocker
-  - Ruby
-  - Ruby on Rails
-  - Sponsors
+  - projectlocker
+  - ruby
+  - ruby on rails
+  - sponsors
 ---
 <div>
   <p>

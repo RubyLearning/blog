@@ -1,5 +1,5 @@
 ---
-title: '&#8220;AkitaOnRails&#8221; Advises A Young Ruby Beginner'
+title: '"AkitaOnRails" Advises A Young Ruby Beginner'
 author: Satish Talim
 date: 2008-04-29
 layout: post
@@ -11,14 +11,14 @@ metakeywords:
 topsy_short_url:
   - http://bit.ly/b27nhx
 categories:
-  - Beginners
-  - Interview
-  - Popular
-  - Ruby
-  - Training
+  - beginners
+  - interview
+  - popular
+  - ruby
+  - training
 tags:
   - fabio akita
-  - Ruby
+  - ruby
   - ruby beginner
   - ruby programming
 ---
@@ -26,7 +26,7 @@ tags:
   <p class="block">
     <img class="alignleft" title="Fabio Akita" src="http://www.rubylearning.com/images/akita.jpg" alt="Fabio Akita" /><strong>Fabio Akita</strong> is a Brazilian Rails enthusiast, also known online as &#8220;AkitaOnRails&#8221;. He regularly write posts on his own <a href="http://www.akitaonrails.com/">blog</a> and had published the very first book tailored for the Brazilian audience called &#8220;Repensando a Web com Rails&#8221;. He is now a full-time Ruby on Rails developer working as Brazil Rails Practice Manager for the Utah company Surgeworks LLC.
   </p>
-  
+  <!--more-->
   <p class="block">
     <img class="alignright" title="Paresh Mathur" src="http://www.rubylearning.com/images/paresh.gif" alt="Paresh Mathur" /><strong>Paresh Mathur</strong> aka &#8220;Rick&#8221;, is a 16 year young participant &#8211; ceek (cool geek) &#8211; at the &#8216;<a href="http://rubylearning.org/">Free Online Ruby Programming Course</a>&#8216;. &#8216;Rick&#8217; is a student in XII grade at the Kendriya Vidyalaya Cantonment School in Ahmedabad, India. He&#8217;s an open source fan, loves programming and is very active in the course forums. If not studying, Paresh is tinkering on his computer and helping out friends.
   </p>

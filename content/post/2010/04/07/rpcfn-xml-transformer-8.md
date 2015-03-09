@@ -1,5 +1,5 @@
 ---
-title: 'RPCFN: XML Transformer (#8)'
+title: 'RPCFN: XML Transformer - 8'
 author: Satish Talim
 date: 2010-04-07
 layout: post
@@ -11,16 +11,16 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/aNaIaD
 categories:
-  - Beginners
-  - RPCFN
-  - Ruby
+  - beginners
+  - rpcfn
+  - ruby
 tags:
-  - Jamie van Dyke
+  - jamie van dyke
   - programming
-  - RPCFN
-  - Ruby
-  - Ruby Programming Challenge For Newbies
-  - The Ruby Programming Language
+  - rpcfn
+  - ruby
+  - ruby programming challenge for newbies
+  - the ruby programming language
 ---
 <div>
   <h3>

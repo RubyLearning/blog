@@ -1,5 +1,5 @@
 ---
-title: '20+ Rubyists are using Sinatra &#8211; Do you? (Reprint)'
+title: '20+ Rubyists are using Sinatra - Do you? (Reprint)'
 author: Satish Talim
 date: 2015-01-07
 layout: post
@@ -11,14 +11,14 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/1HLdtAP
 categories:
-  - Beginners
-  - Ruby
-  - Sinatra
+  - beginners
+  - ruby
+  - sinatra
 tags:
   - ruby programming
-  - Rubyists
-  - Rubyists Using Sinatra
-  - Sinatra
+  - rubyists
+  - rubyists using sinatra
+  - sinatra
 ---
 
 **Note**: This first appeared on 29th June 2009 and is being reprinted

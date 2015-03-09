@@ -1,5 +1,5 @@
 ---
-title: 'Todd Huss Winner RPCFN #3'
+title: 'Todd Huss Winner RPCFN - 3'
 author: Satish Talim
 date: 2009-11-23
 layout: post
@@ -9,17 +9,17 @@ thesis_keywords:
 thesis_description:
   - An interview with Todd Huss, winner of the third Ruby Programming Challenge for Newbies at RubyLearning.
 categories:
-  - Beginners
-  - Interview
-  - RPCFN
-  - Ruby
+  - beginners
+  - interview
+  - rpcfn
+  - ruby
 tags:
-  - RPCFN
-  - Ruby
-  - Ruby Challenge
+  - rpcfn
+  - ruby
+  - ruby challenge
   - ruby programming
-  - Todd Huss
-  - USA
+  - todd huss
+  - usa
 ---
 <div>
   <p class="alert">

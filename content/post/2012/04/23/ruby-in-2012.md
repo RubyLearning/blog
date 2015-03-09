@@ -6,24 +6,18 @@ layout: post
 permalink: /2012/04/23/ruby-in-2012/
 thesis_keywords:
   - Ruby,programming,Ruby programming,Python,Node.js,Rails
-thesis_title:
-  - 'Ruby in 2012 - Matt Aimonetti'
-thesis_description:
-  - Interview of Matt Aimonetti regarding his view of Ruby in 2012
-topsy_short_url:
-  - 
 categories:
   - Ruby
 tags:
   - programming
-  - Ruby
+  - ruby
   - ruby programming
 ---
 <div>
   <img style="float: left;margin: 0px 20px 0 20px" src="//rubylearning.com/blog/wp-content/uploads/matt_aimonetti.jpg" alt="Matt Aimonetti" /></p> 
   
   <p class="block">
-    Ruby is more popular than ever, but it&#8217;s also not as trendy as it used to be. <a href="http://rubylearning.com/">rubylearning.com</a> students<sup class='footnote'><a href='#fn-6549-1' id='fnref-6549-1'>1</a></sup> asked a few questions to <a href="http://matt.aimonetti.net" rel="author" target="_blank">Matt Aimonetti</a> about his vision of <strong>Ruby in 2012</strong> and for the future.
+    Ruby is more popular than ever, but it's also not as trendy as it used to be. <a href="http://rubylearning.com/">rubylearning.com</a> students<sup class='footnote'><a href='#fn-6549-1' id='fnref-6549-1'>1</a></sup> asked a few questions to <a href="http://matt.aimonetti.net" rel="author" target="_blank">Matt Aimonetti</a> about his vision of <strong>Ruby in 2012</strong> and for the future.
   </p>
   
   <p>
@@ -49,7 +43,7 @@ tags:
   </p>
   
   <p>
-    I think it&#8217;s quite obvious that the pendulum is swinging back and server side code is going to be more and more API oriented with smart clients consuming these services. Ruby is great for that because services need to be easy to write, easily to maintain, well documented and flexible. I wrote a <a href="https://github.com/mattetti/Weasel-Diesel">DSL</a> to do just that using Ruby and it would have been harder in any other language.
+    I think it's quite obvious that the pendulum is swinging back and server side code is going to be more and more API oriented with smart clients consuming these services. Ruby is great for that because services need to be easy to write, easily to maintain, well documented and flexible. I wrote a <a href="https://github.com/mattetti/Weasel-Diesel">DSL</a> to do just that using Ruby and it would have been harder in any other language.
   </p>
   
   <p>
@@ -61,11 +55,11 @@ tags:
   </h4>
   
   <p>
-    <a href="http://matt.aimonetti.net" target="_blank">Matt Aimonetti</a>: I wouldn&#8217;t say that Ruby is falling by the wayside, what&#8217;s going on is that Ruby outgrew the startup world where it became very popular a few years ago. However, you now find Ruby (and <a href="http://weblog.rubyonrails.org/2010/3/24/rails-and-the-enterprise/">Rails to that matter</a>) in a lot of more established places thanks to its efficiency of development, strong focus on testing, active community and great ecosystem.
+    <a href="http://matt.aimonetti.net" target="_blank">Matt Aimonetti</a>: I wouldn't say that Ruby is falling by the wayside, what's going on is that Ruby outgrew the startup world where it became very popular a few years ago. However, you now find Ruby (and <a href="http://weblog.rubyonrails.org/2010/3/24/rails-and-the-enterprise/">Rails to that matter</a>) in a lot of more established places thanks to its efficiency of development, strong focus on testing, active community and great ecosystem.
   </p>
   
   <p>
-    When some people say that Rails is hurting Ruby, I think what they mean is that for them Ruby&#8217;s fate is directly related to Rails&#8217;. If Rails doesn&#8217;t manage to stay the web framework of reference, it might hurt the language. This is certainly not entirely wrong. Without Rails, Ruby wouldn&#8217;t have been as popular, but at the same time, there is much more to Ruby than Rails and I think that as a community we need to seriously start looking at all the great things we can do with Ruby outside Rails.
+    When some people say that Rails is hurting Ruby, I think what they mean is that for them Ruby's fate is directly related to Rails'. If Rails doesn't manage to stay the web framework of reference, it might hurt the language. This is certainly not entirely wrong. Without Rails, Ruby wouldn't have been as popular, but at the same time, there is much more to Ruby than Rails and I think that as a community we need to seriously start looking at all the great things we can do with Ruby outside Rails.
   </p>
   
   <h4>
@@ -73,7 +67,7 @@ tags:
   </h4>
   
   <p>
-    <a href="https://plus.google.com/101114877505962271216" rel="author" target="_blank">Matt Aimonetti</a>: This is a question I often get. I personally like <a href="http://nodejs.org/">node.js</a>, I think it&#8217;s fun, easy to get started and with <a href="http://coffeescript.org/">CoffeeScript</a>, writing JavaScript (JS) is almost fun. That said, Node is really young, not very well documented and relies extremely heavily on callbacks which can be quite confusing at times. My experience with Node is limited, but as my personal project started growing, I started struggling to keep my code simple and easy to maintain. Because I already know Ruby quite well and because equivalent tools exist in Ruby land, I don&#8217;t see a real need to use Node besides being the new cool framework.
+    <a href="https://plus.google.com/101114877505962271216" rel="author" target="_blank">Matt Aimonetti</a>: This is a question I often get. I personally like <a href="http://nodejs.org/">node.js</a>, I think it's fun, easy to get started and with <a href="http://coffeescript.org/">CoffeeScript</a>, writing JavaScript (JS) is almost fun. That said, Node is really young, not very well documented and relies extremely heavily on callbacks which can be quite confusing at times. My experience with Node is limited, but as my personal project started growing, I started struggling to keep my code simple and easy to maintain. Because I already know Ruby quite well and because equivalent tools exist in Ruby land, I don't see a real need to use Node besides being the new cool framework.
   </p>
   
   <p>
@@ -81,7 +75,7 @@ tags:
   </p>
   
   <p>
-    Will it &#8220;beat&#8221; Ruby? Well, a framework and a programming language are two different things. Will it beat Rails in popularity, that&#8217;s a possibility due to the fact that JavaScript is becoming very popular. However, some of the issues I mentioned earlier might prevent Node.js to become as popular as some people seem to believe. Finally, at the end of the day, if a JS framework becomes a better solution than anything else I use, I will certainly switch. But so far, I don&#8217;t see that happening.
+    Will it &#8220;beat&#8221; Ruby? Well, a framework and a programming language are two different things. Will it beat Rails in popularity, that's a possibility due to the fact that JavaScript is becoming very popular. However, some of the issues I mentioned earlier might prevent Node.js to become as popular as some people seem to believe. Finally, at the end of the day, if a JS framework becomes a better solution than anything else I use, I will certainly switch. But so far, I don't see that happening.
   </p>
   
   <h4>
@@ -89,23 +83,23 @@ tags:
   </h4>
   
   <p>
-    <a href="http://matt.aimonetti.net" target="_blank">Matt Aimonetti</a>: I do believe Ruby is a great language to learn some of the basis of programming, especially Object Oriented Programming. It allows students to get easily started and to build things quickly. However, different people learn differently and are attracted to other things and parts of Ruby can be quite hairy. To properly learn a language, you also need to have a way to practice and quickly see the fruit of your labor. That&#8217;s why If you are a designer, I might suggest you start with JavaScript and then move on to a better designed, high level programming language like Ruby or Python. Finally, you need to look at your motivation being learning a new language.
+    <a href="http://matt.aimonetti.net" target="_blank">Matt Aimonetti</a>: I do believe Ruby is a great language to learn some of the basis of programming, especially Object Oriented Programming. It allows students to get easily started and to build things quickly. However, different people learn differently and are attracted to other things and parts of Ruby can be quite hairy. To properly learn a language, you also need to have a way to practice and quickly see the fruit of your labor. That's why If you are a designer, I might suggest you start with JavaScript and then move on to a better designed, high level programming language like Ruby or Python. Finally, you need to look at your motivation being learning a new language.
   </p>
   
   <p>
-    If you want to learn programming because you want to work in this field, consider starting learning a language which will allow you to easily start working (hint: there are a lot of Rails positions out there waiting for you). But don&#8217;t stop there, keep learning new languages and way to solve problems using code.
+    If you want to learn programming because you want to work in this field, consider starting learning a language which will allow you to easily start working (hint: there are a lot of Rails positions out there waiting for you). But don't stop there, keep learning new languages and way to solve problems using code.
   </p>
   
   <h4>
-    How to become a better coder? I still feel it&#8217;s hard to get involved contributing to OSS, could you give us some advice?
+    How to become a better coder? I still feel it's hard to get involved contributing to OSS, could you give us some advice?
   </h4>
   
   <p>
-    <a href="http://matt.aimonetti.net" target="_blank">Matt Aimonetti</a>: I personally get better when I practice a lot and when overcoming problems I didn&#8217;t know how to solve before I started. Open Source contribution is a great way to get feedback and learn from others. I think that with tools such as Git and GitHub, OSS contribution has become much easier than ever. That said, a lot of developers think that their contributions have to be significant, and, that&#8217;s in my mind, a mistake. Start by contributing documentation, examples and helping others. File bug reports and try to reduce them to an easier to handle case. That might seem trivial to you, but it&#8217;s extremely useful, it will teach you a lot about the project you are involved with, its design, the pros/cons and how an OSS project is run. Doing that will help you debug and diagnose problems faster and when added to the design knowledge and communication skills you would have acquired, you have all the ingredients of a good developer. Another thing I like to do is to pick something that seems absolutely impossible for me to do. If you only know Ruby, memory management and writing code C might seem hard. Give yourself a reasonable time frame and a challenge such as 6 months to have a small C program that will do X, Y and Z. Keep it small and simple and don&#8217;t forget to have fun. At first it will be hard, but don&#8217;t give up, keep trying until you learned something you thought was impossible. When you will go back to writing Ruby or whatever language you write, you will look at things from a different angle.
+    <a href="http://matt.aimonetti.net" target="_blank">Matt Aimonetti</a>: I personally get better when I practice a lot and when overcoming problems I didn't know how to solve before I started. Open Source contribution is a great way to get feedback and learn from others. I think that with tools such as Git and GitHub, OSS contribution has become much easier than ever. That said, a lot of developers think that their contributions have to be significant, and, that's in my mind, a mistake. Start by contributing documentation, examples and helping others. File bug reports and try to reduce them to an easier to handle case. That might seem trivial to you, but it's extremely useful, it will teach you a lot about the project you are involved with, its design, the pros/cons and how an OSS project is run. Doing that will help you debug and diagnose problems faster and when added to the design knowledge and communication skills you would have acquired, you have all the ingredients of a good developer. Another thing I like to do is to pick something that seems absolutely impossible for me to do. If you only know Ruby, memory management and writing code C might seem hard. Give yourself a reasonable time frame and a challenge such as 6 months to have a small C program that will do X, Y and Z. Keep it small and simple and don't forget to have fun. At first it will be hard, but don't give up, keep trying until you learned something you thought was impossible. When you will go back to writing Ruby or whatever language you write, you will look at things from a different angle.
   </p>
   
   <p>
-    Finally, the last thing I would suggest is to never feel too comfortable in your daily programming tasks. If you are to the point where you just execute and aren&#8217;t challenged, you might want to consider talking to your supervisor about giving you more challenging tasks.
+    Finally, the last thing I would suggest is to never feel too comfortable in your daily programming tasks. If you are to the point where you just execute and aren't challenged, you might want to consider talking to your supervisor about giving you more challenging tasks.
   </p>
   
   <h4>
@@ -113,7 +107,7 @@ tags:
   </h4>
   
   <p>
-    <a href="http://matt.aimonetti.net" target="_blank">Matt Aimonetti</a>: <a href="http://mobiruby.org/">MobiRuby</a> is being developed on top of mruby, the new Ruby implementation written by Matz that&#8217;s targeting embedded device and offering an alternate for <a href="http://www.lua.org/">Lua</a> and to some extent JavaScript. I&#8217;m quite excited about mruby and its potential and I wrote about both <a href="http://matt.aimonetti.net/posts/2012/04/20/mruby-and-mobiruby/">mruby and MobiRuby</a> a couple days ago. Basically, from my view point <a href="http://mobiruby.org/">MobiRuby</a> is an interesting project but it will have to overcome some serious challenges described in details in my blog post. My hope is that thanks to the Ruby language, MobiRuby will be able to transcend Cocoa/Android API to offer an easier, simpler API making mobile development more fun and more easily accessible.
+    <a href="http://matt.aimonetti.net" target="_blank">Matt Aimonetti</a>: <a href="http://mobiruby.org/">MobiRuby</a> is being developed on top of mruby, the new Ruby implementation written by Matz that's targeting embedded device and offering an alternate for <a href="http://www.lua.org/">Lua</a> and to some extent JavaScript. I'm quite excited about mruby and its potential and I wrote about both <a href="http://matt.aimonetti.net/posts/2012/04/20/mruby-and-mobiruby/">mruby and MobiRuby</a> a couple days ago. Basically, from my view point <a href="http://mobiruby.org/">MobiRuby</a> is an interesting project but it will have to overcome some serious challenges described in details in my blog post. My hope is that thanks to the Ruby language, MobiRuby will be able to transcend Cocoa/Android API to offer an easier, simpler API making mobile development more fun and more easily accessible.
   </p>
   
   <p>

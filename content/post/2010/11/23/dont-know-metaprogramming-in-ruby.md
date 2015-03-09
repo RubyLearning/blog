@@ -1,5 +1,5 @@
 ---
-title: 'Don&#8217;t Know Metaprogramming In Ruby?'
+title: "Don't Know Metaprogramming In Ruby?"
 author: Gavin Morrice
 date: 2010-11-23
 layout: post
@@ -13,14 +13,14 @@ topsy_short_url:
 dsq_thread_id:
   - 208370854
 categories:
-  - Beginners
-  - Metaprogramming
-  - Popular
-  - Ruby
-  - Ruby Masters
+  - beginners
+  - metaprogramming
+  - popular
+  - ruby
+  - ruby masters
 tags:
   - programming
-  - Ruby Metaprogramming
+  - ruby metaprogramming
   - ruby programming
 ---
 <div>

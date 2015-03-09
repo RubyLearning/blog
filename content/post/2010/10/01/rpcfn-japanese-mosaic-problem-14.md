@@ -1,5 +1,5 @@
 ---
-title: 'RPCFN: Japanese Mosaic Problem (#14)'
+title: 'RPCFN: Japanese Mosaic Problem - 14'
 author: Joseph Wilk
 date: 2010-10-01
 layout: post

@@ -1,5 +1,5 @@
 ---
-title: 'Learn More About India&#8217;s Exciting RubyConfIndia 2013'
+title: "Learn More About India's Exciting RubyConfIndia 2013"
 author: Prakash Murthy
 date: 2013-06-20
 layout: post
@@ -11,13 +11,13 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/1avEGHM
 categories:
-  - General
-  - Ruby
+  - general
+  - ruby
 tags:
   - programming
-  - Ruby
-  - Ruby conference
-  - RubyConfIndia 2013
+  - ruby
+  - ruby conference
+  - rubyconfindia 2013
 ---
 <div>
   <h2>

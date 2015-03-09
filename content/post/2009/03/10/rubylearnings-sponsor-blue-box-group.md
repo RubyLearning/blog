@@ -1,5 +1,5 @@
 ---
-title: 'RubyLearning&#8217;s Sponsor: Blue Box Group'
+title: "RubyLearning's Sponsor: Blue Box Group"
 author: Satish Talim
 date: 2009-03-10
 layout: post
@@ -9,14 +9,14 @@ keywords:
 description:
   - "RubyLearning's sponsor - Blue Box Group is dedicated to advancing the Ruby and Rails communities."
 categories:
-  - Rails
-  - Ruby
-  - Sponsors
+  - rails
+  - ruby
+  - sponsors
 tags:
-  - Blue Box Group
-  - Ruby
-  - Ruby on Rails
-  - Sponsors
+  - blue box group
+  - ruby
+  - ruby on rails
+  - sponsors
 ---
 <div>
   <p>
@@ -28,6 +28,7 @@ tags:
       This year is shaping up to be another big one for Blue Box Group
     </p>
   </blockquote>
+<!--more-->
   
   <p>
     <a href="https://boxpanel.blueboxgrp.com/public/order/partner/43921">Blue Box Group</a> has got some great new features for release, upgrades to their service offerings, appearances at various events and conferences and more. Check out their site and subscribe to their <a href="http://www.blueboxgrp.com/news">blog</a> to get the latest updates!

@@ -1,5 +1,5 @@
 ---
-title: 'RPCFN: Economics 101 (#13)'
+title: 'RPCFN: Economics 101 - 13'
 author: Satish Talim
 date: 2010-08-31
 layout: post

@@ -1,5 +1,5 @@
 ---
-title: 'RubyLearning&#8217;s Sponsor Locaweb Rocks!'
+title: "RubyLearning's Sponsor Locaweb Rocks!"
 author: Satish Talim
 date: 2008-09-06
 layout: post
@@ -7,10 +7,10 @@ permalink: /2008/09/06/rubylearnings-sponsor-locaweb-rocks/
 metadescription:
   - RubyLearning sponsor Locaweb sponsoring all the Free Ruby Programming Courses at RubyLearning
 categories:
-  - Ruby
-  - Sponsors
+  - ruby
+  - sponsors
 tags:
-  - Locaweb
+  - locaweb
 ---
 <div>
   <p>
@@ -24,7 +24,7 @@ tags:
   </blockquote>
   
   <p>
-    <a href="http://www.locaweb.com.br/portal.html">Locaweb</a> is the biggest web hosting company in Brazil and is heading to become the largest in South America by a big margin. They are about to release their brand new Cloud Computing platform, from an investment of around <abbr title="USA Dollar">USD</abbr> 1.5 million. This should help to lower the barrier of entry for any business &#8211; small and large &#8211; in need for more than shared hosting space. Your business will be managed in a very dynamic environment ensuring high availability, performance and low costs.
+  <a href="http://www.locaweb.com.br/portal.html">Locaweb</a> is the biggest web hosting company in Brazil and is heading to become the largest in South America by a big margin. They are about to release their brand new<!--more--> Cloud Computing platform, from an investment of around <abbr title="USA Dollar">USD</abbr> 1.5 million. This should help to lower the barrier of entry for any business &#8211; small and large &#8211; in need for more than shared hosting space. Your business will be managed in a very dynamic environment ensuring high availability, performance and low costs.
   </p>
   
   <p>

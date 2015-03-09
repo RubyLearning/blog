@@ -1,5 +1,5 @@
 ---
-title: 'Felipe Elias Philipp Winner RPCFN #1 (Reprint)'
+title: 'Felipe Elias Philipp Winner RPCFN - 1 (Reprint)'
 author: Satish Talim
 date: 2015-01-26
 layout: post
@@ -11,14 +11,14 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/1z04x6D
 categories:
-  - Beginners
-  - RPCFN
-  - Ruby
+  - beginners
+  - rpcfn
+  - ruby
 tags:
-  - Brazil
-  - Felipe Elias Philipp
-  - RPCFN
-  - Ruby
+  - brazil
+  - felipe elias philipp
+  - rpcfn
+  - ruby
   - ruby programming
 ---
 <div>

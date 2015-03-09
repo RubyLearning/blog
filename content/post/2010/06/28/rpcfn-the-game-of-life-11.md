@@ -1,5 +1,5 @@
 ---
-title: 'RPCFN: The Game of Life (#11)'
+title: 'RPCFN: The Game of Life - 11'
 author: Satish Talim
 date: 2010-06-28
 layout: post

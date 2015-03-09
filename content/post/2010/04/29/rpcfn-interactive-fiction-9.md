@@ -1,5 +1,5 @@
 ---
-title: 'RPCFN: Interactive Fiction (#9)'
+title: 'RPCFN: Interactive Fiction - 9'
 author: Satish Talim
 date: 2010-04-29
 layout: post
@@ -11,16 +11,16 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/bBzcwI
 categories:
-  - Beginners
-  - RPCFN
-  - Ruby
+  - beginners
+  - rpcfn
+  - ruby
 tags:
-  - Avdi Grimm
+  - avdi grimm
   - programming
-  - RPCFN
-  - Ruby
-  - Ruby Programming Challenge For Newbies
-  - The Ruby Programming Language
+  - rpcfn
+  - ruby
+  - ruby programming challenge for newbies
+  - the ruby programming language
 ---
 <div>
   <h3>

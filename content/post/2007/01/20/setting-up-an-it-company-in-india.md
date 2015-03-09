@@ -7,12 +7,12 @@ categories:
   - rails
   - ruby
 ---
-![Serene
-Pune](http://rubylearning.com/images/mulshi.jpg "Serene Pune, India")
-
 Now-a-days many small (20-40 people) sized companies working with **Ruby
 on Rails** in the US and Australia are planning to set-up their own
 software units in Pune, India.<!--more-->
+
+![Serene
+Pune](http://rubylearning.com/images/mulshi.jpg "Serene Pune, India")
 
 I have been helping some of these and I have penned down some of my
 experiences.

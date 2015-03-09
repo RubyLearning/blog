@@ -1,5 +1,5 @@
 ---
-title: 'Showcasing RubyLearning&#8217;s Awesome Rubyists'
+title: "Showcasing RubyLearning's Awesome Rubyists"
 author: Satish Talim
 date: 2010-02-22
 layout: post
@@ -11,13 +11,13 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/dzLSxu
 categories:
-  - Ruby
-  - Ruby on Rails
+  - ruby
+  - ruby on rails
 tags:
   - programming
-  - Ruby
-  - Ruby on Rails
-  - Rubyists
+  - ruby
+  - ruby on rails
+  - rubyists
 ---
 <div>
   <h3>

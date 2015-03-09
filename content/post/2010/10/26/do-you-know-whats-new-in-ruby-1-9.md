@@ -1,5 +1,5 @@
 ---
-title: 'Do you know what&#8217;s new in Ruby 1.9?'
+title: "Do you know what's new in Ruby 1.9?"
 author: Carlo Pecchia
 date: 2010-10-26
 layout: post
@@ -11,12 +11,12 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/9TeJ4R
 categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
+  - beginners
+  - ruby
+  - ruby masters
 tags:
   - programming
-  - Ruby 1.9
+  - ruby 1.9
   - ruby programming
 ---
 <div>

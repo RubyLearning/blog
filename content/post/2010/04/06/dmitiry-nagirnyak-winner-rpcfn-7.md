@@ -1,5 +1,5 @@
 ---
-title: 'Dmitriy Nagirnyak Winner RPCFN #7'
+title: 'Dmitriy Nagirnyak Winner RPCFN - 7'
 author: Satish Talim
 date: 2010-04-06
 layout: post
@@ -9,16 +9,16 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/bkL7sj
 categories:
-  - Beginners
-  - Interview
-  - RPCFN
-  - Ruby
+  - beginners
+  - interview
+  - rpcfn
+  - ruby
 tags:
-  - Australia
-  - Dmitriy Nagirnyak
-  - RPCFN
-  - Ruby
-  - Ruby Challenge
+  - australia
+  - dmitriy nagirnyak
+  - rpcfn
+  - ruby
+  - ruby challenge
   - ruby programming
 ---
 <div>

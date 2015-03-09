@@ -1,5 +1,5 @@
 ---
-title: 'RubyLearning&#8217;s Sponsor: Railsware'
+title: "RubyLearning's Sponsor: Railsware"
 author: Satish Talim
 date: 2009-03-22
 layout: post
@@ -9,15 +9,15 @@ keywords:
 description:
   - Railsware are Silver Sponsor of the "Using Twitter with Ruby" course at RubyLearning.
 categories:
-  - Ruby
-  - Sponsors
-  - Twitter
+  - ruby
+  - sponsors
+  - twitter
 tags:
-  - Railsware
-  - Ruby
-  - Ruby on Rails
-  - Sponsors
-  - Twitter
+  - railsware
+  - ruby
+  - ruby on rails
+  - sponsors
+  - twitter
 ---
 <div>
   <p>

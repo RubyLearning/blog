@@ -1,5 +1,5 @@
 ---
-title: 'RPCFN: Broadsides (#7)'
+title: 'RPCFN: Broadsides - 7'
 author: Satish Talim
 date: 2010-02-23
 layout: post
@@ -11,16 +11,16 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/cDSR0m
 categories:
-  - Beginners
-  - RPCFN
-  - Ruby
+  - beginners
+  - rpcfn
+  - ruby
 tags:
-  - James Edward Gray II
+  - james edward gray ii
   - programming
-  - RPCFN
-  - Ruby
-  - Ruby Programming Challenge For Newbies
-  - The Ruby Programming Language
+  - rpcfn
+  - ruby
+  - ruby programming challenge for newbies
+  - the ruby programming language
 ---
 <div>
   <h3>

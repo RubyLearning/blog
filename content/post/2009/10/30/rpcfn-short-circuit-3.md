@@ -1,5 +1,5 @@
 ---
-title: 'RPCFN: Short Circuit (#3)'
+title: 'RPCFN: Short Circuit - 3'
 author: Satish Talim
 date: 2009-10-30
 layout: post
@@ -11,16 +11,16 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/8Cb47L
 categories:
-  - Beginners
-  - RPCFN
-  - Ruby
+  - beginners
+  - rpcfn
+  - ruby
 tags:
-  - Gautam Rege
+  - gautam rege
   - programming
-  - RPCFN
-  - Ruby
-  - Ruby Programming Challenge For Newbies
-  - The Ruby Programming Language
+  - rpcfn
+  - ruby
+  - ruby programming challenge for newbies
+  - the ruby programming language
 ---
 <div>
   <h3>

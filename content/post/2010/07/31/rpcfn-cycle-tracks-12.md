@@ -1,5 +1,5 @@
 ---
-title: 'RPCFN: Cycle Tracks (#12)'
+title: 'RPCFN: Cycle Tracks - 12'
 author: Satish Talim
 date: 2010-07-31
 layout: post

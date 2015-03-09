@@ -1,5 +1,5 @@
 ---
-title: 'Quick Questions for Andrey &#8220;A.I.&#8221; Sitnik'
+title: Quick Questions for Andrey 'A.I.' Sitnik
 author: Satish Talim
 date: 2009-04-30
 layout: post
@@ -9,15 +9,15 @@ keywords:
 description:
   - Andrey Sitnik talks to RubyLearning about his Ruby gem R18n.
 categories:
-  - Interview
-  - Rails
-  - Ruby
+  - interview
+  - rails
+  - ruby
 tags:
-  - Andrey Sitnik
-  - Merb
-  - R18n
-  - Ruby
-  - Sinatra
+  - andrey sitnik
+  - merb
+  - r18n
+  - ruby
+  - sinatra
 ---
 <div>
   <p class="alert">

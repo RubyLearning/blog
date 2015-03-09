@@ -1,5 +1,5 @@
 ---
-title: 'Benoit Daloze Winner RPCFN #9'
+title: 'Benoit Daloze Winner RPCFN - 9'
 author: Satish Talim
 date: 2010-06-01
 layout: post

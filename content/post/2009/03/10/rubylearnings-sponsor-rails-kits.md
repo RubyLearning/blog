@@ -1,5 +1,5 @@
 ---
-title: 'RubyLearning&#8217;s Sponsor: Rails Kits'
+title: "RubyLearning's Sponsor: Rails Kits"
 author: Satish Talim
 date: 2009-03-10
 layout: post
@@ -9,15 +9,15 @@ keywords:
 description:
   - "RubyLearning's sponsor Rails Kits is the place to get ready-to-use Rails code that will help you build your apps faster."
 categories:
-  - Rails
-  - Ruby
-  - Ruby on Rails
-  - Sponsors
+  - rails
+  - ruby
+  - ruby on rails
+  - sponsors
 tags:
-  - RailsKits
-  - Ruby
-  - Ruby on Rails
-  - Sponsors
+  - railskits
+  - ruby
+  - ruby on rails
+  - sponsors
 ---
 <div>
   <p>

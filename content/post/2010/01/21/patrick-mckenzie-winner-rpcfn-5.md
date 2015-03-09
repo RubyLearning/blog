@@ -1,5 +1,5 @@
 ---
-title: 'Patrick McKenzie Winner RPCFN #5'
+title: 'Patrick McKenzie Winner RPCFN - 5'
 author: Satish Talim
 date: 2010-01-21
 layout: post
@@ -14,15 +14,15 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/8sgg0f
 categories:
-  - Interview
-  - RPCFN
-  - Ruby
+  - interview
+  - rpcfn
+  - ruby
 tags:
   - japan
-  - Patrick McKenzie
-  - RPCFN
-  - Ruby
-  - Ruby Challenge
+  - patrick mckenzie
+  - rpcfn
+  - ruby
+  - ruby challenge
   - ruby programming
 ---
 <div>

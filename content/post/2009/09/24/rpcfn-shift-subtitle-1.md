@@ -1,5 +1,5 @@
 ---
-title: 'RPCFN: Shift Subtitle (#1)'
+title: 'RPCFN: Shift Subtitle 1'
 author: Satish Talim
 date: 2009-09-24
 layout: post
@@ -11,16 +11,16 @@ thesis_description:
 topsy_short_url:
   - http://bit.ly/8D4krn
 categories:
-  - Beginners
-  - RPCFN
-  - Ruby
+  - beginners
+  - rpcfn
+  - ruby
 tags:
   - fabio akita
   - programming
-  - RPCFN
-  - Ruby
-  - Ruby Programming Challenge For Newbies
-  - The Ruby Programming Language
+  - rpcfn
+  - ruby
+  - ruby programming challenge for newbies
+  - the ruby programming language
 ---
 <div>
   <h3>

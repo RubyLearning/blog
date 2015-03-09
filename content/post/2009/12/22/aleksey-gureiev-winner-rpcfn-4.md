@@ -1,5 +1,5 @@
 ---
-title: 'Aleksey Gureiev Winner RPCFN #4'
+title: 'Aleksey Gureiev Winner RPCFN - 4'
 author: Satish Talim
 date: 2009-12-22
 layout: post
@@ -11,17 +11,17 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/8kMc39
 categories:
-  - Beginners
-  - Interview
-  - RPCFN
-  - Ruby
+  - beginners
+  - interview
+  - rpcfn
+  - ruby
 tags:
-  - Aleksey Gureiev
-  - RPCFN
-  - Ruby
-  - Ruby Challenge
+  - aleksey gureiev
+  - rpcfn
+  - ruby
+  - ruby challenge
   - ruby programming
-  - Ukraine
+  - ukraine
 ---
 <div>
   <p class="alert">

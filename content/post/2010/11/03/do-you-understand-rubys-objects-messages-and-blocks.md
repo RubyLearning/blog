@@ -1,5 +1,5 @@
 ---
-title: 'Do You Understand Ruby&#8217;s Objects, Messages and Blocks?'
+title: "Do You Understand Ruby's Objects, Messages and Blocks?"
 author: Ed Howland
 date: 2010-11-03
 layout: post
@@ -11,14 +11,14 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/admgNf
 categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
+  - beginners
+  - ruby
+  - ruby masters
 tags:
   - programming
-  - Ruby Blocks
-  - Ruby Messages
-  - Ruby Objects
+  - ruby blocks
+  - ruby messages
+  - ruby objects
   - ruby programming
 ---
 <div>

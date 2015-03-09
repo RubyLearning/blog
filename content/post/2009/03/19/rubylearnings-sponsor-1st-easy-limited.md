@@ -1,5 +1,5 @@
 ---
-title: 'RubyLearning&#8217;s Sponsor: 1st Easy Limited'
+title: "RubyLearning's Sponsor: 1st Easy Limited"
 author: Satish Talim
 date: 2009-03-19
 layout: post
@@ -9,15 +9,15 @@ keywords:
 description:
   - 1st Easy Limited, part-sponosr of the first-ever online "Introduction to Sinatra" course at RubyLearning.
 categories:
-  - Ruby
-  - Sinatra
-  - Sponsors
+  - ruby
+  - sinatra
+  - sponsors
 tags:
-  - 1st Easy Limited
-  - Ruby
-  - Ruby on Rails
-  - Sinatra
-  - Sponsors
+  - 1st easy limited
+  - ruby
+  - ruby on rails
+  - sinatra
+  - sponsors
 ---
 <div>
   <p>

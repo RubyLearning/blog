@@ -1,5 +1,5 @@
 ---
-title: 'Using ActiveRecord and JDBC with JRuby &#8211; Part 2'
+title: 'Using ActiveRecord and JDBC with JRuby - Part 2'
 author: Satish Talim
 date: 2008-07-30
 layout: post
@@ -7,14 +7,14 @@ permalink: /2008/07/30/using-activerecord-and-jdbc-with-jruby-part-2/
 topsy_short_url:
   - http://bit.ly/aYNfE9
 categories:
-  - JRuby
-  - Ruby
+  - jruby
+  - ruby
 tags:
-  - ActiveRecord
-  - JDBC
-  - JRuby
-  - MySQL
-  - Ruby
+  - activerecord
+  - jdbc
+  - jruby
+  - mysql
+  - ruby
 ---
 <div>
   <h3>
@@ -22,7 +22,7 @@ tags:
   </h3>
   
   <p>
-    Continuing from where we left off in Part 1 of the article &#8211; <strong><a href="http://rubylearning.com/blog/2008/07/28/using-activerecord-and-jdbc-with-jruby/">Using ActiveRecord and JDBC with JRuby</a></strong>, let us now create a database called <strong>students</strong> and a table called <strong>rubyists</strong> (this holds say, the names and cities of all those who have downloaded my <a href="http://jruby.rubylearning.org/">JRuby eBook</a>). To do this, open a command window and type:
+  Continuing from where we left off in Part 1<!--more--> of the article &#8211; <strong><a href="http://rubylearning.com/blog/2008/07/28/using-activerecord-and-jdbc-with-jruby/">Using ActiveRecord and JDBC with JRuby</a></strong>, let us now create a database called <strong>students</strong> and a table called <strong>rubyists</strong> (this holds say, the names and cities of all those who have downloaded my <a href="http://jruby.rubylearning.org/">JRuby eBook</a>). To do this, open a command window and type:
   </p>
   
   <pre><code>mysql -u root</code></pre>

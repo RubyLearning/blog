@@ -1,5 +1,5 @@
 ---
-title: 'So&#8230; you&#8217;re new to Ruby!'
+title: So, you're new to Ruby!
 author: Julio Javier Cicchelli
 date: 2010-09-24
 layout: post
@@ -11,13 +11,13 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/9G1rkQ
 categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
+  - beginners
+  - ruby
+  - ruby masters
 tags:
-  - Javier Cicchelli
+  - javier cicchelli
   - programming
-  - Ruby
+  - ruby
 ---
 <div>
   <h3>

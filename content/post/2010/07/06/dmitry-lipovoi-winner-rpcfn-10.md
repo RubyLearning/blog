@@ -1,5 +1,5 @@
 ---
-title: 'Dmitry Lipovoi Winner RPCFN #10'
+title: 'Dmitry Lipovoi Winner RPCFN - 10'
 author: Satish Talim
 date: 2010-07-06
 layout: post
@@ -11,17 +11,17 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/djymoS
 categories:
-  - Beginners
-  - Interview
-  - RPCFN
-  - Ruby
+  - beginners
+  - interview
+  - rpcfn
+  - ruby
 tags:
-  - Dmitry Lipovoi
-  - RPCFN
-  - Ruby
-  - Ruby Challenge
+  - dmitry lipovoi
+  - rpcfn
+  - ruby
+  - ruby challenge
   - ruby programming
-  - Russia
+  - russia
 ---
 <div>
   <p class="alert">

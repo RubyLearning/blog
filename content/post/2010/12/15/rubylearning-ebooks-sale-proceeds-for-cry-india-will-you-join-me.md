@@ -1,5 +1,5 @@
 ---
-title: 'RubyLearning eBook(s) Sale Proceeds for CRY India &#8211; Will You Join Me?'
+title: 'RubyLearning eBook(s) Sale Proceeds for CRY India -- Will You Join Me?'
 author: Satish Talim
 date: 2010-12-15
 layout: post

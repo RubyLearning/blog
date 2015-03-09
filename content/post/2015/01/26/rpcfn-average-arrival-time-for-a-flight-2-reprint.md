@@ -1,27 +1,21 @@
 ---
-title: 'RPCFN: Average Arrival Time For A Flight (#2) &#8211; Reprint'
+title: "RPCFN: Average Arrival Time For A Flight - 2 Reprint"
 author: Satish Talim
 date: 2015-01-26
 layout: post
 permalink: /2015/01/26/rpcfn-average-arrival-time-for-a-flight-2-reprint/
-thesis_description:
-  - The second installment of the popular Ruby Programming Challenge for Newbies.
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,Chris Strom
-topsy_short_url:
-  - http://bit.ly/1EmeUpS
 categories:
-  - Beginners
-  - Popular
-  - RPCFN
-  - Ruby
+  - beginners
+  - popular
+  - rpcfn
+  - ruby
 tags:
-  - Chris Strom
+  - chris strom
   - programming
-  - RPCFN
-  - Ruby
-  - Ruby Programming Challenge For Newbies
-  - The Ruby Programming Language
+  - rpcfn
+  - ruby
+  - ruby programming challenge for newbies
+  - the ruby programming language
 ---
 <div>
   <p>

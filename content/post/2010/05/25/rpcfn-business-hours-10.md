@@ -1,5 +1,5 @@
 ---
-title: 'RPCFN: Business Hours (#10)'
+title: 'RPCFN: Business Hours - 10'
 author: Satish Talim
 date: 2010-05-25
 layout: post
@@ -7,7 +7,7 @@ permalink: /2010/05/25/rpcfn-business-hours-10/
 thesis_description:
   - The 10th Ruby Challenge for Newbies is by Ryan Bates on RubyLearning.org
 thesis_keywords:
-  - Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,Ryan Bates
+  - ruby, the ruby programming language, ruby programming challenge for newbies, programming, rpcfn, ryan bates
 topsy_short_url:
   - http://bit.ly/dxYc67
 categories:

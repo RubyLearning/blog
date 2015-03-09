@@ -1,5 +1,5 @@
 ---
-title: 'RubyLearning&#8217;s Sponsor Locaweb In The News'
+title: "RubyLearning's Sponsor Locaweb In The News"
 author: Satish Talim
 date: 2009-03-07
 layout: post
@@ -9,13 +9,13 @@ keywords:
 description:
   - Locaweb are the exclusive sponsors of all the Free Online Core Ruby Programming Courses (FORPC101) at RubyLearning.
 categories:
-  - Ruby
-  - Sponsors
+  - ruby
+  - sponsors
 tags:
-  - Brazil
-  - Locaweb
-  - Ruby
-  - Sponsors
+  - brazil
+  - locaweb
+  - ruby
+  - sponsors
 ---
 <div>
   <p>
@@ -29,7 +29,7 @@ tags:
   </blockquote>
   
   <p>
-    <a href="http://www.locaweb.com.br/">Locaweb</a> has just made a big announcement this week. All web shared hosting plans now offer *unlimited* disk storage and bandwidth! It may not sound as big as it is if you&#8217;re from the US, for instance, but it is a pretty big deal if you&#8217;re from Latin America. There has been small attempts before by others but this is the move of the largest web hosting company in Brazil, which changes the rules of the game. They have also changed their website, with brand new, more modern layout and design.
+  <a href="http://www.locaweb.com.br/">Locaweb</a> has just made a big announcement this week. <!--more-->All web shared hosting plans now offer *unlimited* disk storage and bandwidth! It may not sound as big as it is if you&#8217;re from the US, for instance, but it is a pretty big deal if you&#8217;re from Latin America. There has been small attempts before by others but this is the move of the largest web hosting company in Brazil, which changes the rules of the game. They have also changed their website, with brand new, more modern layout and design.
   </p>
   
   <p>
