@@ -1,7 +1,7 @@
 ---
 title: 'Sinatra: Some Questions from Ruby Newbies'
 author: Satish Talim
-date: 2013/08/14
+date: "2013-08-14"
 layout: post
 permalink: /2013/08/14/sinatra-some-questions-from-ruby-newbies/
 thesis_description:

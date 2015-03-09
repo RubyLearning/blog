@@ -1,7 +1,7 @@
 ---
 title: The Ongoing Vigil of Software Security
 author: James Schorr
-date: 2012/07/23
+date: "2012-07-23"
 layout: post
 permalink: /2012/07/23/the-ongoing-vigil-of-software-security/
 thesis_keywords:
@@ -31,11 +31,11 @@ tags:
   </p>
   
   <p>
-    Some of the reasons that we keep seeing these types of exploits are that the &#8220;bad guys&#8221; are much smarter and more determined than we give them credit for, we&#8217;re much lazier and more ignorant than we take responsibility for, and security is difficult to manage properly. As we become more and more reliant upon software, it is imperative that security be taken more seriously.
+    Some of the reasons that we keep seeing these types of exploits are that the &#8220;bad guys&#8221; are much smarter and more determined than we give them credit for, we're much lazier and more ignorant than we take responsibility for, and security is difficult to manage properly. As we become more and more reliant upon software, it is imperative that security be taken more seriously.
   </p>
   
   <h3>
-    What&#8217;s the big deal?
+    What's the big deal?
   </h3>
   
   <p>
@@ -48,7 +48,7 @@ tags:
     </p>
     
     <p>
-      <em>It&#8217;s the middle of the hurricane season. The waves are getting higher, sharks are circling your boat, and aboard are quite a few passengers. Most of the passengers are of a fairly decent ilk, but some are not. This latter group, partially due to the insufferable boredom that accompanies their long journey, have taken delight in drilling holes in the side of the boat (with the tools that were discarded during construction). Other troublemakers spend their time throwing chum overboard to the encircling sharks and even, when no one is watching, throwing each other overboard. A few of the cleverer sort spend their time impersonating the crew and using their new privileges to look for ways to take over the ship. Sadly, even some of the crew members have been persuaded into joining their mutinous ranks.</em>
+      <em>It's the middle of the hurricane season. The waves are getting higher, sharks are circling your boat, and aboard are quite a few passengers. Most of the passengers are of a fairly decent ilk, but some are not. This latter group, partially due to the insufferable boredom that accompanies their long journey, have taken delight in drilling holes in the side of the boat (with the tools that were discarded during construction). Other troublemakers spend their time throwing chum overboard to the encircling sharks and even, when no one is watching, throwing each other overboard. A few of the cleverer sort spend their time impersonating the crew and using their new privileges to look for ways to take over the ship. Sadly, even some of the crew members have been persuaded into joining their mutinous ranks.</em>
     </p>
     
     <p>
@@ -57,7 +57,7 @@ tags:
   </blockquote>
   
   <p>
-    What&#8217;s the point of this mental exercise? We need to realize that unrelenting attacks abound, both from within and without the system. If not properly addressed, they only escalate over time.
+    What's the point of this mental exercise? We need to realize that unrelenting attacks abound, both from within and without the system. If not properly addressed, they only escalate over time.
   </p>
   
   <p>
@@ -65,7 +65,7 @@ tags:
   </p>
   
   <p>
-    Ask any IT team member that is charged with &#8220;securing&#8221; anything and you&#8217;ll quickly find out that it is an extremely difficult, often thankless task. Even in a tightly controlled environment, it can be pretty tough, especially during times of extreme change, turnover, growth, etc.
+    Ask any IT team member that is charged with &#8220;securing&#8221; anything and you'll quickly find out that it is an extremely difficult, often thankless task. Even in a tightly controlled environment, it can be pretty tough, especially during times of extreme change, turnover, growth, etc.
   </p>
   
   <h3>
@@ -84,7 +84,7 @@ tags:
       are depended upon by users who have invested some degree of their money, trust, time, or work into using them.
     </li>
     <li>
-      haven&#8217;t &#8220;arrived&#8221;. There is <em>always</em> a way to circumvent the &#8220;system&#8221;.
+      haven't &#8220;arrived&#8221;. There is <em>always</em> a way to circumvent the &#8220;system&#8221;.
     </li>
     <li>
       typically depend upon the &#8220;happy path&#8221; scenarios (e.g. when all goes well).
@@ -96,7 +96,7 @@ tags:
   </h3>
   
   <p>
-    Thankfully, there are quite a few things that can be proactively done to help mitigate the risks and stave off the threats. For brevity&#8217;s sake, I&#8217;m going to give a high level overview of what can be done to help prevent exploits:
+    Thankfully, there are quite a few things that can be proactively done to help mitigate the risks and stave off the threats. For brevity's sake, I'm going to give a high level overview of what can be done to help prevent exploits:
   </p>
   
   <h4>
@@ -105,10 +105,10 @@ tags:
   
   <ol>
     <li>
-      <em>Who should be in charge of our project&#8217;s security?</em> Involve the right people, taking the time to get to know their character and mindset. Not everyone is cut out to think with the type of mindset needed to properly manage security. Unless someone is <em>really</em> into security, is trustworthy, is assertive, and unafraid of conflict, they simply aren&#8217;t the right person for this task.
+      <em>Who should be in charge of our project's security?</em> Involve the right people, taking the time to get to know their character and mindset. Not everyone is cut out to think with the type of mindset needed to properly manage security. Unless someone is <em>really</em> into security, is trustworthy, is assertive, and unafraid of conflict, they simply aren't the right person for this task.
     </li>
     <li>
-      <em>Who has need-to-know?</em> Need-to-know is an essential principle in projects. Data leakage often inadvertently occurs by team members that probably didn&#8217;t need the information to begin with. Those that realize the &#8220;big-picture&#8221; usage of the data and need access to it for their tasks typically realize the need to keep the data private.
+      <em>Who has need-to-know?</em> Need-to-know is an essential principle in projects. Data leakage often inadvertently occurs by team members that probably didn't need the information to begin with. Those that realize the &#8220;big-picture&#8221; usage of the data and need access to it for their tasks typically realize the need to keep the data private.
     </li>
     <li>
       <em>Separation of duties with each area managed by a small core team.</em> While not always possible, it is helpful to have one main realm of responsibility per team. Also, the core team of each area/realm needs to remain just that &#8211; the core team. In other words, the more people added, the tougher it is to keep things secure.
@@ -129,15 +129,15 @@ tags:
     <li>
       <em>Testing is critical</em>: we are testing, right? In dev-speak, <code>tested_code != secure_code</code> but <code>tested_code.class == SecurityMindset</code>. In other words, it is possible to write insecure, tested code, but proper testing does seem to inherit qualities from a security mindset and to encourage more thoughtful programming. In my opinion, testing generally falls into two main types: <ol>
         <li>
-          Code-based Testing: I&#8217;ll let others bore you with a long list of what&#8217;s available out there but do want to point out that real-world progress can be made towards better securing code with the usage of tools/methods such as: Rspec and friends, TDD, BDD, etc.
+          Code-based Testing: I'll let others bore you with a long list of what's available out there but do want to point out that real-world progress can be made towards better securing code with the usage of tools/methods such as: Rspec and friends, TDD, BDD, etc.
         </li>
         <li>
-          Human Testing: sometimes nothing beats enlisting the help of others to pound away on our beloved projects. You&#8217;d be surprised at how many issues are found by this approach, often leading to cries of, &#8220;But users aren&#8217;t supposed to do that!&#8221; <ol>
+          Human Testing: sometimes nothing beats enlisting the help of others to pound away on our beloved projects. You'd be surprised at how many issues are found by this approach, often leading to cries of, &#8220;But users aren't supposed to do that!&#8221; <ol>
             <li>
               Non-technical users: enlist someone who can has a hard time finding the / key. This type of person will usually do all sorts of unexpected things. The unexpected behavior can quickly reveal the hidden weaknesses in the UI, workflow, and security.
             </li>
             <li>
-              Enlist the upcoming geeks: you know those kids who are always jail-breaking phones? After issuing a few half-hearted reprimands, ask them to &#8220;conquer&#8221; your app. Offering a prize can&#8217;t hurt.
+              Enlist the upcoming geeks: you know those kids who are always jail-breaking phones? After issuing a few half-hearted reprimands, ask them to &#8220;conquer&#8221; your app. Offering a prize can't hurt.
             </li>
             <li>
               Enlist an expert to audit your code, procedures, and projects.
@@ -161,21 +161,21 @@ tags:
               Credit card numbers, PINs, debit card numbers, anything banking related unless we are doing so in compliance with <strong>PCI standards</strong>.
             </li>
             <li>
-              Medical information (see <strong>HIPPA</strong> &#8211; Health Insurance Portability and Accountability Act or your country&#8217;s corresponding laws).
+              Medical information (see <strong>HIPPA</strong> &#8211; Health Insurance Portability and Accountability Act or your country's corresponding laws).
             </li>
             <li>
-              Anything that can be used to compromise the systems or it&#8217;s users.
+              Anything that can be used to compromise the systems or it's users.
             </li>
           </ol>
         </li>
         
         <li>
-          How to log: I personally prefer a two-pronged approach: 1) writing to log files which are automatically transferred offsite, 2) an audit trail via a NoSQL database (using a fire-and-forget type of approach; in other words send the insert but keep on moving, a failure to log to the audit trail should alert admins but not slow down or impact the user&#8217;s use of the application at all).
+          How to log: I personally prefer a two-pronged approach: 1) writing to log files which are automatically transferred offsite, 2) an audit trail via a NoSQL database (using a fire-and-forget type of approach; in other words send the insert but keep on moving, a failure to log to the audit trail should alert admins but not slow down or impact the user's use of the application at all).
         </li>
         <li>
           When to log: as close to the event as possible, to minimize the chance of data loss. <ol>
             <li>
-              Log Alterability: Think, &#8220;if I was a hacker and compromised this system, I&#8217;d want to clean up after my activities&#8221;. How do I make my logs non-alterable, even by support staff?
+              Log Alterability: Think, &#8220;if I was a hacker and compromised this system, I'd want to clean up after my activities&#8221;. How do I make my logs non-alterable, even by support staff?
             </li>
           </ol>
         </li>
@@ -225,13 +225,13 @@ tags:
               Users are locked out and admins alerted when they try to get around the system (these types of lockouts do not expire with time but rather require a Support Staff person to unlock them based on their discretion).
             </li>
             <li>
-              Ability for Support Staff to lock and unlock users very quickly <em>after</em> following a procedure to record why they&#8217;re doing so. A permanent record needs to be kept as to who unlocked whom and why.
+              Ability for Support Staff to lock and unlock users very quickly <em>after</em> following a procedure to record why they're doing so. A permanent record needs to be kept as to who unlocked whom and why.
             </li>
           </ol>
         </li>
         
         <li>
-          Account Password Policies: password strength, requirements to change the password every X days, password history (can&#8217;t reuse old passwords), etc.
+          Account Password Policies: password strength, requirements to change the password every X days, password history (can't reuse old passwords), etc.
         </li>
         <li>
           Other: click-limits, IP address binding, geographic-binding, usage of Oauth 2, etc.
@@ -240,9 +240,9 @@ tags:
     </li>
     
     <li>
-      <em>Frameworks and Software Libraries</em>: it&#8217;s fairly common to have security vulnerabilities &#8220;appear&#8221; due to the integration of code from other sources. Of course, no one has time to re-invent the wheel, so to speak; nor should they. It is a good practice to always read through the source code and reported issues of 3rd party software prior to implementation. <ol>
+      <em>Frameworks and Software Libraries</em>: it's fairly common to have security vulnerabilities &#8220;appear&#8221; due to the integration of code from other sources. Of course, no one has time to re-invent the wheel, so to speak; nor should they. It is a good practice to always read through the source code and reported issues of 3rd party software prior to implementation. <ol>
         <li>
-          Take the time to search for some of its common exploits and best-practice methods of usage. Have we taken the time to test what X library (framework, gem, plugin, etc.) would mean for our application&#8217;s speed, stability, and security?
+          Take the time to search for some of its common exploits and best-practice methods of usage. Have we taken the time to test what X library (framework, gem, plugin, etc.) would mean for our application's speed, stability, and security?
         </li>
         <li>
           Refrain from handling some things ourselves. A good example is credit-card processing. Why handle it yourself when a 3rd party, tested service will likely do so in a more secure manner? Look for a project that has been around for a while and has a good track-record of quickly closing vulnerabilities.
@@ -251,7 +251,7 @@ tags:
     </li>
     
     <li>
-      <em>Servers and Hosting</em>: it may save some money to host on a shared host or cousin Bill&#8217;s server, but will the data be secure? It&#8217;s best to strive for meeting all three of the CIA principles (Confidentiality, Integrity, and Availability) when choosing a host, striving for at least a medium-level for each principal. <ol>
+      <em>Servers and Hosting</em>: it may save some money to host on a shared host or cousin Bill's server, but will the data be secure? It's best to strive for meeting all three of the CIA principles (Confidentiality, Integrity, and Availability) when choosing a host, striving for at least a medium-level for each principal. <ol>
         <li>
           Keep the servers up-to-date.
         </li>
@@ -285,10 +285,10 @@ tags:
     <li>
       Credentials: <ol>
         <li>
-          Where and how should we store the credentials that our app needs (e.g. api keys, database credentials, etc.)? A good thing to ask ourselves is, &#8220;if someone did get into our server (as non-root, as if they did as root, it&#8217;s game-over anyhow), what could they get and who would it hurt?&#8221;
+          Where and how should we store the credentials that our app needs (e.g. api keys, database credentials, etc.)? A good thing to ask ourselves is, &#8220;if someone did get into our server (as non-root, as if they did as root, it's game-over anyhow), what could they get and who would it hurt?&#8221;
         </li>
         <li>
-          Are we deploying our credentials to GitHub or other VCS? If so, we&#8217;re blindly trusting that 3rd party to be and stay secure.
+          Are we deploying our credentials to GitHub or other VCS? If so, we're blindly trusting that 3rd party to be and stay secure.
         </li>
         <li>
           Changes should be planned for and completed whenever there is a change in personnel and on a periodic basis. This can become a real hassle unless thought is given along the lines of, &#8220;How do we quickly change these credentials?&#8221;
@@ -298,7 +298,7 @@ tags:
   </ol>
   
   <p class="alert">
-    <em>I hope that this article has given you at least a few ideas of how to better improve your software project&#8217;s security. If so, I&#8217;ll consider it a success. Feel free to ask questions and give feedback in the comments section of this post. Thanks!</em>
+    <em>I hope that this article has given you at least a few ideas of how to better improve your software project's security. If so, I'll consider it a success. Feel free to ask questions and give feedback in the comments section of this post. Thanks!</em>
   </p>
   
   <h3>

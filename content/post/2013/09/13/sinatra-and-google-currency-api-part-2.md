@@ -1,7 +1,7 @@
 ---
 title: 'Sinatra and Google Currency API &#8211; Part 2'
 author: Girish Sonawane
-date: 2013/09/13
+date: "2013-09-13"
 layout: post
 permalink: /2013/09/13/sinatra-and-google-currency-api-part-2/
 thesis_description:

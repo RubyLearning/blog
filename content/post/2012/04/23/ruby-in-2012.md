@@ -1,7 +1,7 @@
 ---
 title: Ruby in 2012
 author: Matt Aimonetti
-date: 2012/04/23
+date: "2012-04-23"
 layout: post
 permalink: /2012/04/23/ruby-in-2012/
 thesis_keywords:

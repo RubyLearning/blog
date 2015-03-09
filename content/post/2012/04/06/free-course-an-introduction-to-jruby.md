@@ -2,20 +2,14 @@
 title: 'Free Course - An Introduction to JRuby'
 draft: true
 author: Satish Talim
-date: 2012/04/06
+date: "2012-04-06"
 layout: post
-permalink: /2012/04/06/free-course-an-introduction-to-jruby/
-thesis_description:
-  - A first of its kind. A free, online Introduction to JRuby course by RubyLearning.
-thesis_keywords:
-  - JRuby course,JRuby,JRuby Training, Programming, Ruby, Java, Introduction to JRuby
-topsy_short_url:
-  - 
+permalink: "/2012/04/06/free-course-an-introduction-to-jruby/"
 categories:
-  - Beginners
-  - JRuby
-  - Ruby
-  - Training
+  - beginners
+  - jruby
+  - ruby
+  - training
 tags:
   - Introduction to JRuby
   - Java
@@ -268,4 +262,3 @@ tags:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Introduction+to+JRuby" rel="tag">Introduction to JRuby</a>, <a href="http://technorati.com/tag/JRuby+course" rel="tag">JRuby course</a>, <a href="http://technorati.com/tag/JRuby" rel="tag">JRuby</a>, <a href="http://technorati.com/tag/JRuby+Training" rel="tag">JRuby Training</a>, <a href="http://technorati.com/tag/Programming" rel="tag"> Programming</a>, <a href="http://technorati.com/tag/Ruby" rel="tag"> Ruby</a>, <a href="http://technorati.com/tag/Java" rel="tag"> Java</a>

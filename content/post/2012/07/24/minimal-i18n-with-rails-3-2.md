@@ -1,7 +1,7 @@
 ---
 title: Minimal I18n with Rails 3.2
 author: Fabio Akita
-date: 2012/07/24
+date: "2012-07-24"
 layout: post
 permalink: /2012/07/24/minimal-i18n-with-rails-3-2/
 thesis_description:

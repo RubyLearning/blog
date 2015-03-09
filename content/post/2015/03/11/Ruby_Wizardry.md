@@ -1,17 +1,16 @@
 +++
 date = "2015-03-09T00:32:42-04:00"
-draft = true
-title = "Ruby Wizardry"
+author = 'Victor Goff'
+title = "Ruby Wizardry - A Book Review"
+tags = ["book", "review", "ruby"]
 
 +++
-# Ruby Wizardry - A Book Review
-
-This book is written by Eric Weinstein, published by "no starch
-press" and it is an introduction to programming for kids.<!--more-->
-
 It really is a whimsical story, about a kingdom in some trouble because
 of some mischievous hooligans and how this kingdom is saved by, well,
-you will have to read it to see.
+you will have to read it to see.  <!--more-->
+
+This book is written by Eric Weinstein, published by ["no starch press"](http://www.nostarch.com/rubywizardry)
+and it is an introduction to programming for kids.
 
 I had problems with reviewing this book, as I showed it to a young
 teenager, and I was not able to keep my hands on the book for any
@@ -30,7 +29,7 @@ at the end of the story, the excitement of having done all of this
 journey is celebrated, and additional references are presented right
 there to continue this journey with other resources.  There is no, "OK,
 what can I do now?  Because that was fun!"  You have the additional
-steps laid out.  But it is up to you to choose your direction.
+steps laid out.  No, it is just "That was fun, let's continue!"
 
 He has a coding style that he adheres to throughout the book, this makes
 the learning simpler as you aren't questioning why things have changed.
@@ -47,11 +46,11 @@ Overall, a great basis for continued progress as a programmer.
 As you journey through the book, you will have progressively done
 increasingly "hard" things, but I don't think you will really notice it.
 You will have created interactive programs, will have manipulated files,
-will have written a 'web app'.
+will have written the most basic web page.
 
 One thing that I was very happy to find in this book after the first
 Table of Contents is the "Contents in Detail" section.  Finding the
-review points in this book is now extremely easy, and if you need to
+review points in this book is extremely easy, and if you need to
 review something, you can easily find the things you are looking for.
 
 I was looking forward to reviewing this book, and now I am looking forward
