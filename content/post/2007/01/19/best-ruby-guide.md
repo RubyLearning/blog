@@ -5,6 +5,7 @@ date: "2007-01-19"
 layout: post
 categories:
   - ruby
+draft: true
 ---
 Max Kiesler has an excellent article.  The article presents the **Best Ruby
 Guide**, tutorials, examples and downloads he has <!--more-->found over the
