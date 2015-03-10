@@ -29,15 +29,13 @@ of India’). It has a very strong presence of the Automobile sector and
 is on its way to consolidate its position as the ‘Detroit of India’ too.
 It is also home to many software and IT companies.
 
-A little over one year ago, [Dibya Prakash](http://dibya.wordpress.com/)
-and I held the first meeting of the Ruby User Group of Pune –
+A little over one year ago, Dibya Prakash and I held the first meeting of the Ruby User Group of Pune –
 [PuneRuby](http://tech.groups.yahoo.com/group/puneruby/). This was
 attended by 25 people, mostly Java developers wanting to know more about
 this technology. PuneRuby has grown in strength with now over 400
-members. [SAP for Business Ltd.](http://sapforbusiness.com/) have been
-our main sponsors.
+members.
 
-Initially, [Reevik Technologies](http://reevik.com/) was the only
+Initially, Reevik Technologies was the only
 company working with Ruby and Rails. Today, every software company in
 Pune has started working in this technology. Big players like
 [Thoughtworks](http://www.thoughtworks.co.in/index.html) and [Persistent
@@ -45,23 +43,18 @@ Systems](http://www.persistentsys.com/) are some of the prominent
 examples.
 
 With the ever growing need of Ruby and Rails personnel in Pune, a move
-in the right direction has been taken by
-[IIMM](http://www.puneruby.com/blog/?p=104), Pune. From Feb. 2007, IIMM
+in the right direction has been taken by IIMM, Pune. From Feb. 2007, IIMM
 have introduced Ruby and Rails for all their IT related courses.
 
 At the beginning of the year, none of the books on Ruby and Rails were
-available in Pune. Today, the [Indian
-reprints](http://www.puneruby.com/blog/?p=102) of all these books are
+available in Pune. Today, the Indian reprints of all these books are
 immediately available.
 
 On a personal note, I had the good fortune to meet and talk to many
-[Ruby Gurus](http://sitekreator.com/satishtalim/ruby_gurus.html) around
-the world via my interviews for PuneRuby. With their encouragement I
+Ruby Gurus around the world via my interviews for PuneRuby. With their encouragement I
 published my [Ruby Study Notes](http://rubylearning.com/), which finds
 mention on the [Ruby Official
-site](http://www.ruby-lang.org/en/documentation/). Recently, Dibya
-Prakash and I are in the process of forming our own software company –
-[OsconLab](http://osconlab.com/) (Open Source Consulting Lab).
+site](http://www.ruby-lang.org/en/documentation/).
 
 Ruby is poised for growth and in the coming years you would hear a lot
 from the Rubyists in Pune.
