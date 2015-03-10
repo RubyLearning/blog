@@ -5,6 +5,7 @@ date: "2007-01-18"
 layout: post
 categories:
   - rails
+draft: true
 ---
 **Rails** has made many changes from 1.1.6 to 1.2. Update your working copy to
 the latest version by going to your command prompt and entering:
