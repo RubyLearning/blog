@@ -6,7 +6,6 @@ draft: true
 layout: post
 permalink: /2015/02/08/learn-ruby-programming-59th-batch/
 thesis_description:
-draft: true
   - 59th batch of the very popular online Ruby programming course announced by RubyLearning.
 thesis_keywords:
   - Ruby course,Ruby,Ruby Training, Programming
