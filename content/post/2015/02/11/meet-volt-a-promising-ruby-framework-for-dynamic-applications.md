@@ -13,9 +13,9 @@ topsy_short_url:
 categories:
   - Ruby
 tags:
-  - Ruby
-  - The Ruby Programming Language
-  - Volt framework
+  - ruby
+  - volt
+  - framework
 ---
 **By Amaury Andres Peniche Gonzalez – Software Engineer at
 [Toptal](http://www.toptal.com/)**
