@@ -13,7 +13,7 @@ It really is a whimsical story, about a kingdom in some trouble because
 of some mischievous hooligans and how this kingdom is saved by, well,
 you will have to read it to see.  <!--more-->
 
-![Ruby Wizardry](/media/ruby_wizardry_front_cover.png "Ruby Wizardry") 
+![Ruby Wizardry](/blog/media/ruby_wizardry_front_cover.png "Ruby Wizardry") 
 
 ## Introduction
 This book is written by Eric Weinstein, published by ["no starch press"](http://www.nostarch.com/rubywizardry)
