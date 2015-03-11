@@ -5,7 +5,6 @@ author = 'Satish Talim'
 authortwitter = "http://twitter.com/kotp"
 authorlinkedin = "https://www.linkedin.com/profile/view?id=13919883"
 authorgoogleplus = "https://plus.google.com/+VictorGoff/about"
-title = "Ruby Wizardry - A Book Review"
 tags = ["book", "review", "ruby"]
 totop = true
 draft = true
