@@ -2,6 +2,7 @@
 title: 'Learn Ruby programming - 59th batch'
 author: Satish Talim
 date: 2015-02-08
+draft: true
 layout: post
 permalink: /2015/02/08/learn-ruby-programming-59th-batch/
 thesis_description:
@@ -12,14 +13,14 @@ thesis_keywords:
 topsy_short_url:
   - http://bit.ly/1M0MmVp
 categories:
-  - Beginners
-  - Ruby
-  - Training
+  - beginners
+  - ruby
+  - training
 tags:
   - programming
-  - Ruby
-  - Ruby course
-  - Ruby training
+  - ruby
+  - course
+  - training
 ---
 <div>
   <p>
