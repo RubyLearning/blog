@@ -287,7 +287,7 @@ people start experimenting with it. Due to a number of innovative
 features, many developers could fall in love with Volt and use it for
 their next project.
 
-Finally, here’s the complete code that we have developed:
+Finally, here’s the [complete code](https://gist.github.com/apeniche/2bb6edd82c3e3e0044e6) that we have developed.
 
 Technorati Tags: [Ruby](http://technorati.com/tag/Ruby), [The Ruby
 Programming
