@@ -4,17 +4,11 @@ author: Satish Talim
 date: 2014-03-13
 layout: post
 permalink: /2014/03/13/my-articles-on-go-for-joshsoftware/
-thesis_description:
-  - Go articles written for JoshSoftware.
-thesis_keywords:
-  - go, golang
-topsy_short_url:
-  - http://bit.ly/1gqBiOi
 categories:
-  - Go
+  - go
 tags:
-  - Go
-  - Golang
+  - go
+  - golang
 ---
 <div>
   <p>
@@ -26,7 +20,7 @@ tags:
       My experience at the awesome, first-ever GopherCon 2014 &#8211; <a href="http://blog.joshsoftware.com/2014/05/05/my-experience-at-the-awesome-first-ever-gophercon-2014/">link</a>
     </li>
     <li>
-      A Fun, Weather Forecast Go Web App &#8211; <a href="http://blog.joshsoftware.com/2014/04/02/fun-with-gmail-and-go/">link</a>
+      A Fun, Weather Forecast Go Web App &#8211; <a href="http://blog.joshsoftware.com/2014/04/07/a-fun-weather-forecast-go-web-app/">link</a>
     </li>
     <li>
       Fun with Gmail and Go &#8211; <a href="http://blog.joshsoftware.com/2014/04/02/fun-with-gmail-and-go/">link</a>
