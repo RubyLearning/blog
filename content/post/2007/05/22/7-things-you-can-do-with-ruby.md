@@ -1,13 +1,14 @@
 ---
-title: "7 Things You Can Do With Ruby"
-author: "Satish Talim"
-date: "2007-05-22"
-layout: post
+author: Satish Talim
 categories:
-  - humor
-  - rails
-  - ruby
+- humor
+- rails
+- ruby
+date: 2007-05-22
+layout: post
+title: 7 Things You Can Do With Ruby
 ---
+
 So you want to do something with **Ruby** but think there’s not much you
 can do? Rubbish! <!--more-->
 

@@ -1,23 +1,25 @@
 ---
-title: 'Shorty Awards: Honoring The Best People and Organizations on Twitter'
 author: Satish Talim
+categories:
+- Shorty Awards
+- Twitter
 date: 2010-01-06
 layout: post
 permalink: /2010/01/06/shorty-awards-honoring-the-best-people-and-organizations-on-twitter/
-thesis_description:
-  - The Shorty Awards identifies the best people on Twitter. Last year RubyLearning won the award in Education.
-thesis_keywords:
-  - IndianGuru,Shorty Awards,Twitter
-topsy_short_url:
-  - http://bit.ly/71Cvpm
-categories:
-  - Shorty Awards
-  - Twitter
 tags:
-  - IndianGuru
-  - Shorty Awards
-  - Twitter
+- IndianGuru
+- Shorty Awards
+- Twitter
+thesis_description:
+- The Shorty Awards identifies the best people on Twitter. Last year RubyLearning
+  won the award in Education.
+thesis_keywords:
+- IndianGuru,Shorty Awards,Twitter
+title: 'Shorty Awards: Honoring The Best People and Organizations on Twitter'
+topsy_short_url:
+- http://bit.ly/71Cvpm
 ---
+
 <div>
   <blockquote>
     <p>

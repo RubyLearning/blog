@@ -1,30 +1,32 @@
 ---
-title: 'RubyConf India : Hospitality was anything but pleasant at The Lalit resort and spa, Goa'
 author: Ajey Gore
+categories:
+- General
+- Ruby
 date: 2014-03-26
 layout: post
 permalink: /2014/03/26/rubyconf-india-hospitality-was-anything-but-pleasant-at-the-lalit-resort-and-spa-goa/
-thesis_description:
-  - How an International Hotel screwed up a community conference.
-thesis_keywords:
-  - ruby, rubyconfindia, lalit, canacona, goa, conference
-topsy_short_url:
-  - http://bit.ly/1duR3J4
-thesis_thumb_width:
-  - 66
-thesis_thumb_height:
-  - 66
-categories:
-  - General
-  - Ruby
 tags:
-  - canacona
-  - conference
-  - goa
-  - lalit
-  - Ruby
-  - rubyconfindia
+- canacona
+- conference
+- goa
+- lalit
+- Ruby
+- rubyconfindia
+thesis_description:
+- How an International Hotel screwed up a community conference.
+thesis_keywords:
+- ruby, rubyconfindia, lalit, canacona, goa, conference
+thesis_thumb_height:
+- 66
+thesis_thumb_width:
+- 66
+title: 'RubyConf India : Hospitality was anything but pleasant at The Lalit resort
+  and spa, Goa'
+topsy_short_url:
+- http://bit.ly/1duR3J4
 ---
+
 <div>
   <p class="block">
     <span class="drop_cap">T</span>his is a re-post of my original blog post <a href="http://ajeygore.in/rubyconf/the-lalit-goof-up.html">here</a>.

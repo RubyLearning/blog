@@ -1,24 +1,26 @@
 ---
-title: How does one effectively combine Ruby with Git for source control?
 author: Erik Andrejko
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-11-24
 layout: post
 permalink: /2010/11/24/how-does-one-effectively-combine-ruby-with-git-for-source-control/
-thesis_description:
-  - Erik Andrejko shows us some of the common workflows and best features of git, making Ruby and git a powerful combination.
-thesis_keywords:
-  - Git,Programming,Ruby programming
-topsy_short_url:
-  - http://bit.ly/hGlCxx
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - Git
-  - programming
-  - ruby programming
+- Git
+- programming
+- ruby programming
+thesis_description:
+- Erik Andrejko shows us some of the common workflows and best features of git, making
+  Ruby and git a powerful combination.
+thesis_keywords:
+- Git,Programming,Ruby programming
+title: How does one effectively combine Ruby with Git for source control?
+topsy_short_url:
+- http://bit.ly/hGlCxx
 ---
+
 <div>
   <h3>
     How does one effectively combine Ruby with Git for source control?

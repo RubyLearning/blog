@@ -1,26 +1,27 @@
 ---
-title: 'Ruby Programming 35th Batch - Registrations now open'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Training
 date: 2012-07-16
+draft: true
 layout: post
 permalink: /2012/07/16/ruby-programming-35th-batch-registrations-now-open/
-thesis_description:
-  - The 35th batch of the popular Ruby programming course by RubyLearning has been announced.
-thesis_keywords:
-  - Ruby course,Ruby,Ruby Training, Programming
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Ruby
-  - Training
 tags:
-  - programming
-  - Ruby
-  - Ruby course
-  - Ruby training
+- programming
+- Ruby
+- Ruby course
+- Ruby training
+thesis_description:
+- The 35th batch of the popular Ruby programming course by RubyLearning has been announced.
+thesis_keywords:
+- Ruby course,Ruby,Ruby Training, Programming
+title: Ruby Programming 35th Batch - Registrations now open
+topsy_short_url:
+- null
 ---
+
 <div>
   <p>
     <span class="drop_cap">R</span>egistrations are now open for RubyLearning&#8217;s popular Ruby programming course. This is an intensive, online course for <em>beginners</em> that helps you get started with <strong>Ruby</strong> programming.

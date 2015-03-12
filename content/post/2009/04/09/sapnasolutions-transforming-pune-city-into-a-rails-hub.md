@@ -1,30 +1,32 @@
 ---
-title: SapnaSolutions Transforming Pune City into a Rails Hub
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Merb
+- Rails
+- Ruby
+- Ruby on Rails
 date: 2009-04-09
+description:
+- SapnaSolutions have taken on the task of transforming Pune City into a Rails Hub
+  and RubyLearning is there to support them.
+keywords:
+- Nick Adams,Ruby on Rails,Pune,India,SapnaSolutions,Web2.0
 layout: post
 permalink: /2009/04/09/sapnasolutions-transforming-pune-city-into-a-rails-hub/
-keywords:
-  - Nick Adams,Ruby on Rails,Pune,India,SapnaSolutions,Web2.0
-description:
-  - SapnaSolutions have taken on the task of transforming Pune City into a Rails Hub and RubyLearning is there to support them.
-topsy_short_url:
-  - http://bit.ly/6eoyl3
-categories:
-  - Beginners
-  - Interview
-  - Merb
-  - Rails
-  - Ruby
-  - Ruby on Rails
 tags:
-  - india
-  - Nick Adams
-  - pune
-  - Rails
-  - SapnaSolutions
-  - Web2.0
+- india
+- Nick Adams
+- pune
+- Rails
+- SapnaSolutions
+- Web2.0
+title: SapnaSolutions Transforming Pune City into a Rails Hub
+topsy_short_url:
+- http://bit.ly/6eoyl3
 ---
+
 <div>
   <p class="alert">
     <strong>Nick Adams</strong> is the CTO and Co-Founder of <strong>SapnaSolutions</strong>. SapnaSolutions is on a mission of transforming Pune city into a Ruby on Rails hub.

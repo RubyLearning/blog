@@ -1,24 +1,25 @@
 ---
-title: "Why don't you use and review these useful Ruby Gems?"
 author: Satish Talim
+categories:
+- beginners
+- ruby
 date: 2011-07-25
 layout: post
 permalink: /2011/07/25/why-dont-you-use-and-review-these-useful-ruby-gems/
-thesis_description:
-  - Showcasing some Ruby Gems written by developers like you and me.
-thesis_keywords:
-  - Ruby,Ruby Gems,Rubyists,Programming
-topsy_short_url:
-  - http://bit.ly/ogfWey
-categories:
-  - beginners
-  - ruby
 tags:
-  - programming
-  - ruby
-  - ruby gems
-  - rubyists
+- programming
+- ruby
+- ruby gems
+- rubyists
+thesis_description:
+- Showcasing some Ruby Gems written by developers like you and me.
+thesis_keywords:
+- Ruby,Ruby Gems,Rubyists,Programming
+title: Why don't you use and review these useful Ruby Gems?
+topsy_short_url:
+- http://bit.ly/ogfWey
 ---
+
 <div>
   <h3>
     Showcasing some Ruby Gems from developers like you and me

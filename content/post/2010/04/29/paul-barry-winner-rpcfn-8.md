@@ -1,28 +1,29 @@
 ---
-title: 'Paul Barry Winner RPCFN - 8'
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- RPCFN
+- Ruby
 date: 2010-04-29
 layout: post
 permalink: /2010/04/29/paul-barry-winner-rpcfn-8/
-thesis_description:
-  - Paul Barry, winner of the eighth Ruby Challenge for Beginners talks to RubyLearning.org
-thesis_keywords:
-  - paul barry, ruby, ruby programming, rpcfn, usa, ruby challenge
-topsy_short_url:
-  - http://bit.ly/cw2w6m
-categories:
-  - Beginners
-  - Interview
-  - RPCFN
-  - Ruby
 tags:
-  - Paul Barry
-  - RPCFN
-  - Ruby
-  - Ruby Challenge
-  - ruby programming
-  - USA
+- Paul Barry
+- RPCFN
+- Ruby
+- Ruby Challenge
+- ruby programming
+- USA
+thesis_description:
+- Paul Barry, winner of the eighth Ruby Challenge for Beginners talks to RubyLearning.org
+thesis_keywords:
+- paul barry, ruby, ruby programming, rpcfn, usa, ruby challenge
+title: Paul Barry Winner RPCFN - 8
+topsy_short_url:
+- http://bit.ly/cw2w6m
 ---
+
 <div>
   <p class="alert">
     In this brief interview, Satish Talim of RubyLearning talks to <b><a href="http://twitter.com/pjb3">Paul Barry</a> of USA</b>, winner of the eighth <a href="http://rubylearning.com/blog/2010/04/07/rpcfn-xml-transformer-8/">Ruby Programming Challenge For Newbies</a>.

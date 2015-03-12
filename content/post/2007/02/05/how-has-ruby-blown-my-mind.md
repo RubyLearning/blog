@@ -1,11 +1,12 @@
 ---
-title: "How has Ruby blown my mind?"
-author: "Satish Talim"
+author: Satish Talim
+categories:
+- ruby
 date: 2007-02-05
 layout: post
-categories:
-  - ruby
+title: How has Ruby blown my mind?
 ---
+
 [Ruby Code
 blocks](http://sitekreator.com/satishtalim/blocks_and_procs.html) – This
 single language feature in Ruby, has changed the way I think about code.

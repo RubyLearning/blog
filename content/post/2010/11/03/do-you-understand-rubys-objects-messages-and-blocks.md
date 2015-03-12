@@ -1,26 +1,28 @@
 ---
-title: "Do You Understand Ruby's Objects, Messages and Blocks?"
 author: Ed Howland
+categories:
+- beginners
+- ruby
+- ruby masters
 date: 2010-11-03
 layout: post
 permalink: /2010/11/03/do-you-understand-rubys-objects-messages-and-blocks/
-thesis_description:
-  - "Ed Howland de-constructs Ruby's message protocol and looks into what is really going on behind the scenes. A guest blog post on RubyLearning."
-thesis_keywords:
-  - Ruby Objects, Ruby Messages,Ruby Blocks,Programming,Ruby programming
-topsy_short_url:
-  - http://bit.ly/admgNf
-categories:
-  - beginners
-  - ruby
-  - ruby masters
 tags:
-  - programming
-  - ruby blocks
-  - ruby messages
-  - ruby objects
-  - ruby programming
+- programming
+- ruby blocks
+- ruby messages
+- ruby objects
+- ruby programming
+thesis_description:
+- Ed Howland de-constructs Ruby's message protocol and looks into what is really going
+  on behind the scenes. A guest blog post on RubyLearning.
+thesis_keywords:
+- Ruby Objects, Ruby Messages,Ruby Blocks,Programming,Ruby programming
+title: Do You Understand Ruby's Objects, Messages and Blocks?
+topsy_short_url:
+- http://bit.ly/admgNf
 ---
+
 <div>
   <h3 id="objects-messages-and-blocks">
     Do You Understand Ruby&#8217;s Objects, Messages and Blocks?

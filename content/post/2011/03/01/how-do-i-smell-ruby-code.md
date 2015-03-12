@@ -1,24 +1,25 @@
 ---
-title: How do I smell Ruby code?
 author: Timon Vonk
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2011-03-01
 layout: post
 permalink: /2011/03/01/how-do-i-smell-ruby-code/
-thesis_description:
-  - Timon Vonk talks about Ruby code smells in an effort to improve Ruby code.
-thesis_keywords:
-  - Programming,Ruby programming, Ruby code smell
-topsy_short_url:
-  - http://bit.ly/hT9oKA
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - programming
-  - Ruby code smell
-  - ruby programming
+- programming
+- Ruby code smell
+- ruby programming
+thesis_description:
+- Timon Vonk talks about Ruby code smells in an effort to improve Ruby code.
+thesis_keywords:
+- Programming,Ruby programming, Ruby code smell
+title: How do I smell Ruby code?
+topsy_short_url:
+- http://bit.ly/hT9oKA
 ---
+
 <div>
   <h3>
     How do I smell Ruby code?

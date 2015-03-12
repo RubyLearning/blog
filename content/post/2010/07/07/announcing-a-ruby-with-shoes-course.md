@@ -1,27 +1,29 @@
 ---
-title: Announcing a Ruby with Shoes Course
-draft: true
 author: Satish Talim
+categories:
+- Ruby
+- Shoes
 date: 2010-07-07
+draft: true
 layout: post
 permalink: /2010/07/07/announcing-a-ruby-with-shoes-course/
-thesis_description:
-  - Shoes Ninja Satoshi Asakawa from Japan is conducting the 6th batch of the Ruby with Shoes course at RubyLearning.
-thesis_keywords:
-  - Ruby course,Ruby training,Ruby,Satoshi Asakawa,Shoes,The Ruby Programming Language
-topsy_short_url:
-  - http://bit.ly/cwiq42
-categories:
-  - Ruby
-  - Shoes
 tags:
-  - Ruby
-  - Ruby course
-  - Ruby training
-  - Satoshi Asakawa
-  - Shoes
-  - The Ruby Programming Language
+- Ruby
+- Ruby course
+- Ruby training
+- Satoshi Asakawa
+- Shoes
+- The Ruby Programming Language
+thesis_description:
+- Shoes Ninja Satoshi Asakawa from Japan is conducting the 6th batch of the Ruby with
+  Shoes course at RubyLearning.
+thesis_keywords:
+- Ruby course,Ruby training,Ruby,Satoshi Asakawa,Shoes,The Ruby Programming Language
+title: Announcing a Ruby with Shoes Course
+topsy_short_url:
+- http://bit.ly/cwiq42
 ---
+
 <div>
   <h3>
     Ruby with Shoes Course &#8211; 7th Batch

@@ -1,28 +1,29 @@
 ---
-title: 10+ Ruby Rails companies in Pune, India
 author: Satish Talim
+categories:
+- Rails
+- Ruby
+- Ruby on Rails
 date: 2009-06-05
+description:
+- 10+ Ruby Rails companies in Pune, India to outsource your Rails projects.
+dsq_thread_id:
+- 208370825
+keywords:
+- India,Pune,Rails Companies in Pune,Ruby on Rails,Outsource
 layout: post
 permalink: /2009/06/05/10-ruby-rails-companies-in-pune-india/
-keywords:
-  - India,Pune,Rails Companies in Pune,Ruby on Rails,Outsource
-description:
-  - 10+ Ruby Rails companies in Pune, India to outsource your Rails projects.
-topsy_short_url:
-  - 
-dsq_thread_id:
-  - 208370825
-categories:
-  - Rails
-  - Ruby
-  - Ruby on Rails
 tags:
-  - india
-  - Outsource
-  - pune
-  - Rails Companies in Pune
-  - Ruby on Rails
+- india
+- Outsource
+- pune
+- Rails Companies in Pune
+- Ruby on Rails
+title: 10+ Ruby Rails companies in Pune, India
+topsy_short_url:
+- null
 ---
+
 <div>
   <h3>
     10+ Ruby Rails companies in Pune, India

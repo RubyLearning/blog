@@ -1,24 +1,26 @@
 ---
-title: 7 secrets every developer should know before getting into a manager or lead role
 author: Pramod Paranjape
+categories:
+- General
 date: 2013-05-24
 layout: post
 permalink: /2013/05/24/7-secrets-every-developer-should-know-before-getting-into-a-manager-or-lead-role/
-thesis_keywords:
-  - pramod paranjape
-topsy_short_url:
-  - http://bit.ly/11fZ1yp
-thesis_thumb_width:
-  - 66
-thesis_thumb_height:
-  - 66
-categories:
-  - General
 tags:
-  - How to
-  - New manager
-  - Pramod Paranjape
+- How to
+- New manager
+- Pramod Paranjape
+thesis_keywords:
+- pramod paranjape
+thesis_thumb_height:
+- 66
+thesis_thumb_width:
+- 66
+title: 7 secrets every developer should know before getting into a manager or lead
+  role
+topsy_short_url:
+- http://bit.ly/11fZ1yp
 ---
+
 <div>
   <h2>
     7 secrets every developer should know before getting into a manager or lead role

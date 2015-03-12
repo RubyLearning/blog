@@ -1,12 +1,13 @@
 ---
-title: "ColourCode in Ruby"
-author: "Satish Talim"
-date: "2007-04-19"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - ruby
+- news
+- ruby
+date: 2007-04-19
+layout: post
+title: ColourCode in Ruby
 ---
+
 [ColourCode](http://22bits.exofire.net/browse/code/colourcode) is a
 syntax highlighter. It can read in a source file and generate a
 syntax-highlighted version in various formats. ColourCode is written in

@@ -1,23 +1,24 @@
 ---
-title: ROR based websites made by Indian companies
 author: Satish Talim
+categories:
+- Ruby
+- Ruby on Rails
 date: 2010-07-18
 layout: post
 permalink: /2010/07/18/ror-based-websites-made-by-indian-companies/
-thesis_description:
-  - A compilation of ROR based websites made by Indian companies.
-thesis_keywords:
-  - Ruby,Ruby on Rails,India
-topsy_short_url:
-  - http://bit.ly/c5XrPM
-categories:
-  - Ruby
-  - Ruby on Rails
 tags:
-  - india
-  - Ruby
-  - Ruby on Rails
+- india
+- Ruby
+- Ruby on Rails
+thesis_description:
+- A compilation of ROR based websites made by Indian companies.
+thesis_keywords:
+- Ruby,Ruby on Rails,India
+title: ROR based websites made by Indian companies
+topsy_short_url:
+- http://bit.ly/c5XrPM
 ---
+
 <div>
   <p class="alert">
     As a sequel to my post <a href="http://rubylearning.com/blog/2010/02/08/indian-ruby-on-rails-portfolio/">Indian Ruby on Rails Portfolio</a>, I am compiling a list (in alphabetical order of company names) showcasing <strong>ROR based websites made by Indian companies</strong>.

@@ -1,21 +1,22 @@
 ---
-title: Top 3 Posts for July 2011 on RubyLearning
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
 date: 2011-08-01
 layout: post
 permalink: /2011/08/01/top-3-posts-for-july-2011-on-rubylearning/
-thesis_description:
-  - A roundup of the Top 3 posts on RubyLearning for July 2011.
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Ruby
 tags:
-  - programming
-  - Ruby
-  - ruby programming
+- programming
+- Ruby
+- ruby programming
+thesis_description:
+- A roundup of the Top 3 posts on RubyLearning for July 2011.
+title: Top 3 Posts for July 2011 on RubyLearning
+topsy_short_url:
+- null
 ---
+
 <div>
   <h4>
     (Based on Google Analytics)

@@ -1,14 +1,15 @@
 ---
-title: '"AkitaOnRails" On Anatomy of Ruby Blocks/Closures'
-author: "Fabio Akita"
-date: "2007-11-30"
-layout: post
+author: Fabio Akita
 categories:
-  - beginners
-  - rails
-  - ruby
-  - training
+- beginners
+- rails
+- ruby
+- training
+date: 2007-11-30
+layout: post
+title: '"AkitaOnRails" On Anatomy of Ruby Blocks/Closures'
 ---
+
 ***Fabio Akita’s*** "AkitaOnRails" series at RubyLearning.com, for
 would-be Ruby developers, has been quite a hit. Today in another
 article, Fabio talks in depth about Ruby’s **Blocks/Closures**, This is

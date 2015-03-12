@@ -1,25 +1,27 @@
 ---
-title: 'Michael Fogus talks to RubyLearning - Clojure Course Participants'
 author: Satish Talim
+categories:
+- Clojure
+- Interview
 date: 2010-03-10
 layout: post
 permalink: /2010/03/10/michael-fogus-talks-to-rubylearnings-clojure-course-participants/
-thesis_description:
-  - Michael Fogus author of the book The Joy of Clojure talks to RubyLearning’s Clojure Course Participants.
-thesis_keywords:
-  - Michael Fogus,The Joy of Clojure,Clojure,Clojure course,Clojure training
-topsy_short_url:
-  - http://bit.ly/aJjIC6
-categories:
-  - Clojure
-  - Interview
 tags:
-  - Clojure
-  - Clojure course
-  - Clojure Training
-  - Michael Fogus
-  - The Joy of Clojure
+- Clojure
+- Clojure course
+- Clojure Training
+- Michael Fogus
+- The Joy of Clojure
+thesis_description:
+- "Michael Fogus author of the book The Joy of Clojure talks to RubyLearning’s Clojure
+  Course Participants."
+thesis_keywords:
+- Michael Fogus,The Joy of Clojure,Clojure,Clojure course,Clojure training
+title: Michael Fogus talks to RubyLearning - Clojure Course Participants
+topsy_short_url:
+- http://bit.ly/aJjIC6
 ---
+
 <div>
   <p class="alert">
     On the eve of the first free, online &#8220;<strong><a href="http://rubylearning.com/blog/2010/03/09/clojure-101-a-new-course/">Clojure 101</a></strong>&#8221; course, Michael Kohl of RubyLearning caught up with <strong>Michael Fogus</strong>, author of the forthcoming book &#8211; <a href="http://joyofclojure.com/">The Joy of Clojure</a>. In this interview, Michael Fogus talks to the Clojure 101 course participants on <strong>Clojure</strong>.

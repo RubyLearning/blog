@@ -1,32 +1,34 @@
 ---
-title: 'Interview: Adam Wiggins on Heroku'
 author: Satish Talim
+categories:
+- Beginners
+- Heroku
+- Interview
+- Merb
+- Rails
+- Ruby
+- Sinatra
 date: 2009-03-13
+description:
+- Heroku - is fast, it's easy, and it just works. Adam Wiggins of Heroku talks to
+  RubyLearning in this interview.
+keywords:
+- Adam Wiggins,Interviews,Ruby,Sinatra,Merb, Heroku,The Ruby Programming Language
 layout: post
 permalink: /2009/03/13/interview-adam-wiggins-on-heroku/
-keywords:
-  - Adam Wiggins,Interviews,Ruby,Sinatra,Merb, Heroku,The Ruby Programming Language
-description:
-  - "Heroku - is fast, it's easy, and it just works. Adam Wiggins of Heroku talks to RubyLearning in this interview."
-topsy_short_url:
-  - http://bit.ly/akKCbS
-categories:
-  - Beginners
-  - Heroku
-  - Interview
-  - Merb
-  - Rails
-  - Ruby
-  - Sinatra
 tags:
-  - Adam Wiggins
-  - Heroku
-  - interviews
-  - Merb
-  - Ruby
-  - Sinatra
-  - The Ruby Programming Language
+- Adam Wiggins
+- Heroku
+- interviews
+- Merb
+- Ruby
+- Sinatra
+- The Ruby Programming Language
+title: 'Interview: Adam Wiggins on Heroku'
+topsy_short_url:
+- http://bit.ly/akKCbS
 ---
+
 <div>
   <p class="alert">
     On the eve of the first ever online &#8220;<strong>Introduction to Sinatra</strong>&#8221; course, Satish Talim and Victor H. Goff III of RubyLearning caught up with <strong>Adam Wiggins</strong> and talked to him on <strong>Heroku</strong> (pronounced her-OH-koo), in this interview.

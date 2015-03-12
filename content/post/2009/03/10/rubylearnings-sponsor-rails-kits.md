@@ -1,24 +1,26 @@
 ---
-title: "RubyLearning's Sponsor: Rails Kits"
 author: Satish Talim
+categories:
+- rails
+- ruby
+- ruby on rails
+- sponsors
 date: 2009-03-10
+description:
+- RubyLearning's sponsor Rails Kits is the place to get ready-to-use Rails code that
+  will help you build your apps faster.
+keywords:
+- RailsKits,Ruby,Ruby on Rails,Sponsors
 layout: post
 permalink: /2009/03/10/rubylearnings-sponsor-rails-kits/
-keywords:
-  - RailsKits,Ruby,Ruby on Rails,Sponsors
-description:
-  - "RubyLearning's sponsor Rails Kits is the place to get ready-to-use Rails code that will help you build your apps faster."
-categories:
-  - rails
-  - ruby
-  - ruby on rails
-  - sponsors
 tags:
-  - railskits
-  - ruby
-  - ruby on rails
-  - sponsors
+- railskits
+- ruby
+- ruby on rails
+- sponsors
+title: 'RubyLearning''s Sponsor: Rails Kits'
 ---
+
 <div>
   <p>
     It&#8217;s time to thank RubyLearning&#8217;s sponsor &#8211; <a href="http://railskits.com/">Rails Kits</a>.

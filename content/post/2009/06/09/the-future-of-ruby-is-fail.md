@@ -1,33 +1,34 @@
 ---
-title: The Future of Ruby is Fail!
 author: Satish Talim
+categories:
+- Interview
+- Rails
+- Ruby
+- Ruby on Rails
 date: 2009-06-09
+description:
+- Four Ruby experts from Pune, India discuss the future of Ruby from the Indian context.
+dsq_thread_id:
+- 208369477
+keywords:
+- The Future of Ruby is Fail!,Ruby Programming,Ruby Interviews,Pune,India
 layout: post
 permalink: /2009/06/09/the-future-of-ruby-is-fail/
-thesis_description:
-  - Four Ruby experts from Pune, India discuss the future of Ruby from the Indian context.
-thesis_keywords:
-  - The Future of Ruby is Fail!,Ruby Programming,Ruby Interviews,Pune,India
-keywords:
-  - The Future of Ruby is Fail!,Ruby Programming,Ruby Interviews,Pune,India
-description:
-  - Four Ruby experts from Pune, India discuss the future of Ruby from the Indian context.
-topsy_short_url:
-  - http://bit.ly/cB4xgu
-dsq_thread_id:
-  - 208369477
-categories:
-  - Interview
-  - Rails
-  - Ruby
-  - Ruby on Rails
 tags:
-  - india
-  - pune
-  - ruby interviews
-  - ruby programming
-  - The Future of Ruby is Fail!
+- india
+- pune
+- ruby interviews
+- ruby programming
+- The Future of Ruby is Fail!
+thesis_description:
+- Four Ruby experts from Pune, India discuss the future of Ruby from the Indian context.
+thesis_keywords:
+- The Future of Ruby is Fail!,Ruby Programming,Ruby Interviews,Pune,India
+title: The Future of Ruby is Fail!
+topsy_short_url:
+- http://bit.ly/cB4xgu
 ---
+
 <div>
   <h3>
     The Future of Ruby is Fail!

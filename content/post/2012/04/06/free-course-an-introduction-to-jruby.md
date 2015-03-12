@@ -1,24 +1,25 @@
 ---
-title: 'Free Course - An Introduction to JRuby'
-draft: true
 author: Satish Talim
-date: "2012-04-06"
-layout: post
-permalink: "/2012/04/06/free-course-an-introduction-to-jruby/"
 categories:
-  - beginners
-  - jruby
-  - ruby
-  - training
+- beginners
+- jruby
+- ruby
+- training
+date: 2012-04-06
+draft: true
+layout: post
+permalink: /2012/04/06/free-course-an-introduction-to-jruby/
 tags:
-  - Introduction to JRuby
-  - Java
-  - JRuby
-  - jruby course
-  - JRuby Training
-  - programming
-  - Ruby
+- Introduction to JRuby
+- Java
+- JRuby
+- jruby course
+- JRuby Training
+- programming
+- Ruby
+title: Free Course - An Introduction to JRuby
 ---
+
 <div>
   <p>
     <span class="drop_cap">I</span>ntroducing an online course for <em>beginners</em> that helps you get started with <strong>JRuby</strong> programming.

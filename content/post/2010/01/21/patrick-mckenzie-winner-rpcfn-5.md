@@ -1,30 +1,29 @@
 ---
-title: 'Patrick McKenzie Winner RPCFN - 5'
 author: Satish Talim
+categories:
+- interview
+- rpcfn
+- ruby
 date: 2010-01-21
 layout: post
 permalink: /2010/01/21/patrick-mckenzie-winner-rpcfn-5/
-thesis_description:
-  - |
-    |
-        Patrick McKenzie Winner of the Ruby Challenge for Newbies #4 talks to RubyLearning.
-        
-thesis_keywords:
-  - Patrick McKenzie,Ruby,Ruby programming,RPCFN,Japan, Ruby Challenge
-topsy_short_url:
-  - http://bit.ly/8sgg0f
-categories:
-  - interview
-  - rpcfn
-  - ruby
 tags:
-  - japan
-  - patrick mckenzie
-  - rpcfn
-  - ruby
-  - ruby challenge
-  - ruby programming
+- japan
+- patrick mckenzie
+- rpcfn
+- ruby
+- ruby challenge
+- ruby programming
+thesis_description:
+- "|\n    Patrick McKenzie Winner of the Ruby Challenge for Newbies #4 talks to RubyLearning.\n
+  \   \n"
+thesis_keywords:
+- Patrick McKenzie,Ruby,Ruby programming,RPCFN,Japan, Ruby Challenge
+title: Patrick McKenzie Winner RPCFN - 5
+topsy_short_url:
+- http://bit.ly/8sgg0f
 ---
+
 <div>
   <p class="alert">
     In this brief interview, Satish Talim of RubyLearning talks to <b>Patrick McKenzie of Japan</b>, winner of the fifth <a href="http://rubylearning.com/blog/2009/12/27/rpcfn-mazes-5/">Ruby Programming Challenge For Newbies</a>.

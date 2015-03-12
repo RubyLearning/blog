@@ -1,25 +1,27 @@
 ---
-title: 'FXRuby, YAML, ActiveRecord and Database - A New Course'
-draft: true
 author: Satish Talim
+categories:
+- Ruby
+- Training
 date: 2008-10-20
+description:
+- The popular Advanced Ruby course conducted online by RubyLearning with participants
+  from over 140 countries.
+draft: true
+keywords:
+- Ruby course,Ruby training,ActiveRecord,FXRuby,MySQL,Ruby,The Ruby Programming Language,YAML
 layout: post
 permalink: /2008/10/20/fxruby-yaml-activerecord-and-database-a-new-course/
-keywords:
-  - Ruby course,Ruby training,ActiveRecord,FXRuby,MySQL,Ruby,The Ruby Programming Language,YAML
-description:
-  - The popular Advanced Ruby course conducted online by RubyLearning with participants from over 140 countries.
-categories:
-  - Ruby
-  - Training
 tags:
-  - ActiveRecord
-  - FXRuby
-  - MySQL
-  - Ruby
-  - The Ruby Programming Language
-  - YAML
+- ActiveRecord
+- FXRuby
+- MySQL
+- Ruby
+- The Ruby Programming Language
+- YAML
+title: FXRuby, YAML, ActiveRecord and Database - A New Course
 ---
+
 <div>
   <h3>
     FXRuby, YAML, ActiveRecord and MySQL

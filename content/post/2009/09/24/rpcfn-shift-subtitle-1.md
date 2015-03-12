@@ -1,27 +1,28 @@
 ---
-title: 'RPCFN: Shift Subtitle 1'
 author: Satish Talim
+categories:
+- beginners
+- rpcfn
+- ruby
 date: 2009-09-24
 layout: post
 permalink: /2009/09/24/rpcfn-shift-subtitle-1/
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN
-thesis_description:
-  - The first-ever Ruby Programming Challenge for Newbies.
-topsy_short_url:
-  - http://bit.ly/8D4krn
-categories:
-  - beginners
-  - rpcfn
-  - ruby
 tags:
-  - fabio akita
-  - programming
-  - rpcfn
-  - ruby
-  - ruby programming challenge for newbies
-  - the ruby programming language
+- fabio akita
+- programming
+- rpcfn
+- ruby
+- ruby programming challenge for newbies
+- the ruby programming language
+thesis_description:
+- The first-ever Ruby Programming Challenge for Newbies.
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN
+title: 'RPCFN: Shift Subtitle 1'
+topsy_short_url:
+- http://bit.ly/8D4krn
 ---
+
 <div>
   <h3>
     Ruby Programming Challenge For Newbies

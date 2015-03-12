@@ -1,30 +1,32 @@
 ---
-title: 'Interview: Carl Lerche on Merb'
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Merb
+- Ruby
 date: 2009-03-28
+description:
+- RubyLearning talks to Carl Lerche, a core Merb developer, on the eve of the online
+  Merb course at RubyLearning.
+keywords:
+- Interviews,Carl Lerche,Merb,Merbist,Ruby,RubyLearning,The Merb Way,Merb in action
 layout: post
 permalink: /2009/03/28/interview-carl-lerche-on-merb/
-keywords:
-  - Interviews,Carl Lerche,Merb,Merbist,Ruby,RubyLearning,The Merb Way,Merb in action
-description:
-  - RubyLearning talks to Carl Lerche, a core Merb developer, on the eve of the online Merb course at RubyLearning.
-topsy_short_url:
-  - http://bit.ly/cWAqMG
-categories:
-  - Beginners
-  - Interview
-  - Merb
-  - Ruby
 tags:
-  - Carl Lerche
-  - interviews
-  - Merb
-  - Merb in Action
-  - Merbist
-  - Ruby
-  - RubyLearning
-  - The Merb Way
+- Carl Lerche
+- interviews
+- Merb
+- Merb in Action
+- Merbist
+- Ruby
+- RubyLearning
+- The Merb Way
+title: 'Interview: Carl Lerche on Merb'
+topsy_short_url:
+- http://bit.ly/cWAqMG
 ---
+
 <div>
   <p class="update">
     <span class="drop_cap">R</span>ubyLearning&#8217;s 3rd batch of the &#8220;<strong>Introduction to Merb</strong>&#8221; course starts today, 28th Mar. 2009. Satish Talim of RubyLearning caught up with <strong>Carl Lerche</strong>, Merb core team member, to learn more about <strong>Merb</strong>.

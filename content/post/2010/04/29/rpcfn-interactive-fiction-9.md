@@ -1,27 +1,30 @@
 ---
-title: 'RPCFN: Interactive Fiction - 9'
 author: Satish Talim
+categories:
+- beginners
+- rpcfn
+- ruby
 date: 2010-04-29
 layout: post
 permalink: /2010/04/29/rpcfn-interactive-fiction-9/
-thesis_description:
-  - Avdi Grimm challenges Ruby beginners with the Interactive Fiction Ruby challenge on RubyLearning.org.
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,Avdi Grimm
-topsy_short_url:
-  - http://bit.ly/bBzcwI
-categories:
-  - beginners
-  - rpcfn
-  - ruby
 tags:
-  - avdi grimm
-  - programming
-  - rpcfn
-  - ruby
-  - ruby programming challenge for newbies
-  - the ruby programming language
+- avdi grimm
+- programming
+- rpcfn
+- ruby
+- ruby programming challenge for newbies
+- the ruby programming language
+thesis_description:
+- Avdi Grimm challenges Ruby beginners with the Interactive Fiction Ruby challenge
+  on RubyLearning.org.
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,Avdi
+  Grimm
+title: 'RPCFN: Interactive Fiction - 9'
+topsy_short_url:
+- http://bit.ly/bBzcwI
 ---
+
 <div>
   <h3>
     Ruby Programming Challenge For Newbies

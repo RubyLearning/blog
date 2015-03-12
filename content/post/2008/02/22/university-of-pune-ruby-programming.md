@@ -1,14 +1,15 @@
 ---
-title: 'University of Pune: Ruby Programming'
-date: 2008-02-22
 author: Satish Talim
+categories:
+- News
+- Ruby
+- Training
+date: 2008-02-22
 layout: post
 permalink: /2008/02/22/university-of-pune-ruby-programming/
-categories:
-  - News
-  - Ruby
-  - Training
+title: 'University of Pune: Ruby Programming'
 ---
+
 <div>
   <p>
     With the growing popularity of the Ruby Programming language in India, the University of Pune proposes to introduce <a href="http://www.unipune.ernet.in/doc/circular/AcademicCircular/RevisedSyllabus/Management/MCMNewSyllabus%5B1%5D.pdf">Ruby Programming</a> as part of the Masters in Computer Management (MCM) post-graduate course, from June 2008.

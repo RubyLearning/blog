@@ -1,24 +1,25 @@
 ---
-title: 'Git and GitHub - A Revised Course'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Training
 date: 2009-08-03
+draft: true
 layout: post
 permalink: /2009/08/03/git-and-github-a-revised-course/
-thesis_description:
-  - Quickly learn Git and GitHub in this unique, online course at RubyLearning.
-thesis_keywords:
-  - Git,GitHub,Ruby,The Ruby Programming Language
-categories:
-  - Beginners
-  - Ruby
-  - Training
 tags:
-  - Git
-  - GitHub
-  - Ruby
-  - The Ruby Programming Language
+- Git
+- GitHub
+- Ruby
+- The Ruby Programming Language
+thesis_description:
+- Quickly learn Git and GitHub in this unique, online course at RubyLearning.
+thesis_keywords:
+- Git,GitHub,Ruby,The Ruby Programming Language
+title: Git and GitHub - A Revised Course
 ---
+
 <div>
   <h3>
     Git and GitHub Course

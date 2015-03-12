@@ -1,24 +1,25 @@
 ---
-title: How do I test my code with Minitest?
 author: Steve Klabnik
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2011-07-28
 layout: post
 permalink: /2011/07/28/how-do-i-test-my-code-with-minitest/
-thesis_description:
-  - "Steve Klabnik introduces the readers to Ruby's minitest."
-thesis_keywords:
-  - minitest, Programming,Ruby programming
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - minitest
-  - programming
-  - ruby programming
+- minitest
+- programming
+- ruby programming
+thesis_description:
+- Steve Klabnik introduces the readers to Ruby's minitest.
+thesis_keywords:
+- minitest, Programming,Ruby programming
+title: How do I test my code with Minitest?
+topsy_short_url:
+- null
 ---
+
 <div>
   <h3>
     How do I test my code with Minitest?

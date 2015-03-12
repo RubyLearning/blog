@@ -1,24 +1,25 @@
 ---
-title: "Performance Testing Rails Applications: How To?"
-author: Gonçalo Silva
+author: "Gonçalo Silva"
+categories:
+- Ruby
+- Ruby Masters
+- Ruby on Rails
 date: 2011-08-14
 layout: post
 permalink: /2011/08/14/performance-testing-rails-applications-how-to/
-thesis_description:
-  - Gonçalo Silva shows you how to do performance testing of your Rails applications.
-thesis_keywords:
-  - Programming,Ruby programming, Ruby on Rails
-topsy_short_url:
-  - http://bit.ly/pZKKcu
-categories:
-  - Ruby
-  - Ruby Masters
-  - Ruby on Rails
 tags:
-  - programming
-  - Ruby on Rails
-  - ruby programming
+- programming
+- Ruby on Rails
+- ruby programming
+thesis_description:
+- "Gonçalo Silva shows you how to do performance testing of your Rails applications."
+thesis_keywords:
+- Programming,Ruby programming, Ruby on Rails
+title: 'Performance Testing Rails Applications: How To?'
+topsy_short_url:
+- http://bit.ly/pZKKcu
 ---
+
 <div>
   <h2>
     Performance Testing Rails Applications: How To?

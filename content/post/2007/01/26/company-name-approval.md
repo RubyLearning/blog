@@ -1,12 +1,13 @@
 ---
-title: "Company Name Approval"
-author: "Satish Talim"
-date: "2007-01-26"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-01-26
+layout: post
+title: Company Name Approval
 ---
+
 So far in our series, we discussed the process of obtaining the DIN and
 DSC for the proposed Directors. We can now start the process of company
 name approval by the Registrar of Companies (ROC) in the State/Union

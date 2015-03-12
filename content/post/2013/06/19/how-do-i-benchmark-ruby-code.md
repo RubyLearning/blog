@@ -1,26 +1,27 @@
 ---
-title: How do I benchmark Ruby code?
 author: Jesse Storimer
+categories:
+- Ruby
+- Ruby Masters
+- Tricks
 date: 2013-06-19
 layout: post
 permalink: /2013/06/19/how-do-i-benchmark-ruby-code/
-thesis_description:
-  - Jesse Storimer shows us how to benchmark Ruby code.
-thesis_keywords:
-  - Ruby, Programming, Jesse Storimer, Benchmark, Benchmark Ruby code
-topsy_short_url:
-  - http://bit.ly/13SgEDc
-categories:
-  - Ruby
-  - Ruby Masters
-  - Tricks
 tags:
-  - Benchmark
-  - Benchmark Ruby code
-  - Jesse Storimer
-  - programming
-  - Ruby
+- Benchmark
+- Benchmark Ruby code
+- Jesse Storimer
+- programming
+- Ruby
+thesis_description:
+- Jesse Storimer shows us how to benchmark Ruby code.
+thesis_keywords:
+- Ruby, Programming, Jesse Storimer, Benchmark, Benchmark Ruby code
+title: How do I benchmark Ruby code?
+topsy_short_url:
+- http://bit.ly/13SgEDc
 ---
+
 <div>
   <h2 id="how-do-i-benchmark-ruby-code">
     How do I benchmark Ruby code?

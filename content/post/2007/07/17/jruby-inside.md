@@ -1,13 +1,14 @@
 ---
-title: "JRuby Inside"
-author: "Satish Talim"
-date: "2007-07-17"
-layout: post
+author: Satish Talim
 categories:
-  - jruby
-  - news
-  - ruby
+- jruby
+- news
+- ruby
+date: 2007-07-17
+layout: post
+title: JRuby Inside
 ---
+
 [Peter Cooper](http://www.petercooper.co.uk/) has done it again! Peter
 has just launched [JRuby Inside](http://www.jrubyinside.com/) a new
 “sister” site to his very popular Ruby Inside. JRuby Inside focuses just

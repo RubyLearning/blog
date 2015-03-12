@@ -1,12 +1,13 @@
 ---
-title: 'Book: Deploying Rails Applications'
-author: "Satish Talim"
-date: "2007-08-30"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-08-30
+layout: post
+title: 'Book: Deploying Rails Applications'
 ---
+
 **[Deploying Rails
 Applications](http://www.pragmaticprogrammer.com/titles/fr_deploy/)** –
 A Step-by-Step Guide by Ezra Zygmuntowicz (Engine Yard founder), [Bruce

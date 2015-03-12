@@ -1,17 +1,18 @@
 ---
-title: Do you know how to create a bot in Ruby?
 author: Apoorv Saxena
+categories:
+- ruby
 date: 2013-07-09
 layout: post
 permalink: /2013/07/09/do-you-know-how-to-create-a-bot-in-ruby/
-categories:
-  - ruby
 tags:
-  - apoorv saxena
-  - bot
-  - programming
-  - ruby
+- apoorv saxena
+- bot
+- programming
+- ruby
+title: Do you know how to create a bot in Ruby?
 ---
+
 <div>
   <h2>
     Do you know how to create a bot in Ruby?

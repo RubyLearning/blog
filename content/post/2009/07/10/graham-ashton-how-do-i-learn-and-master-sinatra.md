@@ -1,26 +1,28 @@
 ---
-title: 'Graham Ashton: How do I learn and master Sinatra?'
 author: Satish Talim
+categories:
+- Beginners
+- Learn Sinatra
+- Ruby
+- Sinatra
 date: 2009-07-10
 layout: post
 permalink: /2009/07/10/graham-ashton-how-do-i-learn-and-master-sinatra/
-thesis_keywords:
-  - Graham Ashton,Sinatra,Ruby programming,Learning Sinatra
-thesis_description:
-  - In the third part of the mini series "How do I learn and master Sinatra?", Graham Ashton gives us his insights on mastering Sinatra.
-topsy_short_url:
-  - http://bit.ly/1xQQ6V0
-categories:
-  - Beginners
-  - Learn Sinatra
-  - Ruby
-  - Sinatra
 tags:
-  - Graham Ashton
-  - Learning Sinatra
-  - ruby programming
-  - Sinatra
+- Graham Ashton
+- Learning Sinatra
+- ruby programming
+- Sinatra
+thesis_description:
+- In the third part of the mini series "How do I learn and master Sinatra?", Graham
+  Ashton gives us his insights on mastering Sinatra.
+thesis_keywords:
+- Graham Ashton,Sinatra,Ruby programming,Learning Sinatra
+title: 'Graham Ashton: How do I learn and master Sinatra?'
+topsy_short_url:
+- http://bit.ly/1xQQ6V0
 ---
+
 <div>
   <p class="update">
     Welcome to the <b>third</b> installment on the <abbr title="RubyLearning">RL</abbr> blog, of a mini series &#8211; &#8220;<strong>How do I learn and master Sinatra?</strong>&#8221; &#8211; by top Rubyists using <em>Sinatra</em>. The interview series will provide insight and commentary from these notable <em>Sinatra</em> developers, with the goal of facilitating and providing answers to the questions Ruby beginners face on <em>how to learn and master Sinatra</em>.

@@ -1,13 +1,14 @@
 ---
-title: "Rails Hosting In India"
-author: "Satish Talim"
-date: "2007-09-15"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - rails
-  - ruby
+- news
+- rails
+- ruby
+date: 2007-09-15
+layout: post
+title: Rails Hosting In India
 ---
+
 I have been asked time and again about ‘**Rails Hosting In India**‘ and
 thought it best that I list down the Rails Hosts that I have heard of,
 in India. <!--more-->

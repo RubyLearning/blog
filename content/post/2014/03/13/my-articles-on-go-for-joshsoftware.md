@@ -1,15 +1,16 @@
 ---
-title: My articles on Go for JoshSoftware
 author: Satish Talim
+categories:
+- go
 date: 2014-03-13
 layout: post
 permalink: /2014/03/13/my-articles-on-go-for-joshsoftware/
-categories:
-  - go
 tags:
-  - go
-  - golang
+- go
+- golang
+title: My articles on Go for JoshSoftware
 ---
+
 <div>
   <p>
     Here are some articles I have written on Go for <a href="http://www.joshsoftware.com/">JoshSoftware</a>, a company that is now into Go projects too.

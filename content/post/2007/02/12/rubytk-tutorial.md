@@ -1,11 +1,12 @@
 ---
-title: "Ruby/Tk Tutorial"
-author: "Satish Talim"
+author: Satish Talim
+categories:
+- ruby
 date: 2007-02-12
 layout: post
-categories:
-  - ruby
+title: Ruby/Tk Tutorial
 ---
+
 #### Ruby/Tk
 
 Ruby/Tk provides Ruby with a graphical user interface (GUI). The Tk

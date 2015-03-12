@@ -1,27 +1,28 @@
 ---
-title: 'Interview: Author David Griffiths'
 author: Satish Talim
+categories:
+- Book Promotions
+- Interview
+- Promotions
+- Rails
+- Ruby
+- Ruby on Rails
 date: 2009-05-20
+description:
+- Interview at RubyLearning.org with author David Griffiths of Head First Rails.
+keywords:
+- David Griffiths,Head First Rails,Ruby programming,Book promotion,Ruby on Rails
 layout: post
 permalink: /2009/05/20/interview-author-david-griffiths/
-keywords:
-  - David Griffiths,Head First Rails,Ruby programming,Book promotion,Ruby on Rails
-description:
-  - Interview at RubyLearning.org with author David Griffiths of Head First Rails.
-categories:
-  - Book Promotions
-  - Interview
-  - Promotions
-  - Rails
-  - Ruby
-  - Ruby on Rails
 tags:
-  - Book promotion
-  - David Griffiths
-  - Head First Rails
-  - Ruby on Rails
-  - ruby programming
+- Book promotion
+- David Griffiths
+- Head First Rails
+- Ruby on Rails
+- ruby programming
+title: 'Interview: Author David Griffiths'
 ---
+
 <div>
   <p class="alert">
     Our Book Promotion: &#8220;<strong>Head First Rails</strong>&#8221; starts soon. Win one of four books to be given out for active participation. The coolest thing? Author <b>David Griffiths</b> will be on site to answer questions! <a href="http://rubylearning.com/blog/2009/05/20/book-promotion-head-first-rails/">Click here</a> for more details. Here, in this brief interview, Satish Talim of RubyLearning talks to David Griffiths.

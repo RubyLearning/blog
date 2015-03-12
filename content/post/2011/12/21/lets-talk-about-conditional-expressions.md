@@ -1,27 +1,28 @@
 ---
-title: "Let's Talk About Conditional Expressions"
 author: Evan Light
+categories:
+- Beginners
+- Ruby
 date: 2011-12-21
 layout: post
 permalink: /2011/12/21/lets-talk-about-conditional-expressions/
-social_notify:
-  - 0
 social_broadcasted:
-  - 'a:0:{}'
-thesis_description:
-  - Evan Light talks about Conditional Expressions in Ruby.
-thesis_keywords:
-  - Programming,Ruby programming,Conditional Expressions
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Ruby
+- a:0:{}
+social_notify:
+- 0
 tags:
-  - Conditional Expressions
-  - programming
-  - ruby programming
+- Conditional Expressions
+- programming
+- ruby programming
+thesis_description:
+- Evan Light talks about Conditional Expressions in Ruby.
+thesis_keywords:
+- Programming,Ruby programming,Conditional Expressions
+title: Let's Talk About Conditional Expressions
+topsy_short_url:
+- null
 ---
+
 <div>
   <p class="update">
     This guest post is by <strong><a href="https://twitter.com/#!/elight">Evan Light</a></strong> a test-obsessed developer, the author of several rarely used gems, and the curator of Ruby DCamp. When he&#8217;s not a talking head at conferences, he&#8217;s usually working at home as a freelance developer remotely mentoring a developer, working for one or more startups, playing with open source, keeping his wife and four cats company, hacking nonsensically, talking at people on the internet, and/or attempting to lose weight (or any combination of the above). What else do you do when you live 3 hours from civilization?

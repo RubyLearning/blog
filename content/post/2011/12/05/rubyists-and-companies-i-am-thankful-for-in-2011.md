@@ -1,25 +1,26 @@
 ---
-title: Rubyists and Companies I am thankful for in 2011
+Hide OgTags:
+- 0
+Hide SexyBookmarks:
+- 0
 author: Satish Talim
+categories:
+- Ruby
 date: 2011-12-05
 layout: post
 permalink: /2011/12/05/rubyists-and-companies-i-am-thankful-for-in-2011/
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
-thesis_description:
-  - Rubyists and Companies I am thankful for in 2011.
-thesis_keywords:
-  - Ruby,Rubyists
-topsy_short_url:
-  - 
-categories:
-  - Ruby
 tags:
-  - Ruby
-  - Rubyists
+- Ruby
+- Rubyists
+thesis_description:
+- Rubyists and Companies I am thankful for in 2011.
+thesis_keywords:
+- Ruby,Rubyists
+title: Rubyists and Companies I am thankful for in 2011
+topsy_short_url:
+- null
 ---
+
 <div>
   <p>
     As 2011 comes to a close, I would like to thank the following awesome people and companies.

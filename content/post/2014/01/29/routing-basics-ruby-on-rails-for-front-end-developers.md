@@ -1,20 +1,20 @@
 ---
-title: 'Routing Basics: Ruby on Rails for Front-End Developers'
 author: Miles Matthias
-date: 2014-01-29
-layout: post
-permalink: /2014/01/29/routing-basics-ruby-on-rails-for-front-end-developers/
 categories:
 - Beginners
 - Rails
+date: 2014-01-29
+layout: post
+permalink: /2014/01/29/routing-basics-ruby-on-rails-for-front-end-developers/
 tags:
 - Miles Matthias
 - Rails Routes
 - Routing Basics
+title: 'Routing Basics: Ruby on Rails for Front-End Developers'
 ---
+
 ## Routing Basics: Ruby on Rails for Front-End Developers
 
-<p class="update">
 This guest post is by&nbsp;<strong>Miles Matthias</strong>, who in between
 trips and sips, usually with planes and bourbon, enjoys talking to people
 about difficult challenges and tapping on his keyboard to help solve them.
@@ -28,10 +28,12 @@ development, he enjoys building simple and beautiful applications,
 contributing to the open source community, and writing about his life
 experiences.
 
+<img alt="Miles Matthias"
+src="http://rubylearning.com/images/MilesMatthias.jpg" width="125" height="125"
+/>
 
-<p class="block">
-<img class="alignright" alt="Miles Matthias" src="http://rubylearning.com/images/MilesMatthias.jpg" width="125" height="125" /> <span class="drop_cap">H</span>ere's an excerpt from my book's chapter on routing, and then I'll give you some examples:
-
+Here's an excerpt from my book's chapter on routing, and then I'll give you
+some examples:
 
 ## Routes config
 
@@ -41,7 +43,7 @@ prefers configuration to convention in one instance -- routes. In the file
 controller method to call for a given request. Here's a simple route
 declaration:
 
-```ruby
+```rails
 match 'articles', to: 'articles#index'
 ```
 
@@ -57,7 +59,7 @@ the convention over configuration pattern. Resources handle the 85% case where
 your application is representing standard RESTful CRUD operations on a 'thing',
 such as an article. The above example route could be replaced with:
 
-```
+```rails
 resources :articles
 ```
 
@@ -68,13 +70,13 @@ the rails resourceful actions.
 
 If we had the following in your `config/routes.rb` file:
 
-```
+```rails
 resources :articles
 ```
 
 and our `/app/controllers/articles_controller.rb` file looked like this:
 
-```
+```rails
 class ArticlesController < ApplicationController
   def index
     @articles = Article.all
@@ -106,9 +108,13 @@ article that matches that id and then rails will call render on a view in
 `/app/views/articles/show.html.erb`. Here's an example of what that view might
 look like:
 
-```
-<h1><%= @article.title %></h1>
-<h2>by <%= @article.author %></h2>
+```rhtml
+<h1>
+    <%= @article.title %>
+</h1>
+<h2>
+    by <%= @article.author %>
+</h2>
 <%= @article.body %>
 ```
 

@@ -1,14 +1,15 @@
 ---
-title: Ruby and Twitter
 author: Satish Talim
+categories:
+- Code Snippets
+- Ruby
+- Training
 date: 2008-03-24
 layout: post
 permalink: /2008/03/24/ruby-and-twitter/
-categories:
-  - Code Snippets
-  - Ruby
-  - Training
+title: Ruby and Twitter
 ---
+
 <div>
   <p>
     <strong><a href="http://twitter.com/home">Twitter</a></strong> is a service for friends, family, and coâ€“workers to communicate and stay connected through the exchange of quick, frequent answers to one simple question: What are you doing?

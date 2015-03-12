@@ -1,25 +1,26 @@
 ---
-title: 'An Introduction to Python programming - A Free Online Course'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Python
+- Training
 date: 2013-10-09
+draft: true
 layout: post
 permalink: /2013/10/09/an-introduction-to-python-programming-a-free-online-course/
-thesis_description:
-  - Learn Python programming for free at RubyLearning.org along with their mentors.
-thesis_keywords:
-  - Python programming, Python, programming
-topsy_short_url:
-  - http://bit.ly/17mepqA
-categories:
-  - Beginners
-  - Python
-  - Training
 tags:
-  - programming
-  - Python
-  - Python programming
+- programming
+- Python
+- Python programming
+thesis_description:
+- Learn Python programming for free at RubyLearning.org along with their mentors.
+thesis_keywords:
+- Python programming, Python, programming
+title: An Introduction to Python programming - A Free Online Course
+topsy_short_url:
+- http://bit.ly/17mepqA
 ---
+
 <div>
   <h3>
     An Introduction to Python programming &#8211; A Free Online Course

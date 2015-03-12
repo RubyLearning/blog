@@ -1,32 +1,33 @@
 ---
-title: How do I use Sinatra to access the Google+ API?
 author: Satish Talim
+categories:
+- Heroku
+- Ruby
+- Sinatra
 date: 2011-09-20
 layout: post
 permalink: /2011/09/20/how-do-i-use-sinatra-to-access-the-google-api/
-thesis_post_image_frame:
-  - on
-thesis_post_image_horizontal:
-  - center
-thesis_post_image_vertical:
-  - before-post
-thesis_description:
-  - A simple Sinatra app that accesses the Google+ API.
-thesis_keywords:
-  - Ruby, Programming, Ruby programming, Sinatra, Google+
-topsy_short_url:
-  - 
-categories:
-  - Heroku
-  - Ruby
-  - Sinatra
 tags:
-  - Google+
-  - programming
-  - Ruby
-  - ruby programming
-  - Sinatra
+- Google+
+- programming
+- Ruby
+- ruby programming
+- Sinatra
+thesis_description:
+- A simple Sinatra app that accesses the Google+ API.
+thesis_keywords:
+- Ruby, Programming, Ruby programming, Sinatra, Google+
+thesis_post_image_frame:
+- true
+thesis_post_image_horizontal:
+- center
+thesis_post_image_vertical:
+- before-post
+title: How do I use Sinatra to access the Google+ API?
+topsy_short_url:
+- null
 ---
+
 <div>
   <h2>
     How do I use Sinatra to access the Google+ API?

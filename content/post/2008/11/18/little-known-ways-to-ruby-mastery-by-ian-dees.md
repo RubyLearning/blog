@@ -1,25 +1,29 @@
 ---
-title: Little Known Ways to Ruby Mastery by Ian Dees
 author: Satish Talim
+categories:
+- Interview
+- Ruby
+- Ruby Masters
 date: 2008-11-18
+description:
+- The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to
+  and answers questions confronting Ruby beginners from across the globe.
+keywords:
+- ruby for beginners,ruby beginners,ruby programming,ruby on rails blog,rails blog,rails
+  tutorials,ruby beginners\' questions,little known ways to ruby mastery,ruby masters,interviews,Ian
+  Dees,ruby,the ruby programming language
 layout: post
 permalink: /2008/11/18/little-known-ways-to-ruby-mastery-by-ian-dees/
-keywords:
-  - "ruby for beginners,ruby beginners,ruby programming,ruby on rails blog,rails blog,rails tutorials,ruby beginners\\\' questions,little known ways to ruby mastery,ruby masters,interviews,Ian Dees,ruby,the ruby programming language"
-description:
-  - The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to and answers questions confronting Ruby beginners from across the globe.
-categories:
-  - Interview
-  - Ruby
-  - Ruby Masters
 tags:
-  - Ian Dees
-  - interviews
-  - Little Known Ways to Ruby Mastery
-  - Ruby
-  - "Ruby Beginners' Questions"
-  - The Ruby Programming Language
+- Ian Dees
+- interviews
+- Little Known Ways to Ruby Mastery
+- Ruby
+- Ruby Beginners' Questions
+- The Ruby Programming Language
+title: Little Known Ways to Ruby Mastery by Ian Dees
 ---
+
 <div>
   <h3>
     A weekly series from the Ruby Masters

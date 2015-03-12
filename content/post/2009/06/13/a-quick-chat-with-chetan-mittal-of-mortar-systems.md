@@ -1,23 +1,24 @@
 ---
-title: A Quick Chat with Chetan Mittal of Mortar Systems
 author: Satish Talim
+categories:
+- Interview
+- Rails
+- Ruby
+- Ruby on Rails
 date: 2009-06-13
+description:
+- Chat with Chetan Mittal of Mortar Systems.
+keywords:
+- Chetan Mittal,Mortar Systems,Ruby programming
 layout: post
 permalink: /2009/06/13/a-quick-chat-with-chetan-mittal-of-mortar-systems/
-keywords:
-  - Chetan Mittal,Mortar Systems,Ruby programming
-description:
-  - Chat with Chetan Mittal of Mortar Systems.
-categories:
-  - Interview
-  - Rails
-  - Ruby
-  - Ruby on Rails
 tags:
-  - Chetan Mittal
-  - Mortar Systems
-  - ruby programming
+- Chetan Mittal
+- Mortar Systems
+- ruby programming
+title: A Quick Chat with Chetan Mittal of Mortar Systems
 ---
+
 <div>
   <p>
     <img class="alignright" title="Chetan Mittal" src="http://www.rubylearning.com/images/bio-photo.gif" alt="Chetan Mittal" />

@@ -1,13 +1,14 @@
 ---
-title: "Ruby Snips"
-author: "Satish Talim"
-date: "2007-02-24"
-layout: post
+author: Satish Talim
 categories:
-  - code snippets
-  - news
-  - ruby
+- code snippets
+- news
+- ruby
+date: 2007-02-24
+layout: post
+title: Ruby Snips
 ---
+
 [Robert Evans](http://www.puneruby.com/blog/?p=94) has come up with the
 **[Ruby Snips](http://rubysnips.com/)** site. In his words:<!--more-->
 

@@ -1,23 +1,25 @@
 ---
-title: "How Can We Develop For Tomorrow's Needs?"
 author: James Schorr
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2011-07-27
 layout: post
 permalink: /2011/07/27/how-can-we-develop-for-tomorrows-needs/
-thesis_description:
-  - "James M. Schorr gives real-world tips on how to develop and cater to tomorrow's needs.."
-thesis_keywords:
-  - Programming, James M. Schorr
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - James M. Schorr
-  - programming
+- James M. Schorr
+- programming
+thesis_description:
+- James M. Schorr gives real-world tips on how to develop and cater to tomorrow's
+  needs..
+thesis_keywords:
+- Programming, James M. Schorr
+title: How Can We Develop For Tomorrow's Needs?
+topsy_short_url:
+- null
 ---
+
 <div>
   <h3>
     How Can We Develop For Tomorrow&#8217;s Needs?

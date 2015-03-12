@@ -1,26 +1,29 @@
 ---
-title: How do I keep multiple Ruby projects separate?
 author: Steve Klabnik
+categories:
+- Beginners
+- Popular
+- Ruby
+- Ruby Masters
 date: 2010-12-20
 layout: post
 permalink: /2010/12/20/how-do-i-keep-multiple-ruby-projects-separate/
-thesis_description:
-  - "If you have multiple projects in Ruby, it's a good idea to separate their dependencies. Steve shows you how to isolate your Ruby projects from one another, and easily and efficiently switch between them."
-thesis_keywords:
-  - Bundler,rvm, Programming,Ruby programming
-topsy_short_url:
-  - http://bit.ly/eU1Mf1
-categories:
-  - Beginners
-  - Popular
-  - Ruby
-  - Ruby Masters
 tags:
-  - Bundler
-  - programming
-  - ruby programming
-  - rvm
+- Bundler
+- programming
+- ruby programming
+- rvm
+thesis_description:
+- If you have multiple projects in Ruby, it's a good idea to separate their dependencies.
+  Steve shows you how to isolate your Ruby projects from one another, and easily and
+  efficiently switch between them.
+thesis_keywords:
+- Bundler,rvm, Programming,Ruby programming
+title: How do I keep multiple Ruby projects separate?
+topsy_short_url:
+- http://bit.ly/eU1Mf1
 ---
+
 <div>
   <h3>
     How do I keep multiple Ruby projects separate?

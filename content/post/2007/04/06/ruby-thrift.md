@@ -1,13 +1,14 @@
 ---
-title: "Ruby: Thrift"
-author: "Satish Talim"
-date: "2007-04-06"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - rails
-  - ruby
+- news
+- rails
+- ruby
+date: 2007-04-06
+layout: post
+title: 'Ruby: Thrift'
 ---
+
 [Jeremy Durham’s blog](http://www.jeremydurham.com/) talks about an open
 source software framework for scalable cross-language services
 development, named [Thrift](http://developers.facebook.com/thrift/). It

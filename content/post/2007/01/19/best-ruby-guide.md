@@ -1,12 +1,13 @@
 ---
-title: "Best Ruby Guide"
-author: "Satish Talim"
-date: "2007-01-19"
-layout: post
+author: Satish Talim
 categories:
-  - ruby
+- ruby
+date: 2007-01-19
 draft: true
+layout: post
+title: Best Ruby Guide
 ---
+
 Max Kiesler has an excellent article.  The article presents the **Best Ruby
 Guide**, tutorials, examples and downloads he has <!--more-->found over the
 course of 2005-2006. He has spent numerous hours searching google, del.icio.us,

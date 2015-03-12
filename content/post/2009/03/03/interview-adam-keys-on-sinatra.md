@@ -1,28 +1,29 @@
 ---
-title: 'Interview: Adam Keys on Sinatra'
 author: Satish Talim
+categories:
+- Interview
+- Ruby
+- Sinatra
 date: 2009-03-03
+description:
+- |
+  Adam Keys talks to RubyLearning's "Introduction to Sinatra" course participants on Sinatra micro web framework.
+keywords:
+- Adam Keys,Interviews,Ruby,Sinatra,The Ruby Programming Language,web framework
 layout: post
 permalink: /2009/03/03/interview-adam-keys-on-sinatra/
-keywords:
-  - Adam Keys,Interviews,Ruby,Sinatra,The Ruby Programming Language,web framework
-description:
-  - |
-    Adam Keys talks to RubyLearning's "Introduction to Sinatra" course participants on Sinatra micro web framework.
-topsy_short_url:
-  - http://bit.ly/bD5kFq
-categories:
-  - Interview
-  - Ruby
-  - Sinatra
 tags:
-  - Adam Keys
-  - interviews
-  - Ruby
-  - Sinatra
-  - The Ruby Programming Language
-  - web framework
+- Adam Keys
+- interviews
+- Ruby
+- Sinatra
+- The Ruby Programming Language
+- web framework
+title: 'Interview: Adam Keys on Sinatra'
+topsy_short_url:
+- http://bit.ly/bD5kFq
 ---
+
 <div>
   <p class="alert">
     On the eve of the first ever online &#8220;<strong>Introduction to Sinatra</strong>&#8221; course, Satish Talim of RubyLearning caught up with <strong>Adam Keys</strong> and talked to him on <strong>Sinatra</strong>, in this interview.

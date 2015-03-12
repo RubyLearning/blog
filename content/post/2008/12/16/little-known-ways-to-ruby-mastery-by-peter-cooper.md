@@ -1,28 +1,29 @@
 ---
-title: Little Known Ways to Ruby Mastery by Peter Cooper
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Ruby
+- Ruby Masters
 date: 2008-12-16
 layout: post
 permalink: /2008/12/16/little-known-ways-to-ruby-mastery-by-peter-cooper/
-willian.molinari@gmail.com:
-  - pothix
 peter@petercooper.co.uk:
-  - peterc
-topsy_short_url:
-  - http://bit.ly/c65uIy
-categories:
-  - Beginners
-  - Interview
-  - Ruby
-  - Ruby Masters
+- peterc
 tags:
-  - interviews
-  - Little Known Ways to Ruby Mastery
-  - Peter Cooper
-  - Ruby
-  - "Ruby Beginners' Questions"
-  - The Ruby Programming Language
+- interviews
+- Little Known Ways to Ruby Mastery
+- Peter Cooper
+- Ruby
+- Ruby Beginners' Questions
+- The Ruby Programming Language
+title: Little Known Ways to Ruby Mastery by Peter Cooper
+topsy_short_url:
+- http://bit.ly/c65uIy
+willian.molinari@gmail.com:
+- pothix
 ---
+
 <div>
   <h3>
     A weekly series from the Ruby Masters

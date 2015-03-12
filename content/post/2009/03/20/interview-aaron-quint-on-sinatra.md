@@ -1,28 +1,29 @@
 ---
-title: 'Interview: Aaron Quint on Sinatra'
 author: Satish Talim
+categories:
+- Heroku
+- Interview
+- Ruby
+- Sinatra
 date: 2009-03-20
+description:
+- Aaron Quint talks to RubyLearning on the Sinatra micro web-framework.
+keywords:
+- 1st Easy Limited,,Aaron Quint,Interviews,Ruby,Sinatra,The Ruby Programming Language
 layout: post
 permalink: /2009/03/20/interview-aaron-quint-on-sinatra/
-keywords:
-  - 1st Easy Limited,,Aaron Quint,Interviews,Ruby,Sinatra,The Ruby Programming Language
-description:
-  - Aaron Quint talks to RubyLearning on the Sinatra micro web-framework.
-topsy_short_url:
-  - http://bit.ly/bkBp9W
-categories:
-  - Heroku
-  - Interview
-  - Ruby
-  - Sinatra
 tags:
-  - 1st Easy Limited
-  - Aaron Quint
-  - interviews
-  - Ruby
-  - Sinatra
-  - The Ruby Programming Language
+- 1st Easy Limited
+- Aaron Quint
+- interviews
+- Ruby
+- Sinatra
+- The Ruby Programming Language
+title: 'Interview: Aaron Quint on Sinatra'
+topsy_short_url:
+- http://bit.ly/bkBp9W
 ---
+
 <div>
   <p class="alert">
     On the eve of the first ever online &#8220;<strong>Introduction to Sinatra</strong>&#8221; course, Satish Talim of RubyLearning caught up with <strong>Aaron Quint</strong> and talked to him on <strong>Sinatra</strong>, in this interview.

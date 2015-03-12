@@ -1,26 +1,28 @@
 ---
-title: 'Ruby Programming 25th Batch - To celebrate our 25th batch, you now have an opportunity to enroll for free!'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Training
 date: 2011-06-02
+draft: true
 layout: post
 permalink: /2011/06/02/ruby-programming-25th-batch-to-celebrate-our-25th-batch-you-now-have-an-opportunity-to-enroll-for-free/
-thesis_description:
-  - In its 6th year, RubyLearning announces its 25th Core Ruby batch.
-thesis_keywords:
-  - Ruby course,Ruby,Ruby Training, Programming
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Ruby
-  - Training
 tags:
-  - programming
-  - Ruby
-  - Ruby course
-  - Ruby training
+- programming
+- Ruby
+- Ruby course
+- Ruby training
+thesis_description:
+- In its 6th year, RubyLearning announces its 25th Core Ruby batch.
+thesis_keywords:
+- Ruby course,Ruby,Ruby Training, Programming
+title: Ruby Programming 25th Batch - To celebrate our 25th batch, you now have an
+  opportunity to enroll for free!
+topsy_short_url:
+- null
 ---
+
 <div>
   <p class="alert">
     RubyLearning is in its 6th year and to celebrate its 25th Core Ruby batch, <span style="text-decoration: line-through">we are offering this seven week course <b>free</b> for 25 participants</span> &#8211; this offer is now closed. You can still join by paying the fees as listed below. I am pleased to announce that <b>Steve Klabnik</b> @steveklabnik (Ruby Hero) is the special guest mentor for this batch. <span style="text-decoration: line-through">To join this course for free, please check the rules below:</span>

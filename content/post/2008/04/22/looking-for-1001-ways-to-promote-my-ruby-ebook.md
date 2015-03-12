@@ -1,18 +1,19 @@
 ---
-title: Looking for 1001 Ways to Promote my Ruby eBook
 author: Satish Talim
+categories:
+- Humor
+- Ruby
 date: 2008-04-22
 layout: post
 permalink: /2008/04/22/looking-for-1001-ways-to-promote-my-ruby-ebook/
-categories:
-  - Humor
-  - Ruby
 tags:
-  - free ebook
-  - ruby ebook
-  - ruby programming
-  - satish talim
+- free ebook
+- ruby ebook
+- ruby programming
+- satish talim
+title: Looking for 1001 Ways to Promote my Ruby eBook
 ---
+
 <div>
   <p>
     <a href="http://rubylearning.com/download/downloads.html" ><img class="alignleft" title="Ruby eBook" src="http://rubylearning.com/images/eBook5.jpg" alt="Ruby eBook" /></a>I am looking for ways to promote my <a href="http://rubylearning.com/download/downloads.html">Free Ruby eBook</a>. I have come up with some ideas. Some zany, impractical and okay maybe a bit stupid.. but some are simple, fun and easy to do. Will you help me come up with even more? Any idea is acceptable &#8230;. this is just a <strong><em>fun brainstorming session</em></strong> &#8211; to spread the book as far and as wide as it can go! Leave your comments below (you will have to register to do that&#8230;..which is safe, simple and allows you to make comments for other posts as well).. but if you don&#8217;t want to do that&#8230;. (there are a lot of loops to jump through)&#8230; just send me an Email with your idea. and I will add your comments to the list!

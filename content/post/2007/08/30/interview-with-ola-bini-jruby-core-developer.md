@@ -1,14 +1,15 @@
 ---
-title: "Interview with Ola Bini &#8211; JRuby Core Developer"
-author: "Satish Talim"
-date: "2007-08-30"
-layout: post
+author: Satish Talim
 categories:
-  - interview
-  - jruby
-  - rails
-  - ruby
+- interview
+- jruby
+- rails
+- ruby
+date: 2007-08-30
+layout: post
+title: Interview with Ola Bini &#8211; JRuby Core Developer
 ---
+
 [![Ola
 Bini](http://www.rubylearning.com/images/ola.jpg)](http://www.rubylearning.com/images/ola.jpg "Ola Bini")
 

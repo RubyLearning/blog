@@ -1,29 +1,30 @@
 ---
-title: Do YOU want to learn JRuby using Google Wave?
 author: Satish Talim
+categories:
+- Beginners
+- GoogleWave
+- JRuby
+- Ruby
+- Training
 date: 2009-11-08
+draft: true
 layout: post
 permalink: /2009/11/08/do-you-want-to-learn-jruby-using-google-wave/
-draft: true
-thesis_description:
-  - The first and only free, online course on JRuby using Google Wave, at RubyLearning.org
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,JRuby,programming,Google Wave
-topsy_short_url:
-  - http://bit.ly/6jl3ts
-categories:
-  - Beginners
-  - GoogleWave
-  - JRuby
-  - Ruby
-  - Training
 tags:
-  - Google Wave
-  - JRuby
-  - programming
-  - Ruby
-  - The Ruby Programming Language
+- Google Wave
+- JRuby
+- programming
+- Ruby
+- The Ruby Programming Language
+thesis_description:
+- The first and only free, online course on JRuby using Google Wave, at RubyLearning.org
+thesis_keywords:
+- Ruby,The Ruby Programming Language,JRuby,programming,Google Wave
+title: Do YOU want to learn JRuby using Google Wave?
+topsy_short_url:
+- http://bit.ly/6jl3ts
 ---
+
 <div>
   <p class="update">
     <abbr title="RubyLearning">RL</abbr> offers online courses in Ruby programming, Ruby Metaprogramming, Git & GitHub, FXRuby, Shoes, JRuby, Sinatra and Merb. Since 2005, over 15,000 participants spread across 140+ countries have learned Ruby and other Ruby related timely topics. This has been possible due to the extensive support provided by the mentors of these courses. RL strives hard to improve the methodology and course content based on the extensive and critical feedback we receive. Thanks to <strong>YOU</strong>, the Ruby community, people like Fabio Akita and companies like Locaweb who make this possible. <a href="http://rubylearning.com/other/testimonials.html">Our Alumni</a> are our best ambassadors.

@@ -1,26 +1,27 @@
 ---
-title: 'Introduction to Sinatra - A New Course'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Sinatra
+- Training
 date: 2009-02-25
+description:
+- The only online course on the Sinatra microframework from RubyLearning.
+draft: true
+keywords:
+- Ruby,Sinatra,The Ruby Programming Language
 layout: post
 permalink: /2009/02/25/introduction-to-sinatra-a-new-course/
-keywords:
-  - Ruby,Sinatra,The Ruby Programming Language
-description:
-  - The only online course on the Sinatra microframework from RubyLearning.
-topsy_short_url:
-  - http://bit.ly/9ox0eR
-categories:
-  - Beginners
-  - Ruby
-  - Sinatra
-  - Training
 tags:
-  - Ruby
-  - Sinatra
-  - The Ruby Programming Language
+- Ruby
+- Sinatra
+- The Ruby Programming Language
+title: Introduction to Sinatra - A New Course
+topsy_short_url:
+- http://bit.ly/9ox0eR
 ---
+
 <div>
   <h3>
     Introduction to Sinatra Course

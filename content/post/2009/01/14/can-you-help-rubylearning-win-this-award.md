@@ -1,33 +1,36 @@
 ---
-title: Can YOU help RubyLearning win this award?
 author: Satish Talim
-date: 2009-01-14
-layout: post
-permalink: /2009/01/14/can-you-help-rubylearning-win-this-award/
-manik@vinsol.com:
-  - mjuneja
-jefersondesigner@gmail.com:
-  - jfswolf
-keywords:
-  - Ruby,Rubyists,Ruby Programming Language,Twitter,India,Pune,Shorty Awards,IndianGuru,Satish Talim
-description:
-  - The Shorty Awards aim to honor the best Twitterers of 2008 in categories like education. RubyLearning is one of the finalists in this category.
 caseol@gmail.com:
-  - caseol
+- caseol
 categories:
-  - Ruby
-  - Twitter
+- Ruby
+- Twitter
+date: 2009-01-14
+description:
+- The Shorty Awards aim to honor the best Twitterers of 2008 in categories like education.
+  RubyLearning is one of the finalists in this category.
+jefersondesigner@gmail.com:
+- jfswolf
+keywords:
+- Ruby,Rubyists,Ruby Programming Language,Twitter,India,Pune,Shorty Awards,IndianGuru,Satish
+  Talim
+layout: post
+manik@vinsol.com:
+- mjuneja
+permalink: /2009/01/14/can-you-help-rubylearning-win-this-award/
 tags:
-  - india
-  - IndianGuru
-  - pune
-  - Ruby
-  - Ruby Programming Language
-  - Rubyists
-  - satish talim
-  - Shorty Awards
-  - Twitter
+- india
+- IndianGuru
+- pune
+- Ruby
+- Ruby Programming Language
+- Rubyists
+- satish talim
+- Shorty Awards
+- Twitter
+title: Can YOU help RubyLearning win this award?
 ---
+
 <div>
   <h3>
     Yes YOU can. How?

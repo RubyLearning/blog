@@ -1,26 +1,27 @@
 ---
-title: 'Benoit Daloze Winner RPCFN - 9'
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- RPCFN
+- Ruby
 date: 2010-06-01
 layout: post
 permalink: /2010/06/01/benoit-daloze-winner-rpcfn-9/
-thesis_keywords:
-  - Benoit Daloze,Ruby,Ruby programming,RPCFN,Belgium, Ruby Challenge
-topsy_short_url:
-  - http://bit.ly/9EQIaP
-categories:
-  - Beginners
-  - Interview
-  - RPCFN
-  - Ruby
 tags:
-  - Belgium
-  - Benoit Daloze
-  - RPCFN
-  - Ruby
-  - Ruby Challenge
-  - ruby programming
+- Belgium
+- Benoit Daloze
+- RPCFN
+- Ruby
+- Ruby Challenge
+- ruby programming
+thesis_keywords:
+- Benoit Daloze,Ruby,Ruby programming,RPCFN,Belgium, Ruby Challenge
+title: Benoit Daloze Winner RPCFN - 9
+topsy_short_url:
+- http://bit.ly/9EQIaP
 ---
+
 <div>
   <p class="alert">
     In this brief interview, Satish Talim of RubyLearning talks to <b><a href="http://twitter.com/pjb3">Benoit Daloze</a> of Belgium</b>, winner of the ninth <a href="http://rubylearning.com/blog/2010/04/29/rpcfn-interactive-fiction-9/">Ruby Programming Challenge For Newbies</a>.

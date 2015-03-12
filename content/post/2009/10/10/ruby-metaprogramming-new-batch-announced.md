@@ -1,26 +1,29 @@
 ---
-title: Ruby Metaprogramming New Batch Announced
 author: Satish Talim
+categories:
+- Metaprogramming
+- Ruby
+- Training
 date: 2009-10-10
+draft: true
 layout: post
 permalink: /2009/10/10/ruby-metaprogramming-new-batch-announced/
-draft: true
-thesis_description:
-  - The second batch of the very popular Ruby Metaprogramming course starts 21st Nov. 2009.
-thesis_keywords:
-  - Ruby,Metaprogramming,Ruby Metaprogramming,Satoshi Asakawa,The Ruby Programming Language,Paolo Perrotta
-categories:
-  - Metaprogramming
-  - Ruby
-  - Training
 tags:
-  - Metaprogramming
-  - Paolo Perrotta
-  - Ruby
-  - Ruby Metaprogramming
-  - Satoshi Asakawa
-  - The Ruby Programming Language
+- Metaprogramming
+- Paolo Perrotta
+- Ruby
+- Ruby Metaprogramming
+- Satoshi Asakawa
+- The Ruby Programming Language
+thesis_description:
+- The second batch of the very popular Ruby Metaprogramming course starts 21st Nov.
+  2009.
+thesis_keywords:
+- Ruby,Metaprogramming,Ruby Metaprogramming,Satoshi Asakawa,The Ruby Programming Language,Paolo
+  Perrotta
+title: Ruby Metaprogramming New Batch Announced
 ---
+
 <div>
   <p class="update">
     <abbr title="RubyLearning">RL</abbr> offers online courses in Ruby programming, Git & GitHub, FXRuby, Shoes, JRuby, Sinatra and Merb. Since 2005, over 15000 participants spread across 140+ countries have learned Ruby and other Ruby related timely topics. This has been possible due to the extensive support provided by the patrons, mentors and assistant teachers of these courses. RL strives hard to improve the methodology and course content based on the extensive and critical feedback we receive. Thanks to <strong>YOU</strong>, the Ruby community, people like Fabio Akita and companies like <a href="http://www.locaweb.com.br/portal.asp?utm_campaign=Rails&utm_source=rubylearning&utm_medium=banner">Locaweb</a> who make this possible. <a href="http://rubylearning.com/other/testimonials.html">Our Alumni</a> are our best ambassadors.

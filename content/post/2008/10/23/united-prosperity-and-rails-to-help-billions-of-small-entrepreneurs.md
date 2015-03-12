@@ -1,23 +1,26 @@
 ---
-title: United Prosperity and Rails to Help Billions of Small Entrepreneurs
 author: Satish Talim
+categories:
+- Interview
+- Ruby
 date: 2008-10-23
+description:
+- Billions of global, small entrepreneurs need a small loan to start or grow their
+  businesses. Banks do not lend without collateral. United Prosperity helps them.
+keywords:
+- Bhalchander Vishwanath,Microfinance Institutions,Mohammad Yunus,Ruby on Rails,United
+  Prosperity
 layout: post
 permalink: /2008/10/23/united-prosperity-and-rails-to-help-billions-of-small-entrepreneurs/
-keywords:
-  - Bhalchander Vishwanath,Microfinance Institutions,Mohammad Yunus,Ruby on Rails,United Prosperity
-description:
-  - Billions of global, small entrepreneurs need a small loan to start or grow their businesses. Banks do not lend without collateral. United Prosperity helps them.
-categories:
-  - Interview
-  - Ruby
 tags:
-  - Bhalchander Vishwanath
-  - Microfinance Institutions
-  - Mohammad Yunus
-  - Ruby on Rails
-  - United Prosperity
+- Bhalchander Vishwanath
+- Microfinance Institutions
+- Mohammad Yunus
+- Ruby on Rails
+- United Prosperity
+title: United Prosperity and Rails to Help Billions of Small Entrepreneurs
 ---
+
 <div>
   <p>
     <img class="alignleft" title="Bhalchander Vishwanath" src="http://www.rubylearning.com/images/bala.jpg" alt="Bhalchander Vishwanath" width="125" height="94" />

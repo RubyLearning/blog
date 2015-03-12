@@ -1,11 +1,12 @@
 ---
-title: "Ruby/GTK2"
-author: "Satish Talim"
-date: "2007-02-24"
-layout: post
+author: Satish Talim
 categories:
-  - ruby
+- ruby
+date: 2007-02-24
+layout: post
+title: Ruby/GTK2
 ---
+
 **Ruby/GTK2** is a library that allows Ruby applications to use GTK+ 2.x
 library. GTK+ is open source and is released under the GNU LGPL licence,
 so it may be used freely for commercial applications. Ruby/GTK2 is

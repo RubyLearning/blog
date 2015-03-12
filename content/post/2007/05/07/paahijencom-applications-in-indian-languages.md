@@ -1,13 +1,14 @@
 ---
-title: 'paahijen.com: Applications in Indian Languages'
-author: "Satish Talim"
-date: "2007-05-07"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - rails
-  - ruby
+- news
+- rails
+- ruby
+date: 2007-05-07
+layout: post
+title: 'paahijen.com: Applications in Indian Languages'
 ---
+
 **Siddharth Karandikar** a PuneRuby member and some of his friends are
 hard at work in creating [paahijen.com](http://paahijen.com/) – a suit
 of applications in Indian languages. I asked Siddharth to share some of

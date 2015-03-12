@@ -1,18 +1,19 @@
 ---
-title: Ruby Study Notes Book
 author: Satish Talim
+categories:
+- News
+- Ruby
 date: 2008-05-04
 layout: post
 permalink: /2008/05/04/ruby-study-notes-book/
-categories:
-  - News
-  - Ruby
 tags:
-  - book
-  - ruby book
-  - ruby programming book
-  - ruby study notes book
+- book
+- ruby book
+- ruby programming book
+- ruby study notes book
+title: Ruby Study Notes Book
 ---
+
 <div>
   <p>
     <strong>The Ruby Study Notes eBook</strong> has been downloaded over 14500 times. For a long time there was a constant request of creating the Ruby Study Notes in print form and finally with the help of Lulu.com, I did it!

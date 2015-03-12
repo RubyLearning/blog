@@ -1,13 +1,14 @@
 ---
-title: "Interview: Shashank Date"
-author: "Satish Talim"
-date: "2007-04-11"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - rails
-  - ruby
+- news
+- rails
+- ruby
+date: 2007-04-11
+layout: post
+title: 'Interview: Shashank Date'
 ---
+
 [![Shashank
 Date](http://www.puneruby.com/blog/images/2006/shashank.jpg)](http://www.puneruby.com/blog/images/2006/shashank.jpg "Shashank Date")
 

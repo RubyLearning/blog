@@ -1,26 +1,27 @@
 ---
-title: What are the Twelve Rules of Sinatra?
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Sinatra
 date: 2009-07-19
 layout: post
 permalink: /2009/07/19/what-are-the-twelve-rules-of-sinatra/
-thesis_description:
-  - The blog post discusses the 12 rules of Sinatra, the micro-web framework.
-thesis_keywords:
-  - Jeremy Evans,Sinatra,Ruby programming,Learning Sinatra,Twelve Rules of Sinatra
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Ruby
-  - Sinatra
 tags:
-  - Jeremy Evans
-  - Learning Sinatra
-  - ruby programming
-  - Sinatra
-  - Twelve Rules of Sinatra
+- Jeremy Evans
+- Learning Sinatra
+- ruby programming
+- Sinatra
+- Twelve Rules of Sinatra
+thesis_description:
+- The blog post discusses the 12 rules of Sinatra, the micro-web framework.
+thesis_keywords:
+- Jeremy Evans,Sinatra,Ruby programming,Learning Sinatra,Twelve Rules of Sinatra
+title: What are the Twelve Rules of Sinatra?
+topsy_short_url:
+- null
 ---
+
 <div>
   <h3>
     The Twelve Rules of Sinatra

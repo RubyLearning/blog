@@ -1,25 +1,26 @@
 ---
-title: 'Interview: Author Jeremy McAnally'
 author: Satish Talim
+categories:
+- Beginners
+- Book Promotions
+- Interview
+- Promotions
+- Ruby
 date: 2009-05-13
+description:
+- Interview with Ruby in Practice book author, Jeremy McAnally on RubyLearning.
+keywords:
+- Jeremy McAnally,Ruby in Practice,Ruby programming,Book promotion
 layout: post
 permalink: /2009/05/13/interview-author-jeremy-mcanally/
-keywords:
-  - Jeremy McAnally,Ruby in Practice,Ruby programming,Book promotion
-description:
-  - Interview with Ruby in Practice book author, Jeremy McAnally on RubyLearning.
-categories:
-  - Beginners
-  - Book Promotions
-  - Interview
-  - Promotions
-  - Ruby
 tags:
-  - Book promotion
-  - Jeremy McAnally
-  - Ruby in Practice
-  - ruby programming
+- Book promotion
+- Jeremy McAnally
+- Ruby in Practice
+- ruby programming
+title: 'Interview: Author Jeremy McAnally'
 ---
+
 <div>
   <p class="alert">
     Our Book Promotion: &#8220;<strong>Ruby in Practice</strong>&#8221; starts soon. Win one of four books to be given out for participation. The coolest thing? Author <b><a href="http://jeremymcanally.com/">Jeremy McAnally</a></b> will be on site to answer questions! <a href="http://rubylearning.com/blog/2009/05/12/book-promotion-ruby-in-practice/">Click here</a> for more details. Here, in this brief interview, Satish Talim of RubyLearning talks to Jeremy McAnally.

@@ -1,26 +1,27 @@
 ---
-title: 'Sinatra - 6th Batch of the Popular Course Announced'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Sinatra
+- Training
 date: 2009-11-02
+draft: true
 layout: post
 permalink: /2009/11/02/sinatra-6th-batch-of-the-popular-course-announced/
-draft: true
-thesis_description:
-  - The 6th batch of the popular Sinatra web framework course has been announced for 28th Nov. 2009.
-thesis_keywords:
-  - Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language
-categories:
-  - Beginners
-  - Ruby
-  - Sinatra
-  - Training
 tags:
-  - Ruby
-  - Sinatra
-  - Sinatra eBook
-  - The Ruby Programming Language
+- Ruby
+- Sinatra
+- Sinatra eBook
+- The Ruby Programming Language
+thesis_description:
+- The 6th batch of the popular Sinatra web framework course has been announced for
+  28th Nov. 2009.
+thesis_keywords:
+- Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language
+title: Sinatra - 6th Batch of the Popular Course Announced
 ---
+
 <div>
   <h3>
     Sinatra: 6th Batch of the Popular Course Announced

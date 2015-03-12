@@ -1,12 +1,13 @@
 ---
-title: "Ruby Rails Jobs Update"
-author: "Satish Talim"
-date: "2007-06-22"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-06-22
+layout: post
+title: Ruby Rails Jobs Update
 ---
+
 The **[Learning Ruby Job
 Board](http://rubylearning.com/jobs/ruby_jobs.html)** is getting a very
 good response from the Ruby and Rails readers of

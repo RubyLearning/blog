@@ -1,13 +1,14 @@
 ---
-title: "Free Ruby Lessons"
-draft: true
-author: "Satish Talim"
-date: "2007-08-22"
-layout: post
+author: Satish Talim
 categories:
-  - ruby
-  - training
+- ruby
+- training
+date: 2007-08-22
+draft: true
+layout: post
+title: Free Ruby Lessons
 ---
+
 In August 2006, I conducted some **Free Ruby Lessons** on the net. Peter
 Cooper the author of [Beginning
 Ruby](http://rubylearning.com/blog/2007/03/28/beginning-ruby/) wrote a

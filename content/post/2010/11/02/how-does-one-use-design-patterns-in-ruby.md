@@ -1,24 +1,26 @@
 ---
-title: How Does One Use Design Patterns In Ruby?
 author: Chee Yeo
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-11-02
 layout: post
 permalink: /2010/11/02/how-does-one-use-design-patterns-in-ruby/
-thesis_description:
-  - Chee Yeo introduces you to Design Patterns in Ruby and how to use them in your own Ruby code. A guest blog post on RubyLearning.
-thesis_keywords:
-  - Design Patterns,Programming,Ruby programming
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - Design Patterns
-  - programming
-  - ruby programming
+- Design Patterns
+- programming
+- ruby programming
+thesis_description:
+- Chee Yeo introduces you to Design Patterns in Ruby and how to use them in your own
+  Ruby code. A guest blog post on RubyLearning.
+thesis_keywords:
+- Design Patterns,Programming,Ruby programming
+title: How Does One Use Design Patterns In Ruby?
+topsy_short_url:
+- null
 ---
+
 <div>
   <h3>
     How Does One Use Design Patterns In Ruby?

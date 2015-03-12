@@ -1,34 +1,37 @@
 ---
-title: Little Known Ways to Ruby Mastery by Jamie van Dyke
+admin@meetadeveloper.com:
+- Twitter ID
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Ruby
+- Ruby Masters
+- Training
 date: 2008-09-23
+description:
+- The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to
+  and answers questions confronting Ruby beginners from across the globe.
+keywords:
+- ruby for beginners,ruby beginners,ruby programming,ruby on Rails blog,rails blog,rails
+  tutorials,ruby beginners' questions,little known ways to ruby mastery,ruby masters
 layout: post
 permalink: /2008/09/23/little-known-ways-to-ruby-mastery-by-jamie-van-dyke/
-admin@meetadeveloper.com:
-  - Twitter ID
-keywords:
-  - "ruby for beginners,ruby beginners,ruby programming,ruby on Rails blog,rails blog,rails tutorials,ruby beginners' questions,little known ways to ruby mastery,ruby masters"
-description:
-  - The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to and answers questions confronting Ruby beginners from across the globe.
-topsy_short_url:
-  - http://bit.ly/9kmOEp
-categories:
-  - Beginners
-  - Interview
-  - Ruby
-  - Ruby Masters
-  - Training
 tags:
-  - beginners course
-  - Jamie van Dyke
-  - Rails blog
-  - Rails tutorials
-  - Ruby Beginners
-  - "Ruby Beginners' Questions"
-  - Ruby Masters
-  - Ruby on Rails blog
-  - ruby programming
+- beginners course
+- Jamie van Dyke
+- Rails blog
+- Rails tutorials
+- Ruby Beginners
+- Ruby Beginners' Questions
+- Ruby Masters
+- Ruby on Rails blog
+- ruby programming
+title: Little Known Ways to Ruby Mastery by Jamie van Dyke
+topsy_short_url:
+- http://bit.ly/9kmOEp
 ---
+
 <div>
   <h3>
     A weekly series from the Ruby Masters

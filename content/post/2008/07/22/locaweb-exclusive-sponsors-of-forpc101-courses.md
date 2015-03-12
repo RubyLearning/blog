@@ -1,21 +1,22 @@
 ---
-title: 'Locaweb - Exclusive Sponsors of FORPC101 Courses'
 author: Satish Talim
+categories:
+- News
+- Ruby
+- Training
 date: 2008-07-22
+draft: true
 layout: post
 permalink: /2008/07/22/locaweb-exclusive-sponsors-of-forpc101-courses/
-draft: true
-categories:
-  - News
-  - Ruby
-  - Training
 tags:
-  - Brazil
-  - fabio akita
-  - Locaweb
-  - Ruby Courses
-  - satish talim
+- Brazil
+- fabio akita
+- Locaweb
+- Ruby Courses
+- satish talim
+title: Locaweb - Exclusive Sponsors of FORPC101 Courses
 ---
+
 <div>
   <p>
     I am happy to announce that <strong><a href="http://www.locaweb.com.br/portal.asp?utm_campaign=Rails&utm_source=rubylearning&utm_medium=banner">Locaweb</a></strong> are now the <em>exclusive sponsors</em> of all the Free Online Ruby Programming Courses (FORPC101) at RubyLearning.

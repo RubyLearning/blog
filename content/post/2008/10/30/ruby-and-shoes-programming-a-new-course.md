@@ -1,30 +1,32 @@
 ---
-title: 'Ruby and Shoes Programming - A New Course'
-draft: true
 author: Satish Talim
-date: 2008-10-30
-layout: post
-permalink: /2008/10/30/ruby-and-shoes-programming-a-new-course/
-mail@satishtalim.com:
-  - IndianGuru
-willian.molinari@gmail.com:
-  - pothix
-keywords:
-  - Ruby course,Ruby training,Ruby,Shoes,The Ruby Programming Language
-description:
-  - 'Shoes is the best GUI for Ruby and this is the only course of its kind - Ruby with Shoes.'
-topsy_short_url:
-  - http://bit.ly/b22AGT
 categories:
-  - Ruby
-  - Training
+- Ruby
+- Training
+date: 2008-10-30
+description:
+- Shoes is the best GUI for Ruby and this is the only course of its kind - Ruby with
+  Shoes.
+draft: true
+keywords:
+- Ruby course,Ruby training,Ruby,Shoes,The Ruby Programming Language
+layout: post
+mail@satishtalim.com:
+- IndianGuru
+permalink: /2008/10/30/ruby-and-shoes-programming-a-new-course/
 tags:
-  - Ruby
-  - Ruby course
-  - Ruby training
-  - Shoes
-  - The Ruby Programming Language
+- Ruby
+- Ruby course
+- Ruby training
+- Shoes
+- The Ruby Programming Language
+title: Ruby and Shoes Programming - A New Course
+topsy_short_url:
+- http://bit.ly/b22AGT
+willian.molinari@gmail.com:
+- pothix
 ---
+
 <div>
   <h3>
     Let&#8217;s Enjoy Ruby and Shoes Programming!

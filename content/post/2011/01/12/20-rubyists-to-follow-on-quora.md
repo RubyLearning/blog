@@ -1,27 +1,28 @@
 ---
-title: 20+ Rubyists to Follow on Quora
 author: Satish Talim
+categories:
+- Quora
+- Ruby
 date: 2011-01-12
+dsq_thread_id:
+- 208368588
 layout: post
 permalink: /2011/01/12/20-rubyists-to-follow-on-quora/
-thesis_description:
-  - A list of Rubyists using Quora.
-thesis_keywords:
-  - Quora,Programming,Rubyists,Ruby Programming,Ruby
-topsy_short_url:
-  - 
-dsq_thread_id:
-  - 208368588
-categories:
-  - Quora
-  - Ruby
 tags:
-  - programming
-  - Quora
-  - Ruby
-  - ruby programming
-  - Rubyists
+- programming
+- Quora
+- Ruby
+- ruby programming
+- Rubyists
+thesis_description:
+- A list of Rubyists using Quora.
+thesis_keywords:
+- Quora,Programming,Rubyists,Ruby Programming,Ruby
+title: 20+ Rubyists to Follow on Quora
+topsy_short_url:
+- null
 ---
+
 <div>
   <h3>
     What&#8217;s Quora?

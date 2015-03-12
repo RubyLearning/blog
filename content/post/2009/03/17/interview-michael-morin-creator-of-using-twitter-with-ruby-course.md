@@ -1,25 +1,26 @@
 ---
-title: 'Interview - Michael Morin Creator of Using Twitter with Ruby Course'
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Ruby
+- Twitter
 date: 2009-03-17
+description:
+- Using Twitter with Ruby course creator Michael Morin talks to RubyLearning.
+keywords:
+- Michael Morin,Interviews,Ruby,Twitter,The Ruby Programming Language
 layout: post
 permalink: /2009/03/17/interview-michael-morin-creator-of-using-twitter-with-ruby-course/
-keywords:
-  - Michael Morin,Interviews,Ruby,Twitter,The Ruby Programming Language
-description:
-  - Using Twitter with Ruby course creator Michael Morin talks to RubyLearning.
-categories:
-  - Beginners
-  - Interview
-  - Ruby
-  - Twitter
 tags:
-  - interviews
-  - Michael Morin
-  - Ruby
-  - The Ruby Programming Language
-  - Twitter
+- interviews
+- Michael Morin
+- Ruby
+- The Ruby Programming Language
+- Twitter
+title: Interview - Michael Morin Creator of Using Twitter with Ruby Course
 ---
+
 <div>
   <p class="alert">
     The first ever <em>free</em>, online &#8220;<strong>Using Twitter with Ruby</strong>&#8221; course starts 18th April 2009 at <a href="http://rubylearning.org/class/">RubyLearning.org</a>. Satish Talim of RubyLearning caught up with <strong>Micheal Morin</strong>, the creator of this course, and talked to him in this interview.

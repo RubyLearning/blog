@@ -1,24 +1,25 @@
 ---
-title: Locaweb sponsored Free Core Ruby Course
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Training
 date: 2009-02-17
+description:
+- The most successful, free, online Core Ruby course open to all.
+draft: true
+keywords:
+- Ruby,Ruby Course,Locaweb,The Ruby Programming Language
 layout: post
 permalink: /2009/02/17/locaweb-sponsored-free-core-ruby-course/
-keywords:
-  - Ruby,Ruby Course,Locaweb,The Ruby Programming Language
-description:
-  - The most successful, free, online Core Ruby course open to all.
-categories:
-  - Beginners
-  - Ruby
-  - Training
 tags:
-  - Locaweb
-  - Ruby
-  - Ruby course
-  - The Ruby Programming Language
+- Locaweb
+- Ruby
+- Ruby course
+- The Ruby Programming Language
+title: Locaweb sponsored Free Core Ruby Course
 ---
+
 <div>
   <h3>
     What&#8217;s Ruby?

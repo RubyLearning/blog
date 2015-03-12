@@ -1,17 +1,18 @@
 ---
-title: Thanks to RubyLearning Sponsor PeepCode
 author: Satish Talim
+categories:
+- Ruby
+- Sponsors
 date: 2008-08-06
 layout: post
 permalink: /2008/08/06/thanks-to-rubylearning-sponsor-peepcode/
-categories:
-  - Ruby
-  - Sponsors
 tags:
-  - PeepCode
-  - Ruby
-  - Sponsors
+- PeepCode
+- Ruby
+- Sponsors
+title: Thanks to RubyLearning Sponsor PeepCode
 ---
+
 <div>
   <p>
     It&#8217;s time to thank RubyLearning&#8217;s excellent sponsors!

@@ -1,27 +1,27 @@
 ---
-title: Update your Ruby programming skills for free
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Training
 date: 2012-05-26
+draft: true
 layout: post
 permalink: /2012/05/26/update-your-ruby-programming-skills-for-free/
-draft: true
-thesis_description:
-  - Update your Ruby programming skills for free at RubyLearning.
-thesis_keywords:
-  - Ruby course,Ruby Training, Programming, Ruby
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Ruby
-  - Training
 tags:
-  - programming
-  - Ruby
-  - Ruby course
-  - Ruby training
+- programming
+- Ruby
+- Ruby course
+- Ruby training
+thesis_description:
+- Update your Ruby programming skills for free at RubyLearning.
+thesis_keywords:
+- Ruby course,Ruby Training, Programming, Ruby
+title: Update your Ruby programming skills for free
+topsy_short_url:
+- null
 ---
+
 <div>
   <p>
     <span class="drop_cap">P</span>ast participants of RubyLearning&#8217;s <strong>Core Ruby</strong> batches can join the new 33rd Core Ruby batch starting from 26th May 2012 for free and update their Ruby skills.

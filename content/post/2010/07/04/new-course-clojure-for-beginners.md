@@ -1,24 +1,25 @@
 ---
-title: 'New Course - Clojure for Beginners'
-draft: true
 author: Satish Talim
+categories:
+- Clojure
+- Training
 date: 2010-07-04
+draft: true
 layout: post
 permalink: /2010/07/04/new-course-clojure-for-beginners/
-thesis_description:
-  - The first-ever Clojure course for beginners at RubyLearning.org
-thesis_keywords:
-  - Clojure course,Clojure,Clojure Training
-topsy_short_url:
-  - http://bit.ly/c3EfsB
-categories:
-  - Clojure
-  - Training
 tags:
-  - Clojure
-  - Clojure course
-  - Clojure Training
+- Clojure
+- Clojure course
+- Clojure Training
+thesis_description:
+- The first-ever Clojure course for beginners at RubyLearning.org
+thesis_keywords:
+- Clojure course,Clojure,Clojure Training
+title: New Course - Clojure for Beginners
+topsy_short_url:
+- http://bit.ly/c3EfsB
 ---
+
 <div>
   <p>
     <span class="drop_cap">I</span>ntroducing an intensive, online course for <em>beginners</em> that helps you get started with <strong>Clojure</strong> programming.

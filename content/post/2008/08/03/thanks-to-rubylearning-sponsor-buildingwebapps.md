@@ -1,16 +1,17 @@
 ---
-title: Thanks to RubyLearning Sponsor BuildingWebApps
 author: Satish Talim
+categories:
+- Ruby
+- Sponsors
 date: 2008-08-03
 layout: post
 permalink: /2008/08/03/thanks-to-rubylearning-sponsor-buildingwebapps/
-categories:
-  - Ruby
-  - Sponsors
 tags:
-  - BuildingWebApps
-  - Ruby
+- BuildingWebApps
+- Ruby
+title: Thanks to RubyLearning Sponsor BuildingWebApps
 ---
+
 <div>
   <p>
     It&#8217;s time to thank RubyLearning&#8217;s excellent sponsors!

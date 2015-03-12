@@ -1,26 +1,27 @@
 ---
-title: 'Announcement - Ruby with Shoes Course'
-draft: true
 author: Satish Talim
+categories:
+- Ruby
+- Shoes
+- Training
 date: 2009-05-14
+description:
+- 5th batch of the Ruby with Shoes announced on RubyLearning.org
+draft: true
+keywords:
+- Ruby course,Ruby training,Ruby,Satoshi Asakawa,Shoes,The Ruby Programming Language
 layout: post
 permalink: /2009/05/14/announcement-ruby-with-shoes-course/
-keywords:
-  - Ruby course,Ruby training,Ruby,Satoshi Asakawa,Shoes,The Ruby Programming Language
-description:
-  - 5th batch of the Ruby with Shoes announced on RubyLearning.org
-categories:
-  - Ruby
-  - Shoes
-  - Training
 tags:
-  - Ruby
-  - Ruby course
-  - Ruby training
-  - Satoshi Asakawa
-  - Shoes
-  - The Ruby Programming Language
+- Ruby
+- Ruby course
+- Ruby training
+- Satoshi Asakawa
+- Shoes
+- The Ruby Programming Language
+title: Announcement - Ruby with Shoes Course
 ---
+
 <div>
   <h3>
     Ruby with Shoes Course &#8211; 5th Batch

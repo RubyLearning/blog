@@ -1,25 +1,26 @@
 ---
-title: Ruby Gurus to blog on RubyLearning
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-09-08
 layout: post
 permalink: /2010/09/08/ruby-gurus-to-blog-on-rubylearning/
-thesis_description:
-  - A series of blog posts by Ruby Gurus to help newbies at Ruby programming.
-thesis_keywords:
-  - Ruby Gurus,Ruby,Programming, Ruby Newbies
-topsy_short_url:
-  - http://bit.ly/aeze74
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - programming
-  - Ruby
-  - ruby gurus
-  - Ruby Newbies
+- programming
+- Ruby
+- ruby gurus
+- Ruby Newbies
+thesis_description:
+- A series of blog posts by Ruby Gurus to help newbies at Ruby programming.
+thesis_keywords:
+- Ruby Gurus,Ruby,Programming, Ruby Newbies
+title: Ruby Gurus to blog on RubyLearning
+topsy_short_url:
+- http://bit.ly/aeze74
 ---
+
 <div>
   <h3>
     Ruby Gurus to blog on RubyLearning

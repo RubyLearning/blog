@@ -1,22 +1,23 @@
 ---
-title: Announcing a Short, Online Course on JRuby
-draft: true
 author: Satish Talim
+categories:
+- JRuby
+- News
+- Ruby
+- Training
 date: 2008-07-19
+draft: true
 layout: post
 permalink: /2008/07/19/announcing-a-short-online-course-on-jruby/
-categories:
-  - JRuby
-  - News
-  - Ruby
-  - Training
 tags:
-  - JRuby
-  - jruby course
-  - jruby ebook
-  - Ruby
-  - satish talim
+- JRuby
+- jruby course
+- jruby ebook
+- Ruby
+- satish talim
+title: Announcing a Short, Online Course on JRuby
 ---
+
 <div>
   <p>
     <strong>JRuby</strong> is a 100% pure-Java implementation of the Ruby programming language.

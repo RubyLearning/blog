@@ -1,24 +1,25 @@
 ---
-title: 'Git and GitHub - A Free Course'
-draft: true
 author: Satish Talim
+categories:
+- Ruby
 date: 2009-02-10
+description:
+- The "Git and GitHub Course" is the only free, online course on the subject.
+draft: true
+keywords:
+- Git,GitHub,Ruby,The Ruby Programming Language
 layout: post
 permalink: /2009/02/10/git-and-github-a-free-course/
-keywords:
-  - Git,GitHub,Ruby,The Ruby Programming Language
-description:
-  - The "Git and GitHub Course" is the only free, online course on the subject.
-topsy_short_url:
-  - http://bit.ly/bfoCNS
-categories:
-  - Ruby
 tags:
-  - Git
-  - GitHub
-  - Ruby
-  - The Ruby Programming Language
+- Git
+- GitHub
+- Ruby
+- The Ruby Programming Language
+title: Git and GitHub - A Free Course
+topsy_short_url:
+- http://bit.ly/bfoCNS
 ---
+
 <div>
   <h3>
     Git and GitHub: A Free Course

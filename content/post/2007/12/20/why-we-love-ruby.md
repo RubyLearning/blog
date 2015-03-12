@@ -1,12 +1,13 @@
 ---
-title: "Why We Love Ruby"
-author: "Satish Talim"
-date: "2007-12-20"
-layout: post
+author: Satish Talim
 categories:
-  - interview
-  - ruby
+- interview
+- ruby
+date: 2007-12-20
+layout: post
+title: Why We Love Ruby
 ---
+
 Recently,
 [odinjobs](http://www.odinjobs.com/blogs/careers/entry/ruby_experts_whythey_are_in)
 talked to a panel of Ruby Experts and asked them <!--more-->“Why they were in love

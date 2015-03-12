@@ -1,22 +1,24 @@
 ---
-title: 'Rubyists.EU: Stairway to the European Ruby Community Integration'
 author: Satish Talim
+categories:
+- News
+- Ruby
 date: 2009-11-06
 layout: post
 permalink: /2009/11/06/rubyists-eu-stairway-to-the-european-ruby-community-integration/
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Rubyists.EU,European Ruby Community,Europe
-thesis_description:
-  - Rubyists.EU is a free of charge communications platform, which aims at encouraging better communications among Ruby communities and individual enthusiasts across Europe.
-categories:
-  - News
-  - Ruby
 tags:
-  - European Ruby Community
-  - Ruby
-  - Rubyists.EU
-  - The Ruby Programming Language
+- European Ruby Community
+- Ruby
+- Rubyists.EU
+- The Ruby Programming Language
+thesis_description:
+- Rubyists.EU is a free of charge communications platform, which aims at encouraging
+  better communications among Ruby communities and individual enthusiasts across Europe.
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Rubyists.EU,European Ruby Community,Europe
+title: 'Rubyists.EU: Stairway to the European Ruby Community Integration'
 ---
+
 <div>
   <p>
     A Guest Post By <a href="http://twitter.com/dream_warrior">Mariela Dimitrova</a>, <a href="http://twitter.com/gusma">Gustavo Malamud</a> and <a href="http://twitter.com/monsieur_rock">Javier Cicchelli</a>.

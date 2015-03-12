@@ -1,22 +1,23 @@
 ---
-title: Best of RubyLearning Posts for Ruby Beginners
 author: Satish Talim
+categories:
+- JRuby
+- Popular
+- Ruby
 date: 2008-07-31
 layout: post
-permalink: /2008/07/31/best-of-rubylearning-posts-for-ruby-beginners/
 metadescription:
-  - Best of RubyLearning Posts for Ruby Beginners
+- Best of RubyLearning Posts for Ruby Beginners
 metakeywords:
-  - ruby beginners
-categories:
-  - JRuby
-  - Popular
-  - Ruby
+- ruby beginners
+permalink: /2008/07/31/best-of-rubylearning-posts-for-ruby-beginners/
 tags:
-  - JRuby
-  - Ruby
-  - Ruby Beginners
+- JRuby
+- Ruby
+- Ruby Beginners
+title: Best of RubyLearning Posts for Ruby Beginners
 ---
+
 <div>
   <p>
     Here&#8217;s a digest of RubyLearning&#8217;s best posts for Ruby beginners. These include (with the latest posts first):

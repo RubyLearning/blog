@@ -1,27 +1,28 @@
 ---
-title: 'Interview: Ryan Tomayko on Sinatra'
 author: Satish Talim
+categories:
+- Heroku
+- Interview
+- Ruby
+- Sinatra
 date: 2009-03-20
+description:
+- Ryan Tomayko key developer for Sinatra talks to RubyLearning on Sinatra micro web-framework.
+keywords:
+- Ryan Tomayko,Interviews,Ruby,Sinatra,The Ruby Programming Language
 layout: post
 permalink: /2009/03/20/interview-ryan-tomayko-on-sinatra/
-keywords:
-  - Ryan Tomayko,Interviews,Ruby,Sinatra,The Ruby Programming Language
-description:
-  - Ryan Tomayko key developer for Sinatra talks to RubyLearning on Sinatra micro web-framework.
-topsy_short_url:
-  - http://bit.ly/9BJIZX
-categories:
-  - Heroku
-  - Interview
-  - Ruby
-  - Sinatra
 tags:
-  - interviews
-  - Ruby
-  - Ryan Tomayko
-  - Sinatra
-  - The Ruby Programming Language
+- interviews
+- Ruby
+- Ryan Tomayko
+- Sinatra
+- The Ruby Programming Language
+title: 'Interview: Ryan Tomayko on Sinatra'
+topsy_short_url:
+- http://bit.ly/9BJIZX
 ---
+
 <div>
   <p class="alert">
     On the eve of the first ever online &#8220;<strong>Introduction to Sinatra</strong>&#8221; course, Satish Talim of RubyLearning caught up with <strong>Ryan Tomayko</strong> and talked to him on <strong>Sinatra</strong>, in this interview.

@@ -1,30 +1,32 @@
 ---
-title: 'Sinatra: Some Questions from Ruby Newbies'
 author: Satish Talim
-date: "2013-08-14"
+categories:
+- Beginners
+- Learn Sinatra
+- Ruby
+- Sinatra
+date: 2013-08-14
 layout: post
 permalink: /2013/08/14/sinatra-some-questions-from-ruby-newbies/
-thesis_description:
-  - "Ruby Gurus answer Ruby beginner's questions related to Sinatra on RubyLearning."
-thesis_keywords:
-  - Andy Lindeman,Carlo Pecchia,Dan Mayer,Darren Jones,Nathan Esquenazi,Sudarshan Shubakar,Sinatra,Learning Sinatra
-topsy_short_url:
-  - http://bit.ly/149Igli
-categories:
-  - Beginners
-  - Learn Sinatra
-  - Ruby
-  - Sinatra
 tags:
-  - Andy Lindeman
-  - Carlo Pecchia
-  - Dan Mayer
-  - Darren Jones
-  - Learning Sinatra
-  - Nathan Esquenazi
-  - Sinatra
-  - Sudarshan Shubakar
+- Andy Lindeman
+- Carlo Pecchia
+- Dan Mayer
+- Darren Jones
+- Learning Sinatra
+- Nathan Esquenazi
+- Sinatra
+- Sudarshan Shubakar
+thesis_description:
+- Ruby Gurus answer Ruby beginner's questions related to Sinatra on RubyLearning.
+thesis_keywords:
+- Andy Lindeman,Carlo Pecchia,Dan Mayer,Darren Jones,Nathan Esquenazi,Sudarshan Shubakar,Sinatra,Learning
+  Sinatra
+title: 'Sinatra: Some Questions from Ruby Newbies'
+topsy_short_url:
+- http://bit.ly/149Igli
 ---
+
 <div>
   <p>
     Darren Jones in his excellent book <a href="http://www.amazon.com/gp/product/0987332147/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0987332147&linkCode=as2&tag=satishtalimsw-20">Jump Start Sinatra</a> says &#8220;<em>Since its release in 2007, Sinatra has quickly gained in popularity in the Ruby web community due to its elegant simplicity and classy syntax. Everybody who uses it falls in love with its elegant simplicity and classy syntax</em>.&#8221;

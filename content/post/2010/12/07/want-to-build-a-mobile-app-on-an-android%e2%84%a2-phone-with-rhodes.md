@@ -1,27 +1,28 @@
 ---
-title: Want To Build A Mobile App On An Android™ Phone With Rhodes?
 author: Satish Talim
+categories:
+- Beginners
+- Rhodes
+- Ruby
+- Training
 date: 2010-12-07
 layout: post
 permalink: /2010/12/07/want-to-build-a-mobile-app-on-an-android%e2%84%a2-phone-with-rhodes/
-thesis_description:
-  - 'A Free Course: Learn to quickly write and run an app on an Android phone with Rhodes.'
-thesis_keywords:
-  - Android,Rhomobile, Rhodes,Ruby Training, Ruby Programming
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Rhodes
-  - Ruby
-  - Training
 tags:
-  - Android
-  - Rhodes
-  - Rhomobile
-  - ruby programming
-  - Ruby training
+- Android
+- Rhodes
+- Rhomobile
+- ruby programming
+- Ruby training
+thesis_description:
+- 'A Free Course: Learn to quickly write and run an app on an Android phone with Rhodes.'
+thesis_keywords:
+- Android,Rhomobile, Rhodes,Ruby Training, Ruby Programming
+title: "Want To Build A Mobile App On An Android™ Phone With Rhodes?"
+topsy_short_url:
+- null
 ---
+
 <div>
   <h3>
     Want To Build A Mobile App On An Android Phone With Rhodes?

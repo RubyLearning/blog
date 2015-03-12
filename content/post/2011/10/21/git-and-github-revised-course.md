@@ -1,26 +1,27 @@
 ---
-title: Git and GitHub Revised Course
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Training
 date: 2011-10-21
+draft: true
 layout: post
 permalink: /2011/10/21/git-and-github-revised-course/
-thesis_keywords:
-  - git,github,using git and github ebook,git ebook,github ebook
-thesis_description:
-  - An introductory but an intensive, online course for beginners on Git and GitHub.
-topsy_short_url:
-  - http://bit.ly/qn01w1
-categories:
-  - Beginners
-  - Training
 tags:
-  - Git
-  - git ebook
-  - GitHub
-  - github ebook
-  - using git and github ebook
+- Git
+- git ebook
+- GitHub
+- github ebook
+- using git and github ebook
+thesis_description:
+- An introductory but an intensive, online course for beginners on Git and GitHub.
+thesis_keywords:
+- git,github,using git and github ebook,git ebook,github ebook
+title: Git and GitHub Revised Course
+topsy_short_url:
+- http://bit.ly/qn01w1
 ---
+
 <div>
   <h3>
     Git and GitHub Course

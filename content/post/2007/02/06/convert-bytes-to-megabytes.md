@@ -1,13 +1,14 @@
 ---
-title: "Convert bytes to megabytes"
-author: "Satish Talim"
-date: "2007-02-06"
-layout: post
+author: Satish Talim
 categories:
-  - code snippets
-  - ruby
-  - tricks
+- code snippets
+- ruby
+- tricks
+date: 2007-02-06
+layout: post
+title: Convert bytes to megabytes
 ---
+
 In one of my projects, I need to find the file-size in megabytes again
 and again. This simple method helps me to convert the size of a file in
 bytes to megabytes. This is useful for very large files.

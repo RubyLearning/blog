@@ -1,18 +1,19 @@
 ---
-title: 'YoYoBrain.com: Study Less. Learn More.'
 author: Satish Talim
+categories:
+- Interview
+- Ruby
 date: 2008-07-02
 layout: post
 permalink: /2008/07/02/yoyobraincom-study-less-learn-more/
-categories:
-  - Interview
-  - Ruby
 tags:
-  - interviews
-  - ruby interview
-  - ruby programming
-  - yoyobrain
+- interviews
+- ruby interview
+- ruby programming
+- yoyobrain
+title: 'YoYoBrain.com: Study Less. Learn More.'
 ---
+
 <div>
   <p class="block">
     <img class="alignleft" title="Will Bunker" src="http://www.rubylearning.com/images/willbunker.jpg" alt="Will Bunker" /><strong>Will Bunker</strong> founded the online dating service that became Match.com, the worldâ€™s largest personals site. Will designed the software and developed the hardware infrastructure for the site, which grew to 4.5 million monthly unique visitors and annualized subscription revenues of $14 million, outperforming Yahoo Personals and other competitors. In late 1999 they sold One-and-Only to Ticketmaster Online/City Search, where it was rebranded Match.com. Will Bunker is now the co-Founder and CEO of YoYoBrain.

@@ -1,18 +1,19 @@
 ---
-title: Fabio Akita on Locaweb
 author: Satish Talim
+categories:
+- Interview
+- Ruby
 date: 2008-07-24
 layout: post
 permalink: /2008/07/24/fabio-akita-on-locaweb/
-categories:
-  - Interview
-  - Ruby
 tags:
-  - fabio akita
-  - interviews
-  - Locaweb
-  - Ruby
+- fabio akita
+- interviews
+- Locaweb
+- Ruby
+title: Fabio Akita on Locaweb
 ---
+
 <div>
   <p>
     <strong>Locaweb</strong> is a strong supporter of <strong><a href="http://rubylearning.org/">RubyLearning.org</a></strong> and Satish Talim of RubyLearning recently caught up with <strong><span style="color:blue;">Fabio Akita</span></strong> of Locaweb, who was kind enough to spare time answering questions posed by RubyLearning. <a title="Fabio Akita on Locaweb" href="http://www.morphexchange.com/"><img class="alignleft" src="http://www.rubylearning.com/images/akita.jpg" style="border: 0px none ;" alt="Fabio Akita" /></a>

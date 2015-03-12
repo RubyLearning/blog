@@ -1,31 +1,32 @@
 ---
-title: Top Ruby Merbists to follow on Twitter
-author: Satish Talim
-date: 2008-12-15
-layout: post
-permalink: /2008/12/15/top-ruby-merbists-to-follow-on-twitter/
-brian.leroux@westcoastlogic.com:
-  - brianleroux
-hardbap@gmail.com:
-  - hardbap
-softmindsystems@gmail.com:
-  - SoftMind
 afrench@wieck.com:
-  - datamapper
-mattaimonetti@gmail.com:
-  - mattetti
-shayarnett@gmail.com:
-  - shayarnett
+- datamapper
+author: Satish Talim
+brian.leroux@westcoastlogic.com:
+- brianleroux
 categories:
-  - Ruby
+- Ruby
+date: 2008-12-15
+hardbap@gmail.com:
+- hardbap
+layout: post
+mattaimonetti@gmail.com:
+- mattetti
+permalink: /2008/12/15/top-ruby-merbists-to-follow-on-twitter/
+shayarnett@gmail.com:
+- shayarnett
+softmindsystems@gmail.com:
+- SoftMind
 tags:
-  - Merb
-  - Merbists
-  - Ruby
-  - Ruby Beginners
-  - Ruby Programming Language
-  - Twitter
+- Merb
+- Merbists
+- Ruby
+- Ruby Beginners
+- Ruby Programming Language
+- Twitter
+title: Top Ruby Merbists to follow on Twitter
 ---
+
 <div>
   <p>
     In my opinion, <a href="http://twitter.com/">Twitter</a> is the easiest way for people new to social media to get involved.

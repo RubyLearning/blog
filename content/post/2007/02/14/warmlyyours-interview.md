@@ -1,13 +1,14 @@
 ---
-title: "WarmlyYours Interview"
-author: "Satish Talim"
+author: Satish Talim
+categories:
+- news
+- rails
+- ruby
 date: 2007-02-14
 layout: post
-categories:
-  - news
-  - rails
-  - ruby
+title: WarmlyYours Interview
 ---
+
 **Christian Billen** is the Chief Information Officer, IT Department at
 [WarmlyYours](http://www.warmlyyours.com/). Recently, I had a chance to
 talk to him and requested him to share some of his experiences. Here

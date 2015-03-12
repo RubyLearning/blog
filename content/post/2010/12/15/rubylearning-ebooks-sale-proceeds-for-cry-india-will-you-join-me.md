@@ -1,24 +1,26 @@
 ---
-title: 'RubyLearning eBook(s) Sale Proceeds for CRY India -- Will You Join Me?'
 author: Satish Talim
+categories:
+- General
 date: 2010-12-15
 layout: post
 permalink: /2010/12/15/rubylearning-ebooks-sale-proceeds-for-cry-india-will-you-join-me/
-thesis_description:
-  - "RubyLearning will donate 100% collections from the sale of it's eBook(s) to CRY India along with an equal contribution from RubyLearning."
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Ruby eBook,CRY India,RubyLearning
-topsy_short_url:
-  - 
-categories:
-  - General
 tags:
-  - CRY India
-  - Ruby
-  - ruby ebook
-  - RubyLearning
-  - The Ruby Programming Language
+- CRY India
+- Ruby
+- ruby ebook
+- RubyLearning
+- The Ruby Programming Language
+thesis_description:
+- RubyLearning will donate 100% collections from the sale of it's eBook(s) to CRY
+  India along with an equal contribution from RubyLearning.
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Ruby eBook,CRY India,RubyLearning
+title: RubyLearning eBook(s) Sale Proceeds for CRY India -- Will You Join Me?
+topsy_short_url:
+- null
 ---
+
 <div>
   <p class="alert">
     This month, RubyLearning completes five wonderful years of teaching Ruby programming and allied technologies. Time flies when you&#8217;re having fun!

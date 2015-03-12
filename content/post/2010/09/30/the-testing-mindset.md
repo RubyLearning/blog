@@ -1,27 +1,29 @@
 ---
-title: The Testing Mindset
 author: Noel Rappin
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-09-30
 layout: post
 permalink: /2010/09/30/the-testing-mindset/
-thesis_description:
-  - "Noel Rappin argues that one needs to have a testing mindset., if one want one's Test-Driven Development (TDD) process to be effective. A guest blog post on RubyLearning."
-thesis_keywords:
-  - Ruby, Programming, Noel Rappin, Ruby for Noobs, Ruby beginners, Testing Mindset
-topsy_short_url:
-  - http://bit.ly/cGa2QP
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - Noel Rappin
-  - programming
-  - Ruby
-  - Ruby Beginners
-  - Ruby for Noobs
-  - Testing Mindset
+- Noel Rappin
+- programming
+- Ruby
+- Ruby Beginners
+- Ruby for Noobs
+- Testing Mindset
+thesis_description:
+- Noel Rappin argues that one needs to have a testing mindset., if one want one's
+  Test-Driven Development (TDD) process to be effective. A guest blog post on RubyLearning.
+thesis_keywords:
+- Ruby, Programming, Noel Rappin, Ruby for Noobs, Ruby beginners, Testing Mindset
+title: The Testing Mindset
+topsy_short_url:
+- http://bit.ly/cGa2QP
 ---
+
 <div>
   <h3>
     The Testing Mindset

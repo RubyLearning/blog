@@ -1,13 +1,14 @@
 ---
-title: "Ruby Quirks"
-author: "Satish Talim"
-date: "2007-04-11"
-layout: post
+author: Satish Talim
 categories:
-  - code snippets
-  - ruby
-  - tricks
+- code snippets
+- ruby
+- tricks
+date: 2007-04-11
+layout: post
+title: Ruby Quirks
 ---
+
 **Ruby Quirks** – peculiarity of behavior? I know this topic is
 debatable and remember "one man's meat is another man's poison!" I plan
 to write down here (in no particular order), some of the little Ruby

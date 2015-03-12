@@ -1,27 +1,29 @@
 ---
-title: 'RPCFN: The Game of Life - 11'
 author: Satish Talim
+categories:
+- Beginners
+- RPCFN
+- Ruby
 date: 2010-06-28
 layout: post
 permalink: /2010/06/28/rpcfn-the-game-of-life-11/
-thesis_description:
-  - The Game of Life Ruby Challenge for Newbies by Elise Huard at RubyLearning.org
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,Elise Huard
-topsy_short_url:
-  - http://bit.ly/dj3U6e
-categories:
-  - Beginners
-  - RPCFN
-  - Ruby
 tags:
-  - Elise Huard
-  - programming
-  - RPCFN
-  - Ruby
-  - Ruby Programming Challenge For Newbies
-  - The Ruby Programming Language
+- Elise Huard
+- programming
+- RPCFN
+- Ruby
+- Ruby Programming Challenge For Newbies
+- The Ruby Programming Language
+thesis_description:
+- The Game of Life Ruby Challenge for Newbies by Elise Huard at RubyLearning.org
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,Elise
+  Huard
+title: 'RPCFN: The Game of Life - 11'
+topsy_short_url:
+- http://bit.ly/dj3U6e
 ---
+
 <div>
   <h3>
     Ruby Programming Challenge For Newbies

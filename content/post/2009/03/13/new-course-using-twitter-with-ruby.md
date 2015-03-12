@@ -1,28 +1,30 @@
 ---
-title: 'New Course - Using Twitter with Ruby'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Training
+- Twitter
 date: 2009-03-13
+description:
+- Michael Morin brings to you the only free "Using Twitter with Ruby" course at RubyLearning.org
+draft: true
+keywords:
+- Twitter,Ruby,The Ruby Programming Language,Twitter with Ruby, Michael Morin,Using
+  Twitter with Ruby
 layout: post
 permalink: /2009/03/13/new-course-using-twitter-with-ruby/
-keywords:
-  - Twitter,Ruby,The Ruby Programming Language,Twitter with Ruby, Michael Morin,Using Twitter with Ruby
-description:
-  - Michael Morin brings to you the only free "Using Twitter with Ruby" course at RubyLearning.org
-topsy_short_url:
-  - http://bit.ly/dtBtr1
-categories:
-  - Beginners
-  - Ruby
-  - Training
-  - Twitter
 tags:
-  - Michael Morin
-  - Ruby
-  - The Ruby Programming Language
-  - Twitter
-  - Twitter with Ruby
+- Michael Morin
+- Ruby
+- The Ruby Programming Language
+- Twitter
+- Twitter with Ruby
+title: New Course - Using Twitter with Ruby
+topsy_short_url:
+- http://bit.ly/dtBtr1
 ---
+
 <div>
   <h3>
     Using Twitter with Ruby

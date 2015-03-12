@@ -1,28 +1,31 @@
 ---
-title: 'Book Promotion: Ruby on Rails for Microsoft Developers'
 author: Satish Talim
+categories:
+- Beginners
+- Book Promotions
+- Promotions
+- Ruby
 date: 2009-07-07
 layout: post
 permalink: /2009/07/07/book-promotion-ruby-on-rails-for-microsoft-developers/
-thesis_description:
-  - RubyLearning is promoting the book "Ruby on Rails for Microsoft Developers" by Antonio Cangiano.
-thesis_keywords:
-  - Ruby,Book Promotions,Ruby on Rails for Microsoft Developers,The Ruby Programming Language,Antonio Cangiano,Microsoft,Windows,.NET
-categories:
-  - Beginners
-  - Book Promotions
-  - Promotions
-  - Ruby
 tags:
-  - .NET
-  - Antonio Cangiano
-  - Book Promotions
-  - Microsoft
-  - Ruby
-  - Ruby on Rails for Microsoft Developers
-  - The Ruby Programming Language
-  - Windows
+- .NET
+- Antonio Cangiano
+- Book Promotions
+- Microsoft
+- Ruby
+- Ruby on Rails for Microsoft Developers
+- The Ruby Programming Language
+- Windows
+thesis_description:
+- RubyLearning is promoting the book "Ruby on Rails for Microsoft Developers" by Antonio
+  Cangiano.
+thesis_keywords:
+- Ruby,Book Promotions,Ruby on Rails for Microsoft Developers,The Ruby Programming
+  Language,Antonio Cangiano,Microsoft,Windows,.NET
+title: 'Book Promotion: Ruby on Rails for Microsoft Developers'
 ---
+
 <div>
   <h3>
     Book Promotion: Ruby on Rails for Microsoft Developers

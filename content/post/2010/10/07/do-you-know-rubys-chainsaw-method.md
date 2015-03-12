@@ -1,28 +1,30 @@
 ---
-title: Do YOU know Ruby's "Chainsaw" method?
 author: Paolo Perrotta
+categories:
+- beginners
+- popular
+- ruby
+- ruby masters
 date: 2010-10-07
 layout: post
 permalink: /2010/10/07/do-you-know-rubys-chainsaw-method/
-thesis_description:
-  - "Paolo Perrotta loves Ruby's 'Chainsaw' method - method_missing(). Paolo shows you why, in this guest blog post on RubyLearning."
-thesis_keywords:
-  - Ruby, Programming, Paolo Perrotta, Ruby for Noobs, Ruby beginners, method_missing
-topsy_short_url:
-  - http://bit.ly/ceoL1Z
-categories:
-  - beginners
-  - popular
-  - ruby
-  - ruby masters
 tags:
-  - method_missing
-  - paolo perrotta
-  - programming
-  - ruby
-  - ruby beginners
-  - ruby for noobs
+- method_missing
+- paolo perrotta
+- programming
+- ruby
+- ruby beginners
+- ruby for noobs
+thesis_description:
+- Paolo Perrotta loves Ruby's 'Chainsaw' method - method_missing(). Paolo shows you
+  why, in this guest blog post on RubyLearning.
+thesis_keywords:
+- Ruby, Programming, Paolo Perrotta, Ruby for Noobs, Ruby beginners, method_missing
+title: Do YOU know Ruby's "Chainsaw" method?
+topsy_short_url:
+- http://bit.ly/ceoL1Z
 ---
+
 <div>
   <h3>
     Do YOU know Ruby&#8217;s &#8216;Chainsaw&#8217; method?

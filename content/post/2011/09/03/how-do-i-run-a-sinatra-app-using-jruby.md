@@ -1,26 +1,27 @@
 ---
-title: How do I run a Sinatra app using JRuby?
 author: Satish Talim
+categories:
+- JRuby
+- Ruby
+- Sinatra
 date: 2011-09-03
 layout: post
 permalink: /2011/09/03/how-do-i-run-a-sinatra-app-using-jruby/
-thesis_description:
-  - A blog post that explains how to run a Sinatra app using JRuby.
-thesis_keywords:
-  - JRuby, Ruby, Programming, Ruby programming, Sinatra
-topsy_short_url:
-  - http://bit.ly/ohxMwq
-categories:
-  - JRuby
-  - Ruby
-  - Sinatra
 tags:
-  - JRuby
-  - programming
-  - Ruby
-  - ruby programming
-  - Sinatra
+- JRuby
+- programming
+- Ruby
+- ruby programming
+- Sinatra
+thesis_description:
+- A blog post that explains how to run a Sinatra app using JRuby.
+thesis_keywords:
+- JRuby, Ruby, Programming, Ruby programming, Sinatra
+title: How do I run a Sinatra app using JRuby?
+topsy_short_url:
+- http://bit.ly/ohxMwq
 ---
+
 <div>
   <h2>
     How do I run a Sinatra app using JRuby?

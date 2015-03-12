@@ -1,24 +1,26 @@
 ---
-title: "Rich Hickey talks to RubyLearning's Clojure Course Participants"
 author: Satish Talim
+categories:
+- Clojure
+- Interview
 date: 2010-04-06
 layout: post
 permalink: /2010/04/06/rich-hickey-talks-to-rubylearnings-clojure-course-participants/
-thesis_description:
-  - "Rich Hickey the creator of Clojure, talks to the participants of RubyLearning's free Clojure Course."
-thesis_keywords:
-  - Rich Hickey,Clojure,Clojure course,Clojure training
-topsy_short_url:
-  - http://bit.ly/9LbIFW
-categories:
-  - Clojure
-  - Interview
 tags:
-  - Clojure
-  - Clojure course
-  - Clojure Training
-  - Rich Hickey
+- Clojure
+- Clojure course
+- Clojure Training
+- Rich Hickey
+thesis_description:
+- Rich Hickey the creator of Clojure, talks to the participants of RubyLearning's
+  free Clojure Course.
+thesis_keywords:
+- Rich Hickey,Clojure,Clojure course,Clojure training
+title: Rich Hickey talks to RubyLearning's Clojure Course Participants
+topsy_short_url:
+- http://bit.ly/9LbIFW
 ---
+
 <div>
   <p class="alert">
     On the eve of the first free, online &#8220;<strong><a href="http://rubylearning.com/blog/2010/03/09/clojure-101-a-new-course/">Clojure 101</a></strong>&#8221; course, Michael Kohl of RubyLearning caught up with <strong>Rich Hickey</strong>, the creator of Clojure. In this interview, Rich Hickey talks to the Clojure 101 course participants on <strong>Clojure</strong>.

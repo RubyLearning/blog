@@ -1,24 +1,25 @@
 ---
-title: Quick Questions for Andrey 'A.I.' Sitnik
 author: Satish Talim
+categories:
+- interview
+- rails
+- ruby
 date: 2009-04-30
+description:
+- Andrey Sitnik talks to RubyLearning about his Ruby gem R18n.
+keywords:
+- Andrey Sitnik,R18n,Merb,Sinatra, Ruby
 layout: post
 permalink: /2009/04/30/quick-questions-for-andrey-%e2%80%9cai%e2%80%9d-sitnik/
-keywords:
-  - Andrey Sitnik,R18n,Merb,Sinatra, Ruby
-description:
-  - Andrey Sitnik talks to RubyLearning about his Ruby gem R18n.
-categories:
-  - interview
-  - rails
-  - ruby
 tags:
-  - andrey sitnik
-  - merb
-  - r18n
-  - ruby
-  - sinatra
+- andrey sitnik
+- merb
+- r18n
+- ruby
+- sinatra
+title: Quick Questions for Andrey 'A.I.' Sitnik
 ---
+
 <div>
   <p class="alert">
     RubyLearning caught up with <strong>Andrey &#8220;A.I.&#8221; Sitnik</strong> developer of R18n, a tool to internationalize and localize your Merb/Sinatra/desktop Ruby application, and asked him some quick questions in this interview.

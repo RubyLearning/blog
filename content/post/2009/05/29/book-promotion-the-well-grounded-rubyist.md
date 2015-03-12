@@ -1,26 +1,28 @@
 ---
-title: 'Book Promotion: The Well-Grounded Rubyist'
 author: Satish Talim
+categories:
+- Beginners
+- Book Promotions
+- Promotions
+- Ruby
 date: 2009-05-29
+description:
+- |
+  Book Promotion on RubyLearning of David Black's book "The Well-Grounded Rubyist".
+keywords:
+- Ruby,Book Promotions,The Well-Grounded Rubyist,The Ruby Programming Language,David
+  Black
 layout: post
 permalink: /2009/05/29/book-promotion-the-well-grounded-rubyist/
-keywords:
-  - Ruby,Book Promotions,The Well-Grounded Rubyist,The Ruby Programming Language,David Black
-description:
-  - |
-    Book Promotion on RubyLearning of David Black's book "The Well-Grounded Rubyist".
-categories:
-  - Beginners
-  - Book Promotions
-  - Promotions
-  - Ruby
 tags:
-  - Book Promotions
-  - David Black
-  - Ruby
-  - The Ruby Programming Language
-  - The Well-Grounded Rubyist
+- Book Promotions
+- David Black
+- Ruby
+- The Ruby Programming Language
+- The Well-Grounded Rubyist
+title: 'Book Promotion: The Well-Grounded Rubyist'
 ---
+
 <div>
   <h3>
     Book Promotion: The Well-Grounded Rubyist

@@ -1,25 +1,26 @@
 ---
-title: Ruby on Rails Engineer at Tupalo.com
 author: Satish Talim
+categories:
+- Jobs
+- Promotions
+- Sponsors
 date: 2011-01-20
 layout: post
 permalink: /2011/01/20/ruby-on-rails-engineer-at-tupalo-com/
-thesis_description:
-  - Tupalo.com, a sponsor of RubyLearning requires Ruby on Rails Engineers.
-thesis_keywords:
-  - Ruby on Rails,Ruby,Programming,Tupalo.com
-topsy_short_url:
-  - http://bit.ly/fg9BuU
-categories:
-  - Jobs
-  - Promotions
-  - Sponsors
 tags:
-  - programming
-  - Ruby
-  - Ruby on Rails
-  - Tupalo.com
+- programming
+- Ruby
+- Ruby on Rails
+- Tupalo.com
+thesis_description:
+- Tupalo.com, a sponsor of RubyLearning requires Ruby on Rails Engineers.
+thesis_keywords:
+- Ruby on Rails,Ruby,Programming,Tupalo.com
+title: Ruby on Rails Engineer at Tupalo.com
+topsy_short_url:
+- http://bit.ly/fg9BuU
 ---
+
 <div>
   <h3>
     Ruby on Rails Engineer at Tupalo.com

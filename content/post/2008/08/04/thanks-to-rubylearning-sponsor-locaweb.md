@@ -1,18 +1,19 @@
 ---
-title: Thanks to RubyLearning Sponsor Locaweb
 author: Satish Talim
+categories:
+- Ruby
+- Sponsors
 date: 2008-08-04
 layout: post
 permalink: /2008/08/04/thanks-to-rubylearning-sponsor-locaweb/
-categories:
-  - Ruby
-  - Sponsors
 tags:
-  - Locaweb
-  - Rails Summit Latin America
-  - Ruby
-  - Sponsors
+- Locaweb
+- Rails Summit Latin America
+- Ruby
+- Sponsors
+title: Thanks to RubyLearning Sponsor Locaweb
 ---
+
 <div>
   <p>
     It&#8217;s time to thank RubyLearning&#8217;s excellent sponsors!

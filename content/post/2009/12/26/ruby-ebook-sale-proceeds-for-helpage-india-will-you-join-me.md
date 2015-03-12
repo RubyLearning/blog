@@ -1,24 +1,26 @@
 ---
-title: 'Ruby eBook Sale Proceeds for HelpAge India - Will You Join Me?'
 author: Satish Talim
+categories:
+- promotions
+- ruby
 date: 2009-12-26
 layout: post
 permalink: /2009/12/26/ruby-ebook-sale-proceeds-for-helpage-india-will-you-join-me/
-topsy_short_url:
-  - http://bit.ly/8LSM4t
-thesis_description:
-  - Call for donations to HelpAge India. Buy the Ruby eBook and 100% sales proceeds go to HelpAge India.
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Ruby eBook,HelpAge India
-categories:
-  - promotions
-  - ruby
 tags:
-  - helpage india
-  - ruby
-  - ruby ebook
-  - the ruby programming language
+- helpage india
+- ruby
+- ruby ebook
+- the ruby programming language
+thesis_description:
+- Call for donations to HelpAge India. Buy the Ruby eBook and 100% sales proceeds
+  go to HelpAge India.
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Ruby eBook,HelpAge India
+title: Ruby eBook Sale Proceeds for HelpAge India - Will You Join Me?
+topsy_short_url:
+- http://bit.ly/8LSM4t
 ---
+
 <div>
   <p class="alert">
     Today when I logged onto my computer a Calendar notification popped up at me telling me that it has been 4 wonderful years of Ruby programming for me. Time flies when you&#8217;re having fun!

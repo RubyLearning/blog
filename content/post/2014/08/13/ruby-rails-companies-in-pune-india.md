@@ -1,25 +1,26 @@
 ---
-title: Ruby, Rails companies in Pune, India
 author: Satish Talim
+categories:
+- Ruby
+- Ruby on Rails
 date: 2014-08-13
 layout: post
 permalink: /2014/08/13/ruby-rails-companies-in-pune-india/
-thesis_keywords:
-  - ruby,ruby on rails,rails,pune,india
-topsy_short_url:
-  - http://bit.ly/1BcTMiT
-thesis_description:
-  - A comprehensive list of Ruby, Rails companies in Pune, India.
-categories:
-  - Ruby
-  - Ruby on Rails
 tags:
-  - india
-  - pune
-  - Rails
-  - Ruby
-  - Ruby on Rails
+- india
+- pune
+- Rails
+- Ruby
+- Ruby on Rails
+thesis_description:
+- A comprehensive list of Ruby, Rails companies in Pune, India.
+thesis_keywords:
+- ruby,ruby on rails,rails,pune,india
+title: Ruby, Rails companies in Pune, India
+topsy_short_url:
+- http://bit.ly/1BcTMiT
 ---
+
 In June 2009, we had compiled a [list of companies in Pune][1] that execute projects / develop products using **Ruby and Ruby on Rails**. A lot has changed since then; many companies are no longer existing and some like **Josh Software** are growing! So, if you are looking at outsourcing your work to companies in Pune India, this list will be very helpful.
 
 This time around, I am experimenting with [Listly][2] to list out the companies. Here goes:

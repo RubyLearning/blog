@@ -1,12 +1,13 @@
 ---
-title: "Interview: Elliot Temple"
-author: "Satish Talim"
-date: "2007-04-03"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-04-03
+layout: post
+title: 'Interview: Elliot Temple'
 ---
+
 (This interview appeared before on 24th Aug. 2006 on the PuneRuby blog).
 
 Today we talk to **Elliot Temple**.

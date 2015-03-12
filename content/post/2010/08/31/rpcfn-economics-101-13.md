@@ -1,27 +1,29 @@
 ---
-title: 'RPCFN: Economics 101 - 13'
 author: Satish Talim
+categories:
+- Beginners
+- RPCFN
+- Ruby
 date: 2010-08-31
 layout: post
 permalink: /2010/08/31/rpcfn-economics-101-13/
-thesis_description:
-  - The 13th Ruby Challenge for Newbies by Dr. Bruce Scharlau at RubyLearning.org
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,Dr. Bruce Scharlau
-topsy_short_url:
-  - http://bit.ly/98Hj1c
-categories:
-  - Beginners
-  - RPCFN
-  - Ruby
 tags:
-  - Dr. Bruce Scharlau
-  - programming
-  - RPCFN
-  - Ruby
-  - Ruby Programming Challenge For Newbies
-  - The Ruby Programming Language
+- Dr. Bruce Scharlau
+- programming
+- RPCFN
+- Ruby
+- Ruby Programming Challenge For Newbies
+- The Ruby Programming Language
+thesis_description:
+- The 13th Ruby Challenge for Newbies by Dr. Bruce Scharlau at RubyLearning.org
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,Dr.
+  Bruce Scharlau
+title: 'RPCFN: Economics 101 - 13'
+topsy_short_url:
+- http://bit.ly/98Hj1c
 ---
+
 <div>
   <h3>
     Ruby Programming Challenge For Newbies

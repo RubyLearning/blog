@@ -1,14 +1,15 @@
 ---
-title: Why Australia is Becoming an IT Leader
 author: Adam Prattler
+categories:
+- Ruby
 date: 2014-03-18
 layout: post
 permalink: /2014/03/18/why-australia-is-becoming-an-it-leader/
+title: Why Australia is Becoming an IT Leader
 topsy_short_url:
-  - http://bit.ly/1efXhKK
-categories:
-  - Ruby
+- http://bit.ly/1efXhKK
 ---
+
 <p dir="ltr">
   The Wonderful Tech Wizards of Oz
 </p>

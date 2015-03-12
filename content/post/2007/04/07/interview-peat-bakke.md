@@ -1,13 +1,14 @@
 ---
-title: "Interview: Peat Bakke"
-author: "Satish Talim"
-date: "2007-04-07"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - rails
-  - ruby
+- news
+- rails
+- ruby
+date: 2007-04-07
+layout: post
+title: 'Interview: Peat Bakke'
 ---
+
 (This interview appeared before on 17th Aug. 2006 on the PuneRuby blog).
 
 There is a lot to learn from experienced **Ruby** developers and in our

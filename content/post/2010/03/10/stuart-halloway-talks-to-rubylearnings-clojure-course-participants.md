@@ -1,25 +1,27 @@
 ---
-title: "Stuart Halloway talks to RubyLearning's Clojure Course Participants"
 author: Satish Talim
+categories:
+- Clojure
+- Interview
 date: 2010-03-10
 layout: post
 permalink: /2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/
-thesis_description:
-  - "Stuart Halloway author of the book Programming Clojure talks to RubyLearning's Clojure Course Participants."
-thesis_keywords:
-  - Stuart Halloway,Programming Clojure,Clojure,Clojure course,Clojure training
-topsy_short_url:
-  - http://bit.ly/9eGnGw
-categories:
-  - Clojure
-  - Interview
 tags:
-  - Clojure
-  - Clojure course
-  - Clojure Training
-  - Programming Clojure
-  - Stuart Halloway
+- Clojure
+- Clojure course
+- Clojure Training
+- Programming Clojure
+- Stuart Halloway
+thesis_description:
+- Stuart Halloway author of the book Programming Clojure talks to RubyLearning's Clojure
+  Course Participants.
+thesis_keywords:
+- Stuart Halloway,Programming Clojure,Clojure,Clojure course,Clojure training
+title: Stuart Halloway talks to RubyLearning's Clojure Course Participants
+topsy_short_url:
+- http://bit.ly/9eGnGw
 ---
+
 <div>
   <p class="alert">
     On the eve of the first free, online &#8220;<strong>Clojure 101</strong>&#8221; course, Michael Kohl of RubyLearning caught up with <strong>Stuart Halloway</strong>, author of <a href="http://www.pragprog.com/titles/shcloj/programming-clojure">Programming Clojure</a> and talked to him on <strong>Clojure</strong>, for the benefit of the <a href="http://rubylearning.com/blog/2010/03/09/clojure-101-a-new-course/">Clojure 101 course</a> participants.

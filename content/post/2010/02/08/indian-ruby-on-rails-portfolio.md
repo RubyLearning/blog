@@ -1,25 +1,26 @@
 ---
-title: Indian Ruby on Rails Portfolio
 author: Satish Talim
+categories:
+- Rails
+- Ruby
+- Ruby on Rails
 date: 2010-02-08
 layout: post
 permalink: /2010/02/08/indian-ruby-on-rails-portfolio/
-thesis_keywords:
-  - Ruby,Ruby on Rails,Indian Ruby on Rails Portfolio,India
-topsy_short_url:
-  - http://bit.ly/9zWvuu
-thesis_description:
-  - "RubyLearning's showcasing Indian websites made with Ruby on Rails."
-categories:
-  - Rails
-  - Ruby
-  - Ruby on Rails
 tags:
-  - india
-  - Indian Ruby on Rails Portfolio
-  - Ruby
-  - Ruby on Rails
+- india
+- Indian Ruby on Rails Portfolio
+- Ruby
+- Ruby on Rails
+thesis_description:
+- RubyLearning's showcasing Indian websites made with Ruby on Rails.
+thesis_keywords:
+- Ruby,Ruby on Rails,Indian Ruby on Rails Portfolio,India
+title: Indian Ruby on Rails Portfolio
+topsy_short_url:
+- http://bit.ly/9zWvuu
 ---
+
 <div>
   <h3>
     Indian Ruby on Rails Portfolio

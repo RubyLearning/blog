@@ -1,26 +1,26 @@
 ---
-title: Why Use Single Sign-in Solutions in Rails?
 author: Omar Mekky
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-11-16
 layout: post
 permalink: /2010/11/16/why-use-single-sign-in-solutions-in-rails/
-thesis_description:
-  - |
-    Omar A. Mekky shows us how we can build single sign in solutions in Rails by previewing Authentasaurus for 
-    authentication.
-thesis_keywords:
-  - Authentasaurus,Programming,Ruby programming
-topsy_short_url:
-  - http://bit.ly/bsXzf7
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - Authentasaurus
-  - programming
-  - ruby programming
+- Authentasaurus
+- programming
+- ruby programming
+thesis_description:
+- "Omar A. Mekky shows us how we can build single sign in solutions in Rails by previewing
+  Authentasaurus for \nauthentication.\n"
+thesis_keywords:
+- Authentasaurus,Programming,Ruby programming
+title: Why Use Single Sign-in Solutions in Rails?
+topsy_short_url:
+- http://bit.ly/bsXzf7
 ---
+
 <div>
   <h3>
     Why Use Single Sign-in Solutions in Rails?

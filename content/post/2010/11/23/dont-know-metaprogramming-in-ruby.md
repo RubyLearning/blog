@@ -1,28 +1,30 @@
 ---
-title: "Don't Know Metaprogramming In Ruby?"
 author: Gavin Morrice
+categories:
+- beginners
+- metaprogramming
+- popular
+- ruby
+- ruby masters
 date: 2010-11-23
+dsq_thread_id:
+- 208370854
 layout: post
 permalink: /2010/11/23/dont-know-metaprogramming-in-ruby/
-thesis_description:
-  - Gavin Morrice introduces you to the beauty of metaprogramming in Ruby. A guest post on RubyLearning.
-thesis_keywords:
-  - Ruby Metaprogramming,Programming,Ruby programming
-topsy_short_url:
-  - http://bit.ly/hAs5o8
-dsq_thread_id:
-  - 208370854
-categories:
-  - beginners
-  - metaprogramming
-  - popular
-  - ruby
-  - ruby masters
 tags:
-  - programming
-  - ruby metaprogramming
-  - ruby programming
+- programming
+- ruby metaprogramming
+- ruby programming
+thesis_description:
+- Gavin Morrice introduces you to the beauty of metaprogramming in Ruby. A guest post
+  on RubyLearning.
+thesis_keywords:
+- Ruby Metaprogramming,Programming,Ruby programming
+title: Don't Know Metaprogramming In Ruby?
+topsy_short_url:
+- http://bit.ly/hAs5o8
 ---
+
 <div>
   <h3>
     Don&#8217;t Know Metaprogramming In Ruby?

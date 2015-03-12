@@ -1,24 +1,25 @@
 ---
-title: "Showcasing RubyLearning's Awesome Rubyists"
 author: Satish Talim
+categories:
+- ruby
+- ruby on rails
 date: 2010-02-22
 layout: post
 permalink: /2010/02/22/showcasing-rubylearnings-awesome-rubyists/
-thesis_description:
-  - "Showcasing some of RubyLearning's amazing and talented Rubyists."
-thesis_keywords:
-  - Ruby,Ruby on Rails,Rubyists,Programming
-topsy_short_url:
-  - http://bit.ly/dzLSxu
-categories:
-  - ruby
-  - ruby on rails
 tags:
-  - programming
-  - ruby
-  - ruby on rails
-  - rubyists
+- programming
+- ruby
+- ruby on rails
+- rubyists
+thesis_description:
+- Showcasing some of RubyLearning's amazing and talented Rubyists.
+thesis_keywords:
+- Ruby,Ruby on Rails,Rubyists,Programming
+title: Showcasing RubyLearning's Awesome Rubyists
+topsy_short_url:
+- http://bit.ly/dzLSxu
 ---
+
 <div>
   <h3>
     Showcasing RubyLearning&#8217;s Awesome Rubyists

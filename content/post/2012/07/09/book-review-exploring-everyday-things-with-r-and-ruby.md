@@ -1,14 +1,21 @@
 ---
-title: 'Book Review: Exploring Everyday Things with R and Ruby'
 author: Victor Goff
-date: "2012-07-09"
-layout: post
-permalink: "/2012/07/09/book-review-exploring-everyday-things-with-r-and-ruby/"
 categories:
-  - book promotions
-  - ruby
-tags: ["book", "review", "programming", "r", "ruby", "sau sheong chang"]
+- book promotions
+- ruby
+date: 2012-07-09
+layout: post
+permalink: /2012/07/09/book-review-exploring-everyday-things-with-r-and-ruby/
+tags:
+- book
+- review
+- programming
+- r
+- ruby
+- sau sheong chang
+title: 'Book Review: Exploring Everyday Things with R and Ruby'
 ---
+
 A book review of **Exploring Everyday Things with R and Ruby**.
 Review by: RubyLearning’s mentor Victor Goff.
 Book author: Sau Sheong Chang.

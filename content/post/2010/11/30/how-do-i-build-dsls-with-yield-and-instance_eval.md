@@ -1,24 +1,26 @@
 ---
-title: How do I build DSLs with yield and instance_eval?
 author: Michael Bleigh
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-11-30
 layout: post
 permalink: /2010/11/30/how-do-i-build-dsls-with-yield-and-instance_eval/
-thesis_description:
-  - Learn how to make your code friendlier and more readable by creating APIs utilizing blocks, yielding values, and instance evaluation.
-thesis_keywords:
-  - DSL,Programming,Ruby programming
-topsy_short_url:
-  - http://bit.ly/fOGlvW
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - DSL
-  - programming
-  - ruby programming
+- DSL
+- programming
+- ruby programming
+thesis_description:
+- Learn how to make your code friendlier and more readable by creating APIs utilizing
+  blocks, yielding values, and instance evaluation.
+thesis_keywords:
+- DSL,Programming,Ruby programming
+title: How do I build DSLs with yield and instance_eval?
+topsy_short_url:
+- http://bit.ly/fOGlvW
 ---
+
 <div>
   <h3 id="how_do_i_build_dsls_with_yield_and_instance_eval">
     How do I build DSLs with <code>yield</code> and <code>instance_eval</code>?

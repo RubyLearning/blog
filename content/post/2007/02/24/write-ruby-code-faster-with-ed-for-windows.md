@@ -1,12 +1,13 @@
 ---
-title: "Write Ruby code faster with ED for Windows"
-author: "Satish Talim"
-date: "2007-02-24"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - ruby
+- news
+- ruby
+date: 2007-02-24
+layout: post
+title: Write Ruby code faster with ED for Windows
 ---
+
 ED4W is a full featured Programmer's Editor/IDE with support<!--more--> for 30+
 languages. It includes all of the editing capabilities you would expect,
 plus a built-in Source Database Engine that tracks every class, method,

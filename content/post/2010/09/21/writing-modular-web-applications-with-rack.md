@@ -1,25 +1,27 @@
 ---
-title: Writing modular web applications with Rack
 author: Sau Sheong Chang
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-09-21
 layout: post
 permalink: /2010/09/21/writing-modular-web-applications-with-rack/
-thesis_keywords:
-  - Ruby, Programming, Rack,Sau Sheong Chang
-thesis_description:
-  - Sau Sheong Chang talks to Ruby programmers on how to write modular web applications with Rack. A guest blog post on RubyLearning.
-topsy_short_url:
-  - http://bit.ly/cBhuQm
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - programming
-  - Rack
-  - Ruby
-  - Sau Sheong Chang
+- programming
+- Rack
+- Ruby
+- Sau Sheong Chang
+thesis_description:
+- Sau Sheong Chang talks to Ruby programmers on how to write modular web applications
+  with Rack. A guest blog post on RubyLearning.
+thesis_keywords:
+- Ruby, Programming, Rack,Sau Sheong Chang
+title: Writing modular web applications with Rack
+topsy_short_url:
+- http://bit.ly/cBhuQm
 ---
+
 <div>
   <h3>
     Writing modular web applications with Rack

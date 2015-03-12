@@ -1,12 +1,13 @@
 ---
-title: 'Third edition of "Programming Ruby" now in beta'
-author: "Satish Talim"
-date: "2007-12-14"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - ruby
+- news
+- ruby
+date: 2007-12-14
+layout: post
+title: Third edition of "Programming Ruby" now in beta
 ---
+
 Dave Thomas just announced that the [Third
 Edition](http://pragprog.com/titles/ruby3) of the PickAxe has just
 entered beta. Each edition of the book tracks the latest Ruby release,

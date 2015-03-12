@@ -1,13 +1,14 @@
 ---
-title: "ThinkDRY Interview"
-author: "Satish Talim"
-date: "2007-05-04"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - rails
-  - ruby
+- news
+- rails
+- ruby
+date: 2007-05-04
+layout: post
+title: ThinkDRY Interview
 ---
+
 **Vincent Spehner** heads the company
 [ThinkDRY](http://www.thinkdry.com/), based in Pune. Recently, I had a
 chance to talk to him and requested him to share some of his

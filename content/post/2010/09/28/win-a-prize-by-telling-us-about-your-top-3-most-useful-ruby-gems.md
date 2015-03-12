@@ -1,23 +1,24 @@
 ---
-title: Win a Prize by Telling us about Your Top 3 Most Useful Ruby Gems
 author: Satish Talim
+categories:
+- Ruby
 date: 2010-09-28
 layout: post
 permalink: /2010/09/28/win-a-prize-by-telling-us-about-your-top-3-most-useful-ruby-gems/
-thesis_description:
-  - Tell RubyLearning about your Top 3 Most Useful Ruby Gems.
-thesis_keywords:
-  - Ruby, Programming, Ruby Gems,Top 3 Most Useful Ruby Gems
-topsy_short_url:
-  - http://bit.ly/d5v1LQ
-categories:
-  - Ruby
 tags:
-  - programming
-  - Ruby
-  - Ruby Gems
-  - Top 3 Most Useful Ruby Gems
+- programming
+- Ruby
+- Ruby Gems
+- Top 3 Most Useful Ruby Gems
+thesis_description:
+- Tell RubyLearning about your Top 3 Most Useful Ruby Gems.
+thesis_keywords:
+- Ruby, Programming, Ruby Gems,Top 3 Most Useful Ruby Gems
+title: Win a Prize by Telling us about Your Top 3 Most Useful Ruby Gems
+topsy_short_url:
+- http://bit.ly/d5v1LQ
 ---
+
 <div>
   <h3>
     Win a Prize by Telling us about Your Top 3 Most Useful Ruby Gems

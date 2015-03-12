@@ -1,25 +1,26 @@
 ---
-title: 'Book Promotion: Programming Ruby 1.9'
 author: Satish Talim
+categories:
+- Beginners
+- Book Promotions
+- Promotions
+- Ruby
 date: 2009-05-24
+description:
+- Promotion on RubyLearning of Dave Thomas' book Programming Ruby 1.9
+keywords:
+- Ruby,Book Promotions,Programming Ruby 1.9,The Ruby Programming Language,Dave Thomas
 layout: post
 permalink: /2009/05/24/book-promotion-programming-ruby-19/
-keywords:
-  - Ruby,Book Promotions,Programming Ruby 1.9,The Ruby Programming Language,Dave Thomas
-description:
-  - "Promotion on RubyLearning of Dave Thomas' book Programming Ruby 1.9"
-categories:
-  - Beginners
-  - Book Promotions
-  - Promotions
-  - Ruby
 tags:
-  - Book Promotions
-  - Dave Thomas
-  - Programming Ruby 1.9
-  - Ruby
-  - The Ruby Programming Language
+- Book Promotions
+- Dave Thomas
+- Programming Ruby 1.9
+- Ruby
+- The Ruby Programming Language
+title: 'Book Promotion: Programming Ruby 1.9'
 ---
+
 <div>
   <h3>
     Book Promotion: Programming Ruby 1.9

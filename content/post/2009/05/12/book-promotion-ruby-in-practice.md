@@ -1,26 +1,28 @@
 ---
-title: 'Book Promotion: Ruby in Practice'
 author: Satish Talim
+categories:
+- Book Promotions
+- Promotions
+- Ruby
 date: 2009-05-12
+description:
+- Book Promotion of Ruby in Practice on RubyLearning.org
+keywords:
+- Ruby,Book Promotions,Ruby in Practice,The Ruby Programming Language,Ruby on Rails,Jeremy
+  McAnally, Assaf Arkin
 layout: post
 permalink: /2009/05/12/book-promotion-ruby-in-practice/
-keywords:
-  - Ruby,Book Promotions,Ruby in Practice,The Ruby Programming Language,Ruby on Rails,Jeremy McAnally, Assaf Arkin
-description:
-  - Book Promotion of Ruby in Practice on RubyLearning.org
-categories:
-  - Book Promotions
-  - Promotions
-  - Ruby
 tags:
-  - Assaf Arkin
-  - Book Promotions
-  - Jeremy McAnally
-  - Ruby
-  - Ruby in Practice
-  - Ruby on Rails
-  - The Ruby Programming Language
+- Assaf Arkin
+- Book Promotions
+- Jeremy McAnally
+- Ruby
+- Ruby in Practice
+- Ruby on Rails
+- The Ruby Programming Language
+title: 'Book Promotion: Ruby in Practice'
 ---
+
 <div>
   <h3>
     Book Promotion: Ruby in Practice

@@ -1,33 +1,34 @@
 ---
-title: 'Book Promotion: Foundation Rails 2'
 author: Satish Talim
+categories:
+- Beginners
+- Book Promotions
+- Promotions
+- Rails
+- Ruby
+- Ruby on Rails
 date: 2009-06-10
+description:
+- Book Promotion of Eldon Alameda's book Foundation Rails 2
+keywords:
+- Ruby,Book Promotions,Foundation Rails 2,The Ruby Programming Language,Eldon Alameda
 layout: post
 permalink: /2009/06/10/book-promotion-foundation-rails-2/
-keywords:
-  - Ruby,Book Promotions,Foundation Rails 2,The Ruby Programming Language,Eldon Alameda
-description:
-  - "Book Promotion of Eldon Alameda's book Foundation Rails 2"
-thesis_post_image_horizontal:
-  - left
-thesis_post_image_vertical:
-  - after-headline
-thesis_thumb_horizontal:
-  - right
-categories:
-  - Beginners
-  - Book Promotions
-  - Promotions
-  - Rails
-  - Ruby
-  - Ruby on Rails
 tags:
-  - Book Promotions
-  - Eldon Alameda
-  - Foundation Rails 2
-  - Ruby
-  - The Ruby Programming Language
+- Book Promotions
+- Eldon Alameda
+- Foundation Rails 2
+- Ruby
+- The Ruby Programming Language
+thesis_post_image_horizontal:
+- left
+thesis_post_image_vertical:
+- after-headline
+thesis_thumb_horizontal:
+- right
+title: 'Book Promotion: Foundation Rails 2'
 ---
+
 <div>
   <h3>
     Book Promotion: Foundation Rails 2

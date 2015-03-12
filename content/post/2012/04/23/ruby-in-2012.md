@@ -1,18 +1,19 @@
 ---
-title: Ruby in 2012
 author: Matt Aimonetti
-date: "2012-04-23"
+categories:
+- Ruby
+date: 2012-04-23
 layout: post
 permalink: /2012/04/23/ruby-in-2012/
-thesis_keywords:
-  - Ruby,programming,Ruby programming,Python,Node.js,Rails
-categories:
-  - Ruby
 tags:
-  - programming
-  - ruby
-  - ruby programming
+- programming
+- ruby
+- ruby programming
+thesis_keywords:
+- Ruby,programming,Ruby programming,Python,Node.js,Rails
+title: Ruby in 2012
 ---
+
 <div>
   <img style="float: left;margin: 0px 20px 0 20px" src="//rubylearning.com/blog/wp-content/uploads/matt_aimonetti.jpg" alt="Matt Aimonetti" /></p> 
   

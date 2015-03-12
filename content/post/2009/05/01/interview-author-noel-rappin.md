@@ -1,25 +1,26 @@
 ---
-title: 'Interview: Author Noel Rappin'
 author: Satish Talim
+categories:
+- Interview
+- Promotions
+- Rails
+- Ruby
 date: 2009-05-01
+description:
+- Noel Rappin author of Rails Test Prescriptions talks to RubyLearning in this interview.
+keywords:
+- Noel Rappin,Rails Test Prescriptions,Ruby programming, Ruby on Rails,Testing
 layout: post
 permalink: /2009/05/01/interview-author-noel-rappin/
-keywords:
-  - Noel Rappin,Rails Test Prescriptions,Ruby programming, Ruby on Rails,Testing
-description:
-  - Noel Rappin author of Rails Test Prescriptions talks to RubyLearning in this interview.
-categories:
-  - Interview
-  - Promotions
-  - Rails
-  - Ruby
 tags:
-  - Noel Rappin
-  - Rails Test Prescriptions
-  - Ruby on Rails
-  - ruby programming
-  - Testing
+- Noel Rappin
+- Rails Test Prescriptions
+- Ruby on Rails
+- ruby programming
+- Testing
+title: 'Interview: Author Noel Rappin'
 ---
+
 <div>
   <p class="alert">
     Our second Book Promotion: &#8220;<strong>Rails Test Prescriptions</strong>&#8221; starts soon. Win one of four books to be given out for active participation. The coolest thing? Author <b>Noel Rappin</b> will be on site to answer questions! <a href="http://rubylearning.org/class/course/view.php?id=35">Click here</a> to join for free. Here, in this brief interview, Satish Talim of RubyLearning talks to Noel Rappin.

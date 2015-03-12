@@ -1,12 +1,13 @@
 ---
-title: "Update to Rails 1.2.2"
-author: "Satish Talim"
+author: Satish Talim
+categories:
+- news
+- rails
 date: 2007-02-06
 layout: post
-categories:
-  - news
-  - rails
+title: Update to Rails 1.2.2
 ---
+
 Update your working copy to the latest version of Rails 1.2.2, by going
 to your command prompt and entering: <!--more-->
 

@@ -1,31 +1,34 @@
 ---
-title: Little Known Ways to Ruby Mastery by James Edward Gray II
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Ruby
+- Ruby Masters
+- Training
 date: 2008-09-30
+description:
+- The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to
+  and answers questions confronting Ruby beginners from across the globe.
+keywords:
+- ruby for beginners,ruby beginners,ruby programming,ruby on Rails blog,rails blog,rails
+  tutorials,ruby beginners' questions,little known ways to ruby mastery,ruby masters
 layout: post
 permalink: /2008/09/30/little-known-ways-to-ruby-mastery-by-james-edward-gray-ii/
-keywords:
-  - "ruby for beginners,ruby beginners,ruby programming,ruby on Rails blog,rails blog,rails tutorials,ruby beginners\' questions,little known ways to ruby mastery,ruby masters"
-description:
-  - The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to and answers questions confronting Ruby beginners from across the globe.
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Interview
-  - Ruby
-  - Ruby Masters
-  - Training
 tags:
-  - interviews
-  - James Edward Gray II
-  - Little Known Ways to Ruby Mastery
-  - Ruby
-  - "Ruby Beginners' Questions"
-  - ruby for beginners
-  - Ruby Masters
-  - The Ruby Programming Language
+- interviews
+- James Edward Gray II
+- Little Known Ways to Ruby Mastery
+- Ruby
+- Ruby Beginners' Questions
+- ruby for beginners
+- Ruby Masters
+- The Ruby Programming Language
+title: Little Known Ways to Ruby Mastery by James Edward Gray II
+topsy_short_url:
+- null
 ---
+
 <div>
   <h3>
     A weekly series from the Ruby Masters

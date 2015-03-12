@@ -1,27 +1,29 @@
 ---
-title: Ruby Forensics
 author: Elise Huard
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-10-04
 layout: post
 permalink: /2010/10/04/ruby-forensics/
-thesis_description:
-  - "Elise Huard introduces us to introspection - Ruby's capability to determine the type of an object at runtime. A guest blog post on RubyLearning."
-thesis_keywords:
-  - Ruby, Programming, Elise Huard, Ruby for Noobs, Ruby beginners, Ruby Forensics
-topsy_short_url:
-  - http://bit.ly/b9Ohlv
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - Elise Huard
-  - programming
-  - Ruby
-  - Ruby Beginners
-  - Ruby for Noobs
-  - Ruby Forensics
+- Elise Huard
+- programming
+- Ruby
+- Ruby Beginners
+- Ruby for Noobs
+- Ruby Forensics
+thesis_description:
+- Elise Huard introduces us to introspection - Ruby's capability to determine the
+  type of an object at runtime. A guest blog post on RubyLearning.
+thesis_keywords:
+- Ruby, Programming, Elise Huard, Ruby for Noobs, Ruby beginners, Ruby Forensics
+title: Ruby Forensics
+topsy_short_url:
+- http://bit.ly/b9Ohlv
 ---
+
 <div>
   <h3>
     Ruby Forensics

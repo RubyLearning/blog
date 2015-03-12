@@ -1,26 +1,27 @@
 ---
-title: Indian Rubyists to follow on Twitter
+abhishekchess1@gmail.com:
+- abhishekchess1
 author: Satish Talim
+categories:
+- Ruby
 date: 2008-12-17
+dharmarth@gmail.com:
+- dharmarth
+g.vishnu@gmail.com:
+- vishmaker
 layout: post
 permalink: /2008/12/17/indian-rubyists-to-follow-on-twitter/
 softmindsystems@gmail.com:
-  - SoftMind
-g.vishnu@gmail.com:
-  - vishmaker
-dharmarth@gmail.com:
-  - dharmarth
-abhishekchess1@gmail.com:
-  - abhishekchess1
-categories:
-  - Ruby
+- SoftMind
 tags:
-  - india
-  - Indian Rubyists
-  - Ruby
-  - Rubyists
-  - Twitter
+- india
+- Indian Rubyists
+- Ruby
+- Rubyists
+- Twitter
+title: Indian Rubyists to follow on Twitter
 ---
+
 <div>
   <p>
     <img class="alignright" src="http://rubylearning.com/images/twitter_48.png" alt="Twitter" title="Indian Rubyists who Tweet" width="48" height="48" />

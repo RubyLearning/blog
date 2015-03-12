@@ -1,24 +1,26 @@
 ---
-title: Ruby gems — what, why and how
-author: Gonçalo Silva
+author: "Gonçalo Silva"
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-12-14
 layout: post
 permalink: /2010/12/14/ruby-gems-%e2%80%94-what-why-and-how/
-thesis_description:
-  - "Gems are one of the wonders of the Ruby land - it's important to understand what they are, why they exist and how they work."
-thesis_keywords:
-  - programming,ruby,gem,rubygems
-topsy_short_url:
-  - http://bit.ly/fwjMLp
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - programming
-  - Ruby Gems
-  - ruby programming
+- programming
+- Ruby Gems
+- ruby programming
+thesis_description:
+- Gems are one of the wonders of the Ruby land - it's important to understand what
+  they are, why they exist and how they work.
+thesis_keywords:
+- programming,ruby,gem,rubygems
+title: "Ruby gems — what, why and how"
+topsy_short_url:
+- http://bit.ly/fwjMLp
 ---
+
 <div>
   <h3>
     Ruby gems — what, why and how

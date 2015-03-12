@@ -1,19 +1,20 @@
 ---
-title: Guy Naor CTO Morph Labs
 author: Satish Talim
+categories:
+- Interview
+- Ruby
 date: 2008-07-23
 layout: post
 permalink: /2008/07/23/guy-naor-cto-morph-labs/
-categories:
-  - Interview
-  - Ruby
 tags:
-  - Guy Naor
-  - Interview
-  - Morph Labs
-  - Rails
-  - Ruby
+- Guy Naor
+- Interview
+- Morph Labs
+- Rails
+- Ruby
+title: Guy Naor CTO Morph Labs
 ---
+
 <div>
   <p>
     <strong>Morph Labs</strong> have been supporting <strong><a href="http://rubylearning.org/">RubyLearning.org</a></strong> for some time now. Satish Talim of RubyLearning recently caught up with <strong><span style="color:blue;">Guy Naor</span></strong> (CTO Morph Labs), who was kind enough to spare time answering questions posed by RubyLearning. <a title="Guy Naor CTO Morph Labs" href="http://www.morphexchange.com/"><span style="float:left;padding:10px;"><img src="http://rubylearning.com/images/guynaor.jpg" style="border: 0px none ;" alt="Guy Naor" /></span></a>

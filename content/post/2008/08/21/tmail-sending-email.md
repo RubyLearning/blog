@@ -1,27 +1,28 @@
 ---
-title: 'TMail: Sending email'
 author: Satish Talim
+categories:
+- Code Snippets
+- Ruby
+- Training
 date: 2008-08-21
 layout: post
-permalink: /2008/08/21/tmail-sending-email/
 metadescription:
-  - TMail is a library used for composing and manipulating email messages for Ruby.
+- TMail is a library used for composing and manipulating email messages for Ruby.
 metakeywords:
-  - Ruby Beginners,Ruby programming,Ruby tutorials,tmail,email
-topsy_short_url:
-  - http://bit.ly/9OdFJL
-categories:
-  - Code Snippets
-  - Ruby
-  - Training
+- Ruby Beginners,Ruby programming,Ruby tutorials,tmail,email
+permalink: /2008/08/21/tmail-sending-email/
 tags:
-  - ActionMailer
-  - email
-  - programming
-  - Ruby
-  - ruby programming
-  - TMail
+- ActionMailer
+- email
+- programming
+- Ruby
+- ruby programming
+- TMail
+title: 'TMail: Sending email'
+topsy_short_url:
+- http://bit.ly/9OdFJL
 ---
+
 <div>
   <blockquote class="right">
     <p>

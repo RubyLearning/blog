@@ -1,26 +1,27 @@
 ---
-title: 'Ruby Programming 23rd Batch - An Intensive, Online Course For Beginners'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Training
 date: 2011-03-12
+draft: true
 layout: post
 permalink: /2011/03/12/ruby-programming-23rd-batch-an-intensive-online-course-for-beginners/
-thesis_keywords:
-  - Ruby course,Ruby,Ruby Training, Programming
-thesis_description:
-  - The 23rd batch of the popular online Ruby programming course has been announced.
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Ruby
-  - Training
 tags:
-  - programming
-  - Ruby
-  - Ruby course
-  - Ruby training
+- programming
+- Ruby
+- Ruby course
+- Ruby training
+thesis_description:
+- The 23rd batch of the popular online Ruby programming course has been announced.
+thesis_keywords:
+- Ruby course,Ruby,Ruby Training, Programming
+title: Ruby Programming 23rd Batch - An Intensive, Online Course For Beginners
+topsy_short_url:
+- null
 ---
+
 <div>
   <p>
     <span class="drop_cap">I</span>ntroducing an intensive, online course for <em>beginners</em> that helps you get started with <strong>Ruby</strong> programming.

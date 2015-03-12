@@ -1,30 +1,32 @@
 ---
-title: 'RPCFN: Japanese Mosaic Problem - 14'
+Hide OgTags:
+- 0
+Hide SexyBookmarks:
+- 0
 author: Joseph Wilk
+categories:
+- Beginners
+- RPCFN
+- Ruby
 date: 2010-10-01
 layout: post
 permalink: /2010/10/01/rpcfn-japanese-mosaic-problem-14/
-thesis_description:
-  - 'The 14th Ruby programming challenge by Joseph Wilk - Japanese Mosaic Problem.'
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Programming Challenge For Newbies,Programming,Joseph Wilk
-topsy_short_url:
-  - http://bit.ly/aER9pO
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
-categories:
-  - Beginners
-  - RPCFN
-  - Ruby
 tags:
-  - Joseph Wilk
-  - programming
-  - Programming Challenge For Newbies
-  - Ruby
-  - The Ruby Programming Language
+- Joseph Wilk
+- programming
+- Programming Challenge For Newbies
+- Ruby
+- The Ruby Programming Language
+thesis_description:
+- The 14th Ruby programming challenge by Joseph Wilk - Japanese Mosaic Problem.
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Programming Challenge For Newbies,Programming,Joseph
+  Wilk
+title: 'RPCFN: Japanese Mosaic Problem - 14'
+topsy_short_url:
+- http://bit.ly/aER9pO
 ---
+
 <div>
   <h3>
     Ruby Programming Challenge For Newbies

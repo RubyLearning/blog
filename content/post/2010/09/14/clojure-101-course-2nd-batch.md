@@ -1,24 +1,25 @@
 ---
-title: 'Clojure 101 Course - 2nd batch'
 author: Satish Talim
-draft: true
+categories:
+- Clojure
+- Training
 date: 2010-09-14
+draft: true
 layout: post
 permalink: /2010/09/14/clojure-101-course-2nd-batch/
-thesis_description:
-  - The 2nd batch of the popular Clojure 101 course has been announced on RubyLearning.org.
-thesis_keywords:
-  - Clojure course,Clojure,Clojure Training
-topsy_short_url:
-  - http://bit.ly/9jRXOw
-categories:
-  - Clojure
-  - Training
 tags:
-  - Clojure
-  - Clojure course
-  - Clojure Training
+- Clojure
+- Clojure course
+- Clojure Training
+thesis_description:
+- The 2nd batch of the popular Clojure 101 course has been announced on RubyLearning.org.
+thesis_keywords:
+- Clojure course,Clojure,Clojure Training
+title: Clojure 101 Course - 2nd batch
+topsy_short_url:
+- http://bit.ly/9jRXOw
 ---
+
 <div>
   <h3>
     About RubyLearning

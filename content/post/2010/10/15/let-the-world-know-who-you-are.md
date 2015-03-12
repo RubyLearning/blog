@@ -1,20 +1,21 @@
 ---
-title: Let The World Know Who YOU Are!
 author: Satish Talim
+categories:
+- General
 date: 2010-10-15
 layout: post
 permalink: /2010/10/15/let-the-world-know-who-you-are/
-thesis_description:
-  - RubyLearning requests its readers to "tell the world who you are".
-thesis_keywords:
-  - social networking
-topsy_short_url:
-  - http://bit.ly/dpz61V
-categories:
-  - General
 tags:
-  - social networking
+- social networking
+thesis_description:
+- RubyLearning requests its readers to "tell the world who you are".
+thesis_keywords:
+- social networking
+title: Let The World Know Who YOU Are!
+topsy_short_url:
+- http://bit.ly/dpz61V
 ---
+
 <div>
   <h3>
     Let The World Know Who YOU Are!

@@ -1,22 +1,23 @@
 ---
-title: 'Sinatra and Google currency API - Part 1'
 author: Girish Sonawane
-date: "2013-09-04"
+categories:
+- ruby
+- sinatra
+date: 2013-09-04
 layout: post
 permalink: /2013/09/04/sinatra-and-google-currency-api-part-1/
-thesis_description:
-  - Learn how to use the Google currency API in this two part blog post on RubyLearning.
-thesis_keywords:
-  - Girish Sonawane, Google currency API
-topsy_short_url:
-  - http://bit.ly/1fyoZzh
-categories:
-  - ruby
-  - sinatra
 tags:
-  - girish sonawane
-  - google currency api
+- girish sonawane
+- google currency api
+thesis_description:
+- Learn how to use the Google currency API in this two part blog post on RubyLearning.
+thesis_keywords:
+- Girish Sonawane, Google currency API
+title: Sinatra and Google currency API - Part 1
+topsy_short_url:
+- http://bit.ly/1fyoZzh
 ---
+
 <div>
   <h2>
     Sinatra and Google currency API &#8211; Part 1

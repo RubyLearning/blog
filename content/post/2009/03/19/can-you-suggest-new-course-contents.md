@@ -1,27 +1,29 @@
 ---
-title: Can YOU suggest new course contents?
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Training
 date: 2009-03-19
+description:
+- RubyLearning's proposal for the first-ever free, introductory course on Ruby Networking
+  and the Internet.
+keywords:
+- Ruby,Ruby Courses,Internet,Networking,Sockets,The Ruby Programming Language
 layout: post
 permalink: /2009/03/19/can-you-suggest-new-course-contents/
-keywords:
-  - Ruby,Ruby Courses,Internet,Networking,Sockets,The Ruby Programming Language
-description:
-  - "RubyLearning's proposal for the first-ever free, introductory course on Ruby Networking and the Internet."
-topsy_short_url:
-  - http://bit.ly/akEIWs
-categories:
-  - Beginners
-  - Ruby
-  - Training
 tags:
-  - Internet
-  - Networking
-  - Ruby
-  - Ruby Courses
-  - Sockets
-  - The Ruby Programming Language
+- Internet
+- Networking
+- Ruby
+- Ruby Courses
+- Sockets
+- The Ruby Programming Language
+title: Can YOU suggest new course contents?
+topsy_short_url:
+- http://bit.ly/akEIWs
 ---
+
 <div>
   <h3>
     Can YOU suggest new course contents?

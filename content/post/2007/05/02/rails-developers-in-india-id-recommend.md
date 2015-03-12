@@ -1,12 +1,13 @@
 ---
-title: "Rails Developers in India, I'd Recommend"
-author: "Satish Talim"
-date: "2007-05-02"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-05-02
+layout: post
+title: Rails Developers in India, I'd Recommend
 ---
+
 Like [Peter
 Cooper](http://www.rubyinside.com/rails-developers-id-recommend-for-your-projects-467.html),
 I too constantly get emails from various readers of

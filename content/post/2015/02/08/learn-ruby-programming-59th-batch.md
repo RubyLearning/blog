@@ -1,26 +1,27 @@
 ---
-title: 'Learn Ruby programming - 59th batch'
 author: Satish Talim
+categories:
+- beginners
+- ruby
+- training
 date: 2015-02-08
 draft: true
 layout: post
 permalink: /2015/02/08/learn-ruby-programming-59th-batch/
-thesis_description:
-  - 59th batch of the very popular online Ruby programming course announced by RubyLearning.
-thesis_keywords:
-  - Ruby course,Ruby,Ruby Training, Programming
-topsy_short_url:
-  - http://bit.ly/1M0MmVp
-categories:
-  - beginners
-  - ruby
-  - training
 tags:
-  - programming
-  - ruby
-  - course
-  - training
+- programming
+- ruby
+- course
+- training
+thesis_description:
+- 59th batch of the very popular online Ruby programming course announced by RubyLearning.
+thesis_keywords:
+- Ruby course,Ruby,Ruby Training, Programming
+title: Learn Ruby programming - 59th batch
+topsy_short_url:
+- http://bit.ly/1M0MmVp
 ---
+
 <div>
   <p>
     <span class="drop_cap">R</span>egistrations are now open for RubyLearning&#8217;s <em>long-awaited and popular</em> Ruby programming course. This is an intensive, online course for <em>beginners</em> that helps you get started with <strong>Ruby</strong> programming. The course starts on <b>Saturday, 21st Feb. 2015</b> and runs for seven weeks.

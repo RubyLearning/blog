@@ -1,29 +1,31 @@
 ---
-title: 50+ Rubyists to Follow on Twitter
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
+chitsung.lin@gmail.com:
+- chitsung
 date: 2008-10-29
+description:
+- 50+ Rubyists to Follow on Twitter is a list that should give you a great start to
+  following some talented Rubyists.
+keywords:
+- Ruby,Rubyists,Ruby Beginners,Ruby Masters,The Ruby Programming Language,Twitter
 layout: post
 permalink: /2008/10/29/50-rubyists-to-follow-on-twitter/
-chitsung.lin@gmail.com:
-  - chitsung
-keywords:
-  - Ruby,Rubyists,Ruby Beginners,Ruby Masters,The Ruby Programming Language,Twitter
-description:
-  - 50+ Rubyists to Follow on Twitter is a list that should give you a great start to following some talented Rubyists.
-topsy_short_url:
-  - http://bit.ly/5UQjm5
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - Ruby
-  - Ruby Beginners
-  - Ruby Masters
-  - Rubyists
-  - The Ruby Programming Language
-  - Twitter
+- Ruby
+- Ruby Beginners
+- Ruby Masters
+- Rubyists
+- The Ruby Programming Language
+- Twitter
+title: 50+ Rubyists to Follow on Twitter
+topsy_short_url:
+- http://bit.ly/5UQjm5
 ---
+
 <div>
   <p class="alert">
     The response to an earlier post &#8220;<a href="http://rubylearning.com/blog/2008/09/25/famous-ruby-personalities-who-do-you-recommend/">Famous Ruby Personalities: Who do you recommend?</a>&#8221; was very encouraging and many wrote in asking for the <strong>Twitter</strong> profiles of these <strong>Famous Ruby Personalities</strong> and other Ruby developers and bloggers.

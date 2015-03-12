@@ -1,25 +1,26 @@
 ---
-title: 20+ Clojurians to Follow on Twitter
 author: Satish Talim
+categories:
+- Clojure
+- Twitter
 date: 2010-04-15
 layout: post
 permalink: /2010/04/15/20-clojurians-to-follow-on-twitter/
-thesis_description:
-  - An authoritative list of 20+ Clojurians to Follow on Twitter.
-thesis_keywords:
-  - Clojure,Programming,Clojurian,The Clojure Programming Language,Twitter
-topsy_short_url:
-  - http://bit.ly/c7qEV2
-categories:
-  - Clojure
-  - Twitter
 tags:
-  - Clojure
-  - Clojurian
-  - programming
-  - The Clojure Programming Language
-  - Twitter
+- Clojure
+- Clojurian
+- programming
+- The Clojure Programming Language
+- Twitter
+thesis_description:
+- An authoritative list of 20+ Clojurians to Follow on Twitter.
+thesis_keywords:
+- Clojure,Programming,Clojurian,The Clojure Programming Language,Twitter
+title: 20+ Clojurians to Follow on Twitter
+topsy_short_url:
+- http://bit.ly/c7qEV2
 ---
+
 <div>
   <h3>
     What&#8217;s Clojure?

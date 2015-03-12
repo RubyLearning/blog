@@ -1,27 +1,28 @@
 ---
-title: 'Ruby Programming 21st Batch - An Intensive, Online Course For Beginners'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Training
 date: 2010-11-06
+draft: true
 layout: post
 permalink: /2010/11/06/ruby-programming-21st-batch-an-intensive-online-course-for-beginners/
-thesis_description:
-  - The 21st batch of the online Core Ruby course has been announced on RubyLearning.
-thesis_keywords:
-  - Ruby course, Ruby, Ruby Training, Programming, Training
-topsy_short_url:
-  - http://bit.ly/abQOsX
-categories:
-  - Beginners
-  - Ruby
-  - Training
 tags:
-  - programming
-  - Ruby
-  - Ruby course
-  - Ruby training
-  - Training
+- programming
+- Ruby
+- Ruby course
+- Ruby training
+- Training
+thesis_description:
+- The 21st batch of the online Core Ruby course has been announced on RubyLearning.
+thesis_keywords:
+- Ruby course, Ruby, Ruby Training, Programming, Training
+title: Ruby Programming 21st Batch - An Intensive, Online Course For Beginners
+topsy_short_url:
+- http://bit.ly/abQOsX
 ---
+
 <div>
   <p>
     <span class="drop_cap">I</span>ntroducing an intensive, online course for <em>beginners</em> that helps you get started with <strong>Ruby</strong> programming.

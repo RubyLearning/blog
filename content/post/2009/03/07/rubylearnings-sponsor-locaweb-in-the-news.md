@@ -1,22 +1,24 @@
 ---
-title: "RubyLearning's Sponsor Locaweb In The News"
 author: Satish Talim
+categories:
+- ruby
+- sponsors
 date: 2009-03-07
+description:
+- Locaweb are the exclusive sponsors of all the Free Online Core Ruby Programming
+  Courses (FORPC101) at RubyLearning.
+keywords:
+- Locaweb,Brazil,Ruby,Sponsors
 layout: post
 permalink: /2009/03/07/rubylearnings-sponsor-locaweb-in-the-news/
-keywords:
-  - Locaweb,Brazil,Ruby,Sponsors
-description:
-  - Locaweb are the exclusive sponsors of all the Free Online Core Ruby Programming Courses (FORPC101) at RubyLearning.
-categories:
-  - ruby
-  - sponsors
 tags:
-  - brazil
-  - locaweb
-  - ruby
-  - sponsors
+- brazil
+- locaweb
+- ruby
+- sponsors
+title: RubyLearning's Sponsor Locaweb In The News
 ---
+
 <div>
   <p>
     It&#8217;s time to thank RubyLearning&#8217;s excellent sponsor &#8211; Locaweb.<sup class='footnote'><a href='#fn-1536-1' id='fnref-1536-1'>1</a></sup>

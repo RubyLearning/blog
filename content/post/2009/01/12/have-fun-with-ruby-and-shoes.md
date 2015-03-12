@@ -1,25 +1,26 @@
 ---
-title: Have Fun With Ruby And Shoes
+ashbbb@gmail.com:
+- ashbb
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Training
 date: 2009-01-12
 layout: post
 permalink: /2009/01/12/have-fun-with-ruby-and-shoes/
-ashbbb@gmail.com:
-  - ashbb
-topsy_short_url:
-  - http://bit.ly/cLSlUw
-categories:
-  - Beginners
-  - Ruby
-  - Training
 tags:
-  - Ruby
-  - Ruby course
-  - Ruby training
-  - Satoshi Asakawa
-  - Shoes
-  - The Ruby Programming Language
+- Ruby
+- Ruby course
+- Ruby training
+- Satoshi Asakawa
+- Shoes
+- The Ruby Programming Language
+title: Have Fun With Ruby And Shoes
+topsy_short_url:
+- http://bit.ly/cLSlUw
 ---
+
 <div>
   <h3>
     Have Fun With Ruby And Shoes!

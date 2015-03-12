@@ -1,12 +1,13 @@
 ---
-title: "AnswerU Interview"
-author: "Satish Talim"
-date: "2007-01-23"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-01-23
+layout: post
+title: AnswerU Interview
 ---
+
 Anil Dharni and Brad are the brains behind
 **[AnswerU](http://www.answeru.com/)**. AnswerU is a solution for fast
 and accurate answers for university students’ toughest questions. I’ve

@@ -1,23 +1,25 @@
 ---
-title: 'Happynerds - Programming Links for Kids'
 author: Satish Talim
+categories:
+- heroku
+- ruby
+- sinatra
 date: 2009-12-21
 layout: post
 permalink: /2009/12/21/happynerds-programming-links-for-kids/
-thesis_description:
-  - Michael Kohl talks about how he created Happynerds, an online resource of programming tools for kids.
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Happynerds,Michael Kohl
-categories:
-  - heroku
-  - ruby
-  - sinatra
 tags:
-  - happynerds
-  - michael kohl
-  - ruby
-  - the ruby programming language
+- happynerds
+- michael kohl
+- ruby
+- the ruby programming language
+thesis_description:
+- Michael Kohl talks about how he created Happynerds, an online resource of programming
+  tools for kids.
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Happynerds,Michael Kohl
+title: Happynerds - Programming Links for Kids
 ---
+
 <div>
   <h3>
     Happynerds &#8211; Programming Links for Kids

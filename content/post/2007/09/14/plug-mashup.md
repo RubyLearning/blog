@@ -1,13 +1,14 @@
 ---
-title: "PLUG MASHUP"
-author: "Satish Talim"
-date: "2007-09-14"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - rails
-  - ruby
+- news
+- rails
+- ruby
+date: 2007-09-14
+layout: post
+title: PLUG MASHUP
 ---
+
 The Pune GNU/Linux Users Group have announced ‘**PLUG MASHUP**‘, a
 technology event which includes a Hack-a-thon and a mashup camp to be
 held on October 13th and 14th, 2007 at Bhaskaracharya Pratishthan, Pune,

@@ -1,27 +1,29 @@
 ---
-title: 'Blake Mizerany: How do I learn and master Sinatra?'
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Learn Sinatra
+- Ruby
+- Sinatra
 date: 2009-08-11
 layout: post
 permalink: /2009/08/11/blake-mizerany-how-do-i-learn-and-master-sinatra/
-thesis_description:
-  - 'In the last part of the mini series “How do I learn and master Sinatra?”, Blake Mizerany, the creator of Sinatra,  gives us his insights on mastering Sinatra.'
-thesis_keywords:
-  - Blake Mizerany,Sinatra,Ruby programming,Learning Sinatra
-topsy_short_url:
-  - http://bit.ly/1HL7HPp
-categories:
-  - Beginners
-  - Interview
-  - Learn Sinatra
-  - Ruby
-  - Sinatra
 tags:
-  - Blake Mizerany
-  - Learning Sinatra
-  - ruby programming
-  - Sinatra
+- Blake Mizerany
+- Learning Sinatra
+- ruby programming
+- Sinatra
+thesis_description:
+- "In the last part of the mini series “How do I learn and master Sinatra?”, Blake
+  Mizerany, the creator of Sinatra,  gives us his insights on mastering Sinatra."
+thesis_keywords:
+- Blake Mizerany,Sinatra,Ruby programming,Learning Sinatra
+title: 'Blake Mizerany: How do I learn and master Sinatra?'
+topsy_short_url:
+- http://bit.ly/1HL7HPp
 ---
+
 <div>
   <p class="update">
     Welcome to the <b>last</b> installment on the <abbr title="RubyLearning">RL</abbr> blog, of a mini series &#8211; &#8220;<strong>How do I learn and master Sinatra?</strong>&#8221; &#8211; by top Rubyists using <em>Sinatra</em>. The interview series will provide insight and commentary from these notable <em>Sinatra</em> developers, with the goal of facilitating and providing answers to the questions Ruby beginners face on <em>how to learn and master Sinatra</em>.

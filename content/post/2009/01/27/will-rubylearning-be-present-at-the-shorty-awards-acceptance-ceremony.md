@@ -1,33 +1,35 @@
 ---
-title: Will RubyLearning be present at the Shorty Awards Acceptance Ceremony?
-author: Satish Talim
-date: 2009-01-27
-layout: post
-permalink: /2009/01/27/will-rubylearning-be-present-at-the-shorty-awards-acceptance-ceremony/
-m4xt3r@gmail.com:
-  - maxt3r
 Mcmilker@gmail.com:
-  - mcmilker
-keywords:
-  - Ruby,Rubyists,Ruby Programming Language,Twitter,India,Pune,Shorty Awards,Education
-description:
-  - "RubyLearning is a winner in the Education category at Shorty Awards but flaws in Shorty Awards' system prevent RubyLearning from claiming the award."
+- mcmilker
+author: Satish Talim
 categories:
-  - Beginners
-  - Ruby
-  - Shorty Awards
-  - Sponsors
-  - Training
+- Beginners
+- Ruby
+- Shorty Awards
+- Sponsors
+- Training
+date: 2009-01-27
+description:
+- RubyLearning is a winner in the Education category at Shorty Awards but flaws in
+  Shorty Awards' system prevent RubyLearning from claiming the award.
+keywords:
+- Ruby,Rubyists,Ruby Programming Language,Twitter,India,Pune,Shorty Awards,Education
+layout: post
+m4xt3r@gmail.com:
+- maxt3r
+permalink: /2009/01/27/will-rubylearning-be-present-at-the-shorty-awards-acceptance-ceremony/
 tags:
-  - Education
-  - india
-  - pune
-  - Ruby
-  - Ruby Programming Language
-  - Rubyists
-  - Shorty Awards
-  - Twitter
+- Education
+- india
+- pune
+- Ruby
+- Ruby Programming Language
+- Rubyists
+- Shorty Awards
+- Twitter
+title: Will RubyLearning be present at the Shorty Awards Acceptance Ceremony?
 ---
+
 <div>
   <p>
     The votes have been cast and the <a href="http://www.shortyawards.com/">Shorty Awards</a> have come to an end. The official results are in, and RubyLearning is a winner of the Shorty Award in the <a href="http://www.shortyawards.com/category/education">education category</a>. RubyLearning represented by its nearly 7000 participants from over 140 countries are delighted and so am I.

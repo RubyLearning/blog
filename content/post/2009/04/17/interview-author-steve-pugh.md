@@ -1,22 +1,23 @@
 ---
-title: 'Interview: Author Steve Pugh'
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Ruby
 date: 2009-04-17
+description:
+- Steve Pugh, author of Wicked Cool Ruby Scripts talks to RubyLearning.
+keywords:
+- Steve Pugh,Wicked Cool Ruby Scripts,Ruby programming
 layout: post
 permalink: /2009/04/17/interview-author-steve-pugh/
-keywords:
-  - Steve Pugh,Wicked Cool Ruby Scripts,Ruby programming
-description:
-  - Steve Pugh, author of Wicked Cool Ruby Scripts talks to RubyLearning.
-categories:
-  - Beginners
-  - Interview
-  - Ruby
 tags:
-  - ruby programming
-  - Steve Pugh
-  - Wicked Cool Ruby Scripts
+- ruby programming
+- Steve Pugh
+- Wicked Cool Ruby Scripts
+title: 'Interview: Author Steve Pugh'
 ---
+
 <div>
   <p class="alert">
     Our first ever Book Promotion: &#8220;<strong>Wicked Cool Ruby Scripts</strong>&#8221; starts soon. Win one of four books to be given out for participation. The coolest thing? Author <b>Steve Pugh</b> will be on site to answer questions! <a href="http://rubylearning.com/blog/2009/04/15/want-to-promote-your-bookproductevent/">Click here</a> for more details. Here, in this brief interview, Satish Talim of RubyLearning talks to Steve Pugh.

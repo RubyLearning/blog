@@ -1,12 +1,13 @@
 ---
-title: "Ruby MySQL Tutorial"
-author: "Satish Talim"
-date: "2007-05-14"
-layout: post
+author: Satish Talim
 categories:
-  - code snippets
-  - ruby
+- code snippets
+- ruby
+date: 2007-05-14
+layout: post
+title: Ruby MySQL Tutorial
 ---
+
 This brief **Ruby MySQL Tutorial** shows you how you can connect to
 MySQL in Ruby. MySQL support in Ruby was made possible by Tomita
 Masahiro. He has developed a pure Ruby binding called Ruby/MySQL. We

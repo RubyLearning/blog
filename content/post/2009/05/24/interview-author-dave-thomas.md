@@ -1,26 +1,27 @@
 ---
-title: 'Interview: Author Dave Thomas'
 author: Satish Talim
+categories:
+- Beginners
+- Book Promotions
+- Interview
+- Promotions
+- Ruby
 date: 2009-05-24
+description:
+- Dave Thomas, author of Programming Ruby 1.9 talks to RubyLearning.
+keywords:
+- Dave Thomas,Programming Ruby 1.9,Ruby programming,Book promotion,Pragmatic Programmer
 layout: post
 permalink: /2009/05/24/interview-author-dave-thomas/
-keywords:
-  - Dave Thomas,Programming Ruby 1.9,Ruby programming,Book promotion,Pragmatic Programmer
-description:
-  - Dave Thomas, author of Programming Ruby 1.9 talks to RubyLearning.
-categories:
-  - Beginners
-  - Book Promotions
-  - Interview
-  - Promotions
-  - Ruby
 tags:
-  - Book promotion
-  - Dave Thomas
-  - Pragmatic Programmer
-  - Programming Ruby 1.9
-  - ruby programming
+- Book promotion
+- Dave Thomas
+- Pragmatic Programmer
+- Programming Ruby 1.9
+- ruby programming
+title: 'Interview: Author Dave Thomas'
 ---
+
 <div>
   <p class="alert">
     Our Book Promotion: &#8220;<strong>Programming Ruby 1.9</strong>&#8221; starts soon. Win one of four books to be given out for active participation. The coolest thing? Author <b>Dave Thomas</b> will be on site to answer questions! <a href="http://rubylearning.com/blog/2009/05/24/book-promotion-programming-ruby-19/">Click here</a> for more details. Here, in this brief interview, Satish Talim of RubyLearning talks to Dave Thomas.

@@ -1,25 +1,27 @@
 ---
-title: "Amit Rathore talks to RubyLearning's Clojure Course Participants"
 author: Satish Talim
+categories:
+- Clojure
+- Interview
 date: 2010-03-18
 layout: post
 permalink: /2010/03/18/amit-rathore-talks-to-rubylearnings-clojure-course-participants/
-thesis_description:
-  - Amit Rathore author of the book Clojure in Action talks to RubyLearning’s Clojure Course Participants.
-thesis_keywords:
-  - Amit Rathore,Clojure in Action,Clojure,Clojure course,Clojure training
-topsy_short_url:
-  - http://bit.ly/ctBMAU
-categories:
-  - Clojure
-  - Interview
 tags:
-  - Amit Rathore
-  - Clojure
-  - Clojure course
-  - Clojure in Action
-  - Clojure Training
+- Amit Rathore
+- Clojure
+- Clojure course
+- Clojure in Action
+- Clojure Training
+thesis_description:
+- "Amit Rathore author of the book Clojure in Action talks to RubyLearning’s Clojure
+  Course Participants."
+thesis_keywords:
+- Amit Rathore,Clojure in Action,Clojure,Clojure course,Clojure training
+title: Amit Rathore talks to RubyLearning's Clojure Course Participants
+topsy_short_url:
+- http://bit.ly/ctBMAU
 ---
+
 <div>
   <p class="alert">
     On the eve of the first free, online &#8220;<strong><a href="http://rubylearning.com/blog/2010/03/09/clojure-101-a-new-course/">Clojure 101</a></strong>&#8221; course, Michael Kohl of RubyLearning caught up with <strong>Amit Rathore</strong>, author of the forthcoming book &#8211; <a href="http://www.clojureinaction.com/">Clojure in Action</a>. In this interview, Amit Rathore talks to the Clojure 101 course participants on <strong>Clojure</strong>.

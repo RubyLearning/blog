@@ -1,26 +1,26 @@
 ---
-title: Does Ruby Have Too Many Equality Tests?
 author: Eric Anderson
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-11-17
 layout: post
 permalink: /2010/11/17/does-ruby-have-too-many-equality-tests/
-thesis_description:
-  - |
-    Learn the difference between the myriad of equality tests that Ruby provides. Explanations and examples of when to use 
-    ==, ===, eql?, equal? and =~.
-thesis_keywords:
-  - Ruby Equality Tests,Programming,Ruby programming
-topsy_short_url:
-  - http://bit.ly/avdLgp
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - programming
-  - Ruby Equality Tests
-  - ruby programming
+- programming
+- Ruby Equality Tests
+- ruby programming
+thesis_description:
+- "Learn the difference between the myriad of equality tests that Ruby provides. Explanations
+  and examples of when to use \n==, ===, eql?, equal? and =~.\n"
+thesis_keywords:
+- Ruby Equality Tests,Programming,Ruby programming
+title: Does Ruby Have Too Many Equality Tests?
+topsy_short_url:
+- http://bit.ly/avdLgp
 ---
+
 <div>
   <h3>
     Does Ruby Have Too Many Equality Tests?

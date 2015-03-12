@@ -1,23 +1,24 @@
 ---
-title: Hampton Catlin on Haml
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Ruby
 date: 2010-10-12
 layout: post
 permalink: /2010/10/12/hampton-catlin-on-haml/
-thesis_description:
-  - Hampton Catlin the inventor of Haml talks to RubyLearning in this brief interview.
-thesis_keywords:
-  - Hampton Catlin,Haml
-topsy_short_url:
-  - http://bit.ly/bdQitf
-categories:
-  - Beginners
-  - Interview
-  - Ruby
 tags:
-  - Haml
-  - Hampton Catlin
+- Haml
+- Hampton Catlin
+thesis_description:
+- Hampton Catlin the inventor of Haml talks to RubyLearning in this brief interview.
+thesis_keywords:
+- Hampton Catlin,Haml
+title: Hampton Catlin on Haml
+topsy_short_url:
+- http://bit.ly/bdQitf
 ---
+
 <div>
   <p class="alert">
     Recently we asked you about &#8216;<a href="http://rubylearning.com/blog/2010/09/28/win-a-prize-by-telling-us-about-your-top-3-most-useful-ruby-gems/">Your Top 3 Most Useful Ruby Gems</a>&#8216; and you all voted <strong>Haml</strong> to the number 3 spot. In this brief interview, Satish Talim of RubyLearning talks to <a href="http://hamptoncatlin.com/">Hampton Catlin</a> the inventor of the <a href="http://haml-lang.com/">Haml markup language</a>.

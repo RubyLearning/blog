@@ -1,25 +1,27 @@
 ---
-title: 'Book Promotion: Ruby Best Practices'
 author: Satish Talim
+categories:
+- Beginners
+- Book Promotions
+- Promotions
+- Ruby
 date: 2009-06-20
 layout: post
 permalink: /2009/06/20/book-promotion-ruby-best-practices/
-thesis_description:
-  - Announcement of the promotion on RubyLearning of the book "Ruby Best Practices" with author Gregory Brown.
-thesis_keywords:
-  - Ruby,Book Promotions,Ruby Best Practices,The Ruby Programming Language,Gregory Brown
-categories:
-  - Beginners
-  - Book Promotions
-  - Promotions
-  - Ruby
 tags:
-  - Book Promotions
-  - Gregory Brown
-  - Ruby
-  - Ruby Best Practices
-  - The Ruby Programming Language
+- Book Promotions
+- Gregory Brown
+- Ruby
+- Ruby Best Practices
+- The Ruby Programming Language
+thesis_description:
+- Announcement of the promotion on RubyLearning of the book "Ruby Best Practices"
+  with author Gregory Brown.
+thesis_keywords:
+- Ruby,Book Promotions,Ruby Best Practices,The Ruby Programming Language,Gregory Brown
+title: 'Book Promotion: Ruby Best Practices'
 ---
+
 <div>
   <h3>
     Book Promotion: Ruby Best Practices

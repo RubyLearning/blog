@@ -1,23 +1,24 @@
 ---
-title: Minimal I18n with Rails 3.2
 author: Fabio Akita
-date: "2012-07-24"
+categories:
+- Rails
+- Ruby on Rails
+date: 2012-07-24
 layout: post
 permalink: /2012/07/24/minimal-i18n-with-rails-3-2/
-thesis_description:
-  - Fabio Akita talks about using internationalization and localization in Rails apps.
-thesis_keywords:
-  - Fabio Akita, Ruby on Rails, I18n with Rails
-topsy_short_url:
-  - http://bit.ly/NOr7cb
-categories:
-  - Rails
-  - Ruby on Rails
 tags:
-  - fabio akita
-  - I18n with Rails
-  - Ruby on Rails
+- fabio akita
+- I18n with Rails
+- Ruby on Rails
+thesis_description:
+- Fabio Akita talks about using internationalization and localization in Rails apps.
+thesis_keywords:
+- Fabio Akita, Ruby on Rails, I18n with Rails
+title: Minimal I18n with Rails 3.2
+topsy_short_url:
+- http://bit.ly/NOr7cb
 ---
+
 <div>
   <h3>
     Minimal I18n with Rails 3.2

@@ -1,27 +1,28 @@
 ---
-title: A Free Course on Sinatra
-draft: true
 author: Satish Talim
+categories:
+- Learn Sinatra
+- Ruby
+- Sinatra
+- Training
 date: 2010-04-24
+draft: true
 layout: post
 permalink: /2010/04/24/a-free-course-on-sinatra/
-thesis_description:
-  - The first-ever free, online course on Sinatra 1.0 by RubyLearning.org
-thesis_keywords:
-  - Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language
-topsy_short_url:
-  - http://bit.ly/cwV3PD
-categories:
-  - Learn Sinatra
-  - Ruby
-  - Sinatra
-  - Training
 tags:
-  - Ruby
-  - Sinatra
-  - Sinatra eBook
-  - The Ruby Programming Language
+- Ruby
+- Sinatra
+- Sinatra eBook
+- The Ruby Programming Language
+thesis_description:
+- The first-ever free, online course on Sinatra 1.0 by RubyLearning.org
+thesis_keywords:
+- Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language
+title: A Free Course on Sinatra
+topsy_short_url:
+- http://bit.ly/cwV3PD
 ---
+
 <div>
   <h3>
     A Free Course on Sinatra

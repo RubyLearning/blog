@@ -1,12 +1,13 @@
 ---
-title: "Ruby and Rails on Update-Scout"
-author: "Satish Talim"
-date: "2007-01-19"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-01-19
+layout: post
+title: Ruby and Rails on Update-Scout
 ---
+
 Ruby has just been added to
 [Update-Scout.com](http://www.update-scout.com/index.html), an
 interactive web service, that informs its users about software updates

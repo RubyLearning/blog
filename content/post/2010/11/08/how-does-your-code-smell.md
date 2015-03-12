@@ -1,24 +1,26 @@
 ---
-title: How does your code smell?
 author: Kevin Rutherford
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-11-08
 layout: post
 permalink: /2010/11/08/how-does-your-code-smell/
-thesis_description:
-  - 'In this article, Dr. Kevin Rutherford talks about code smells - any symptom in the source code of a program that possibly indicates a deeper problem.'
-thesis_keywords:
-  - Reek,Programming,Ruby programming
-topsy_short_url:
-  - http://bit.ly/dqZosa
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - programming
-  - Reek
-  - ruby programming
+- programming
+- Reek
+- ruby programming
+thesis_description:
+- In this article, Dr. Kevin Rutherford talks about code smells - any symptom in the
+  source code of a program that possibly indicates a deeper problem.
+thesis_keywords:
+- Reek,Programming,Ruby programming
+title: How does your code smell?
+topsy_short_url:
+- http://bit.ly/dqZosa
 ---
+
 <div>
   <h3>
     How does your code smell?

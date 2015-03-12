@@ -1,24 +1,26 @@
 ---
-title: "RubyLearning's Sponsor: 1st Easy Limited"
 author: Satish Talim
+categories:
+- ruby
+- sinatra
+- sponsors
 date: 2009-03-19
+description:
+- 1st Easy Limited, part-sponosr of the first-ever online "Introduction to Sinatra"
+  course at RubyLearning.
+keywords:
+- 1st Easy Limited,Sinatra,Ruby,Ruby on Rails,Sponsors
 layout: post
 permalink: /2009/03/19/rubylearnings-sponsor-1st-easy-limited/
-keywords:
-  - 1st Easy Limited,Sinatra,Ruby,Ruby on Rails,Sponsors
-description:
-  - 1st Easy Limited, part-sponosr of the first-ever online "Introduction to Sinatra" course at RubyLearning.
-categories:
-  - ruby
-  - sinatra
-  - sponsors
 tags:
-  - 1st easy limited
-  - ruby
-  - ruby on rails
-  - sinatra
-  - sponsors
+- 1st easy limited
+- ruby
+- ruby on rails
+- sinatra
+- sponsors
+title: 'RubyLearning''s Sponsor: 1st Easy Limited'
 ---
+
 <div>
   <p>
     It&#8217;s time to thank RubyLearning&#8217;s sponsor &#8211; <a href="http://www.1steasy.com/rubylearning.htm">1st Easy Limited</a>.

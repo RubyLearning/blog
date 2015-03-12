@@ -1,13 +1,14 @@
 ---
-title: "Connect JRuby to MySQL using JDBC"
-author: "Satish Talim"
-date: "2007-05-05"
-layout: post
+author: Satish Talim
 categories:
-  - jruby
-  - rails
-  - ruby
+- jruby
+- rails
+- ruby
+date: 2007-05-05
+layout: post
+title: Connect JRuby to MySQL using JDBC
 ---
+
 **JRuby** is a 100% pure-Java implementation of the Ruby programming
 language that runs in the JVM. **MySQL** is a one of the most popular
 open source databases around and is used by many prominent organizations

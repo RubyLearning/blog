@@ -1,29 +1,31 @@
 ---
-title: 'A "FREE" Online Course - Build your own web-application framework with Ruby - 1st batch'
-draft: true
 author: Satish Talim
+categories:
+- Ruby
+- Training
 date: 2013-12-24
+draft: true
 layout: post
 permalink: /2013/12/24/a-free-online-course-build-your-own-web-application-framework-with-ruby-1st-batch/
-thesis_description:
-  - Learn how to build your own web-application framework with Ruby.
-thesis_keywords:
-  - Ruby Training, Rack, Gem, Heroku
-topsy_short_url:
-  - http://bit.ly/1gTlDMI
-thesis_thumb_width:
-  - 66
-thesis_thumb_height:
-  - 66
-categories:
-  - Ruby
-  - Training
 tags:
-  - Gem
-  - Heroku
-  - Rack
-  - Ruby training
+- Gem
+- Heroku
+- Rack
+- Ruby training
+thesis_description:
+- Learn how to build your own web-application framework with Ruby.
+thesis_keywords:
+- Ruby Training, Rack, Gem, Heroku
+thesis_thumb_height:
+- 66
+thesis_thumb_width:
+- 66
+title: A "FREE" Online Course - Build your own web-application framework with Ruby
+  - 1st batch
+topsy_short_url:
+- http://bit.ly/1gTlDMI
 ---
+
 <div>
   <h2>
     Build your own web-application framework with Ruby

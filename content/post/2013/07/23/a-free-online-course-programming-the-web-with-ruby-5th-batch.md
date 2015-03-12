@@ -1,27 +1,28 @@
 ---
-title: 'A "FREE" Programming the Web with Ruby - 5th batch'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Training
 date: 2013-07-23
+draft: true
 layout: post
 permalink: /2013/07/23/a-free-online-course-programming-the-web-with-ruby-5th-batch/
-thesis_description:
-  - 'First of its kind. A free, online course - Programming the Web with Ruby at RubyLearning.'
-thesis_keywords:
-  - Ruby course,Ruby,Ruby Training, Programming, Web programming
-topsy_short_url:
-  - http://bit.ly/1bJJATP
-categories:
-  - Beginners
-  - Ruby
-  - Training
 tags:
-  - programming
-  - Ruby
-  - Ruby course
-  - Ruby training
-  - Web programming
+- programming
+- Ruby
+- Ruby course
+- Ruby training
+- Web programming
+thesis_description:
+- First of its kind. A free, online course - Programming the Web with Ruby at RubyLearning.
+thesis_keywords:
+- Ruby course,Ruby,Ruby Training, Programming, Web programming
+title: A "FREE" Programming the Web with Ruby - 5th batch
+topsy_short_url:
+- http://bit.ly/1bJJATP
 ---
+
 <div>
   <h2>
     Programming the Web with Ruby

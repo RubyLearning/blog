@@ -1,22 +1,23 @@
 ---
-title: Charles Nutter talks to RubyLearning Participants
 author: Satish Talim
+categories:
+- Interview
+- JRuby
+- Popular
+- Ruby
 date: 2008-07-21
 layout: post
 permalink: /2008/07/21/charles-nutter-talks-to-rubylearning-participants/
-categories:
-  - Interview
-  - JRuby
-  - Popular
-  - Ruby
 tags:
-  - charles nutter
-  - Interview
-  - JRuby
-  - jruby interview
-  - Ruby
-  - sun microsystems
+- charles nutter
+- Interview
+- JRuby
+- jruby interview
+- Ruby
+- sun microsystems
+title: Charles Nutter talks to RubyLearning Participants
 ---
+
 <div style="float: right; margin-left: 10px; margin-bottom: 10px;">
   <a href="http://rubylearning.com/images/nutter.jpg" title="Charles Nutter"><img src="http://rubylearning.com/images/nutter.jpg" alt="Charles Nutter" /></a>
 </div>

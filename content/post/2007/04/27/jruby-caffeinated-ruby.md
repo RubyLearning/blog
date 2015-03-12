@@ -1,13 +1,14 @@
 ---
-title: "JRuby: Caffeinated Ruby"
-author: "Satish Talim"
-date: "2007-04-27"
-layout: post
+author: Satish Talim
 categories:
 - jruby
 - rails
 - ruby
+date: 2007-04-27
+layout: post
+title: 'JRuby: Caffeinated Ruby'
 ---
+
 Recently, **[JRuby](http://jruby.codehaus.org/)** has been gaining more
 and more attention in the Java and Ruby communities. Java is a powerful
 platform and there are millions of lines of Java code being written each

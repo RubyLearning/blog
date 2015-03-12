@@ -1,26 +1,28 @@
 ---
-title: Getting started with Heroku
 author: Ben Scofield
+categories:
+- Beginners
+- Heroku
+- Popular
+- Ruby
+- Ruby Masters
 date: 2010-12-15
 layout: post
 permalink: /2010/12/15/getting-started-with-heroku/
-thesis_description:
-  - Heroku is designed to be as painless as possible to get going, and to provide a powerful, stable, and scalable platform for your code says Ben Scofield.
-thesis_keywords:
-  - Programming,Ruby programming, Heroku
-topsy_short_url:
-  - http://bit.ly/g9Nm5N
-categories:
-  - Beginners
-  - Heroku
-  - Popular
-  - Ruby
-  - Ruby Masters
 tags:
-  - Heroku
-  - programming
-  - ruby programming
+- Heroku
+- programming
+- ruby programming
+thesis_description:
+- Heroku is designed to be as painless as possible to get going, and to provide a
+  powerful, stable, and scalable platform for your code says Ben Scofield.
+thesis_keywords:
+- Programming,Ruby programming, Heroku
+title: Getting started with Heroku
+topsy_short_url:
+- http://bit.ly/g9Nm5N
 ---
+
 <div>
   <h3>
     Getting started with Heroku

@@ -1,27 +1,29 @@
 ---
-title: 'RPCFN: XML Transformer - 8'
 author: Satish Talim
+categories:
+- beginners
+- rpcfn
+- ruby
 date: 2010-04-07
 layout: post
 permalink: /2010/04/07/rpcfn-xml-transformer-8/
-thesis_description:
-  - Jamie van Dyke throws a new Ruby Challenge for Ruby Newbies at RubyLearning.
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,Jamie van Dyke
-topsy_short_url:
-  - http://bit.ly/aNaIaD
-categories:
-  - beginners
-  - rpcfn
-  - ruby
 tags:
-  - jamie van dyke
-  - programming
-  - rpcfn
-  - ruby
-  - ruby programming challenge for newbies
-  - the ruby programming language
+- jamie van dyke
+- programming
+- rpcfn
+- ruby
+- ruby programming challenge for newbies
+- the ruby programming language
+thesis_description:
+- Jamie van Dyke throws a new Ruby Challenge for Ruby Newbies at RubyLearning.
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,Jamie
+  van Dyke
+title: 'RPCFN: XML Transformer - 8'
+topsy_short_url:
+- http://bit.ly/aNaIaD
 ---
+
 <div>
   <h3>
     Ruby Programming Challenge For Newbies

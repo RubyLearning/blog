@@ -1,19 +1,20 @@
 ---
-title: "Advice For Ruby Beginners 1"
-author: "Satish Talim"
-date: "2007-09-27"
-layout: post
+author: Satish Talim
 categories:
-  - beginners
-  - interview
-  - popular
-  - rails
-  - ruby
-  - training
+- beginners
+- interview
+- popular
+- rails
+- ruby
+- training
+date: 2007-09-27
+layout: post
 tags:
-  - ruby beginners
-  - ruby for noobs
+- ruby beginners
+- ruby for noobs
+title: Advice For Ruby Beginners 1
 ---
+
 *The popularity of Ruby grows exponentially and with that, more and more
 people are learning the language. Recently, 400+ would-be Ruby
 developers from around the world registered for the [Free Ruby

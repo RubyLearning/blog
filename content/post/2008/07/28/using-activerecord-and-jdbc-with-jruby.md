@@ -1,19 +1,20 @@
 ---
-title: Using ActiveRecord and JDBC with JRuby
 author: Satish Talim
+categories:
+- jruby
+- ruby
 date: 2008-07-28
 layout: post
 permalink: /2008/07/28/using-activerecord-and-jdbc-with-jruby/
-topsy_short_url:
-  - http://bit.ly/dluxgS
-categories:
-  - jruby
-  - ruby
 tags:
-  - activerecord
-  - jdbc
-  - jruby
+- activerecord
+- jdbc
+- jruby
+title: Using ActiveRecord and JDBC with JRuby
+topsy_short_url:
+- http://bit.ly/dluxgS
 ---
+
 <div>
   <h3>
     Preamble

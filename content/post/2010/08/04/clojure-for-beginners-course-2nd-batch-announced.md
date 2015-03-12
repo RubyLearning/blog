@@ -1,25 +1,27 @@
 ---
-title: 'Clojure for Beginners Course - 2nd Batch Announced'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Clojure
+- Training
 date: 2010-08-04
+draft: true
 layout: post
 permalink: /2010/08/04/clojure-for-beginners-course-2nd-batch-announced/
-thesis_description:
-  - The 2nd batch of the popular Clojure for Beginners course has been announced for 13th Sept. 2010.
-thesis_keywords:
-  - Clojure course,Clojure,Clojure Training
-topsy_short_url:
-  - http://bit.ly/azvzmo
-categories:
-  - Beginners
-  - Clojure
-  - Training
 tags:
-  - Clojure
-  - Clojure course
-  - Clojure Training
+- Clojure
+- Clojure course
+- Clojure Training
+thesis_description:
+- The 2nd batch of the popular Clojure for Beginners course has been announced for
+  13th Sept. 2010.
+thesis_keywords:
+- Clojure course,Clojure,Clojure Training
+title: Clojure for Beginners Course - 2nd Batch Announced
+topsy_short_url:
+- http://bit.ly/azvzmo
 ---
+
 <div>
   <p>
     <span class="drop_cap">I</span>ntroducing an intensive, online course for <em>beginners</em> that helps you get started with <strong>Clojure</strong> programming.

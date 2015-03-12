@@ -1,26 +1,28 @@
 ---
-title: 'Interview: Michael Hartl, author of the Ruby on Rails Tutorial (railstutorial.org)'
 author: Satish Talim
+categories:
+- Interview
+- Rails
+- Ruby
+- Ruby Masters
+- Ruby on Rails
 date: 2011-02-18
 layout: post
 permalink: /2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial-org/
-thesis_description:
-  - RubyLearning participants talk to Michael Hartl the author of the Ruby on Rails Tutorial.
-thesis_keywords:
-  - Michael Hartl,Ruby on Rails,Ruby programming
-topsy_short_url:
-  - http://bit.ly/eZqMC4
-categories:
-  - Interview
-  - Rails
-  - Ruby
-  - Ruby Masters
-  - Ruby on Rails
 tags:
-  - Michael Hartl
-  - Ruby on Rails
-  - ruby programming
+- Michael Hartl
+- Ruby on Rails
+- ruby programming
+thesis_description:
+- RubyLearning participants talk to Michael Hartl the author of the Ruby on Rails
+  Tutorial.
+thesis_keywords:
+- Michael Hartl,Ruby on Rails,Ruby programming
+title: 'Interview: Michael Hartl, author of the Ruby on Rails Tutorial (railstutorial.org)'
+topsy_short_url:
+- http://bit.ly/eZqMC4
 ---
+
 <div>
   <p class="alert">
     RubyLearning participants talk to Michael Hartl the author of the Ruby on Rails Tutorial (<a href="http://ruby.railstutorial.org/">railstutorial.org</a>).

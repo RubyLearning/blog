@@ -1,12 +1,13 @@
 ---
-title: "Ruby Quote"
-author: "Satish Talim"
-date: "2007-12-05"
-layout: post
+author: Satish Talim
 categories:
-  - interview
-  - ruby
+- interview
+- ruby
+date: 2007-12-05
+layout: post
+title: Ruby Quote
 ---
+
 Recently, Pragmatic Programmer Dave Thomas, author of the ‘Pickaxe book’
 Programming Ruby, and co-author of Agile Web Development with Rails and
 The Pragmatic Programmer, talked with InfoQ about Ruby, Rails and the

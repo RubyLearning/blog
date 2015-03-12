@@ -1,25 +1,27 @@
 ---
-title: 'Felipe Elias Philipp Winner RPCFN - 1'
 author: Satish Talim
+categories:
+- beginners
+- interview
+- rpcfn
+- ruby
 date: 2009-10-08
 layout: post
 permalink: /2009/10/08/felipe-elias-philipp-winner-rpcfn-1/
-thesis_description:
-  - Satish Talim talks to Felipe Elias Philipp from Brazil, winner of the first-ever Ruby Programming Challenge for Newbies.
-thesis_keywords:
-  - Felipe Elias Philipp,Ruby,Ruby programming,RPCFN,Brazil
-categories:
-  - beginners
-  - interview
-  - rpcfn
-  - ruby
 tags:
-  - brazil
-  - felipe elias philipp
-  - rpcfn
-  - ruby
-  - ruby programming
+- brazil
+- felipe elias philipp
+- rpcfn
+- ruby
+- ruby programming
+thesis_description:
+- Satish Talim talks to Felipe Elias Philipp from Brazil, winner of the first-ever
+  Ruby Programming Challenge for Newbies.
+thesis_keywords:
+- Felipe Elias Philipp,Ruby,Ruby programming,RPCFN,Brazil
+title: Felipe Elias Philipp Winner RPCFN - 1
 ---
+
 <div>
   <p class="alert">
     In this brief interview, Satish Talim of RubyLearning talks to <b>Felipe Elias Philipp of Brazil</b>, winner of the first-ever <a href="http://rubylearning.com/blog/2009/09/24/rpcfn-shift-subtitle-1/">Ruby Programming Challenge For Newbies</a>.

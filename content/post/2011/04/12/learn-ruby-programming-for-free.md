@@ -1,26 +1,27 @@
 ---
-title: Learn Ruby Programming For Free
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Training
 date: 2011-04-12
+draft: true
 layout: post
 permalink: /2011/04/12/learn-ruby-programming-for-free/
-thesis_description:
-  - Learn Ruby programming for free at rubylearning.org
-thesis_keywords:
-  - Ruby course,Ruby,Ruby Training, Programming
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Ruby
-  - Training
 tags:
-  - programming
-  - Ruby
-  - Ruby course
-  - Ruby training
+- programming
+- Ruby
+- Ruby course
+- Ruby training
+thesis_description:
+- Learn Ruby programming for free at rubylearning.org
+thesis_keywords:
+- Ruby course,Ruby,Ruby Training, Programming
+title: Learn Ruby Programming For Free
+topsy_short_url:
+- null
 ---
+
 <div>
   <p>
     <span class="drop_cap">L</span>earn <strong>Ruby programming</strong> for free.

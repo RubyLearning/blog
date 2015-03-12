@@ -1,32 +1,34 @@
 ---
-title: 'Interview: Chris Wanstrath of GitHub'
+andre.java@gmail.com:
+- andrefaria
+ashbbb@gmail.com:
+- ashbb
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Ruby
+- Training
 date: 2009-02-21
+description:
+- On the eve of the first ever free, online course on "Git and GitHub", Chris Wanstrath
+  founder of GitHub talks to RubyLearning.
+jccalistro@gmail.com:
+- joaocalistro
+keywords:
+- Chris Wanstrath,Git, GitHub,Interviews,Ruby,The Ruby Programming Language
 layout: post
 permalink: /2009/02/21/interview-chris-wanstrath-of-github/
-keywords:
-  - Chris Wanstrath,Git, GitHub,Interviews,Ruby,The Ruby Programming Language
-description:
-  - On the eve of the first ever free, online course on "Git and GitHub", Chris Wanstrath founder of GitHub talks to RubyLearning.
-ashbbb@gmail.com:
-  - ashbb
-jccalistro@gmail.com:
-  - joaocalistro
-andre.java@gmail.com:
-  - andrefaria
-categories:
-  - Beginners
-  - Interview
-  - Ruby
-  - Training
 tags:
-  - Chris Wanstrath
-  - Git
-  - GitHub
-  - interviews
-  - Ruby
-  - The Ruby Programming Language
+- Chris Wanstrath
+- Git
+- GitHub
+- interviews
+- Ruby
+- The Ruby Programming Language
+title: 'Interview: Chris Wanstrath of GitHub'
 ---
+
 <div>
   <p class="alert">
     On the eve of the first ever free, online course on &#8220;Git and GitHub&#8221;, Satish Talim of RubyLearning caught up with <strong>Chris Wanstrath</strong> and talked to him, in this short interview.

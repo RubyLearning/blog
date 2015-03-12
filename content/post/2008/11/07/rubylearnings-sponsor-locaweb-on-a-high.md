@@ -1,23 +1,25 @@
 ---
-title: "RubyLearning's Sponsor Locaweb on a High!"
 author: Satish Talim
+categories:
+- ruby
+- sponsors
 date: 2008-11-07
+description:
+- Locaweb was able to deliver Rails Summit Latin America 2008, the largest and the
+  best Rails conference ever in Latin America.
+keywords:
+- Locaweb,Ruby,Sponsors,morena_opensource
 layout: post
 permalink: /2008/11/07/rubylearnings-sponsor-locaweb-on-a-high/
-keywords:
-  - Locaweb,Ruby,Sponsors,morena_opensource
-description:
-  - Locaweb was able to deliver Rails Summit Latin America 2008, the largest and the best Rails conference ever in Latin America.
-categories:
-  - ruby
-  - sponsors
 tags:
-  - locaweb
-  - morena_opensource
-  - rails summit latin america 2008
-  - ruby
-  - sponsors
+- locaweb
+- morena_opensource
+- rails summit latin america 2008
+- ruby
+- sponsors
+title: RubyLearning's Sponsor Locaweb on a High!
 ---
+
 <div>
   <p>
     It&#8217;s time to thank RubyLearning&#8217;s excellent sponsor &#8211; Locaweb.<sup class='footnote'><a href='#fn-832-1' id='fnref-832-1'>1</a></sup>

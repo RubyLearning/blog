@@ -1,13 +1,14 @@
 ---
-title: "Brainwave DevNet Conference, Hyderabad"
-author: "Satish Talim"
-date: "2007-07-12"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - rails
-  - ruby
+- news
+- rails
+- ruby
+date: 2007-07-12
+layout: post
+title: Brainwave DevNet Conference, Hyderabad
 ---
+
 The [Brainwave DevNet
 Conference](http://www.brainwavelive.com/company/bwlaunch.html) is being
 held at Hyderabad, India on 27th July 2007. At this conference,

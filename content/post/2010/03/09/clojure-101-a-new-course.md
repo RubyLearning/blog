@@ -1,23 +1,24 @@
 ---
-title: 'Clojure 101 - A New Course'
-draft: true
 author: Satish Talim
+categories:
+- Clojure
 date: 2010-03-09
+draft: true
 layout: post
 permalink: /2010/03/09/clojure-101-a-new-course/
-thesis_keywords:
-  - Clojure course,Clojure,Clojure Training
-thesis_description:
-  - RubyLearning announces the first-ever, free online course on Clojure programming.
-topsy_short_url:
-  - http://bit.ly/apAoRO
-categories:
-  - Clojure
 tags:
-  - Clojure
-  - Clojure course
-  - Clojure Training
+- Clojure
+- Clojure course
+- Clojure Training
+thesis_description:
+- RubyLearning announces the first-ever, free online course on Clojure programming.
+thesis_keywords:
+- Clojure course,Clojure,Clojure Training
+title: Clojure 101 - A New Course
+topsy_short_url:
+- http://bit.ly/apAoRO
 ---
+
 <div>
   <h3>
     About RubyLearning

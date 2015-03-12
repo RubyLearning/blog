@@ -1,23 +1,24 @@
 ---
-title: 50+ Ruby-related Blogs to Read
 author: Satish Talim
+categories:
+- ruby
 date: 2009-03-12
+description:
+- A comprehensive list of blogs related to Ruby, of developers and companies.
+keywords:
+- Ruby,Ruby on Rails,Rubyists Blogs,Ruby Blogs List
 layout: post
 permalink: /2009/03/12/50-ruby-related-blogs-to-read/
-keywords:
-  - Ruby,Ruby on Rails,Rubyists Blogs,Ruby Blogs List
-description:
-  - A comprehensive list of blogs related to Ruby, of developers and companies.
-topsy_short_url:
-  - http://bit.ly/6hzbL3
-categories:
-  - ruby
 tags:
-  - ruby
-  - ruby blogs list
-  - ruby on rails
-  - rubyists blogs
+- ruby
+- ruby blogs list
+- ruby on rails
+- rubyists blogs
+title: 50+ Ruby-related Blogs to Read
+topsy_short_url:
+- http://bit.ly/6hzbL3
 ---
+
 <div>
   <h3>
     A List of Blogs to Read

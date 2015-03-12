@@ -1,18 +1,19 @@
 ---
-title: Thanks to RubyLearning Sponsor FiveRuns
 author: Satish Talim
+categories:
+- News
+- Ruby
+- Sponsors
 date: 2008-08-02
 layout: post
 permalink: /2008/08/02/thanks-to-rubylearning-sponsor-fiveruns/
-categories:
-  - News
-  - Ruby
-  - Sponsors
 tags:
-  - FiveRuns
-  - Ruby
-  - Sponsors
+- FiveRuns
+- Ruby
+- Sponsors
+title: Thanks to RubyLearning Sponsor FiveRuns
 ---
+
 <div>
   <p>
     It&#8217;s time to thank RubyLearning&#8217;s excellent sponsors!

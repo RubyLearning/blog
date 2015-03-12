@@ -1,38 +1,39 @@
 ---
-title: 'Matt Aimonetti: Why on earth would you ignore Merb?'
 author: Satish Talim
-date: 2008-12-18
-layout: post
-permalink: /2008/12/18/matt-aimonetti-why-on-earth-would-you-ignore-merb/
-nicolas.alpi@gmail.com:
-  - spyou
-mattaimonetti@gmail.com:
-  - merbist
-softmindsystems@gmail.com:
-  - SoftMind
-jeremymcanally@gmail.com:
-  - jeremymcanally
-keywords:
-  - Matt Aimonetti,Merb,Merbist,Ruby programming
-description:
-  - Matt Aimonetti shows how Merb is the Ruby framework of the future.
-topsy_short_url:
-  - http://bit.ly/dpDnbr
 categories:
-  - Interview
-  - JRuby
-  - Rails
-  - Ruby
+- Interview
+- JRuby
+- Rails
+- Ruby
+date: 2008-12-18
+description:
+- Matt Aimonetti shows how Merb is the Ruby framework of the future.
+jeremymcanally@gmail.com:
+- jeremymcanally
+keywords:
+- Matt Aimonetti,Merb,Merbist,Ruby programming
+layout: post
+mattaimonetti@gmail.com:
+- merbist
+nicolas.alpi@gmail.com:
+- spyou
+permalink: /2008/12/18/matt-aimonetti-why-on-earth-would-you-ignore-merb/
+softmindsystems@gmail.com:
+- SoftMind
 tags:
-  - interviews
-  - JRuby
-  - Matt Aimonetti
-  - Merb
-  - Merbist
-  - Rails
-  - Ruby
-  - RubyLearning
+- interviews
+- JRuby
+- Matt Aimonetti
+- Merb
+- Merbist
+- Rails
+- Ruby
+- RubyLearning
+title: 'Matt Aimonetti: Why on earth would you ignore Merb?'
+topsy_short_url:
+- http://bit.ly/dpDnbr
 ---
+
 <div>
   <p class="update">
     <span class="drop_cap">I</span>f you were to ask me, I&#8217;d say that <strong>Merb</strong> has caught the fancy of Rubyists around the world and it&#8217;s not just hype. Recently <abbr title="RubyLearning">RL</abbr> conducted a <a href="http://rubylearning.com/blog/2008/11/15/can-you-help-rubylearning-with-your-suggestions/">poll on new course offerings</a> where 1000 Rubyists (from over 140 countries) voted. Over 30% requested for an <a href="http://rubylearning.com/blog/2008/12/06/introduction-to-merb-a-new-course/">Introductory course on Merb</a>. RL&#8217;s Satish Talim caught up with <strong>Matt Aimonetti</strong> (a serious Ruby addict and Merb core team member) to learn more about Merb.

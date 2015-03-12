@@ -1,13 +1,14 @@
 ---
-title: "Web 2.0 Developer -- Consultant @ Accenture"
-author: "Satish Talim"
-date: "2007-08-29"
-layout: post
+author: Satish Talim
 categories:
-  - jobs
-  - rails
-  - ruby
+- jobs
+- rails
+- ruby
+date: 2007-08-29
+layout: post
+title: Web 2.0 Developer -- Consultant @ Accenture
 ---
+
 The RubyLearning Job Board has a new job requirement from Accenture,
 Chicago, IL; San Jose, CA.
 

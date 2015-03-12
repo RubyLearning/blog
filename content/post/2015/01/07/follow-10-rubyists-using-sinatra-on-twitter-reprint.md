@@ -1,29 +1,30 @@
 ---
-title: Follow 10+ Rubyists using Sinatra on Twitter (Reprint)
 author: Satish Talim
+categories:
+- Beginners
+- Popular
+- Ruby
+- Sinatra
 date: 2015-01-07
 layout: post
 permalink: /2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/
-thesis_description:
-  - A list of Rubyists using Sinatra, the micro-web framework.
-thesis_keywords:
-  - Ruby,Rubyists,Ruby Beginners,Ruby Masters,The Ruby Programming Language,Sinatra,Twitter
-topsy_short_url:
-  - http://bit.ly/1xQTeR0
-categories:
-  - Beginners
-  - Popular
-  - Ruby
-  - Sinatra
 tags:
-  - Ruby
-  - Ruby Beginners
-  - Ruby Masters
-  - Rubyists
-  - Sinatra
-  - The Ruby Programming Language
-  - Twitter
+- Ruby
+- Ruby Beginners
+- Ruby Masters
+- Rubyists
+- Sinatra
+- The Ruby Programming Language
+- Twitter
+thesis_description:
+- A list of Rubyists using Sinatra, the micro-web framework.
+thesis_keywords:
+- Ruby,Rubyists,Ruby Beginners,Ruby Masters,The Ruby Programming Language,Sinatra,Twitter
+title: Follow 10+ Rubyists using Sinatra on Twitter (Reprint)
+topsy_short_url:
+- http://bit.ly/1xQTeR0
 ---
+
 <div>
   <p>
     <b>Note</b>: This first appeared on 24th June 2009 and is being reprinted as the original is not accessible.

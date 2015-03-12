@@ -1,26 +1,27 @@
 ---
-title: Cookie-based Sessions in Sinatra
 author: Julio Javier Cicchelli
+categories:
+- Code Snippets
+- Learn Sinatra
+- Ruby
+- Sinatra
 date: 2009-09-30
 layout: post
 permalink: /2009/09/30/cookie-based-sessions-in-sinatra/
-thesis_description:
-  - A tutorial on using Cookies in Sinatra by Julio Javier Cicchelli.
-thesis_keywords:
-  - Ruby,Sinatra,Cookies,Julio Javier Cicchelli
-topsy_short_url:
-  - 
-categories:
-  - Code Snippets
-  - Learn Sinatra
-  - Ruby
-  - Sinatra
 tags:
-  - Cookies
-  - Julio Javier Cicchelli
-  - Ruby
-  - Sinatra
+- Cookies
+- Julio Javier Cicchelli
+- Ruby
+- Sinatra
+thesis_description:
+- A tutorial on using Cookies in Sinatra by Julio Javier Cicchelli.
+thesis_keywords:
+- Ruby,Sinatra,Cookies,Julio Javier Cicchelli
+title: Cookie-based Sessions in Sinatra
+topsy_short_url:
+- null
 ---
+
 <div>
   <h3>
     Cookie-based Sessions in Sinatra

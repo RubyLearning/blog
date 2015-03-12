@@ -1,32 +1,33 @@
 ---
-title: RubyLearning Associates and Participants on Twitter and Facebook
+Hide OgTags:
+- 0
+Hide SexyBookmarks:
+- 0
 author: Satish Talim
+categories:
+- Clojure
+- Ruby
+- Ruby on Rails
+- Shoes
+- Sinatra
+- Twitter
 date: 2010-07-09
 layout: post
 permalink: /2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/
-thesis_description:
-  - A list of RubyLearning Associates and Participants on Twitter and Facebook.
-thesis_keywords:
-  - Clojure,Ruby,Ruby on Rails,RubyLearning
-topsy_short_url:
-  - http://bit.ly/b5XCdz
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
-categories:
-  - Clojure
-  - Ruby
-  - Ruby on Rails
-  - Shoes
-  - Sinatra
-  - Twitter
 tags:
-  - Clojure
-  - Ruby
-  - Ruby on Rails
-  - RubyLearning
+- Clojure
+- Ruby
+- Ruby on Rails
+- RubyLearning
+thesis_description:
+- A list of RubyLearning Associates and Participants on Twitter and Facebook.
+thesis_keywords:
+- Clojure,Ruby,Ruby on Rails,RubyLearning
+title: RubyLearning Associates and Participants on Twitter and Facebook
+topsy_short_url:
+- http://bit.ly/b5XCdz
 ---
+
 <div>
   <h3>
     RubyLearning Associates and Participants on Twitter and Facebook

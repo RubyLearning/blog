@@ -1,29 +1,30 @@
 ---
-title: 'JRuby Programming 2nd Batch - An Online Course For Beginners'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- JRuby
+- Ruby
+- Training
 date: 2011-01-11
+draft: true
 layout: post
 permalink: /2011/01/11/jruby-programming-2nd-batch-an-online-course-for-beginners/
-thesis_description:
-  - 'RubyLearning announces the first of its kind - an online course in JRuby programming.'
-thesis_keywords:
-  - JRuby course,JRuby,JRuby Training, Programming, Ruby, Java
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - JRuby
-  - Ruby
-  - Training
 tags:
-  - Java
-  - JRuby
-  - jruby course
-  - JRuby Training
-  - programming
-  - Ruby
+- Java
+- JRuby
+- jruby course
+- JRuby Training
+- programming
+- Ruby
+thesis_description:
+- RubyLearning announces the first of its kind - an online course in JRuby programming.
+thesis_keywords:
+- JRuby course,JRuby,JRuby Training, Programming, Ruby, Java
+title: JRuby Programming 2nd Batch - An Online Course For Beginners
+topsy_short_url:
+- null
 ---
+
 <div>
   <p>
     <span class="drop_cap">I</span>ntroducing an online course for <em>beginners</em> that helps you get started with <strong>JRuby</strong> programming.

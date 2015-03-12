@@ -1,30 +1,31 @@
 ---
-title: 'A "FREE" online course on Sinatra - 12th batch'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Learn Sinatra
+- Ruby
+- Sinatra
+- Training
 date: 2013-12-28
+draft: true
 layout: post
 permalink: /2013/12/28/a-free-online-course-on-sinatra-12th-batch/
-thesis_description:
-  - "RubyLearning's popular online course on Sinatra starts 1st Feb. 2014."
-thesis_keywords:
-  - Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language,Sinatra 101,programming
-topsy_short_url:
-  - http://bit.ly/1cvz1TQ
-categories:
-  - Beginners
-  - Learn Sinatra
-  - Ruby
-  - Sinatra
-  - Training
 tags:
-  - programming
-  - Ruby
-  - Sinatra
-  - Sinatra 101
-  - Sinatra eBook
-  - The Ruby Programming Language
+- programming
+- Ruby
+- Sinatra
+- Sinatra 101
+- Sinatra eBook
+- The Ruby Programming Language
+thesis_description:
+- RubyLearning's popular online course on Sinatra starts 1st Feb. 2014.
+thesis_keywords:
+- Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language,Sinatra 101,programming
+title: A "FREE" online course on Sinatra - 12th batch
+topsy_short_url:
+- http://bit.ly/1cvz1TQ
 ---
+
 <div>
   <h3>
     A &#8220;Free&#8221; online course on Sinatra &#8211; 12th batch

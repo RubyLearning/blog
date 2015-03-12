@@ -1,27 +1,29 @@
 ---
-title: 'Follow Cost: A Sinatra app for Twitter'
 author: Satish Talim
+categories:
+- Interview
+- Ruby
+- Sinatra
+- Twitter
 date: 2009-04-28
+description:
+- RubyLearning caught up with Luke Franci and Barry Hess creators of Follow Cost,
+  in this interview.
+keywords:
+- Follow Cost,Twitter,Luke Francl,Barry Hess,Merb,Sinatra, Ruby
 layout: post
 permalink: /2009/04/28/follow-cost-a-sinatra-app-for-twitter/
-keywords:
-  - Follow Cost,Twitter,Luke Francl,Barry Hess,Merb,Sinatra, Ruby
-description:
-  - RubyLearning caught up with Luke Franci and Barry Hess creators of Follow Cost, in this interview.
-categories:
-  - Interview
-  - Ruby
-  - Sinatra
-  - Twitter
 tags:
-  - Barry Hess
-  - Follow Cost
-  - Luke Francl
-  - Merb
-  - Ruby
-  - Sinatra
-  - Twitter
+- Barry Hess
+- Follow Cost
+- Luke Francl
+- Merb
+- Ruby
+- Sinatra
+- Twitter
+title: 'Follow Cost: A Sinatra app for Twitter'
 ---
+
 <div>
   <p class="alert">
     RubyLearning caught up with <strong>Luke Francl</strong> and <strong>Barry Hess</strong> creators of <a href="http://followcost.com/">Follow Cost</a> &#8211; a <strong>Twitter</strong> tool to help people decide if following someone is worth it, and talked to them about Follow Cost and Sinatra in this interview.

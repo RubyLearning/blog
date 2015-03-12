@@ -1,28 +1,30 @@
 ---
-title: 'Dmitry Lipovoi Winner RPCFN - 10'
 author: Satish Talim
+categories:
+- beginners
+- interview
+- rpcfn
+- ruby
 date: 2010-07-06
 layout: post
 permalink: /2010/07/06/dmitry-lipovoi-winner-rpcfn-10/
-thesis_description:
-  - An interview with Dmitry Lipovoi of Russia, winner of the 10th Ruby Challenge for Newbies on RubyLearning.org
-thesis_keywords:
-  - Dmitry Lipovoi,Ruby,Ruby programming,RPCFN,Russia, Ruby Challenge
-topsy_short_url:
-  - http://bit.ly/djymoS
-categories:
-  - beginners
-  - interview
-  - rpcfn
-  - ruby
 tags:
-  - dmitry lipovoi
-  - rpcfn
-  - ruby
-  - ruby challenge
-  - ruby programming
-  - russia
+- dmitry lipovoi
+- rpcfn
+- ruby
+- ruby challenge
+- ruby programming
+- russia
+thesis_description:
+- An interview with Dmitry Lipovoi of Russia, winner of the 10th Ruby Challenge for
+  Newbies on RubyLearning.org
+thesis_keywords:
+- Dmitry Lipovoi,Ruby,Ruby programming,RPCFN,Russia, Ruby Challenge
+title: Dmitry Lipovoi Winner RPCFN - 10
+topsy_short_url:
+- http://bit.ly/djymoS
 ---
+
 <div>
   <p class="alert">
     In this brief interview, Satish Talim of RubyLearning talks to <b>Dmitry Lipovoi of Russia</b>, winner of the tenth <a href="http://rubylearning.com/blog/2010/05/25/rpcfn-business-hours-10/">Ruby Programming Challenge For Newbies</a>.

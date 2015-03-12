@@ -1,13 +1,14 @@
 ---
-title: "on-page.net – A useful Ruby resource"
-author: "Satish Talim"
-date: "2007-03-12"
-layout: post
-topsy_short_url:
-  - http://bit.ly/Sa2wV3
+author: Satish Talim
 categories:
-  - ruby
+- ruby
+date: 2007-03-12
+layout: post
+title: "on-page.net – A useful Ruby resource"
+topsy_short_url:
+- http://bit.ly/Sa2wV3
 ---
+
 Technorati Tags: <a href="http://technorati.com/tag/on-page.net" rel="tag">on-page.net</a>
 How many times have you ever needed to find just one argument of a Ruby
 method/function/operator or just some word of syntax while working?

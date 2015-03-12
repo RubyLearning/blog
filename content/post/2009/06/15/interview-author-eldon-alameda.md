@@ -1,32 +1,33 @@
 ---
-title: 'Interview: Author Eldon Alameda'
 author: Satish Talim
+categories:
+- Beginners
+- Book Promotions
+- Interview
+- Promotions
+- Rails
+- Ruby
+- Ruby on Rails
 date: 2009-06-15
+description:
+- Eldon Alameda author of the book Foundation Rails 2, talks to RubyLearning.
+keywords:
+- Eldon Alameda,Foundation Rails 2,Ruby programming,Book promotion,Ruby on Rails
 layout: post
 permalink: /2009/06/15/interview-author-eldon-alameda/
-thesis_description:
-  - Eldon Alameda author of the book Foundation Rails 2, talks to RubyLearning.
-thesis_keywords:
-  - Eldon Alameda,Foundation Rails 2,Ruby programming,Book promotion,Ruby on Rails
-keywords:
-  - Eldon Alameda,Foundation Rails 2,Ruby programming,Book promotion,Ruby on Rails
-description:
-  - Eldon Alameda author of the book Foundation Rails 2, talks to RubyLearning.
-categories:
-  - Beginners
-  - Book Promotions
-  - Interview
-  - Promotions
-  - Rails
-  - Ruby
-  - Ruby on Rails
 tags:
-  - Book promotion
-  - Eldon Alameda
-  - Foundation Rails 2
-  - Ruby on Rails
-  - ruby programming
+- Book promotion
+- Eldon Alameda
+- Foundation Rails 2
+- Ruby on Rails
+- ruby programming
+thesis_description:
+- Eldon Alameda author of the book Foundation Rails 2, talks to RubyLearning.
+thesis_keywords:
+- Eldon Alameda,Foundation Rails 2,Ruby programming,Book promotion,Ruby on Rails
+title: 'Interview: Author Eldon Alameda'
 ---
+
 <div>
   <p class="alert">
     Our Book Promotion: &#8220;<strong>Foundation Rails 2</strong>&#8221; starts soon. Win one of four books to be given out for active participation. The coolest thing? Author <b>Eldon Alameda</b> will be on site to answer questions! <a href="http://rubylearning.com/blog/2009/06/10/book-promotion-foundation-rails-2/">Click here</a> for more details. Here, in this brief interview, Satish Talim of RubyLearning talks to Eldon Alameda.

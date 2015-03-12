@@ -1,28 +1,30 @@
 ---
-title: 'Guillaume Petit Winner RPCFN - 6'
 author: Satish Talim
+categories:
+- beginners
+- interview
+- rpcfn
+- ruby
 date: 2010-02-26
 layout: post
 permalink: /2010/02/26/guillaume-petit-winner-rpcfn-6/
-thesis_description:
-  - 'Guillaume Petit from France, winner of the Ruby Challenge for Newbies #6 talks to RubyLearning.'
-thesis_keywords:
-  - Guillaume Petit,Ruby,Ruby programming,RPCFN,France, Ruby Challenge
-topsy_short_url:
-  - http://bit.ly/cvH7wy
-categories:
-  - beginners
-  - interview
-  - rpcfn
-  - ruby
 tags:
-  - france
-  - guillaume petit
-  - rpcfn
-  - ruby
-  - ruby challenge
-  - ruby programming
+- france
+- guillaume petit
+- rpcfn
+- ruby
+- ruby challenge
+- ruby programming
+thesis_description:
+- 'Guillaume Petit from France, winner of the Ruby Challenge for Newbies #6 talks
+  to RubyLearning.'
+thesis_keywords:
+- Guillaume Petit,Ruby,Ruby programming,RPCFN,France, Ruby Challenge
+title: Guillaume Petit Winner RPCFN - 6
+topsy_short_url:
+- http://bit.ly/cvH7wy
 ---
+
 <div>
   <p class="alert">
     In this brief interview, Satish Talim of RubyLearning talks to <b>Guillaume Petit of France</b>, winner of the sixth <a href="http://rubylearning.com/blog/2010/01/26/rpcfn-fair-distribution-6/">Ruby Programming Challenge For Newbies</a>.

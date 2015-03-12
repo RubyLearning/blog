@@ -1,12 +1,13 @@
 ---
-title: "University of Virginia using RubyLearning.com"
-author: "Satish Talim"
-date: "2007-07-25"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - ruby
+- news
+- ruby
+date: 2007-07-25
+layout: post
+title: University of Virginia using RubyLearning.com
 ---
+
 Pete Yadlowsky at the [University of Virginia](http://virginia.edu/) is
 teaching a short course in **Ruby** to some of his co-workers. The class
 meets 2 hours once/week for six weeks. It presently meets on Tuesdays,

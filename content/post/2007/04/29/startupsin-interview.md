@@ -1,13 +1,14 @@
 ---
-title: "Startups.in Interview"
-author: "Satish Talim"
-date: "2007-04-29"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - rails
-  - ruby
+- news
+- rails
+- ruby
+date: 2007-04-29
+layout: post
+title: Startups.in Interview
 ---
+
 Nag. B is the brain behind **[Startups.in](http://startups.in/)**.
 Startups.in simplifies the establishment of startups through a
 collaborative approach that is a win-win situation to all the involved

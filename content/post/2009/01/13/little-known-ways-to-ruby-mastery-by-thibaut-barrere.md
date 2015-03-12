@@ -1,19 +1,23 @@
 ---
-title: Little Known Ways to Ruby Mastery by Thibaut Barrere
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Ruby
+- Ruby Masters
 date: 2009-01-13
+description:
+- The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to
+  and answers questions confronting Ruby beginners from across the globe.
+keywords:
+- ruby for beginners,ruby beginners,ruby programming,ruby on rails blog,rails blog,rails
+  tutorials,ruby beginners' questions,little known ways to ruby mastery,ruby masters,interviews,Thibaut
+  Barrere,ruby,the ruby programming language
 layout: post
 permalink: /2009/01/13/little-known-ways-to-ruby-mastery-by-thibaut-barrere/
-keywords:
-  - "ruby for beginners,ruby beginners,ruby programming,ruby on rails blog,rails blog,rails tutorials,ruby beginners' questions,little known ways to ruby mastery,ruby masters,interviews,Thibaut Barrere,ruby,the ruby programming language"
-description:
-  - The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to and answers questions confronting Ruby beginners from across the globe.
-categories:
-  - Beginners
-  - Interview
-  - Ruby
-  - Ruby Masters
+title: Little Known Ways to Ruby Mastery by Thibaut Barrere
 ---
+
 <div>
   <h3>
     A weekly series from the Ruby Masters

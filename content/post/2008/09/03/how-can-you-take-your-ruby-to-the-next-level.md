@@ -1,19 +1,20 @@
 ---
-title: How can YOU take YOUR Ruby to the next level?
 author: Satish Talim
+categories:
+- News
+- Ruby
+- Training
 date: 2008-09-03
 layout: post
 permalink: /2008/09/03/how-can-you-take-your-ruby-to-the-next-level/
-categories:
-  - News
-  - Ruby
-  - Training
 tags:
-  - Intermediate Ruby Course
-  - Ruby
-  - Ruby Lessons
-  - ruby programming
+- Intermediate Ruby Course
+- Ruby
+- Ruby Lessons
+- ruby programming
+title: How can YOU take YOUR Ruby to the next level?
 ---
+
 <div>
   <p>
     <a title="Covers Intermediate Ruby programming" href="http://intermediateruby.rubylearning.org/"><img class="alignright" src="http://rubylearning.com/images/rubybook.jpg" style="border: 0px none ;" alt="Covers Intermediate Ruby programming" /></a>

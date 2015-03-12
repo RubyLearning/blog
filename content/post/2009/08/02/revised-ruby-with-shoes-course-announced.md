@@ -1,27 +1,28 @@
 ---
-title: Revised Ruby with Shoes Course Announced
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Shoes
+- Training
 date: 2009-08-02
+draft: true
 layout: post
 permalink: /2009/08/02/revised-ruby-with-shoes-course-announced/
-thesis_description:
-  - The next batch of the very popular Ruby with Shoes course announced at RubyLearning.org
-thesis_keywords:
-  - Ruby course,Ruby training,Ruby,Satoshi Asakawa,Shoes,The Ruby Programming Language
-categories:
-  - Beginners
-  - Ruby
-  - Shoes
-  - Training
 tags:
-  - Ruby
-  - Ruby course
-  - Ruby training
-  - Satoshi Asakawa
-  - Shoes
-  - The Ruby Programming Language
+- Ruby
+- Ruby course
+- Ruby training
+- Satoshi Asakawa
+- Shoes
+- The Ruby Programming Language
+thesis_description:
+- The next batch of the very popular Ruby with Shoes course announced at RubyLearning.org
+thesis_keywords:
+- Ruby course,Ruby training,Ruby,Satoshi Asakawa,Shoes,The Ruby Programming Language
+title: Revised Ruby with Shoes Course Announced
 ---
+
 <div>
   <h3>
     Ruby with Shoes Course &#8211; 6th Batch

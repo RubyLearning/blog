@@ -1,25 +1,26 @@
 ---
-title: Do YOU want us to continue with the Ruby Challenge for Newbies?
 author: Satish Talim
+categories:
+- Beginners
+- RPCFN
+- Ruby
 date: 2010-08-09
 layout: post
 permalink: /2010/08/09/do-you-want-us-to-continue-with-the-ruby-challenge-for-newbies/
-thesis_description:
-  - Requesting feedback on what to do with the Ruby Challenge for Newbies?
-thesis_keywords:
-  - RPCFN, Ruby Challenge, Ruby, Programming
-topsy_short_url:
-  - http://bit.ly/ceE51m
-categories:
-  - Beginners
-  - RPCFN
-  - Ruby
 tags:
-  - programming
-  - RPCFN
-  - Ruby
-  - Ruby Challenge
+- programming
+- RPCFN
+- Ruby
+- Ruby Challenge
+thesis_description:
+- Requesting feedback on what to do with the Ruby Challenge for Newbies?
+thesis_keywords:
+- RPCFN, Ruby Challenge, Ruby, Programming
+title: Do YOU want us to continue with the Ruby Challenge for Newbies?
+topsy_short_url:
+- http://bit.ly/ceE51m
 ---
+
 <div>
   <h3>
     Do YOU want us to continue with the Ruby Challenge for Newbies?

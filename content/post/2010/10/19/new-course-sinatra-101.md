@@ -1,30 +1,31 @@
 ---
-title: 'New Course - Sinatra 101'
-draft: true
 author: Satish Talim
+categories:
+- Learn Sinatra
+- Ruby
+- Sinatra
+- Training
 date: 2010-10-19
+draft: true
 layout: post
 permalink: /2010/10/19/new-course-sinatra-101/
-thesis_description:
-  - RubyLearning announces the 9th batch of the one and only online course on Sinatra.
-thesis_keywords:
-  - Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language,Sinatra 101,Ruby programming,programming
-topsy_short_url:
-  - http://bit.ly/aq5YFk
-categories:
-  - Learn Sinatra
-  - Ruby
-  - Sinatra
-  - Training
 tags:
-  - programming
-  - Ruby
-  - ruby programming
-  - Sinatra
-  - Sinatra 101
-  - Sinatra eBook
-  - The Ruby Programming Language
+- programming
+- Ruby
+- ruby programming
+- Sinatra
+- Sinatra 101
+- Sinatra eBook
+- The Ruby Programming Language
+thesis_description:
+- RubyLearning announces the 9th batch of the one and only online course on Sinatra.
+thesis_keywords:
+- Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language,Sinatra 101,Ruby programming,programming
+title: New Course - Sinatra 101
+topsy_short_url:
+- http://bit.ly/aq5YFk
 ---
+
 <div>
   <h3>
     New Course: Sinatra 101

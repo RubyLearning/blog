@@ -1,15 +1,16 @@
 ---
-title: Rails TakeFive Interview
 author: Satish Talim
+categories:
+- Interview
+- News
+- Rails
+- Ruby
 date: 2008-03-29
 layout: post
 permalink: /2008/03/29/rails-takefive-interview/
-categories:
-  - Interview
-  - News
-  - Rails
-  - Ruby
+title: Rails TakeFive Interview
 ---
+
 <div>
   <p>
     It was fun being interviewed by <a href="http://blog.fiveruns.com/2008/3/28/rails-application-monitoring-takefive-five-questions-with-satish-talim">FiveRuns Blog</a>. FiveRuns exists for the express purpose of delivering affordable and radically simplified tools for monitoring applications and their supporting infrastructure with a focus on Ruby on Rails.

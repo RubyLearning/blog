@@ -1,23 +1,24 @@
 ---
-title: The 5 Most Popular Articles of 2011 on RubyLearning
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
 date: 2011-12-25
 layout: post
 permalink: /2011/12/25/the-5-most-popular-articles-of-2011-on-rubylearning/
-thesis_keywords:
-  - Ruby,Programming,Ruby programming
-thesis_description:
-  - The 5 Most Popular Articles of 2011 on RubyLearning.
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Ruby
 tags:
-  - programming
-  - Ruby
-  - ruby programming
+- programming
+- Ruby
+- ruby programming
+thesis_description:
+- The 5 Most Popular Articles of 2011 on RubyLearning.
+thesis_keywords:
+- Ruby,Programming,Ruby programming
+title: The 5 Most Popular Articles of 2011 on RubyLearning
+topsy_short_url:
+- null
 ---
+
 <div>
   <h4>
     (Based on Twitter Re-tweets)

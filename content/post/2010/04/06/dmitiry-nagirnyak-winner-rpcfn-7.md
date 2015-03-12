@@ -1,26 +1,27 @@
 ---
-title: 'Dmitriy Nagirnyak Winner RPCFN - 7'
 author: Satish Talim
+categories:
+- beginners
+- interview
+- rpcfn
+- ruby
 date: 2010-04-06
 layout: post
 permalink: /2010/04/06/dmitiry-nagirnyak-winner-rpcfn-7/
-thesis_keywords:
-  - Dmitriy Nagirnyak,Ruby,Ruby programming,RPCFN,Australia, Ruby Challenge
-topsy_short_url:
-  - http://bit.ly/bkL7sj
-categories:
-  - beginners
-  - interview
-  - rpcfn
-  - ruby
 tags:
-  - australia
-  - dmitriy nagirnyak
-  - rpcfn
-  - ruby
-  - ruby challenge
-  - ruby programming
+- australia
+- dmitriy nagirnyak
+- rpcfn
+- ruby
+- ruby challenge
+- ruby programming
+thesis_keywords:
+- Dmitriy Nagirnyak,Ruby,Ruby programming,RPCFN,Australia, Ruby Challenge
+title: Dmitriy Nagirnyak Winner RPCFN - 7
+topsy_short_url:
+- http://bit.ly/bkL7sj
 ---
+
 <div>
   <p class="alert">
     In this brief interview, Satish Talim of RubyLearning talks to <b>Dmitriy Nagirnyak of Australia</b>, winner of the seventh <a href="http://rubylearning.com/blog/2010/02/23/rpcfn-broadsides-7/">Ruby Programming Challenge For Newbies</a>.

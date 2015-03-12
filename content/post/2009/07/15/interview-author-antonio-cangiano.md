@@ -1,25 +1,27 @@
 ---
-title: 'Interview: Author Antonio Cangiano'
 author: Satish Talim
+categories:
+- Interview
+- Rails
+- Ruby
+- Ruby on Rails
 date: 2009-07-15
 layout: post
 permalink: /2009/07/15/interview-author-antonio-cangiano/
-thesis_keywords:
-  - Antonio Cangiano,Ruby on Rails for Microsoft Developers,Ruby programming
-thesis_description:
-  - Ruby on Rails for Microsoft Developers book author Antonio Cangiano talks to RubyLearning in this interview.
-topsy_short_url:
-  - http://bit.ly/18BeAkx
-categories:
-  - Interview
-  - Rails
-  - Ruby
-  - Ruby on Rails
 tags:
-  - Antonio Cangiano
-  - Ruby on Rails for Microsoft Developers
-  - ruby programming
+- Antonio Cangiano
+- Ruby on Rails for Microsoft Developers
+- ruby programming
+thesis_description:
+- Ruby on Rails for Microsoft Developers book author Antonio Cangiano talks to RubyLearning
+  in this interview.
+thesis_keywords:
+- Antonio Cangiano,Ruby on Rails for Microsoft Developers,Ruby programming
+title: 'Interview: Author Antonio Cangiano'
+topsy_short_url:
+- http://bit.ly/18BeAkx
 ---
+
 <div>
   <p class="alert">
     Our Book Promotion: &#8220;<strong>Ruby on Rails for Microsoft Developers</strong>&#8221; has just started. Win one of four books to be given out for active participation. The coolest thing? Author <b>Antonio Cangiano</b> will be on site to answer questions! <a href="http://rubylearning.com/blog/2009/07/07/book-promotion-ruby-on-rails-for-microsoft-developers/">Click here</a> for more details. Here, in this brief interview, Satish Talim of RubyLearning talks to Antonio Cangiano.

@@ -1,20 +1,21 @@
 ---
-title: 'Learn Ruby programming - 60th batch'
 author: Satish Talim
+categories:
+- beginners
+- ruby
+- training
 date: 2015-03-11
 draft: false
 layout: post
 permalink: /2015/03/11/learn-ruby-programming-60th-batch/
-categories:
-  - beginners
-  - ruby
-  - training
 tags:
-  - programming
-  - ruby
-  - course
-  - training
+- programming
+- ruby
+- course
+- training
+title: Learn Ruby programming - 60th batch
 ---
+
 <div>
   <p>
     <span class="drop_cap">R</span>egistrations are now open for RubyLearning's <em>long-awaited and popular</em> Ruby programming course. This is an intensive, online course for <em>beginners</em> that helps you get started with <strong>Ruby</strong> programming. The course starts on <b>Saturday, 28th Mar. 2015</b> and runs for seven weeks.

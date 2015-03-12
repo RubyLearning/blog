@@ -1,27 +1,29 @@
 ---
-title: 'Julio Javier Cicchelli: How do I learn and master Sinatra?'
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Learn Sinatra
+- Ruby
+- Sinatra
 date: 2009-07-20
 layout: post
 permalink: /2009/07/20/julio-javier-cicchelli-how-do-i-learn-and-master-sinatra/
-thesis_keywords:
-  - Julio Javier Cicchelli,Sinatra,Ruby programming,Learning Sinatra
-thesis_description:
-  - In the seventh part of the mini series "How do I learn and master Sinatra?", Julio Javier Cicchelli gives us his insights on mastering Sinatra.
-topsy_short_url:
-  - http://bit.ly/1HL76NG
-categories:
-  - Beginners
-  - Interview
-  - Learn Sinatra
-  - Ruby
-  - Sinatra
 tags:
-  - Julio Javier Cicchelli
-  - Learning Sinatra
-  - ruby programming
-  - Sinatra
+- Julio Javier Cicchelli
+- Learning Sinatra
+- ruby programming
+- Sinatra
+thesis_description:
+- In the seventh part of the mini series "How do I learn and master Sinatra?", Julio
+  Javier Cicchelli gives us his insights on mastering Sinatra.
+thesis_keywords:
+- Julio Javier Cicchelli,Sinatra,Ruby programming,Learning Sinatra
+title: 'Julio Javier Cicchelli: How do I learn and master Sinatra?'
+topsy_short_url:
+- http://bit.ly/1HL76NG
 ---
+
 <div>
   <p class="update">
     Welcome to the <b>seventh</b> installment on the <abbr title="RubyLearning">RL</abbr> blog, of a mini series &#8211; &#8220;<strong>How do I learn and master Sinatra?</strong>&#8221; &#8211; by top Rubyists using <em>Sinatra</em>. The interview series will provide insight and commentary from these notable <em>Sinatra</em> developers, with the goal of facilitating and providing answers to the questions Ruby beginners face on <em>how to learn and master Sinatra</em>.

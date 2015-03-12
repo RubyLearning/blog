@@ -1,23 +1,24 @@
 ---
-title: Clojure Tips from the Experts
 author: Satish Talim
+categories:
+- Beginners
+- Clojure
+- Tricks
 date: 2010-07-26
 layout: post
 permalink: /2010/07/26/clojure-tips-from-the-experts/
-thesis_description:
-  - A collection of the best tips on Clojure from the experts.
-thesis_keywords:
-  - Clojure,Clojure Tips
-topsy_short_url:
-  - http://bit.ly/d7qpuU
-categories:
-  - Beginners
-  - Clojure
-  - Tricks
 tags:
-  - Clojure
-  - Clojure Tips
+- Clojure
+- Clojure Tips
+thesis_description:
+- A collection of the best tips on Clojure from the experts.
+thesis_keywords:
+- Clojure,Clojure Tips
+title: Clojure Tips from the Experts
+topsy_short_url:
+- http://bit.ly/d7qpuU
 ---
+
 <div>
   <p class="alert">
     RubyLearning wrote to a lot of experts, gathering their best tips on Clojure. The tips are still coming in, but here are some to get you started with. Feel free to add your own tips in the comments section or send the same to <b>satishtalim [at] gmail.com</b>. Enjoy!

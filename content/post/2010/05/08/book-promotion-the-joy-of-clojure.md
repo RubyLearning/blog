@@ -1,26 +1,28 @@
 ---
-title: 'Book Promotion: The Joy of Clojure'
 author: Satish Talim
+categories:
+- Book Promotions
+- Clojure
+- Promotions
 date: 2010-05-08
 layout: post
 permalink: /2010/05/08/book-promotion-the-joy-of-clojure/
-thesis_keywords:
-  - Clojure,Book Promotions,The Joy of Clojure,Clojure Programming,Michael Fogus
-thesis_description:
-  - RubyLearning is promoting the book "The Joy of Clojure" from 25-27 May 2010 with author Fogus to answer questions.
-topsy_short_url:
-  - http://bit.ly/c8Dfu1
-categories:
-  - Book Promotions
-  - Clojure
-  - Promotions
 tags:
-  - Book Promotions
-  - Clojure
-  - Clojure Programming
-  - Michael Fogus
-  - The Joy of Clojure
+- Book Promotions
+- Clojure
+- Clojure Programming
+- Michael Fogus
+- The Joy of Clojure
+thesis_description:
+- RubyLearning is promoting the book "The Joy of Clojure" from 25-27 May 2010 with
+  author Fogus to answer questions.
+thesis_keywords:
+- Clojure,Book Promotions,The Joy of Clojure,Clojure Programming,Michael Fogus
+title: 'Book Promotion: The Joy of Clojure'
+topsy_short_url:
+- http://bit.ly/c8Dfu1
 ---
+
 <div>
   <h3>
     Book Promotion: The Joy of Clojure

@@ -1,27 +1,28 @@
 ---
-title: 'Noomii.com: The Buddy System for your Life'
 author: Satish Talim
+categories:
+- Interview
+- Ruby on Rails
 date: 2009-01-16
+description:
+- You life coach your friend and your friend life coaches you. Noomii shows you how!
+gallito7@gmail.com:
+- alan_andrade
+keywords:
+- Kurt Shuster,Ruby on Rails,Pune,India,Noomii.com,Persistent Systems Ltd.,pair coaching
 layout: post
 permalink: /2009/01/16/noomiicom-the-buddy-system-for-your-life/
-keywords:
-  - Kurt Shuster,Ruby on Rails,Pune,India,Noomii.com,Persistent Systems Ltd.,pair coaching
-description:
-  - You life coach your friend and your friend life coaches you. Noomii shows you how!
-gallito7@gmail.com:
-  - alan_andrade
-categories:
-  - Interview
-  - Ruby on Rails
 tags:
-  - india
-  - Kurt Shuster
-  - Noomii.com
-  - pair coaching
-  - Persistent Systems Ltd.
-  - pune
-  - Ruby on Rails
+- india
+- Kurt Shuster
+- Noomii.com
+- pair coaching
+- Persistent Systems Ltd.
+- pune
+- Ruby on Rails
+title: 'Noomii.com: The Buddy System for your Life'
 ---
+
 <div>
   <p>
     <img class="alignright" title="Kurt Shuster" src="http://www.rubylearning.com/images/kurt.jpg" alt="Kurt Shuster" width="125" height="96" />

@@ -1,26 +1,27 @@
 ---
-title: Who are the Top 5 Twitter Graded Rubyists?
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Twitter
 date: 2009-03-02
+description:
+- A list of the top 5 Twitter graded Rubyists. Catch them if you can!
+keywords:
+- Ruby,Rubyists,The Ruby Programming Language,Twitter, Twitter Grader
 layout: post
 permalink: /2009/03/02/who-are-the-top-5-twitter-graded-rubyists/
-keywords:
-  - Ruby,Rubyists,The Ruby Programming Language,Twitter, Twitter Grader
-description:
-  - A list of the top 5 Twitter graded Rubyists. Catch them if you can!
-topsy_short_url:
-  - http://bit.ly/bQw4Ox
-categories:
-  - Beginners
-  - Ruby
-  - Twitter
 tags:
-  - Ruby
-  - Rubyists
-  - The Ruby Programming Language
-  - Twitter
-  - Twitter Grader
+- Ruby
+- Rubyists
+- The Ruby Programming Language
+- Twitter
+- Twitter Grader
+title: Who are the Top 5 Twitter Graded Rubyists?
+topsy_short_url:
+- http://bit.ly/bQw4Ox
 ---
+
 <div>
   <p class="alert">
     As a follow-up to our earlier post &#8220;<a href="http://rubylearning.com/blog/2008/10/29/50-rubyists-to-follow-on-twitter/">50+ Rubyists to Follow on Twitter</a>&#8221; we used <strong>Twitter Grader</strong> to find out the top 5 ranked Rubyists.

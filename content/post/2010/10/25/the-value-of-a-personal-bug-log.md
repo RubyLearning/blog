@@ -1,24 +1,26 @@
 ---
-title: The value of a personal bug log
 author: Brian Tarbox
+categories:
+- Beginners
+- General
+- Ruby Masters
 date: 2010-10-25
 layout: post
 permalink: /2010/10/25/the-value-of-a-personal-bug-log/
-thesis_description:
-  - Brian Tarbox argues that a great way to increase your skill is to maintain a bug notebook in this guest post on RubyLearning.
-thesis_keywords:
-  - Programming, Brian Tarbox, Personal Bug Log
-topsy_short_url:
-  - http://bit.ly/c8jChM
-categories:
-  - Beginners
-  - General
-  - Ruby Masters
 tags:
-  - Brian Tarbox
-  - Personal Bug Log
-  - programming
+- Brian Tarbox
+- Personal Bug Log
+- programming
+thesis_description:
+- Brian Tarbox argues that a great way to increase your skill is to maintain a bug
+  notebook in this guest post on RubyLearning.
+thesis_keywords:
+- Programming, Brian Tarbox, Personal Bug Log
+title: The value of a personal bug log
+topsy_short_url:
+- http://bit.ly/c8jChM
 ---
+
 <div>
   <h3>
     The value of a personal bug log

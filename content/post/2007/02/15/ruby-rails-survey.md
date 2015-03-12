@@ -1,13 +1,14 @@
 ---
-title: "Ruby, Rails Survey"
-author: "Satish Talim"
+author: Satish Talim
+categories:
+- news
+- rails
+- ruby
 date: 2007-02-15
 layout: post
-categories:
-  - news
-  - rails
-  - ruby
+title: Ruby, Rails Survey
 ---
+
 Saw this on Ruby-Talk – CodeGear (the Borland spin-off) has a survey
 open on Ruby and Ruby on Rails.<!--more--> If you have two minutes, your input
 on this survey would help. Take the

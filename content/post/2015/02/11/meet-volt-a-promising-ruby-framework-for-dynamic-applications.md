@@ -1,22 +1,23 @@
 ---
-title: Meet Volt, A Promising Ruby Framework For Dynamic Applications
 author: Amaury
+categories:
+- Ruby
 date: 2015-02-11
 layout: post
 permalink: /2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/
-thesis_description:
-  - Meet Volt, A Promising Ruby Framework For Dynamic Applications.
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Volt framework
-topsy_short_url:
-  - http://bit.ly/1IQhbgt
-categories:
-  - Ruby
 tags:
-  - ruby
-  - volt
-  - framework
+- ruby
+- volt
+- framework
+thesis_description:
+- Meet Volt, A Promising Ruby Framework For Dynamic Applications.
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Volt framework
+title: Meet Volt, A Promising Ruby Framework For Dynamic Applications
+topsy_short_url:
+- http://bit.ly/1IQhbgt
 ---
+
 **By Amaury Andres Peniche Gonzalez – Software Engineer at
 [Toptal](http://www.toptal.com/)**
 

@@ -1,12 +1,13 @@
 ---
-title: 'Tutorial: Introduction to AWS for Ruby Developers'
-author: "Satish Talim"
-date: "2007-07-13"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-07-13
+layout: post
+title: 'Tutorial: Introduction to AWS for Ruby Developers'
 ---
+
 Today’s web-based applications are required to provide more storage,
 more compute power, and a greater level of reliability than ever before.<!--more-->
 With a pay-as-you-go model, Amazon Web Services, combined with freely

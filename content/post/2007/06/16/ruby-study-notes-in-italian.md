@@ -1,13 +1,14 @@
 ---
-title: "Ruby Study Notes in Italian?"
-author: "Satish Talim"
-date: "2007-06-16"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - rails
-  - ruby
+- news
+- rails
+- ruby
+date: 2007-06-16
+layout: post
+title: Ruby Study Notes in Italian?
 ---
+
 This time around it is not good news or is it?
 
 Through some contacts I came to know that an Italian IT journalist has

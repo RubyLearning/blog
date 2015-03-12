@@ -1,13 +1,14 @@
 ---
-title: "Ruby and Rails News"
-author: "Satish Talim"
-date: "2007-03-08"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - rails
-  - ruby
+- news
+- rails
+- ruby
+date: 2007-03-08
+layout: post
+title: Ruby and Rails News
 ---
+
 Some interesting news and articles that I thought worth mentioning:<!--more-->
 
 -   **[Ruby

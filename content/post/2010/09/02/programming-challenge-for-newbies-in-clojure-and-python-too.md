@@ -1,28 +1,29 @@
 ---
-title: Programming Challenge for Newbies in Clojure and Python too?
 author: Satish Talim
+categories:
+- Beginners
+- Clojure
+- RPCFN
+- Ruby
 date: 2010-09-02
 layout: post
 permalink: /2010/09/02/programming-challenge-for-newbies-in-clojure-and-python-too/
-thesis_description:
-  - RubyLearning planning to start programming challenges in Clojure and Python too.
-thesis_keywords:
-  - Clojure, Python, RPCFN, Ruby Challenge, Ruby, Programming
-topsy_short_url:
-  - http://bit.ly/a41eyv
-categories:
-  - Beginners
-  - Clojure
-  - RPCFN
-  - Ruby
 tags:
-  - Clojure
-  - programming
-  - Python
-  - RPCFN
-  - Ruby
-  - Ruby Challenge
+- Clojure
+- programming
+- Python
+- RPCFN
+- Ruby
+- Ruby Challenge
+thesis_description:
+- RubyLearning planning to start programming challenges in Clojure and Python too.
+thesis_keywords:
+- Clojure, Python, RPCFN, Ruby Challenge, Ruby, Programming
+title: Programming Challenge for Newbies in Clojure and Python too?
+topsy_short_url:
+- http://bit.ly/a41eyv
 ---
+
 <div>
   <h3>
     Programming Challenge for Newbies in Clojure and Python too?

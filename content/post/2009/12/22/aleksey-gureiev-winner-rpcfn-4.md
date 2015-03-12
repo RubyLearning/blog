@@ -1,28 +1,29 @@
 ---
-title: 'Aleksey Gureiev Winner RPCFN - 4'
 author: Satish Talim
+categories:
+- beginners
+- interview
+- rpcfn
+- ruby
 date: 2009-12-22
 layout: post
 permalink: /2009/12/22/aleksey-gureiev-winner-rpcfn-4/
-thesis_description:
-  - 'Aleksey Gureiev Winner of the Ruby Challenge for Newbies #4 talks to RubyLearning.'
-thesis_keywords:
-  - Aleksey Gureiev,Ruby,Ruby programming,RPCFN,Ukraine, Ruby Challenge
-topsy_short_url:
-  - http://bit.ly/8kMc39
-categories:
-  - beginners
-  - interview
-  - rpcfn
-  - ruby
 tags:
-  - aleksey gureiev
-  - rpcfn
-  - ruby
-  - ruby challenge
-  - ruby programming
-  - ukraine
+- aleksey gureiev
+- rpcfn
+- ruby
+- ruby challenge
+- ruby programming
+- ukraine
+thesis_description:
+- 'Aleksey Gureiev Winner of the Ruby Challenge for Newbies #4 talks to RubyLearning.'
+thesis_keywords:
+- Aleksey Gureiev,Ruby,Ruby programming,RPCFN,Ukraine, Ruby Challenge
+title: Aleksey Gureiev Winner RPCFN - 4
+topsy_short_url:
+- http://bit.ly/8kMc39
 ---
+
 <div>
   <p class="alert">
     In this brief interview, Satish Talim of RubyLearning talks to <b>Aleksey Gureiev of Ukraine</b>, winner of the fourth <a href="http://rubylearning.com/blog/2009/11/26/rpcfn-rubyfun-4/">Ruby Programming Challenge For Newbies</a>.

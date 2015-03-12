@@ -1,27 +1,30 @@
 ---
-title: 'RPCFN: Ruby**Fun 4'
 author: Satish Talim
+categories:
+- beginners
+- rpcfn
+- ruby
 date: 2009-11-26
 layout: post
 permalink: /2009/11/26/rpcfn-rubyfun-4/
-thesis_description:
-  - The fourth challenge, in the popular series "Ruby Programming Challenge for Newbies", is by Michael Kohl.
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,Michael Kohl
-topsy_short_url:
-  - http://bit.ly/4BEeSk
-categories:
-  - beginners
-  - rpcfn
-  - ruby
 tags:
-  - michael kohl
-  - programming
-  - rpcfn
-  - ruby
-  - ruby programming challenge for newbies
-  - the ruby programming language
+- michael kohl
+- programming
+- rpcfn
+- ruby
+- ruby programming challenge for newbies
+- the ruby programming language
+thesis_description:
+- The fourth challenge, in the popular series "Ruby Programming Challenge for Newbies",
+  is by Michael Kohl.
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,Michael
+  Kohl
+title: 'RPCFN: Ruby**Fun 4'
+topsy_short_url:
+- http://bit.ly/4BEeSk
 ---
+
 <div>
   <h3>
     Ruby Programming Challenge For Newbies

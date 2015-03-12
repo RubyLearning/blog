@@ -1,24 +1,26 @@
 ---
-title: So, you're new to Ruby!
 author: Julio Javier Cicchelli
+categories:
+- beginners
+- ruby
+- ruby masters
 date: 2010-09-24
 layout: post
 permalink: /2010/09/24/so-youre-new-to-ruby/
-thesis_description:
-  - Javier Cicchelli guides Ruby newbies in this interesting article. A guest blog post on RubyLearning.
-thesis_keywords:
-  - Ruby, Programming, Javier Cicchelli
-topsy_short_url:
-  - http://bit.ly/9G1rkQ
-categories:
-  - beginners
-  - ruby
-  - ruby masters
 tags:
-  - javier cicchelli
-  - programming
-  - ruby
+- javier cicchelli
+- programming
+- ruby
+thesis_description:
+- Javier Cicchelli guides Ruby newbies in this interesting article. A guest blog post
+  on RubyLearning.
+thesis_keywords:
+- Ruby, Programming, Javier Cicchelli
+title: So, you're new to Ruby!
+topsy_short_url:
+- http://bit.ly/9G1rkQ
 ---
+
 <div>
   <h3>
     So&#8230; you&#8217;re new to Ruby!

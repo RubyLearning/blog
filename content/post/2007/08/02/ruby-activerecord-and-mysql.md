@@ -1,12 +1,13 @@
 ---
-title: "Ruby ActiveRecord and MySQL"
-author: "Satish Talim"
-date: "2007-08-02"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-08-02
+layout: post
+title: Ruby ActiveRecord and MySQL
 ---
+
 A lot of you, the readers of my [Free Ruby Study
 Notes](http://rubylearning.com/download/downloads.html), wrote in asking
 for a simple program and a brief explanation on how to connect to a

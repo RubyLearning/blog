@@ -1,23 +1,26 @@
 ---
-title: My Ruby Regrets
 author: Jeff Langr
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-12-08
 layout: post
 permalink: /2010/12/08/my-ruby-regrets/
-thesis_description:
-  - "It's not possible to be a Ruby guru if you only work with the language sporadically. But you can still save yourself from the mistakes Jeff keeps making: Execute your small, ad hoc efforts no differently than large, well-planned projects."
-thesis_keywords:
-  - Programming,Ruby programming
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - programming
-  - ruby programming
+- programming
+- ruby programming
+thesis_description:
+- 'It''s not possible to be a Ruby guru if you only work with the language sporadically.
+  But you can still save yourself from the mistakes Jeff keeps making: Execute your
+  small, ad hoc efforts no differently than large, well-planned projects.'
+thesis_keywords:
+- Programming,Ruby programming
+title: My Ruby Regrets
+topsy_short_url:
+- null
 ---
+
 <div>
   <h3>
     My Ruby Regrets

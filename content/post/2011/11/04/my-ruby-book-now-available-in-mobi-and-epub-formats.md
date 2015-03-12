@@ -1,28 +1,29 @@
 ---
-title: My Ruby Book now available in .mobi and .epub formats
+Hide OgTags:
+- 0
+Hide SexyBookmarks:
+- 0
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
 date: 2011-11-04
 layout: post
 permalink: /2011/11/04/my-ruby-book-now-available-in-mobi-and-epub-formats/
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
-thesis_description:
-  - The Ultimate Guide to Ruby programming eBook now available in mobi and epub formats.
-thesis_keywords:
-  - Ruby,Programming,Ruby programming,Ruby eBook
-topsy_short_url:
-  - http://bit.ly/sJLGua
-categories:
-  - Beginners
-  - Ruby
 tags:
-  - programming
-  - Ruby
-  - ruby ebook
-  - ruby programming
+- programming
+- Ruby
+- ruby ebook
+- ruby programming
+thesis_description:
+- The Ultimate Guide to Ruby programming eBook now available in mobi and epub formats.
+thesis_keywords:
+- Ruby,Programming,Ruby programming,Ruby eBook
+title: My Ruby Book now available in .mobi and .epub formats
+topsy_short_url:
+- http://bit.ly/sJLGua
 ---
+
 <div>
   <h3>
     My Ruby Book now available in .mobi and .epub formats

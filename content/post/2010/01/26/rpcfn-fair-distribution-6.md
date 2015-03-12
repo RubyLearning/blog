@@ -1,27 +1,29 @@
 ---
-title: 'RPCFN: Fair Distribution - 6'
 author: Satish Talim
+categories:
+- beginners
+- rpcfn
+- ruby
 date: 2010-01-26
 layout: post
 permalink: /2010/01/26/rpcfn-fair-distribution-6/
-thesis_description:
-  - The sixth Ruby Programming Challenge for Newbies by John Trupiano.
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,John Trupiano
-topsy_short_url:
-  - http://bit.ly/8oxWQe
-categories:
-  - beginners
-  - rpcfn
-  - ruby
 tags:
-  - john trupiano
-  - programming
-  - rpcfn
-  - ruby
-  - ruby programming challenge for newbies
-  - the ruby programming language
+- john trupiano
+- programming
+- rpcfn
+- ruby
+- ruby programming challenge for newbies
+- the ruby programming language
+thesis_description:
+- The sixth Ruby Programming Challenge for Newbies by John Trupiano.
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,John
+  Trupiano
+title: 'RPCFN: Fair Distribution - 6'
+topsy_short_url:
+- http://bit.ly/8oxWQe
 ---
+
 <div>
   <h3>
     Ruby Programming Challenge For Newbies

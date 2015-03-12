@@ -1,27 +1,29 @@
 ---
-title: 'Book Promotion: Rails Test Prescriptions'
 author: Satish Talim
+categories:
+- Book Promotions
+- Promotions
+- Rails
+- Ruby
+- Ruby on Rails
 date: 2009-05-02
+description:
+- Book Promotion of Rails Test Prescriptions on RubyLearning.org
+keywords:
+- Ruby,Book Promotions,Rails Test Prescriptions,The Ruby Programming Language,Ruby
+  on Rails,Noel Rappin
 layout: post
 permalink: /2009/05/02/book-promotion-rails-test-prescriptions/
-keywords:
-  - Ruby,Book Promotions,Rails Test Prescriptions,The Ruby Programming Language,Ruby on Rails,Noel Rappin
-description:
-  - Book Promotion of Rails Test Prescriptions on RubyLearning.org
-categories:
-  - Book Promotions
-  - Promotions
-  - Rails
-  - Ruby
-  - Ruby on Rails
 tags:
-  - Book Promotions
-  - Noel Rappin
-  - Rails Test Prescriptions
-  - Ruby
-  - Ruby on Rails
-  - The Ruby Programming Language
+- Book Promotions
+- Noel Rappin
+- Rails Test Prescriptions
+- Ruby
+- Ruby on Rails
+- The Ruby Programming Language
+title: 'Book Promotion: Rails Test Prescriptions'
 ---
+
 <div>
   <h3>
     Book Promotion: Rails Test Prescriptions

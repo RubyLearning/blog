@@ -1,24 +1,25 @@
 ---
-title: Want to promote your book/product/event?
 author: Satish Talim
+categories:
+- Promotions
+- Ruby
 date: 2009-04-15
+description:
+- Promote your Ruby related book / product / event on RubyLearning.org.
+keywords:
+- Ruby,Book Promotions,Wicked Cool Ruby Scripts,The Ruby Programming Language
 layout: post
 permalink: /2009/04/15/want-to-promote-your-bookproductevent/
-keywords:
-  - Ruby,Book Promotions,Wicked Cool Ruby Scripts,The Ruby Programming Language
-description:
-  - Promote your Ruby related book / product / event on RubyLearning.org.
-topsy_short_url:
-  - http://bit.ly/9IGVmu
-categories:
-  - Promotions
-  - Ruby
 tags:
-  - Book Promotions
-  - Ruby
-  - The Ruby Programming Language
-  - Wicked Cool Ruby Scripts
+- Book Promotions
+- Ruby
+- The Ruby Programming Language
+- Wicked Cool Ruby Scripts
+title: Want to promote your book/product/event?
+topsy_short_url:
+- http://bit.ly/9IGVmu
 ---
+
 <div>
   <h3>
     Want to promote your book/product/event?

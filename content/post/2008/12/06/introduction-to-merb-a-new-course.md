@@ -1,30 +1,31 @@
 ---
-title: 'Introduction to Merb - A New Course'
-draft: true
 author: Satish Talim
-date: 2008-12-06
-layout: post
-permalink: /2008/12/06/introduction-to-merb-a-new-course/
-mattaimonetti@gmail.com:
-  - mattetti
-willian.molinari@gmail.com:
-  - pothix
-keywords:
-  - Merb,Ruby,The Ruby Programming Language,Merb course
-description:
-  - 'An Introduction to Merb - the first course of its kind by RubyLearning.'
-topsy_short_url:
-  - http://bit.ly/bW260I
 categories:
-  - Beginners
-  - News
-  - Ruby
-  - Training
+- Beginners
+- News
+- Ruby
+- Training
+date: 2008-12-06
+description:
+- An Introduction to Merb - the first course of its kind by RubyLearning.
+draft: true
+keywords:
+- Merb,Ruby,The Ruby Programming Language,Merb course
+layout: post
+mattaimonetti@gmail.com:
+- mattetti
+permalink: /2008/12/06/introduction-to-merb-a-new-course/
 tags:
-  - Merb
-  - Ruby
-  - The Ruby Programming Language
+- Merb
+- Ruby
+- The Ruby Programming Language
+title: Introduction to Merb - A New Course
+topsy_short_url:
+- http://bit.ly/bW260I
+willian.molinari@gmail.com:
+- pothix
 ---
+
 <div>
   <h3>
     Introduction to Merb Course

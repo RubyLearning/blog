@@ -1,27 +1,30 @@
 ---
-title: 'RPCFN: Broadsides - 7'
 author: Satish Talim
+categories:
+- beginners
+- rpcfn
+- ruby
 date: 2010-02-23
 layout: post
 permalink: /2010/02/23/rpcfn-broadsides-7/
-thesis_description:
-  - James Edward Gary II the creator of the ever-popular Ruby Quiz throws a Ruby Challenge for Newbies at RubyLearning.
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,James Edward Gray II
-topsy_short_url:
-  - http://bit.ly/cDSR0m
-categories:
-  - beginners
-  - rpcfn
-  - ruby
 tags:
-  - james edward gray ii
-  - programming
-  - rpcfn
-  - ruby
-  - ruby programming challenge for newbies
-  - the ruby programming language
+- james edward gray ii
+- programming
+- rpcfn
+- ruby
+- ruby programming challenge for newbies
+- the ruby programming language
+thesis_description:
+- James Edward Gary II the creator of the ever-popular Ruby Quiz throws a Ruby Challenge
+  for Newbies at RubyLearning.
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,James
+  Edward Gray II
+title: 'RPCFN: Broadsides - 7'
+topsy_short_url:
+- http://bit.ly/cDSR0m
 ---
+
 <div>
   <h3>
     Ruby Programming Challenge For Newbies

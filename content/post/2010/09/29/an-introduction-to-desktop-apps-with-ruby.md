@@ -1,27 +1,29 @@
 ---
-title: An Introduction to Desktop Apps with Ruby
 author: Martin Sadler
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-09-29
 layout: post
 permalink: /2010/09/29/an-introduction-to-desktop-apps-with-ruby/
-thesis_keywords:
-  - Ruby, Programming, Martin Sadler, JRuby, Ruby for Noobs, Ruby beginners
-thesis_description:
-  - Martin Sadler gives you an insight into the world of possibilities with JRuby and desktop applications. A guest blog post on RubyLearning.
-topsy_short_url:
-  - http://bit.ly/b13GbN
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - JRuby
-  - Martin Sadler
-  - programming
-  - Ruby
-  - Ruby Beginners
-  - Ruby for Noobs
+- JRuby
+- Martin Sadler
+- programming
+- Ruby
+- Ruby Beginners
+- Ruby for Noobs
+thesis_description:
+- Martin Sadler gives you an insight into the world of possibilities with JRuby and
+  desktop applications. A guest blog post on RubyLearning.
+thesis_keywords:
+- Ruby, Programming, Martin Sadler, JRuby, Ruby for Noobs, Ruby beginners
+title: An Introduction to Desktop Apps with Ruby
+topsy_short_url:
+- http://bit.ly/b13GbN
 ---
+
 <div>
   <h3>
     An Introduction to Desktop Apps with Ruby

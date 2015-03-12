@@ -1,20 +1,21 @@
 ---
-title: Popular Posts on Clojure from RubyLearning
 author: Satish Talim
+categories:
+- Clojure
 date: 2010-07-24
 layout: post
 permalink: /2010/07/24/popular-posts-on-clojure-from-rubylearning/
-thesis_description:
-  - A list of some popular posts on Clojure from RubyLearning.
-thesis_keywords:
-  - clojure, clojure interviews
-topsy_short_url:
-  - http://bit.ly/awDv4Y
-categories:
-  - Clojure
 tags:
-  - Clojure
+- Clojure
+thesis_description:
+- A list of some popular posts on Clojure from RubyLearning.
+thesis_keywords:
+- clojure, clojure interviews
+title: Popular Posts on Clojure from RubyLearning
+topsy_short_url:
+- http://bit.ly/awDv4Y
 ---
+
 <div>
   <p class="alert">
     Many Rubyists today are talking about and exploring Clojure and I wanted to share a list of some popular posts on Clojure from RubyLearning. Enjoy!

@@ -1,13 +1,14 @@
 ---
-title: "Ruby Re-Awakens Pune in 2006"
-author: "Satish Talim"
-date: "2007-01-07"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - rails
-  - ruby
+- news
+- rails
+- ruby
+date: 2007-01-07
+layout: post
+title: Ruby Re-Awakens Pune in 2006
 ---
+
 In the early part of 2006, in my hometown
 [Pune](http://en.wikipedia.org/wiki/Pune), everyone would associate Ruby
 with ‘[Ratnaraj](http://www.gemsbiz.com/docs/ruby.asp)‘ or “king of

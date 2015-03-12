@@ -1,12 +1,13 @@
 ---
-title: "Internationalization in JRuby"
-author: "Satish Talim"
-date: "2007-04-30"
-layout: post
+author: Satish Talim
 categories:
-  - jruby
-  - ruby
+- jruby
+- ruby
+date: 2007-04-30
+layout: post
+title: Internationalization in JRuby
 ---
+
 I have been using and teaching Java since 1995. The other day, I was
 talking to my students about Internationalization in Java.  <!--more-->
 

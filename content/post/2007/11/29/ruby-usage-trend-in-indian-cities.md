@@ -1,12 +1,13 @@
 ---
-title: "Ruby Usage Trend in Indian Cities"
-author: "Satish Talim"
-date: "2007-11-29"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - ruby
+- news
+- ruby
+date: 2007-11-29
+layout: post
+title: Ruby Usage Trend in Indian Cities
 ---
+
 The [RubyLearning.com](http://rubylearning.com/) site has been active
 for some time now and the users of my site are normally people learning
 the Ruby programming language.<!--more--> For the last two years, I have been

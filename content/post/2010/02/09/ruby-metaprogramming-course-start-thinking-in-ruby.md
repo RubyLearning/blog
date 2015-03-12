@@ -1,28 +1,30 @@
 ---
-title: 'Ruby Metaprogramming Course - Start Thinking in Ruby'
-draft: true
 author: Satish Talim
+categories:
+- Metaprogramming
+- Ruby
+- Training
 date: 2010-02-09
+draft: true
 layout: post
 permalink: /2010/02/09/ruby-metaprogramming-course-start-thinking-in-ruby/
-thesis_description:
-  - 'The 3rd batch of the Ruby Metaprogramming course with some answers by '
-thesis_keywords:
-  - Ruby,Metaprogramming,Ruby Metaprogramming,Satoshi Asakawa,The Ruby Programming Language,Paolo Perrotta
-topsy_short_url:
-  - http://bit.ly/9pMxC7
-categories:
-  - Metaprogramming
-  - Ruby
-  - Training
 tags:
-  - Metaprogramming
-  - Paolo Perrotta
-  - Ruby
-  - Ruby Metaprogramming
-  - Satoshi Asakawa
-  - The Ruby Programming Language
+- Metaprogramming
+- Paolo Perrotta
+- Ruby
+- Ruby Metaprogramming
+- Satoshi Asakawa
+- The Ruby Programming Language
+thesis_description:
+- 'The 3rd batch of the Ruby Metaprogramming course with some answers by '
+thesis_keywords:
+- Ruby,Metaprogramming,Ruby Metaprogramming,Satoshi Asakawa,The Ruby Programming Language,Paolo
+  Perrotta
+title: Ruby Metaprogramming Course - Start Thinking in Ruby
+topsy_short_url:
+- http://bit.ly/9pMxC7
 ---
+
 <div>
   <p class="update">
     RubyLearning is honored to have <a href="http://rubylearning.com/blog/2009/07/01/interview-author-paolo-perrotta/">Paolo Perrotta</a>, author of the book <a href="http://www.amazon.com/gp/product/1934356476?ie=UTF8&tag=satishtalimsw-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1934356476">Metaprogramming Ruby</a>, who would be answering some of the questions in the course forum.

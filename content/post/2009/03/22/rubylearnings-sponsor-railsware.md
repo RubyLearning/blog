@@ -1,24 +1,25 @@
 ---
-title: "RubyLearning's Sponsor: Railsware"
 author: Satish Talim
+categories:
+- ruby
+- sponsors
+- twitter
 date: 2009-03-22
+description:
+- Railsware are Silver Sponsor of the "Using Twitter with Ruby" course at RubyLearning.
+keywords:
+- Railsware,Twitter,Ruby,Ruby on Rails,Sponsors
 layout: post
 permalink: /2009/03/22/rubylearnings-sponsor-railsware/
-keywords:
-  - Railsware,Twitter,Ruby,Ruby on Rails,Sponsors
-description:
-  - Railsware are Silver Sponsor of the "Using Twitter with Ruby" course at RubyLearning.
-categories:
-  - ruby
-  - sponsors
-  - twitter
 tags:
-  - railsware
-  - ruby
-  - ruby on rails
-  - sponsors
-  - twitter
+- railsware
+- ruby
+- ruby on rails
+- sponsors
+- twitter
+title: 'RubyLearning''s Sponsor: Railsware'
 ---
+
 <div>
   <p>
     It&#8217;s time to thank RubyLearning&#8217;s sponsor &#8211; <a href="http://www.railsware.com/">Railsware</a>.

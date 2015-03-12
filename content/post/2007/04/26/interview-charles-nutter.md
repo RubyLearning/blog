@@ -1,12 +1,13 @@
 ---
-title: 'Interview: Charles Nutter'
-author: "Satish Talim"
-date: "2007-04-26"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-04-26
+layout: post
+title: 'Interview: Charles Nutter'
 ---
+
 [![Charles
 Nutter](http://rubylearning.com/images/nutter.jpg)](http://rubylearning.com/images/nutter.jpg "Charles Nutter")
 

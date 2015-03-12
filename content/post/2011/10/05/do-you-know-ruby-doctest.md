@@ -1,28 +1,29 @@
 ---
-title: Do you know Ruby Doctest?
 author: Victor Goff
+categories:
+- beginners
+- ruby
+- doctest
 date: 2011-10-05
 layout: post
 permalink: /2011/10/05/do-you-know-ruby-doctest/
-thesis_description:
-  - Victor Goff shows you how to use Ruby Doctest.
-thesis_keywords:
-  - Ruby DocTest,Programming,Ruby programming
-topsy_short_url:
-  - http://bit.ly/ngEQqQ
-thesis_thumb_width:
-  - 66
-thesis_thumb_height:
-  - 66
-categories:
-  - beginners
-  - ruby
-  - doctest
 tags:
-  - programming
-  - doctest
-  - ruby
+- programming
+- doctest
+- ruby
+thesis_description:
+- Victor Goff shows you how to use Ruby Doctest.
+thesis_keywords:
+- Ruby DocTest,Programming,Ruby programming
+thesis_thumb_height:
+- 66
+thesis_thumb_width:
+- 66
+title: Do you know Ruby Doctest?
+topsy_short_url:
+- http://bit.ly/ngEQqQ
 ---
+
 ## Do you know Ruby Doctest?
 
 This guest post is by Victor Goff, who enjoys mentoring Ruby at

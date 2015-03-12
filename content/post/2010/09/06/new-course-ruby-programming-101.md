@@ -1,28 +1,29 @@
 ---
-title: 'New Course - Ruby Programming 101'
 author: Satish Talim
-draft: true
+categories:
+- Beginners
+- Ruby
+- Training
 date: 2010-09-06
+draft: true
 layout: post
 permalink: /2010/09/06/new-course-ruby-programming-101/
-thesis_description:
-  - The first, online Core Ruby programming course announces the 20th batch.
-thesis_keywords:
-  - Ruby course,Ruby,Ruby Training, Programming,Ruby for Noobs,Ruby beginners
-topsy_short_url:
-  - http://bit.ly/a7lkhU
-categories:
-  - Beginners
-  - Ruby
-  - Training
 tags:
-  - programming
-  - Ruby
-  - Ruby Beginners
-  - Ruby course
-  - Ruby for Noobs
-  - Ruby training
+- programming
+- Ruby
+- Ruby Beginners
+- Ruby course
+- Ruby for Noobs
+- Ruby training
+thesis_description:
+- The first, online Core Ruby programming course announces the 20th batch.
+thesis_keywords:
+- Ruby course,Ruby,Ruby Training, Programming,Ruby for Noobs,Ruby beginners
+title: New Course - Ruby Programming 101
+topsy_short_url:
+- http://bit.ly/a7lkhU
 ---
+
 <div>
   <p>
     <span class="drop_cap">I</span>ntroducing an intensive, online course for <em>beginners</em> that helps you get started with <strong>Ruby</strong> programming.

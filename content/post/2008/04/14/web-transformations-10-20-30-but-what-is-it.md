@@ -1,17 +1,18 @@
 ---
-title: Web Transformations 1.0, 2.0, 3.0, But What Is It?
 author: Satish Talim
+categories:
+- Ruby
 date: 2008-04-14
 layout: post
 permalink: /2008/04/14/web-transformations-10-20-30-but-what-is-it/
-categories:
-  - Ruby
 tags:
-  - india
-  - pune
-  - web 2
-  - web 3
+- india
+- pune
+- web 2
+- web 3
+title: Web Transformations 1.0, 2.0, 3.0, But What Is It?
 ---
+
 <div>
   <p class="block">
     Today&#8217;s guest blogger is <strong><a href="mailto:sunilkelkar@gmail.com">Sunil Kelkar</a></strong>, a programmer, author, trainer and speaker. A recognized expert in the field of software development with over 15+ years of I.T. experience, Sunil has consulted and trained teams at various companies in India and the US. He has been involved with Rails for the last two years and Java since 1997. He also imparts <a href="http://traineronrails.com/">Free Online Rails Courses</a> for world-wide participants. Sunil is based out of Pune, India. This article is a collection of some of his own thoughts, findings and reading between the lines while surfing using Google.

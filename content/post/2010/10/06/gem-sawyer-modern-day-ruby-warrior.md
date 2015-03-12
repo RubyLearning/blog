@@ -1,27 +1,30 @@
 ---
-title: Gem Sawyer, Modern Day Ruby Warrior
 author: Nick Quaranto
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-10-06
 layout: post
 permalink: /2010/10/06/gem-sawyer-modern-day-ruby-warrior/
-thesis_description:
-  - "If you're fresh to Ruby and haven't really learned what RubyGems can do for you yet, you're about to find out! Nick Quaranto's guest blog post on RubyLearning."
-thesis_keywords:
-  - Ruby, Programming, Nick Quaranto, Ruby for Noobs, Ruby beginners, Gem Sawyer Modern Day Ruby Warrior
-topsy_short_url:
-  - http://bit.ly/ch5ZoF
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - Gem Sawyer Modern Day Ruby Warrior
-  - Nick Quaranto
-  - programming
-  - Ruby
-  - Ruby Beginners
-  - Ruby for Noobs
+- Gem Sawyer Modern Day Ruby Warrior
+- Nick Quaranto
+- programming
+- Ruby
+- Ruby Beginners
+- Ruby for Noobs
+thesis_description:
+- If you're fresh to Ruby and haven't really learned what RubyGems can do for you
+  yet, you're about to find out! Nick Quaranto's guest blog post on RubyLearning.
+thesis_keywords:
+- Ruby, Programming, Nick Quaranto, Ruby for Noobs, Ruby beginners, Gem Sawyer Modern
+  Day Ruby Warrior
+title: Gem Sawyer, Modern Day Ruby Warrior
+topsy_short_url:
+- http://bit.ly/ch5ZoF
 ---
+
 <div>
   <h3>
     Gem Sawyer, Modern Day Ruby Warrior

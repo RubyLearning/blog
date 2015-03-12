@@ -1,21 +1,23 @@
 ---
-title: 'Interview: Author Paolo Perrotta'
 author: Satish Talim
+categories:
+- Interview
+- Ruby
 date: 2009-07-01
 layout: post
 permalink: /2009/07/01/interview-author-paolo-perrotta/
-thesis_description:
-  - RubyLearning talks to author Paolo Perrotta about his upcoming book Metaprogramming Ruby, in this interview.
-thesis_keywords:
-  - Paolo Perrotta,Ruby Metaprogramming,Ruby programming
-categories:
-  - Interview
-  - Ruby
 tags:
-  - Paolo Perrotta
-  - Ruby Metaprogramming
-  - ruby programming
+- Paolo Perrotta
+- Ruby Metaprogramming
+- ruby programming
+thesis_description:
+- RubyLearning talks to author Paolo Perrotta about his upcoming book Metaprogramming
+  Ruby, in this interview.
+thesis_keywords:
+- Paolo Perrotta,Ruby Metaprogramming,Ruby programming
+title: 'Interview: Author Paolo Perrotta'
 ---
+
 <div>
   <p class="alert">
     The trial batch of our new course &#8220;<strong>Ruby Metaprogramming</strong>&#8221; started recently. On this occasion, RubyLearning caught up with author <b>Paolo Perrotta</b> (who is writing the book &#8220;<strong><a href="http://www.pragprog.com/titles/ppmetr/metaprogramming-ruby">Metaprogramming Ruby</a></strong>&#8220;) and chatted with him.

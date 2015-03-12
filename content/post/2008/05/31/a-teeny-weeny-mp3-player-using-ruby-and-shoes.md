@@ -1,24 +1,25 @@
 ---
-title: A Teeny-weeny mp3 player using Ruby and Shoes
 author: Satish Talim
+categories:
+- Ruby
 date: 2008-05-31
+f.c.b.moh@hotmail.fr:
+- 56lkjk6+
+jonesparker01@gmail.com:
+- Generic Cialis
 layout: post
 permalink: /2008/05/31/a-teeny-weeny-mp3-player-using-ruby-and-shoes/
-f.c.b.moh@hotmail.fr:
-  - 56lkjk6+
-jonesparker01@gmail.com:
-  - Generic Cialis
-topsy_short_url:
-  - http://bit.ly/aCCAee
-categories:
-  - Ruby
 tags:
-  - japan
-  - mp3 player
-  - ruby on shoes
-  - ruby programming
-  - Shoes
+- japan
+- mp3 player
+- ruby on shoes
+- ruby programming
+- Shoes
+title: A Teeny-weeny mp3 player using Ruby and Shoes
+topsy_short_url:
+- http://bit.ly/aCCAee
 ---
+
 <div>
   <h3>
     By Satoshi Asakawa

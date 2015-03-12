@@ -1,20 +1,24 @@
 ---
-title: All about Struct
 author: Steve Klabnik
-date: "2012-09-06"
+categories:
+- beginners
+- ruby
+date: 2012-09-06
 layout: post
 permalink: /2012/09/06/all-about-struct/
+tags:
+- programming
+- ruby
+- struct
 thesis_description:
-  - Steve Klabnik shows us how to take advantage of Struct and OStruct in Ruby.
+- Steve Klabnik shows us how to take advantage of Struct and OStruct in Ruby.
 thesis_keywords:
-  - struct, Programming,Ruby programming
+- struct, Programming,Ruby programming
+title: All about Struct
 topsy_short_url:
-  - http://bit.ly/TkmLgm
-categories:
-  - beginners
-  - ruby
-tags: ["programming", "ruby", "struct"]
+- http://bit.ly/TkmLgm
 ---
+
 ### All about Struct
 
 This guest post is by **[Steve

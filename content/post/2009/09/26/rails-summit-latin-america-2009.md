@@ -1,26 +1,27 @@
 ---
-title: Rails Summit Latin America 2009
 author: Satish Talim
+categories:
+- News
+- Rails
+- Ruby
+- Sponsors
 date: 2009-09-26
 layout: post
 permalink: /2009/09/26/rails-summit-latin-america-2009/
-thesis_keywords:
-  - Locaweb,Ruby,Rails,Ruby on Rails,Fabio Akita,Rails Summit Latin America 2009
-thesis_description:
-  - The second edition of the Rails Summit Latin America 2009 in Brazil.
-categories:
-  - News
-  - Rails
-  - Ruby
-  - Sponsors
 tags:
-  - fabio akita
-  - Locaweb
-  - Rails
-  - Rails Summit Latin America 2009
-  - Ruby
-  - Ruby on Rails
+- fabio akita
+- Locaweb
+- Rails
+- Rails Summit Latin America 2009
+- Ruby
+- Ruby on Rails
+thesis_description:
+- The second edition of the Rails Summit Latin America 2009 in Brazil.
+thesis_keywords:
+- Locaweb,Ruby,Rails,Ruby on Rails,Fabio Akita,Rails Summit Latin America 2009
+title: Rails Summit Latin America 2009
 ---
+
 <div>
   <p>
     <a href="http://www.railssummit.com.br/"><img class="alignright" style="border: 0px none ;" src="http://rubylearning.com/images/rails_summit_2009.png" alt="Rails Summit Latin America 2009" title="Rails Summit Latin America 2009" /></a>

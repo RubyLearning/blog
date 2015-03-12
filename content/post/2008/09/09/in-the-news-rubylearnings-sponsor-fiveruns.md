@@ -1,22 +1,23 @@
 ---
-title: "In the News: RubyLearning's Sponsor FiveRuns"
 author: Satish Talim
+categories:
+- ruby
+- sponsors
 date: 2008-09-09
 layout: post
-permalink: /2008/09/09/in-the-news-rubylearnings-sponsor-fiveruns/
 metadescription:
-  - Ruby Rails Tutorial for Ruby and Ruby on Rails sponsor FiveRuns
+- Ruby Rails Tutorial for Ruby and Ruby on Rails sponsor FiveRuns
 metakeywords:
-  - ruby rails tutorial,rails tutorial,ruby on rails
-categories:
-  - ruby
-  - sponsors
+- ruby rails tutorial,rails tutorial,ruby on rails
+permalink: /2008/09/09/in-the-news-rubylearnings-sponsor-fiveruns/
 tags:
-  - david flanagan
-  - fiveruns
-  - ruby
-  - sponsors
+- david flanagan
+- fiveruns
+- ruby
+- sponsors
+title: 'In the News: RubyLearning''s Sponsor FiveRuns'
 ---
+
 <div>
   <p class="note">
     <strong><a href="http://www.fiveruns.com/">FiveRuns</a></strong> is a provider of Rails application (and server) monitoring services. I am including any news or developments the sponsor has had during August 2008.

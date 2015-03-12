@@ -1,12 +1,13 @@
 ---
-title: "Setting Up An IT Company In India"
-author: "Satish Talim"
-date: "2007-01-20"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-01-20
+layout: post
+title: Setting Up An IT Company In India
 ---
+
 Now-a-days many small (20-40 people) sized companies working with **Ruby
 on Rails** in the US and Australia are planning to set-up their own
 software units in Pune, India.<!--more-->

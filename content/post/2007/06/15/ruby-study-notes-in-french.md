@@ -1,12 +1,13 @@
 ---
-title: "Ruby Study Notes in French"
-author: "Satish Talim"
-date: "2007-06-15"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - ruby
+- news
+- ruby
+date: 2007-06-15
+layout: post
+title: Ruby Study Notes in French
 ---
+
 It’s an honor for me as Richard Piacentini and Mathieu Fosse have agreed
 to translate my Ruby Study Notes in French.
 

@@ -1,25 +1,27 @@
 ---
-title: Do YOU know Resque?
 author: Dave Hoover
+categories:
+- Beginners
+- Popular
+- Ruby
+- Ruby Masters
 date: 2010-11-08
 layout: post
 permalink: /2010/11/08/do-you-know-resque/
-thesis_keywords:
-  - Resque,Programming,Ruby programming
-thesis_description:
-  - Dave Hoover shows you how to setup Resque, and its data store Redis, and show you how its queues, jobs, and workers interact.
-topsy_short_url:
-  - http://bit.ly/blM9Q3
-categories:
-  - Beginners
-  - Popular
-  - Ruby
-  - Ruby Masters
 tags:
-  - programming
-  - Resque
-  - ruby programming
+- programming
+- Resque
+- ruby programming
+thesis_description:
+- Dave Hoover shows you how to setup Resque, and its data store Redis, and show you
+  how its queues, jobs, and workers interact.
+thesis_keywords:
+- Resque,Programming,Ruby programming
+title: Do YOU know Resque?
+topsy_short_url:
+- http://bit.ly/blM9Q3
 ---
+
 <div>
   <h3>
     Do YOU know Resque?

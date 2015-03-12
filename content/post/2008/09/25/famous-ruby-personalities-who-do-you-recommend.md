@@ -1,25 +1,27 @@
 ---
-title: 'Famous Ruby Personalities: Who do you recommend?'
 author: Satish Talim
+categories:
+- Ruby
+- Ruby Masters
 date: 2008-09-25
+description:
+- RubyLearning salutes Famous Ruby Personalities that have helped Ruby developers
+  and enthusiasts have fun, joy and be happy while programming!
+keywords:
+- famous ruby personalities,ruby gurus,ruby masters,ruby programming
 layout: post
 permalink: /2008/09/25/famous-ruby-personalities-who-do-you-recommend/
-keywords:
-  - famous ruby personalities,ruby gurus,ruby masters,ruby programming
-description:
-  - RubyLearning salutes Famous Ruby Personalities that have helped Ruby developers and enthusiasts have fun, joy and be happy while programming!
-topsy_short_url:
-  - http://bit.ly/9epuFg
-categories:
-  - Ruby
-  - Ruby Masters
 tags:
-  - Famous Ruby Personalities
-  - Ruby
-  - ruby gurus
-  - Ruby Masters
-  - ruby programming
+- Famous Ruby Personalities
+- Ruby
+- ruby gurus
+- Ruby Masters
+- ruby programming
+title: 'Famous Ruby Personalities: Who do you recommend?'
+topsy_short_url:
+- http://bit.ly/9epuFg
 ---
+
 <div>
   <blockquote class="right">
     <p>

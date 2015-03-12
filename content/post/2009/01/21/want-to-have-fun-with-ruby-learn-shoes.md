@@ -1,26 +1,27 @@
 ---
-title: Want to have fun with Ruby? Learn Shoes!
+ashbbb@gmail.com:
+- ashbb
 author: Satish Talim
+categories:
+- Ruby
+- Training
 date: 2009-01-21
+description:
+- The only Ruby with Shoes course anywhere in the world. Have fun with Ruby!
+keywords:
+- Ruby course,Ruby training,Ruby,Satoshi Asakawa,Shoes,The Ruby Programming Language
 layout: post
 permalink: /2009/01/21/want-to-have-fun-with-ruby-learn-shoes/
-keywords:
-  - Ruby course,Ruby training,Ruby,Satoshi Asakawa,Shoes,The Ruby Programming Language
-description:
-  - The only Ruby with Shoes course anywhere in the world. Have fun with Ruby!
-ashbbb@gmail.com:
-  - ashbb
-categories:
-  - Ruby
-  - Training
 tags:
-  - Ruby
-  - Ruby course
-  - Ruby training
-  - Satoshi Asakawa
-  - Shoes
-  - The Ruby Programming Language
+- Ruby
+- Ruby course
+- Ruby training
+- Satoshi Asakawa
+- Shoes
+- The Ruby Programming Language
+title: Want to have fun with Ruby? Learn Shoes!
 ---
+
 <div>
   <h3>
     Want to have fun with Ruby? Learn Shoes!

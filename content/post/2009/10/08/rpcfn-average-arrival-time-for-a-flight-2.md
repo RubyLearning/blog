@@ -1,22 +1,23 @@
 ---
-title: "RPCFN: Average Arrival Time For A Flight - 2 repost"
-author: "Satish Talim"
-date: "2009-10-08"
+author: Satish Talim
+categories:
+- beginners
+- code snippets
+- rpcfn
+- ruby
+date: 2009-10-08
 layout: post
 permalink: /2009/10/08/rpcfn-average-arrival-time-for-a-flight-2/
-categories:
-  - beginners
-  - code snippets
-  - rpcfn
-  - ruby
 tags:
-  - chris strom
-  - programming
-  - rpcfn
-  - ruby
-  - ruby programming challenge for newbies
-  - the ruby programming language
+- chris strom
+- programming
+- rpcfn
+- ruby
+- ruby programming challenge for newbies
+- the ruby programming language
+title: 'RPCFN: Average Arrival Time For A Flight - 2 repost'
 ---
+
 <div>
   <h3>
     Ruby Programming Challenge For Newbies

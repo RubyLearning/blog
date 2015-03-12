@@ -1,26 +1,27 @@
 ---
-title: Introduction to Sinatra Course Announced
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Heroku
+- Ruby
+- Sinatra
+- Training
 date: 2009-06-14
+description:
+- The only online "Introduction to Sinatra" course announced at RubyLearning.org
+draft: true
+keywords:
+- Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language
 layout: post
 permalink: /2009/06/14/introduction-to-sinatra-course-announced/
-keywords:
-  - Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language
-description:
-  - The only online "Introduction to Sinatra" course announced at RubyLearning.org
-categories:
-  - Beginners
-  - Heroku
-  - Ruby
-  - Sinatra
-  - Training
 tags:
-  - Ruby
-  - Sinatra
-  - Sinatra eBook
-  - The Ruby Programming Language
+- Ruby
+- Sinatra
+- Sinatra eBook
+- The Ruby Programming Language
+title: Introduction to Sinatra Course Announced
 ---
+
 <div>
   <h3>
     Introduction to Sinatra Course

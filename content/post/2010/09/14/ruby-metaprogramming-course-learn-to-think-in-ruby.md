@@ -1,26 +1,28 @@
 ---
-title: 'Ruby Metaprogramming Course - Learn to Think in Ruby'
-draft: true
 author: Satish Talim
+categories:
+- Metaprogramming
+- Ruby
 date: 2010-09-14
+draft: true
 layout: post
 permalink: /2010/09/14/ruby-metaprogramming-course-learn-to-think-in-ruby/
-thesis_description:
-  - The fourth batch of the popular Ruby Metaprogramming course starts 23rd Oct. 2010. Registrations open.
-thesis_keywords:
-  - Ruby,Metaprogramming,Ruby Metaprogramming,Satoshi Asakawa,The Ruby Programming Language
-topsy_short_url:
-  - http://bit.ly/9nwdoX
-categories:
-  - Metaprogramming
-  - Ruby
 tags:
-  - Metaprogramming
-  - Ruby
-  - Ruby Metaprogramming
-  - Satoshi Asakawa
-  - The Ruby Programming Language
+- Metaprogramming
+- Ruby
+- Ruby Metaprogramming
+- Satoshi Asakawa
+- The Ruby Programming Language
+thesis_description:
+- The fourth batch of the popular Ruby Metaprogramming course starts 23rd Oct. 2010.
+  Registrations open.
+thesis_keywords:
+- Ruby,Metaprogramming,Ruby Metaprogramming,Satoshi Asakawa,The Ruby Programming Language
+title: Ruby Metaprogramming Course - Learn to Think in Ruby
+topsy_short_url:
+- http://bit.ly/9nwdoX
 ---
+
 <div>
   <p>
     <span class="drop_cap">A</span>fter the huge success of the first three &#8220;<strong>Ruby Metaprogramming</strong>&#8221; batches, RubyLearning now announces the fourth official batch from 23rd Oct. 2010.

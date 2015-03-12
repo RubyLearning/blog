@@ -1,18 +1,19 @@
 ---
-title: Some Security Concerns While Programming In Ruby
 author: Satish Talim
+categories:
+- Ruby
 date: 2008-04-28
 layout: post
 permalink: /2008/04/28/some-security-concerns-while-programming-in-ruby/
-categories:
-  - Ruby
 tags:
-  - command injection attacks
-  - programming
-  - Ruby
-  - ruby programming
-  - security
+- command injection attacks
+- programming
+- Ruby
+- ruby programming
+- security
+title: Some Security Concerns While Programming In Ruby
 ---
+
 <div>
   <p>
     Making critical information available across the Internet has arguably been one of the most profound business enablers in the history of technology. It has meant expanded markets, increased productivity, and streamlined processes. Unfortunately, it has also meant a profound increase in operational risk. Vulnerabilities like <a href="http://www.owasp.org/index.php/Command_Injection">command injection attacks</a> result from inadequately designed or written Ruby code, creating opportunities for attackers to threaten privacy and steal data. The only way to eliminate vulnerabilities is to get them where they live: in the source code itself.

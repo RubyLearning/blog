@@ -1,34 +1,38 @@
 ---
-title: Little Known Ways to Ruby Mastery by Ilya Grigorik
+Hide OgTags:
+- 0
+Hide SexyBookmarks:
+- 0
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Ruby
+- Ruby Masters
 date: 2008-12-30
+description:
+- The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to
+  and answers questions confronting Ruby beginners from across the globe.
+gaveen.skyeye@gmail.com:
+- gaveen
+keywords:
+- ruby for beginners,ruby beginners,ruby programming,ruby on rails blog,rails blog,rails
+  tutorials,ruby beginners' questions,little known ways to ruby mastery,ruby masters,interviews,Ilya
+  Grigorik,ruby,the ruby programming language
 layout: post
 permalink: /2008/12/30/little-known-ways-to-ruby-mastery-by-ilya-grigorik/
-keywords:
-  - "ruby for beginners,ruby beginners,ruby programming,ruby on rails blog,rails blog,rails tutorials,ruby beginners' questions,little known ways to ruby mastery,ruby masters,interviews,Ilya Grigorik,ruby,the ruby programming language"
-description:
-  - The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to and answers questions confronting Ruby beginners from across the globe.
-gaveen.skyeye@gmail.com:
-  - gaveen
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
-topsy_short_url:
-  - http://bit.ly/uZ1P1h
-categories:
-  - Beginners
-  - Interview
-  - Ruby
-  - Ruby Masters
 tags:
-  - Ilya Grigorik
-  - interviews
-  - Little Known Ways to Ruby Mastery
-  - Ruby
-  - "Ruby Beginners' Questions"
-  - The Ruby Programming Language
+- Ilya Grigorik
+- interviews
+- Little Known Ways to Ruby Mastery
+- Ruby
+- Ruby Beginners' Questions
+- The Ruby Programming Language
+title: Little Known Ways to Ruby Mastery by Ilya Grigorik
+topsy_short_url:
+- http://bit.ly/uZ1P1h
 ---
+
 <div>
   <h3>
     A weekly series from the Ruby Masters

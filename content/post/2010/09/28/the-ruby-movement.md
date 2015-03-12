@@ -1,28 +1,30 @@
 ---
-title: The Ruby movement
 author: Matt Aimonetti
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-09-28
 layout: post
 permalink: /2010/09/28/the-ruby-movement/
-thesis_description:
-  - Matt Aimonetti writes about the "Ruby movement", a parallel between art movements and programming and what makes Ruby special. A guest blog post on RubyLearning.
-thesis_keywords:
-  - Ruby, Programming, Matt Aimonetti, Ruby for Noobs, Ruby beginner
-topsy_short_url:
-  - http://bit.ly/d4jOgR
-thesis_title:
-  - The Ruby movement by Matt Aimonetti
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - Matt Aimonetti
-  - programming
-  - Ruby
-  - ruby beginner
-  - Ruby for Noobs
+- Matt Aimonetti
+- programming
+- Ruby
+- ruby beginner
+- Ruby for Noobs
+thesis_description:
+- Matt Aimonetti writes about the "Ruby movement", a parallel between art movements
+  and programming and what makes Ruby special. A guest blog post on RubyLearning.
+thesis_keywords:
+- Ruby, Programming, Matt Aimonetti, Ruby for Noobs, Ruby beginner
+thesis_title:
+- The Ruby movement by Matt Aimonetti
+title: The Ruby movement
+topsy_short_url:
+- http://bit.ly/d4jOgR
 ---
+
 <div>
   <p class="update">
     This guest post is contributed by <b><a rel='author' href="http://matt.aimonetti.net/">Matt Aimonetti</a></b>, a Senior Engineer at Sony Playstation in San Diego, CA. <a href="https://plus.google.com/101114877505962271216?author" rel="author">Matt</a> has been active in the Ruby community for many years, he developed or contributed to a lot OSS libraries and frameworks, spoke at users groups and conferences in the U.S. and abroad. Working with startups, fortune 100 companies and traditional companies, he had the opportunity to be involved with really captivating Ruby, MacRuby, noSQL/lessSQL, Rails and Merb projects. Matt is currently writing a <a href="http://macruby.labs.oreilly.com/">MacRuby book for O&#8217;Reilly</a>, available for free online.

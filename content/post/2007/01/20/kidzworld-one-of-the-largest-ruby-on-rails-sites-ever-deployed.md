@@ -1,12 +1,13 @@
 ---
-title: 'Kidzworld: One Of The Largest Ruby On Rails Sites Ever Deployed'
-author: "Satish Talim"
-date: "2007-01-20"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - rails
+- news
+- rails
+date: 2007-01-20
+layout: post
+title: 'Kidzworld: One Of The Largest Ruby On Rails Sites Ever Deployed'
 ---
+
 **Kidzworld**: a fully moderated, safe and secure social networking
 site for kids. In this world, internet savvy grade-schoolers can play
 games, enter contests, win prizes, test their knowledge in trivia

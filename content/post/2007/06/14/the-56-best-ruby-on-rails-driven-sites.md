@@ -1,11 +1,12 @@
 ---
-title: "The 56 Best Ruby on Rails Driven Sites"
-author: "Satish Talim"
-date: "2007-06-14"
-layout: post
+author: Satish Talim
 categories:
-  - rails
+- rails
+date: 2007-06-14
+layout: post
+title: The 56 Best Ruby on Rails Driven Sites
 ---
+
 To showcase the latest and greatest RoR implementations<!--more-->,
 [softwaredeveloper.com](http://www.softwaredeveloper.com/features/best-ruby-on-rails-061307/)
 has assembled a list of the 56 best Ruby on Rails websites and tools in

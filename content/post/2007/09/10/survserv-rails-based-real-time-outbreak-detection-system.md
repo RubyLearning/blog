@@ -1,14 +1,15 @@
 ---
-title: "Survserv: Rails based Real Time Outbreak Detection System"
-author: "Satish Talim"
-date: "2007-09-10"
-layout: post
+author: Satish Talim
 categories:
-  - interview
-  - news
-  - rails
-  - ruby
+- interview
+- news
+- rails
+- ruby
+date: 2007-09-10
+layout: post
+title: 'Survserv: Rails based Real Time Outbreak Detection System'
 ---
+
 [![Arindam
 Basu](http://www.rubylearning.com/images/ab.jpg)](http://www.rubylearning.com/images/ab.jpg "Arindam Basu")
 

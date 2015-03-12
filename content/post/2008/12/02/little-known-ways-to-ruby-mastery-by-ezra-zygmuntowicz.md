@@ -1,31 +1,35 @@
 ---
-title: Little Known Ways to Ruby Mastery by Ezra Zygmuntowicz
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Ruby
+- Ruby Masters
 date: 2008-12-02
+description:
+- The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to
+  and answers questions confronting Ruby beginners from across the globe.
+keywords:
+- ruby for beginners,ruby beginners,ruby programming,ruby on rails blog,rails blog,rails
+  tutorials,ruby beginners\' questions,little known ways to ruby mastery,ruby masters,interviews,ruby,the
+  ruby programming language,Ezra Zygmuntowicz,merb
 layout: post
 permalink: /2008/12/02/little-known-ways-to-ruby-mastery-by-ezra-zygmuntowicz/
-willian.molinari@gmail.com:
-  - pothix
-keywords:
-  - "ruby for beginners,ruby beginners,ruby programming,ruby on rails blog,rails blog,rails tutorials,ruby beginners\\\' questions,little known ways to ruby mastery,ruby masters,interviews,ruby,the ruby programming language,Ezra Zygmuntowicz,merb"
-description:
-  - The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to and answers questions confronting Ruby beginners from across the globe.
-topsy_short_url:
-  - http://bit.ly/cEXQnv
-categories:
-  - Beginners
-  - Interview
-  - Ruby
-  - Ruby Masters
 tags:
-  - Ezra Zygmuntowicz
-  - interviews
-  - Little Known Ways to Ruby Mastery
-  - Merb
-  - Ruby
-  - "Ruby Beginners' Questions"
-  - The Ruby Programming Language
+- Ezra Zygmuntowicz
+- interviews
+- Little Known Ways to Ruby Mastery
+- Merb
+- Ruby
+- Ruby Beginners' Questions
+- The Ruby Programming Language
+title: Little Known Ways to Ruby Mastery by Ezra Zygmuntowicz
+topsy_short_url:
+- http://bit.ly/cEXQnv
+willian.molinari@gmail.com:
+- pothix
 ---
+
 <div>
   <h3>
     A weekly series from the Ruby Masters

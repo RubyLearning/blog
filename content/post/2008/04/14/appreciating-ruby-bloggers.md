@@ -1,19 +1,20 @@
 ---
-title: Appreciating Ruby Bloggers
 author: Satish Talim
+categories:
+- Rails
+- Ruby
 date: 2008-04-14
 layout: post
 permalink: /2008/04/14/appreciating-ruby-bloggers/
-categories:
-  - Rails
-  - Ruby
 tags:
-  - bloggers
-  - bloggers appreciation day
-  - Ruby
-  - ruby bloggers
-  - ruby programming
+- bloggers
+- bloggers appreciation day
+- Ruby
+- ruby bloggers
+- ruby programming
+title: Appreciating Ruby Bloggers
 ---
+
 <div>
   <p>
     <strong>Darren Rowse</strong>, as usual, has come up with a lovely idea &#8220;<a href="http://www.problogger.net/archives/2008/04/14/today-is-blogger-appreciation-day-unofficial/#more-5553">Today is Blogger Appreciation Day [UNOFFICIAL]</a>&#8221; &#8211; that certainly fosters the sense of community, which I love about blogging. In Darren&#8217;s words:

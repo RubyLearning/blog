@@ -1,29 +1,32 @@
 ---
-title: An introduction to eventmachine, and how to avoid callback spaghetti
 author: Martyn Loughran
+categories:
+- Beginners
+- Popular
+- Ruby
+- Ruby Masters
 date: 2010-10-01
 layout: post
 permalink: /2010/10/01/an-introduction-to-eventmachine-and-how-to-avoid-callback-spaghetti/
-thesis_description:
-  - Martyn Loughran gives an introduction to eventmachine, and how to avoid callback spaghetti in this guest post on RubyLearning.
-thesis_keywords:
-  - Ruby eventmachine,Ruby, Programming, Martyn Loughran, Ruby for Noobs, Ruby beginners, eventmachine
-topsy_short_url:
-  - http://bit.ly/alZZI4
-categories:
-  - Beginners
-  - Popular
-  - Ruby
-  - Ruby Masters
 tags:
-  - eventmachine
-  - Martyn Loughran
-  - programming
-  - Ruby
-  - Ruby Beginners
-  - Ruby eventmachine
-  - Ruby for Noobs
+- eventmachine
+- Martyn Loughran
+- programming
+- Ruby
+- Ruby Beginners
+- Ruby eventmachine
+- Ruby for Noobs
+thesis_description:
+- Martyn Loughran gives an introduction to eventmachine, and how to avoid callback
+  spaghetti in this guest post on RubyLearning.
+thesis_keywords:
+- Ruby eventmachine,Ruby, Programming, Martyn Loughran, Ruby for Noobs, Ruby beginners,
+  eventmachine
+title: An introduction to eventmachine, and how to avoid callback spaghetti
+topsy_short_url:
+- http://bit.ly/alZZI4
 ---
+
 <div>
   <h3 id="an_introduction_to_eventmachine_and_how_to_avoid_callback_spaghetti">
     An introduction to eventmachine, and how to avoid callback spaghetti

@@ -1,28 +1,29 @@
 ---
-title: 'A "FREE" Ruby Metaprogramming Course - Learn to Think in Ruby'
-draft: true
 author: Satish Talim
+categories:
+- Metaprogramming
+- Ruby
+- Training
 date: 2013-02-08
+draft: true
 layout: post
 permalink: /2013/02/08/a-free-ruby-metaprogramming-course-learn-to-think-in-ruby/
-thesis_description:
-  - The only online course on Ruby metaprogramming by RubyLearning.
-thesis_keywords:
-  - Ruby course,Ruby training,Ruby,Shoes,The Ruby Programming Language,metaprogramming
-topsy_short_url:
-  - http://bit.ly/YIPnjf
-categories:
-  - Metaprogramming
-  - Ruby
-  - Training
 tags:
-  - Metaprogramming
-  - Ruby
-  - Ruby course
-  - Ruby training
-  - Shoes
-  - The Ruby Programming Language
+- Metaprogramming
+- Ruby
+- Ruby course
+- Ruby training
+- Shoes
+- The Ruby Programming Language
+thesis_description:
+- The only online course on Ruby metaprogramming by RubyLearning.
+thesis_keywords:
+- Ruby course,Ruby training,Ruby,Shoes,The Ruby Programming Language,metaprogramming
+title: A "FREE" Ruby Metaprogramming Course - Learn to Think in Ruby
+topsy_short_url:
+- http://bit.ly/YIPnjf
 ---
+
 <div>
   <h3>
     A New Ruby Metaprogramming Course

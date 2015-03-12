@@ -1,35 +1,39 @@
 ---
-title: Little Known Ways to Ruby Mastery by Jay Fields
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Ruby
+- Ruby Masters
 date: 2008-10-21
+description:
+- The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to
+  and answers questions confronting Ruby beginners from across the globe.
+keywords:
+- ruby for beginners,ruby beginners,ruby programming,ruby on rails blog,rails blog,rails
+  tutorials,ruby beginners\' questions,little known ways to ruby mastery,ruby masters,interviews,Jay
+  Fields,ruby,the ruby programming language
 layout: post
 permalink: /2008/10/21/little-known-ways-to-ruby-mastery-by-jay-fields/
-keywords:
-  - "ruby for beginners,ruby beginners,ruby programming,ruby on rails blog,rails blog,rails tutorials,ruby beginners\\\' questions,little known ways to ruby mastery,ruby masters,interviews,Jay Fields,ruby,the ruby programming language"
-description:
-  - The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to and answers questions confronting Ruby beginners from across the globe.
-topsy_short_url:
-  - http://bit.ly/aQ5Apa
-categories:
-  - Beginners
-  - Interview
-  - Ruby
-  - Ruby Masters
 tags:
-  - interviews
-  - Jay Fields
-  - Little Known Ways to Ruby Mastery
-  - Rails blog
-  - Rails tutorials
-  - Ruby
-  - Ruby Beginners
-  - "Ruby Beginners' Questions"
-  - ruby for beginners
-  - Ruby Masters
-  - Ruby on Rails blog
-  - ruby programming
-  - The Ruby Programming Language
+- interviews
+- Jay Fields
+- Little Known Ways to Ruby Mastery
+- Rails blog
+- Rails tutorials
+- Ruby
+- Ruby Beginners
+- Ruby Beginners' Questions
+- ruby for beginners
+- Ruby Masters
+- Ruby on Rails blog
+- ruby programming
+- The Ruby Programming Language
+title: Little Known Ways to Ruby Mastery by Jay Fields
+topsy_short_url:
+- http://bit.ly/aQ5Apa
 ---
+
 <div>
   <h3>
     A weekly series from the Ruby Masters

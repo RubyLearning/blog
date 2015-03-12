@@ -1,29 +1,31 @@
 ---
-title: 'New - A Revamped Ruby with Shoes Course Announced'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Shoes
+- Training
 date: 2009-03-15
+description:
+- The only online course on using Shoes with Ruby at RubyLearning.org and conducted
+  by Satoshi Asakawa.
+draft: true
+keywords:
+- Ruby course,Ruby training,Ruby,Satoshi Asakawa,Shoes,The Ruby Programming Language
 layout: post
 permalink: /2009/03/15/new-a-revamped-ruby-with-shoes-course-announced/
-keywords:
-  - Ruby course,Ruby training,Ruby,Satoshi Asakawa,Shoes,The Ruby Programming Language
-description:
-  - The only online course on using Shoes with Ruby at RubyLearning.org and conducted by Satoshi Asakawa.
-topsy_short_url:
-  - http://bit.ly/bEfHnl
-categories:
-  - Beginners
-  - Ruby
-  - Shoes
-  - Training
 tags:
-  - Ruby
-  - Ruby course
-  - Ruby training
-  - Satoshi Asakawa
-  - Shoes
-  - The Ruby Programming Language
+- Ruby
+- Ruby course
+- Ruby training
+- Satoshi Asakawa
+- Shoes
+- The Ruby Programming Language
+title: New - A Revamped Ruby with Shoes Course Announced
+topsy_short_url:
+- http://bit.ly/bEfHnl
 ---
+
 <div>
   <h3>
     A Revamped Ruby with Shoes Course

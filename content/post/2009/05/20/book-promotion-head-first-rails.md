@@ -1,27 +1,29 @@
 ---
-title: 'Book Promotion: Head First Rails'
 author: Satish Talim
+categories:
+- Beginners
+- Book Promotions
+- Promotions
+- Rails
+- Ruby
 date: 2009-05-20
+description:
+- Book Promotion of Head First Rails by David Griffiths on RubyLearning.org
+keywords:
+- Ruby,Book Promotions,Head First Rails,The Ruby Programming Language,Ruby on Rails,David
+  Griffiths
 layout: post
 permalink: /2009/05/20/book-promotion-head-first-rails/
-keywords:
-  - Ruby,Book Promotions,Head First Rails,The Ruby Programming Language,Ruby on Rails,David Griffiths
-description:
-  - Book Promotion of Head First Rails by David Griffiths on RubyLearning.org
-categories:
-  - Beginners
-  - Book Promotions
-  - Promotions
-  - Rails
-  - Ruby
 tags:
-  - Book Promotions
-  - David Griffiths
-  - Head First Rails
-  - Ruby
-  - Ruby on Rails
-  - The Ruby Programming Language
+- Book Promotions
+- David Griffiths
+- Head First Rails
+- Ruby
+- Ruby on Rails
+- The Ruby Programming Language
+title: 'Book Promotion: Head First Rails'
 ---
+
 <div>
   <h3>
     Book Promotion: Head First Rails

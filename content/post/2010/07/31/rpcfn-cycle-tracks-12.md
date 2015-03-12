@@ -1,27 +1,29 @@
 ---
-title: 'RPCFN: Cycle Tracks - 12'
 author: Satish Talim
+categories:
+- Beginners
+- RPCFN
+- Ruby
 date: 2010-07-31
 layout: post
 permalink: /2010/07/31/rpcfn-cycle-tracks-12/
-thesis_description:
-  - 'The Ruby Programming Challenge for Beginners #12 by David Griffiths on RubyLearning.'
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,David Griffiths
-topsy_short_url:
-  - http://bit.ly/bCm6ue
-categories:
-  - Beginners
-  - RPCFN
-  - Ruby
 tags:
-  - David Griffiths
-  - programming
-  - RPCFN
-  - Ruby
-  - Ruby Programming Challenge For Newbies
-  - The Ruby Programming Language
+- David Griffiths
+- programming
+- RPCFN
+- Ruby
+- Ruby Programming Challenge For Newbies
+- The Ruby Programming Language
+thesis_description:
+- 'The Ruby Programming Challenge for Beginners #12 by David Griffiths on RubyLearning.'
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,David
+  Griffiths
+title: 'RPCFN: Cycle Tracks - 12'
+topsy_short_url:
+- http://bit.ly/bCm6ue
 ---
+
 <div>
   <h3>
     Ruby Programming Challenge For Newbies

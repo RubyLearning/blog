@@ -1,23 +1,24 @@
 ---
-title:
-  - "BuildingWebApps: News about RubyLearning\'s Sponsor "
 author: Satish Talim
+categories:
+- Ruby
+- Sponsors
 date: 2008-09-17
 layout: post
-permalink: /2008/09/17/news-on-rubylearnings-sponsor-buildingwebapps/
-metakeywords:
-  - BuildingWebApps,Ruby,Sponsors,Webvanta
 metadescription:
-  - "News on RubyLearning\'s Sponsor BuildingWebApps"
-categories:
-  - Ruby
-  - Sponsors
+- News on RubyLearning's Sponsor BuildingWebApps
+metakeywords:
+- BuildingWebApps,Ruby,Sponsors,Webvanta
+permalink: /2008/09/17/news-on-rubylearnings-sponsor-buildingwebapps/
 tags:
-  - BuildingWebApps
-  - Ruby
-  - Sponsors
-  - Webvanta
+- BuildingWebApps
+- Ruby
+- Sponsors
+- Webvanta
+title:
+- 'BuildingWebApps: News about RubyLearning''s Sponsor '
 ---
+
 <div>
   <p class="note">
     <strong><a href="http://www.buildingwebapps.com/">BuildingWebApps</a></strong> is a resource site for Ruby on Rails developers that includes more than two dozen original articles, including Rails setup guides for Windows and Mac, as well as more than 1,000 links to the best resources from all around the web. It is also the home of the very popular Free Online Course on Ruby on Rails. I am including any news or developments the sponsor has had during August 2008.

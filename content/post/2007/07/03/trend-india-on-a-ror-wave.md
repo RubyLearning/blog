@@ -1,12 +1,13 @@
 ---
-title: 'Trend: India on a RoR wave'
-author: "Satish Talim"
-date: "2007-07-03"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-07-03
+layout: post
+title: 'Trend: India on a RoR wave'
 ---
+
 With **[Google Trends](http://www.google.com/trends)**, you can compare
 the world’s interest in your favorite topics. Google Trends shows how
 frequently your topics have appeared in Google News stories, and in

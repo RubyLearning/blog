@@ -1,16 +1,17 @@
 ---
-title: "Advice For Ruby Beginners 3"
-author: "Satish Talim"
-date: "2007-10-04"
-layout: post
+author: Satish Talim
 categories:
-  - beginners
-  - interview
-  - popular
-  - rails
-  - ruby
-  - training
+- beginners
+- interview
+- popular
+- rails
+- ruby
+- training
+date: 2007-10-04
+layout: post
+title: Advice For Ruby Beginners 3
 ---
+
 This is part 3 in our [ongoing
 conversation](http://rubylearning.com/blog/2007/09/27/advice-for-ruby-beginners-1/)
 – “**Advice For Ruby Beginners**“.<!--more-->

@@ -1,27 +1,29 @@
 ---
-title: 'RPCFN: Mazes - 5'
 author: Satish Talim
+categories:
+- beginners
+- rpcfn
+- ruby
 date: 2009-12-27
 layout: post
 permalink: /2009/12/27/rpcfn-mazes-5/
-thesis_description:
-  - "The fifth Ruby Programming Challenge for Newbies by RubyInside's Peter Cooper."
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,Peter Cooper
-topsy_short_url:
-  - http://bit.ly/57HLXY
-categories:
-  - beginners
-  - rpcfn
-  - ruby
 tags:
-  - peter cooper
-  - programming
-  - rpcfn
-  - ruby
-  - ruby programming challenge for newbies
-  - the ruby programming language
+- peter cooper
+- programming
+- rpcfn
+- ruby
+- ruby programming challenge for newbies
+- the ruby programming language
+thesis_description:
+- The fifth Ruby Programming Challenge for Newbies by RubyInside's Peter Cooper.
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,Peter
+  Cooper
+title: 'RPCFN: Mazes - 5'
+topsy_short_url:
+- http://bit.ly/57HLXY
 ---
+
 <div>
   <p class="update">
     RubyLearning wishes all its readers and their friends and families a happy, healthy 2010. Thanks to everyone for the support and encouragement this year. It&#8217;s been a fun and rewarding year and we do appreciate all that you contribute to this site.

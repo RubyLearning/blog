@@ -1,21 +1,22 @@
 ---
-title: Rubyists and Companies I am thankful for in 2009
 author: Satish Talim
+categories:
+- Ruby
 date: 2009-12-05
 layout: post
 permalink: /2009/12/05/rubyists-and-companies-i-am-thankful-for-in-2009/
-thesis_keywords:
-  - ruby,rubyists
-thesis_description:
-  - Rubyists and companies who helped RubyLearning in 2009.
-topsy_short_url:
-  - http://bit.ly/6DSN8D
-categories:
-  - Ruby
 tags:
-  - Ruby
-  - Rubyists
+- Ruby
+- Rubyists
+thesis_description:
+- Rubyists and companies who helped RubyLearning in 2009.
+thesis_keywords:
+- ruby,rubyists
+title: Rubyists and Companies I am thankful for in 2009
+topsy_short_url:
+- http://bit.ly/6DSN8D
 ---
+
 <div>
   <p>
     This year, I would like to thank the following companies and rubyists.

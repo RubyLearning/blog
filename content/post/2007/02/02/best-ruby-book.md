@@ -1,11 +1,12 @@
 ---
-title: "Best Ruby Books"
-author: "Satish Talim"
-date: "2007-02-02"
-layout: post
+author: Satish Talim
 categories:
-  - Ruby
+- Ruby
+date: 2007-02-02
+layout: post
+title: Best Ruby Books
 ---
+
 An excellent blog post by [Peter
 Szinek](http://www.rubyrailways.com/book-review-ruby-cookbook/) got me
 thinking on my choice of the **Best Ruby Books** for the year 2006.

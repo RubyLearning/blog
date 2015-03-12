@@ -1,12 +1,13 @@
 ---
-title: "Ruby on Rails in India"
-author: "Satish Talim"
-date: "2007-04-24"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-04-24
+layout: post
+title: Ruby on Rails in India
 ---
+
 I have been asked time and again about companies in India working on
 Ruby on Rails. Here’s a partial list of companies (in alphabetical
 order) that do so.

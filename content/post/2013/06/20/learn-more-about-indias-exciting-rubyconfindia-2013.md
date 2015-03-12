@@ -1,24 +1,25 @@
 ---
-title: "Learn More About India's Exciting RubyConfIndia 2013"
 author: Prakash Murthy
+categories:
+- general
+- ruby
 date: 2013-06-20
 layout: post
 permalink: /2013/06/20/learn-more-about-indias-exciting-rubyconfindia-2013/
-thesis_description:
-  - "Learn about India's only Ruby conference the RubyConfIndia 2013."
-thesis_keywords:
-  - Ruby, Programming, RubyConfIndia 2013, Ruby conference
-topsy_short_url:
-  - http://bit.ly/1avEGHM
-categories:
-  - general
-  - ruby
 tags:
-  - programming
-  - ruby
-  - ruby conference
-  - rubyconfindia 2013
+- programming
+- ruby
+- ruby conference
+- rubyconfindia 2013
+thesis_description:
+- Learn about India's only Ruby conference the RubyConfIndia 2013.
+thesis_keywords:
+- Ruby, Programming, RubyConfIndia 2013, Ruby conference
+title: Learn More About India's Exciting RubyConfIndia 2013
+topsy_short_url:
+- http://bit.ly/1avEGHM
 ---
+
 <div>
   <h2>
     Learn More About India&#8217;s Exciting RubyConfIndia 2013

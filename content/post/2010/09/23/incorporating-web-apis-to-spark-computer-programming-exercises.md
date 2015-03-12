@@ -1,24 +1,26 @@
 ---
-title: Incorporating Web APIs to spark computer programming exercises
 author: Karmen Blake
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-09-23
 layout: post
 permalink: /2010/09/23/incorporating-web-apis-to-spark-computer-programming-exercises/
-thesis_description:
-  - Karmen Blake explains why we must incorporate Web APIs to spark computer programming exercises. A guest blog post on RubyLearning.
-thesis_keywords:
-  - Ruby, Programming, Karmen Blake
-topsy_short_url:
-  - http://bit.ly/bDsmMW
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - Karmen Blake
-  - programming
-  - Ruby
+- Karmen Blake
+- programming
+- Ruby
+thesis_description:
+- Karmen Blake explains why we must incorporate Web APIs to spark computer programming
+  exercises. A guest blog post on RubyLearning.
+thesis_keywords:
+- Ruby, Programming, Karmen Blake
+title: Incorporating Web APIs to spark computer programming exercises
+topsy_short_url:
+- http://bit.ly/bDsmMW
 ---
+
 <div>
   <h3>
     Incorporating Web APIs to spark computer programming exercises

@@ -1,22 +1,24 @@
 ---
-title: "RubyLearning's Sponsor: ProjectLocker"
 author: Satish Talim
+categories:
+- ruby
+- sponsors
 date: 2009-03-24
+description:
+- ProjectLocker is one of the silver sponsor of the Using Twitter with Ruby course
+  at RubyLearning.
+keywords:
+- ProjectLocker,Ruby,Ruby on Rails,Sponsors
 layout: post
 permalink: /2009/03/24/rubylearnings-sponsor-projectlocker/
-keywords:
-  - ProjectLocker,Ruby,Ruby on Rails,Sponsors
-description:
-  - ProjectLocker is one of the silver sponsor of the Using Twitter with Ruby course at RubyLearning.
-categories:
-  - ruby
-  - sponsors
 tags:
-  - projectlocker
-  - ruby
-  - ruby on rails
-  - sponsors
+- projectlocker
+- ruby
+- ruby on rails
+- sponsors
+title: 'RubyLearning''s Sponsor: ProjectLocker'
 ---
+
 <div>
   <p>
     It&#8217;s time to thank RubyLearning&#8217;s sponsor &#8211; <a href="http://www.projectlocker.com/">ProjectLocker</a>.

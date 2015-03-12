@@ -1,22 +1,24 @@
 ---
-title: 'Ruby Programming and Education: A Match Made in Heaven'
 author: Kate Cunningham
+categories:
+- Beginners
+- Ruby
 date: 2010-08-11
 layout: post
 permalink: /2010/08/11/ruby-programming-and-education-a-match-made-in-heaven/
-thesis_keywords:
-  - Ruby, Programming
-thesis_description:
-  - 'A guest post by Kate Cunningham on Ruby Programming and Education: A Match Made in Heaven.'
-topsy_short_url:
-  - 
-categories:
-  - Beginners
-  - Ruby
 tags:
-  - programming
-  - Ruby
+- programming
+- Ruby
+thesis_description:
+- 'A guest post by Kate Cunningham on Ruby Programming and Education: A Match Made
+  in Heaven.'
+thesis_keywords:
+- Ruby, Programming
+title: 'Ruby Programming and Education: A Match Made in Heaven'
+topsy_short_url:
+- null
 ---
+
 <div>
   <h3>
     Ruby Programming and Education: A Match Made in Heaven

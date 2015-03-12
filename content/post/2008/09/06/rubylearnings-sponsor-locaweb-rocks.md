@@ -1,17 +1,19 @@
 ---
-title: "RubyLearning's Sponsor Locaweb Rocks!"
 author: Satish Talim
+categories:
+- ruby
+- sponsors
 date: 2008-09-06
 layout: post
-permalink: /2008/09/06/rubylearnings-sponsor-locaweb-rocks/
 metadescription:
-  - RubyLearning sponsor Locaweb sponsoring all the Free Ruby Programming Courses at RubyLearning
-categories:
-  - ruby
-  - sponsors
+- RubyLearning sponsor Locaweb sponsoring all the Free Ruby Programming Courses at
+  RubyLearning
+permalink: /2008/09/06/rubylearnings-sponsor-locaweb-rocks/
 tags:
-  - locaweb
+- locaweb
+title: RubyLearning's Sponsor Locaweb Rocks!
 ---
+
 <div>
   <p>
     It&#8217;s time to thank RubyLearning&#8217;s excellent sponsor &#8211; Locaweb.<sup class='footnote'><a href='#fn-360-1' id='fnref-360-1'>1</a></sup>

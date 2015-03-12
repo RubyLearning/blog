@@ -1,24 +1,26 @@
 ---
-title: "Throw, Catch, Raise, Rescue- I'm so confused!"
 author: Avdi Grimm
+categories:
+- beginners
+- ruby
+- ruby masters
 date: 2011-07-12
 layout: post
 permalink: /2011/07/12/throw-catch-raise-rescue-im-so-confused/
-thesis_description:
-  - Avdi Grimm explains the usage of Throw, Catch, Raise, Rescue in the Ruby programming language.
-thesis_keywords:
-  - Programming,Ruby programming, Avdi Grimm
-topsy_short_url:
-  - 
-categories:
-  - beginners
-  - ruby
-  - ruby masters
 tags:
-  - avdi grimm
-  - programming
-  - ruby programming
+- avdi grimm
+- programming
+- ruby programming
+thesis_description:
+- Avdi Grimm explains the usage of Throw, Catch, Raise, Rescue in the Ruby programming
+  language.
+thesis_keywords:
+- Programming,Ruby programming, Avdi Grimm
+title: Throw, Catch, Raise, Rescue- I'm so confused!
+topsy_short_url:
+- null
 ---
+
 <div>
   <h3>
     Throw, Catch, Raise, Rescue&#8230; I&#8217;m so confused!

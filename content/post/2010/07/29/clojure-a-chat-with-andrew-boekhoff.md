@@ -1,24 +1,26 @@
 ---
-title: 'Clojure: A Chat with Andrew Boekhoff'
 author: Satish Talim
+categories:
+- Clojure
+- Interview
 date: 2010-07-29
 layout: post
 permalink: /2010/07/29/clojure-a-chat-with-andrew-boekhoff/
-thesis_description:
-  - A Chat with Andrew Boekhoff, author of CongoMongo, a toolkit for using MongoDB with Clojure.
-thesis_keywords:
-  - Andrew Boekhoff,Clojure,MongoDB,congomongo
-topsy_short_url:
-  - http://bit.ly/bh4v19
-categories:
-  - Clojure
-  - Interview
 tags:
-  - Andrew Boekhoff
-  - Clojure
-  - congomongo
-  - MongoDB
+- Andrew Boekhoff
+- Clojure
+- congomongo
+- MongoDB
+thesis_description:
+- A Chat with Andrew Boekhoff, author of CongoMongo, a toolkit for using MongoDB with
+  Clojure.
+thesis_keywords:
+- Andrew Boekhoff,Clojure,MongoDB,congomongo
+title: 'Clojure: A Chat with Andrew Boekhoff'
+topsy_short_url:
+- http://bit.ly/bh4v19
 ---
+
 <div>
   <p class="alert">
     In this brief interview, Satish Talim of RubyLearning talks to <b>Andrew Boekhoff</b>, author of <a href="http://github.com/somnium/congomongo">CongoMongo</a>, a toolkit for using MongoDB with Clojure.

@@ -1,28 +1,29 @@
 ---
-title: 'Interview: Aaron Quint on Sinatra (Reprint)'
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Ruby
+- Sinatra
 date: 2015-01-07
 layout: post
 permalink: /2015/01/07/interview-aaron-quint-on-sinatra-reprint/
-thesis_description:
-  - 'Interview: Aaron Quint on Sinatra'
-thesis_keywords:
-  - 1st Easy Limited,Aaron Quint,Interviews,Ruby,Sinatra,The Ruby Programming Language
-topsy_short_url:
-  - http://bit.ly/1HLkmC1
-categories:
-  - Beginners
-  - Interview
-  - Ruby
-  - Sinatra
 tags:
-  - 1st Easy Limited
-  - Aaron Quint
-  - interviews
-  - Ruby
-  - Sinatra
-  - The Ruby Programming Language
+- 1st Easy Limited
+- Aaron Quint
+- interviews
+- Ruby
+- Sinatra
+- The Ruby Programming Language
+thesis_description:
+- 'Interview: Aaron Quint on Sinatra'
+thesis_keywords:
+- 1st Easy Limited,Aaron Quint,Interviews,Ruby,Sinatra,The Ruby Programming Language
+title: 'Interview: Aaron Quint on Sinatra (Reprint)'
+topsy_short_url:
+- http://bit.ly/1HLkmC1
 ---
+
 <div>
   <p>
     <b>Note</b>: This article first appeared on 20th March 2009 but the original is not accessible; hence the reprint.

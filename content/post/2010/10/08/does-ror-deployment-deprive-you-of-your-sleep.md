@@ -1,27 +1,29 @@
 ---
-title: Does ROR deployment deprive YOU of your sleep?
 author: Fabio Akita
+categories:
+- Beginners
+- Ruby
+- Ruby Masters
 date: 2010-10-08
 layout: post
 permalink: /2010/10/08/does-ror-deployment-deprive-you-of-your-sleep/
-thesis_description:
-  - Fabio Akita talks about Inploy and why ROR deployment is a breeze. A guest blog post on RubyLearning.
-thesis_keywords:
-  - Ruby, Programming, Fabio Akita, Ruby for Noobs, Ruby beginners,Inploy
-topsy_short_url:
-  - http://bit.ly/d8v2FW
-categories:
-  - Beginners
-  - Ruby
-  - Ruby Masters
 tags:
-  - fabio akita
-  - Inploy
-  - programming
-  - Ruby
-  - Ruby Beginners
-  - Ruby for Noobs
+- fabio akita
+- Inploy
+- programming
+- Ruby
+- Ruby Beginners
+- Ruby for Noobs
+thesis_description:
+- Fabio Akita talks about Inploy and why ROR deployment is a breeze. A guest blog
+  post on RubyLearning.
+thesis_keywords:
+- Ruby, Programming, Fabio Akita, Ruby for Noobs, Ruby beginners,Inploy
+title: Does ROR deployment deprive YOU of your sleep?
+topsy_short_url:
+- http://bit.ly/d8v2FW
 ---
+
 <div>
   <h3>
     Inploy: The No Brainer Deployment Solution

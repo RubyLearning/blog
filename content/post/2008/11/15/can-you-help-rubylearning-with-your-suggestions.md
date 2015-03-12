@@ -1,24 +1,25 @@
 ---
-title: Can you help RubyLearning with your suggestions?
 author: Satish Talim
+categories:
+- JRuby
+- Poll
+- Ruby
+- Training
 date: 2008-11-15
+description:
+- The popular RubyLearning portal is now going to offer new courses in Ruby.
+keywords:
+- Poll,Ruby,Ruby Beginners,Ruby Courses,The Ruby Programming Language
 layout: post
 permalink: /2008/11/15/can-you-help-rubylearning-with-your-suggestions/
-keywords:
-  - Poll,Ruby,Ruby Beginners,Ruby Courses,The Ruby Programming Language
-description:
-  - The popular RubyLearning portal is now going to offer new courses in Ruby.
-categories:
-  - JRuby
-  - Poll
-  - Ruby
-  - Training
 tags:
-  - Poll
-  - Ruby
-  - Ruby Courses
-  - The Ruby Programming Language
+- Poll
+- Ruby
+- Ruby Courses
+- The Ruby Programming Language
+title: Can you help RubyLearning with your suggestions?
 ---
+
 <div>
   <h3>
     New Course Offerings

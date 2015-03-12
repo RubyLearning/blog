@@ -1,27 +1,29 @@
 ---
-title: 'Introduction to Merb: 3rd batch'
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Training
 date: 2009-03-02
-layout: post
-permalink: /2009/03/02/introduction-to-merb-3rd-batch/
+description:
+- With Merb and Rails merging, this training is basically the first training focusing
+  on the future features of Rails 3, and a great way to get ahead of the game.
 draft: true
 keywords:
-  - Merb,Ruby,The Ruby Programming Language,Merb in Action,Merb examples
-description:
-  - With Merb and Rails merging, this training is basically the first training focusing on the future features of Rails 3, and a great way to get ahead of the game.
-topsy_short_url:
-  - http://bit.ly/b91OPE
-categories:
-  - Beginners
-  - Ruby
-  - Training
+- Merb,Ruby,The Ruby Programming Language,Merb in Action,Merb examples
+layout: post
+permalink: /2009/03/02/introduction-to-merb-3rd-batch/
 tags:
-  - Merb
-  - Merb examples
-  - Merb in Action
-  - Ruby
-  - The Ruby Programming Language
+- Merb
+- Merb examples
+- Merb in Action
+- Ruby
+- The Ruby Programming Language
+title: 'Introduction to Merb: 3rd batch'
+topsy_short_url:
+- http://bit.ly/b91OPE
 ---
+
 <div>
   <h3>
     Introduction to Merb Course

@@ -1,24 +1,26 @@
 ---
-title: Yahoo! Web Services in Ruby
 author: Satish Talim
+categories:
+- Popular
+- Ruby
 date: 2008-04-25
 layout: post
-permalink: /2008/04/25/yahoo-web-services-in-ruby/
 metadescription:
-  - Yahoo! Web Services are a set of online services that can be used by developers when creating Mashups.
+- Yahoo! Web Services are a set of online services that can be used by developers
+  when creating Mashups.
 metakeywords:
-  - Yahoo! Web Services in Ruby
-categories:
-  - Popular
-  - Ruby
+- Yahoo! Web Services in Ruby
+permalink: /2008/04/25/yahoo-web-services-in-ruby/
 tags:
-  - programming
-  - rest
-  - Ruby
-  - ruby programming
-  - web services
-  - yahoo
+- programming
+- rest
+- Ruby
+- ruby programming
+- web services
+- yahoo
+title: Yahoo! Web Services in Ruby
 ---
+
 <div>
   <p class="block">
     <img class="alignleft" title="Jose Carlos Monteiro" src="http://www.rubylearning.com/images/josecm.jpg" alt="Jose Carlos Monteiro" /><strong><a href="mailto:jose-t-monteiro@telecom.pt">Jose Carlos Monteiro</a></strong> is a Portuguese Ruby enthusiast and a mentor at RubyLearning.org. He has over 11 years of experience in programming with languages such as C, C++, Delphi, Java, Perl, PHP. He is also familiar with coding Unix Shell Scripts and used to working with version control systems (CVS and Subversion). His short-term goal is to acquire new skills, such as becoming more experienced in working with &#8220;modern&#8221; build tools (rake) and continuous integration tools. He also aims to become more familiar in applying modern concepts/methodologies such as TDD/BDD in his day-to-day work.

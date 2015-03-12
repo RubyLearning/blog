@@ -1,24 +1,25 @@
 ---
-title: Little Known Ways to Ruby Mastery by Josh Susser
+apostlion@gmail.com:
+- apostlion
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Ruby
+- Ruby Masters
 date: 2009-01-06
 layout: post
 permalink: /2009/01/06/little-known-ways-to-ruby-mastery-by-josh-susser/
-apostlion@gmail.com:
-  - apostlion
-categories:
-  - Beginners
-  - Interview
-  - Ruby
-  - Ruby Masters
 tags:
-  - interviews
-  - Josh Susser
-  - Little Known Ways to Ruby Mastery
-  - Ruby
-  - "Ruby Beginners' Questions"
-  - The Ruby Programming Language
+- interviews
+- Josh Susser
+- Little Known Ways to Ruby Mastery
+- Ruby
+- Ruby Beginners' Questions
+- The Ruby Programming Language
+title: Little Known Ways to Ruby Mastery by Josh Susser
 ---
+
 <div>
   <h3>
     A weekly series from the Ruby Masters

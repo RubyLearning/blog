@@ -1,13 +1,14 @@
 ---
-title: 'Josh Software: Making its mark in Ruby on Rails'
-author: "Satish Talim"
-date: "2007-12-04"
-layout: post
+author: Satish Talim
 categories:
-  - interview
-  - rails
-  - ruby
+- interview
+- rails
+- ruby
+date: 2007-12-04
+layout: post
+title: 'Josh Software: Making its mark in Ruby on Rails'
 ---
+
 *Pune is now increasingly becoming the hot-bed of Ruby on Rails activity
 in India and Josh Software Pvt. Ltd. are strongly making a mark in this
 field. Satish Talim of RubyLearning.com recently talked to Gautam Rege,

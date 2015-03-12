@@ -1,15 +1,16 @@
 ---
-title: 'David Black Interview: Talking to RubyLearning.com'
-author: "Satish Talim"
-date: "2007-08-18"
-layout: post
+author: Satish Talim
 categories:
-  - beginners
-  - interview
-  - rails
-  - ruby
-  - training
+- beginners
+- interview
+- rails
+- ruby
+- training
+date: 2007-08-18
+layout: post
+title: 'David Black Interview: Talking to RubyLearning.com'
 ---
+
 [![David
 Black](http://www.rubylearning.com/images/david.jpg)](http://www.rubylearning.com/images/david.jpg "David Black")
 

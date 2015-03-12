@@ -1,12 +1,13 @@
 ---
-title: "Locating Office Space"
-author: "Satish Talim"
-date: "2007-01-26"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-01-26
+layout: post
+title: Locating Office Space
 ---
+
 Continuing with our series of blog posts with respect to ‘[Setting Up An
 IT Company In
 India](http://rubylearning.com/blog/2007/01/20/setting-up-an-it-company-in-india/)‘,

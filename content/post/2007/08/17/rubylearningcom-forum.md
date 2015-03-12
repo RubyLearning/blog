@@ -1,13 +1,14 @@
 ---
-title: "RubyLearning.com Forum"
-author: "Satish Talim"
-date: "2007-08-17"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - rails
-  - ruby
+- news
+- rails
+- ruby
+date: 2007-08-17
+layout: post
+title: RubyLearning.com Forum
 ---
+
 You demanded it. You have it! The RubyLearning.com
 Forum is up and running. (No longer in this form)
 

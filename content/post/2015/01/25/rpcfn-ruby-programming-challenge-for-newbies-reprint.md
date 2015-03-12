@@ -1,30 +1,31 @@
 ---
-title: 'RPCFN: Ruby Programming Challenge For Newbies (Reprint)'
 author: Satish Talim
+categories:
+- Beginners
+- RPCFN
+- Ruby
 date: 2015-01-25
 layout: post
 permalink: /2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/
-thesis_description:
-  - Details about the proposed Ruby Programming Challenge For Newbies at RubyLearning.
-thesis_keywords:
-  - Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN
-topsy_short_url:
-  - http://bit.ly/1CGJucj
-thesis_thumb_width:
-  - 66
-thesis_thumb_height:
-  - 66
-categories:
-  - Beginners
-  - RPCFN
-  - Ruby
 tags:
-  - programming
-  - RPCFN
-  - Ruby
-  - Ruby Programming Challenge For Newbies
-  - The Ruby Programming Language
+- programming
+- RPCFN
+- Ruby
+- Ruby Programming Challenge For Newbies
+- The Ruby Programming Language
+thesis_description:
+- Details about the proposed Ruby Programming Challenge For Newbies at RubyLearning.
+thesis_keywords:
+- Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN
+thesis_thumb_height:
+- 66
+thesis_thumb_width:
+- 66
+title: 'RPCFN: Ruby Programming Challenge For Newbies (Reprint)'
+topsy_short_url:
+- http://bit.ly/1CGJucj
 ---
+
 <div>
   <h3>
     RPCFN: Ruby Programming Challenge For Newbies

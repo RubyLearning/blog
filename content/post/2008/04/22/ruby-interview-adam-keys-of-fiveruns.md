@@ -1,18 +1,19 @@
 ---
-title: 'Ruby Interview: Adam Keys of FiveRuns'
 author: Satish Talim
+categories:
+- Interview
+- Ruby
 date: 2008-04-22
 layout: post
 permalink: /2008/04/22/ruby-interview-adam-keys-of-fiveruns/
-categories:
-  - Interview
-  - Ruby
 tags:
-  - Ruby
-  - ruby interviews
-  - Ruby on Rails
-  - ruby programming
+- Ruby
+- ruby interviews
+- Ruby on Rails
+- ruby programming
+title: 'Ruby Interview: Adam Keys of FiveRuns'
 ---
+
 <div>
   <p>
     <em>For the past two years, <strong><a href="http://rubylearning.org/">RubyLearning</a></strong> has been promoting the Ruby language world-wide, by conducting its <strong>Free Online Ruby Programming Course</strong>. 1000s of participants have either completed or are in the process of completing the course. Most Ruby course participants have a plethora of questions related to the language; opportunities in Ruby; Ruby&#8217;s future etc.</em>

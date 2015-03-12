@@ -1,30 +1,31 @@
 ---
-title: Want to create a Sinatra Web Service?
 author: Satish Talim
+categories:
+- Ruby
+- Sinatra
+- Training
 date: 2009-06-23
 layout: post
 permalink: /2009/06/23/want-to-create-a-sinatra-web-service/
-thesis_title:
-  - 'Sinatra Web Service: Sorter'
-thesis_description:
-  - Learn how to quickly write and create a Sinatra web service.
-thesis_keywords:
-  - cURL,Sinatra,Sinatra web service,Ruby programming,sorter,cloudControl
-topsy_short_url:
-  - http://bit.ly/9y6qlm
-categories:
-  - Ruby
-  - Sinatra
-  - Training
 tags:
-  - cloudControl
-  - cURL
-  - ruby programming
-  - Sinatra
-  - Sinatra tutorial
-  - Sinatra web service
-  - sorter
+- cloudControl
+- cURL
+- ruby programming
+- Sinatra
+- Sinatra tutorial
+- Sinatra web service
+- sorter
+thesis_description:
+- Learn how to quickly write and create a Sinatra web service.
+thesis_keywords:
+- cURL,Sinatra,Sinatra web service,Ruby programming,sorter,cloudControl
+thesis_title:
+- 'Sinatra Web Service: Sorter'
+title: Want to create a Sinatra Web Service?
+topsy_short_url:
+- http://bit.ly/9y6qlm
 ---
+
 <div>
   <p class="alert">
     With <strong>Sinatra</strong> you can quickly create your own tiny web-applications in Ruby and write lots of small services.

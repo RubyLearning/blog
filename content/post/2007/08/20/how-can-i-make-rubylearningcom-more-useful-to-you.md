@@ -1,12 +1,13 @@
 ---
-title: "How Can I Make RubyLearning.com More Useful To You?"
-author: "Satish Talim"
-date: "2007-08-20"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-08-20
+layout: post
+title: How Can I Make RubyLearning.com More Useful To You?
 ---
+
 #### It’s time for a reader question – how can I make my rubylearning.com site / blog / forum more useful for you?
 
 I like to ask readers this question in an effort to keep improving the

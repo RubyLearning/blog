@@ -1,29 +1,31 @@
 ---
-title: "FREE Course On Ruby's Cross Platform GUI App Toolkit - Shoes"
-draft: true
 author: Satish Talim
+categories:
+- Ruby
+- Shoes
+- Training
 date: 2011-08-19
+draft: true
 layout: post
 permalink: /2011/08/19/free-course-on-rubys-cross-platform-gui-app-toolkit/
-thesis_description:
-  - "Celebrate Whyday with RubyLearning's Free course on Ruby Shoes."
-thesis_keywords:
-  - Ruby course,Ruby training,Ruby,Satoshi Asakawa,Steve Klabnik,Shoes,The Ruby Programming Language
-topsy_short_url:
-  - http://bit.ly/qARPbd
-categories:
-  - Ruby
-  - Shoes
-  - Training
 tags:
-  - Ruby
-  - Ruby course
-  - Ruby training
-  - Satoshi Asakawa
-  - Shoes
-  - Steve Klabnik
-  - The Ruby Programming Language
+- Ruby
+- Ruby course
+- Ruby training
+- Satoshi Asakawa
+- Shoes
+- Steve Klabnik
+- The Ruby Programming Language
+thesis_description:
+- Celebrate Whyday with RubyLearning's Free course on Ruby Shoes.
+thesis_keywords:
+- Ruby course,Ruby training,Ruby,Satoshi Asakawa,Steve Klabnik,Shoes,The Ruby Programming
+  Language
+title: FREE Course On Ruby's Cross Platform GUI App Toolkit - Shoes
+topsy_short_url:
+- http://bit.ly/qARPbd
 ---
+
 <div>
   <h3>
     A Free Course on Ruby with Shoes

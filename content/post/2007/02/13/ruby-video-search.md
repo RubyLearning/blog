@@ -1,13 +1,14 @@
 ---
-title: "Ruby Video Search"
-author: "Satish Talim"
+author: Satish Talim
+categories:
+- news
+- rails
+- ruby
 date: 2007-02-13
 layout: post
-categories:
-  - news
-  - rails
-  - ruby
+title: Ruby Video Search
 ---
+
 I thought I would let you know that I have added Google AJAX Search on
 my **[Learning
 Ruby](http://rubylearning.com/other/ruby_video_search.html)** site. This

@@ -1,26 +1,27 @@
 ---
-title: 'Rails Drinkup Pune &#8211; Jan 28th'
 author: Satish Talim
+categories:
+- General
+- Rhodes
+- Ruby
+- Ruby on Rails
 date: 2011-01-27
 layout: post
 permalink: /2011/01/27/rails-drinkup-pune-jan-28th/
-thesis_description:
-  - Pune Rails Drinkup at the Royal Connaught Boat Club.
-thesis_keywords:
-  - Ruby on Rails,Ruby,Programming,Pune Rails Meetup
-topsy_short_url:
-  - 
-categories:
-  - General
-  - Rhodes
-  - Ruby
-  - Ruby on Rails
 tags:
-  - programming
-  - Pune Rails Meetup
-  - Ruby
-  - Ruby on Rails
+- programming
+- Pune Rails Meetup
+- Ruby
+- Ruby on Rails
+thesis_description:
+- Pune Rails Drinkup at the Royal Connaught Boat Club.
+thesis_keywords:
+- Ruby on Rails,Ruby,Programming,Pune Rails Meetup
+title: Rails Drinkup Pune &#8211; Jan 28th
+topsy_short_url:
+- null
 ---
+
 <div>
   <h3>
     Rails Drinkup Pune &#8211; Jan 28th

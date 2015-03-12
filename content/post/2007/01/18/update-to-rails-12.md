@@ -1,12 +1,13 @@
 ---
-title: "Update to Rails 1.2"
-author: "Satish Talim"
-date: "2007-01-18"
-layout: post
+author: Satish Talim
 categories:
-  - rails
+- rails
+date: 2007-01-18
 draft: true
+layout: post
+title: Update to Rails 1.2
 ---
+
 **Rails** has made many changes from 1.1.6 to 1.2. Update your working copy to
 the latest version by going to your command prompt and entering:
 

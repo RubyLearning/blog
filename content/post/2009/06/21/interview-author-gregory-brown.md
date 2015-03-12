@@ -1,25 +1,26 @@
 ---
-title: 'Interview: Author Gregory Brown'
 author: Satish Talim
+categories:
+- Beginners
+- Book Promotions
+- Interview
+- Promotions
+- Ruby
 date: 2009-06-21
 layout: post
 permalink: /2009/06/21/interview-author-gregory-brown/
-thesis_description:
-  - Ruby Best Practices book author Gregory Brown talks to RubyLearning in this interview.
-thesis_keywords:
-  - Gregory Brown,Ruby Best Practices,Ruby programming,Book promotion
-categories:
-  - Beginners
-  - Book Promotions
-  - Interview
-  - Promotions
-  - Ruby
 tags:
-  - Book promotion
-  - Gregory Brown
-  - Ruby Best Practices
-  - ruby programming
+- Book promotion
+- Gregory Brown
+- Ruby Best Practices
+- ruby programming
+thesis_description:
+- Ruby Best Practices book author Gregory Brown talks to RubyLearning in this interview.
+thesis_keywords:
+- Gregory Brown,Ruby Best Practices,Ruby programming,Book promotion
+title: 'Interview: Author Gregory Brown'
 ---
+
 <div>
   <p class="alert">
     Our Book Promotion: &#8220;<strong>Ruby Best Practices</strong>&#8221; starts soon. Win one of four books to be given out for active participation. The coolest thing? Author <b>Gregory Brown</b> will be on site to answer questions! <a href="http://rubylearning.com/blog/2009/06/20/book-promotion-ruby-best-practices/">Click here</a> for more details. Here, in this brief interview, Satish Talim of RubyLearning talks to Gregory Brown.

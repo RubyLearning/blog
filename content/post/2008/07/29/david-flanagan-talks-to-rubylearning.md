@@ -1,20 +1,21 @@
 ---
-title: David Flanagan talks to RubyLearning
 author: Satish Talim
+categories:
+- Beginners
+- Interview
+- Ruby
 date: 2008-07-29
 layout: post
 permalink: /2008/07/29/david-flanagan-talks-to-rubylearning/
-categories:
-  - Beginners
-  - Interview
-  - Ruby
 tags:
-  - book
-  - David Flanagan
-  - "O'Reilly"
-  - Ruby
-  - The Ruby Programming Language
+- book
+- David Flanagan
+- O'Reilly
+- Ruby
+- The Ruby Programming Language
+title: David Flanagan talks to RubyLearning
 ---
+
 <div>
   <p class="note">
     <strong>O&#8217;Reilly Media, Inc.</strong> is a strong supporter of <strong><a href="http://rubylearning.org/">RubyLearning.org</a></strong> and recently announced a 50% discount, for the participants of the <a href="http://rubylearning.org/">FORPC101</a> course, on their book &#8220;<a href="http://oreilly.com/catalog/9780596516178/">The Ruby Programming Language</a>&#8221; by David Flanagan, Yukihiro Matsumoto. Satish Talim of RubyLearning recently caught up with <strong><span style="color:blue;">David Flanagan</span></strong> who was kind enough to spare time answering questions posed by RubyLearning.

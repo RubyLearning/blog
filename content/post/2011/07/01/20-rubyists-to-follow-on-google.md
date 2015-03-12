@@ -1,26 +1,27 @@
 ---
-title: 20+ Rubyists to Follow on Google+
 author: Satish Talim
+categories:
+- Ruby
+- Ruby on Rails
+- Sinatra
 date: 2011-07-01
 layout: post
 permalink: /2011/07/01/20-rubyists-to-follow-on-google/
-thesis_description:
-  - A list of 20+ Rubyists using Google+
-thesis_keywords:
-  - Ruby,Programming,Ruby on Rails,The Ruby Programming Language,Google+
-topsy_short_url:
-  - 
-categories:
-  - Ruby
-  - Ruby on Rails
-  - Sinatra
 tags:
-  - Google+
-  - programming
-  - Ruby
-  - Ruby on Rails
-  - The Ruby Programming Language
+- Google+
+- programming
+- Ruby
+- Ruby on Rails
+- The Ruby Programming Language
+thesis_description:
+- A list of 20+ Rubyists using Google+
+thesis_keywords:
+- Ruby,Programming,Ruby on Rails,The Ruby Programming Language,Google+
+title: 20+ Rubyists to Follow on Google+
+topsy_short_url:
+- null
 ---
+
 <div style="width:image 560 px; font-size:80%; text-align:center;">
   <img src="http://rubylearning.com/data/googleplus.jpg" alt="Google+" width="560" style="padding-bottom:0.5em;" /><br />Google+
 </div>

@@ -1,13 +1,14 @@
 ---
-title: 'Interview: Karmen Blake'
-author: "Satish Talim"
-date: "2007-10-03"
-layout: post
+author: Satish Talim
 categories:
-  - interview
-  - ruby
-  - training
+- interview
+- ruby
+- training
+date: 2007-10-03
+layout: post
+title: 'Interview: Karmen Blake'
 ---
+
 [![Karmen
 Blake](http://rubylearning.com/images/karmen.jpg)](http://rubylearning.com/images/karmen.jpg "Karmen Blake")
 

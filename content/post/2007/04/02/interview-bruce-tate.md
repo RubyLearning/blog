@@ -1,12 +1,13 @@
 ---
-title: "Interview: Bruce Tate"
-author: "Satish Talim"
+author: Satish Talim
+categories:
+- rails
+- ruby
 date: 2007-04-02
 layout: post
-categories:
-  - rails
-  - ruby
+title: 'Interview: Bruce Tate'
 ---
+
 (This interview appeared before on 15th Aug. 2006 on the PuneRuby blog).
 
 Java is no longer the answer to every software development problem.

@@ -1,24 +1,26 @@
 ---
-title: Cloning Internet Applications with Ruby by Chang Sau Sheong
 author: Victor Goff
+categories:
+- Book Promotions
+- Ruby
 date: 2010-10-14
 layout: post
 permalink: /2010/10/14/cloning-internet-applications-with-ruby-by-chang-sau-sheong/
-thesis_description:
-  - "Victor Goff III reviews Chang Sau Sheong's book - Cloning Internet Applications with Ruby."
-thesis_keywords:
-  - Ruby, Programming, Cloning Internet Applications with Ruby, Chang Sau Sheong
-topsy_short_url:
-  - http://bit.ly/9LUiqe
-categories:
-  - Book Promotions
-  - Ruby
 tags:
-  - Chang Sau Sheong
-  - Cloning Internet Applications with Ruby
-  - programming
-  - Ruby
+- Chang Sau Sheong
+- Cloning Internet Applications with Ruby
+- programming
+- Ruby
+thesis_description:
+- Victor Goff III reviews Chang Sau Sheong's book - Cloning Internet Applications
+  with Ruby.
+thesis_keywords:
+- Ruby, Programming, Cloning Internet Applications with Ruby, Chang Sau Sheong
+title: Cloning Internet Applications with Ruby by Chang Sau Sheong
+topsy_short_url:
+- http://bit.ly/9LUiqe
 ---
+
 <div>
   <h3>
     Cloning Internet Applications with Ruby by Chang Sau Sheong

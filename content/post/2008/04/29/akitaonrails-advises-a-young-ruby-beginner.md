@@ -1,27 +1,28 @@
 ---
-title: '"AkitaOnRails" Advises A Young Ruby Beginner'
 author: Satish Talim
+categories:
+- beginners
+- interview
+- popular
+- ruby
+- training
 date: 2008-04-29
 layout: post
-permalink: /2008/04/29/akitaonrails-advises-a-young-ruby-beginner/
 metadescription:
-  - Advise for a Ruby Beginner
+- Advise for a Ruby Beginner
 metakeywords:
-  - ruby beginner,ruby rails tutorial,ruby on rails,ruby rails
-topsy_short_url:
-  - http://bit.ly/b27nhx
-categories:
-  - beginners
-  - interview
-  - popular
-  - ruby
-  - training
+- ruby beginner,ruby rails tutorial,ruby on rails,ruby rails
+permalink: /2008/04/29/akitaonrails-advises-a-young-ruby-beginner/
 tags:
-  - fabio akita
-  - ruby
-  - ruby beginner
-  - ruby programming
+- fabio akita
+- ruby
+- ruby beginner
+- ruby programming
+title: '"AkitaOnRails" Advises A Young Ruby Beginner'
+topsy_short_url:
+- http://bit.ly/b27nhx
 ---
+
 <div>
   <p class="block">
     <img class="alignleft" title="Fabio Akita" src="http://www.rubylearning.com/images/akita.jpg" alt="Fabio Akita" /><strong>Fabio Akita</strong> is a Brazilian Rails enthusiast, also known online as &#8220;AkitaOnRails&#8221;. He regularly write posts on his own <a href="http://www.akitaonrails.com/">blog</a> and had published the very first book tailored for the Brazilian audience called &#8220;Repensando a Web com Rails&#8221;. He is now a full-time Ruby on Rails developer working as Brazil Rails Practice Manager for the Utah company Surgeworks LLC.

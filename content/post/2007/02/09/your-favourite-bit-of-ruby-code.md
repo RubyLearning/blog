@@ -1,13 +1,14 @@
 ---
-title: "Your favourite bit of Ruby code?"
-author: "Satish Talim"
-date: "2007-02-09"
-layout: post
+author: Satish Talim
 categories:
-  - code snippets
-  - ruby
-  - tricks
+- code snippets
+- ruby
+- tricks
+date: 2007-02-09
+layout: post
+title: Your favourite bit of Ruby code?
 ---
+
 An interesting thread at Ruby\_talk is 'Your favorite bit of Ruby code.'
 
 * * * * *

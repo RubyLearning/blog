@@ -1,28 +1,29 @@
 ---
-title: 'A "FREE" Online Course - Build, Deploy Go Web Apps - 1st batch'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Go
+- Training
 date: 2014-03-06
+draft: true
 layout: post
 permalink: /2014/03/06/a-free-online-course-build-deploy-go-web-apps-1st-batch/
-thesis_description:
-  - The first and only online, free course on Go programming from RubyLearning.
-thesis_keywords:
-  - Go course,Go,Golang, Go Training, Programming, Web programming
-topsy_short_url:
-  - http://bit.ly/1q90913
-categories:
-  - Beginners
-  - Go
-  - Training
 tags:
-  - Go
-  - Go course
-  - Go Training
-  - Golang
-  - programming
-  - Web programming
+- Go
+- Go course
+- Go Training
+- Golang
+- programming
+- Web programming
+thesis_description:
+- The first and only online, free course on Go programming from RubyLearning.
+thesis_keywords:
+- Go course,Go,Golang, Go Training, Programming, Web programming
+title: A "FREE" Online Course - Build, Deploy Go Web Apps - 1st batch
+topsy_short_url:
+- http://bit.ly/1q90913
 ---
+
 <div>
   <h2>
     Build, Deploy Go Web Apps

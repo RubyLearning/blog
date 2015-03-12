@@ -1,25 +1,26 @@
 ---
-title: 'Sinatra Course - 4th Batch Announced'
-draft: true
 author: Satish Talim
+categories:
+- Beginners
+- Ruby
+- Sinatra
+- Training
 date: 2009-07-25
+draft: true
 layout: post
 permalink: /2009/07/25/sinatra-course-4th-batch-announced/
-thesis_description:
-  - The first and only online course on the Sinatra micro-web framework at RubyLearning
-thesis_keywords:
-  - Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language
-categories:
-  - Beginners
-  - Ruby
-  - Sinatra
-  - Training
 tags:
-  - Ruby
-  - Sinatra
-  - Sinatra eBook
-  - The Ruby Programming Language
+- Ruby
+- Sinatra
+- Sinatra eBook
+- The Ruby Programming Language
+thesis_description:
+- The first and only online course on the Sinatra micro-web framework at RubyLearning
+thesis_keywords:
+- Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language
+title: Sinatra Course - 4th Batch Announced
 ---
+
 <div>
   <h3>
     Sinatra Course: 4th Batch Announced

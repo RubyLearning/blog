@@ -1,29 +1,32 @@
 ---
-title: 'Poll: Ruby Problems for Beginners and Prizes'
 author: Satish Talim
+categories:
+- Beginners
+- Code Snippets
+- Poll
+- RPCFN
+- Ruby
 date: 2009-09-13
 layout: post
 permalink: /2009/09/13/poll-ruby-problems-for-beginners-and-prizes/
-thesis_description:
-  - RubyLearning is asking its readers to vote and give suggestions on whether it should start a Ruby programming challenge for beginners.
-thesis_keywords:
-  - Ruby,The Ruby Programming Language, Ruby Beginners,Ruby Problems,Ruby Programming Challenge For Newbies, RPCFN
-topsy_short_url:
-  - http://bit.ly/86UlDI
-categories:
-  - Beginners
-  - Code Snippets
-  - Poll
-  - RPCFN
-  - Ruby
 tags:
-  - RPCFN
-  - Ruby
-  - Ruby Beginners
-  - Ruby Problems
-  - Ruby Programming Challenge For Newbies
-  - The Ruby Programming Language
+- RPCFN
+- Ruby
+- Ruby Beginners
+- Ruby Problems
+- Ruby Programming Challenge For Newbies
+- The Ruby Programming Language
+thesis_description:
+- RubyLearning is asking its readers to vote and give suggestions on whether it should
+  start a Ruby programming challenge for beginners.
+thesis_keywords:
+- Ruby,The Ruby Programming Language, Ruby Beginners,Ruby Problems,Ruby Programming
+  Challenge For Newbies, RPCFN
+title: 'Poll: Ruby Problems for Beginners and Prizes'
+topsy_short_url:
+- http://bit.ly/86UlDI
 ---
+
 <div>
   <h3>
     Poll: Ruby Problems for Beginners and Prizes

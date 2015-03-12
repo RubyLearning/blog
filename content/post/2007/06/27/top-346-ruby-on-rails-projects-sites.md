@@ -1,12 +1,13 @@
 ---
-title: "Top 346 Ruby on Rails Projects Sites"
-author: "Satish Talim"
-date: "2007-06-27"
-layout: post
+author: Satish Talim
 categories:
-  - rails
-  - ruby
+- rails
+- ruby
+date: 2007-06-27
+layout: post
+title: Top 346 Ruby on Rails Projects Sites
 ---
+
 A quick note. My friend Sunil Kelkar pointed me to this interesting link
 – [Top 346 Ruby on Rails Projects
 Sites](http://webdeveloper.econsultant.com/ruby-rails-projects-sites/).

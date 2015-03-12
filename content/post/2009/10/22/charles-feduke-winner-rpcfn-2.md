@@ -1,26 +1,28 @@
 ---
-title: 'Charles Feduke Winner RPCFN - 2'
 author: Satish Talim
+categories:
+- beginners
+- interview
+- rpcfn
+- ruby
 date: 2009-10-22
 layout: post
 permalink: /2009/10/22/charles-feduke-winner-rpcfn-2/
-thesis_keywords:
-  - Charles Feduke,Ruby,Ruby programming,RPCFN,USA, Ruby Challenge
-thesis_description:
-  - An interview with Charles Feduke, winner of the second Ruby Programming Challenge for Newbies.
-categories:
-  - beginners
-  - interview
-  - rpcfn
-  - ruby
 tags:
-  - charles feduke
-  - rpcfn
-  - ruby
-  - ruby challenge
-  - ruby programming
-  - usa
+- charles feduke
+- rpcfn
+- ruby
+- ruby challenge
+- ruby programming
+- usa
+thesis_description:
+- An interview with Charles Feduke, winner of the second Ruby Programming Challenge
+  for Newbies.
+thesis_keywords:
+- Charles Feduke,Ruby,Ruby programming,RPCFN,USA, Ruby Challenge
+title: Charles Feduke Winner RPCFN - 2
 ---
+
 <div>
   <p class="alert">
     In this brief interview, Satish Talim of RubyLearning talks to <b>Charles Feduke of USA</b>, winner of the second <a href="http://rubylearning.com/blog/2009/10/08/rpcfn-average-arrival-time-for-a-flight-2/">Ruby Programming Challenge For Newbies</a>.

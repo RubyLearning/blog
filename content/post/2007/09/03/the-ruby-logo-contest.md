@@ -1,12 +1,13 @@
 ---
-title: "The Ruby Logo Contest"
-author: "Satish Talim"
-date: "2007-09-03"
-layout: post
+author: Satish Talim
 categories:
-  - news
-  - ruby
+- news
+- ruby
+date: 2007-09-03
+layout: post
+title: The Ruby Logo Contest
 ---
+
 The Ruby Association has announced ‘**The Ruby Logo Contest**‘. An
 official Ruby logo is needed to promote Ruby, and therefore a contest to
 select one.

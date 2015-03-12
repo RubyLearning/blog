@@ -1,21 +1,22 @@
 ---
-title: Which 21 topics would YOU suggest for an Advanced Ruby Course and why?
 author: Satish Talim
+categories:
+- Ruby
+- Training
 date: 2008-08-26
 layout: post
 permalink: /2008/08/26/which-21-topics-would-you-suggest-for-an-advanced-ruby-course-and-why/
-title_tag:
-  - 'Which 21 topics would YOU suggest for an Advanced Ruby Course and why? '
-topsy_short_url:
-  - http://bit.ly/9Ee68S
-categories:
-  - Ruby
-  - Training
 tags:
-  - Advanced Ruby Course
-  - Ruby
-  - Syllabus
+- Advanced Ruby Course
+- Ruby
+- Syllabus
+title: Which 21 topics would YOU suggest for an Advanced Ruby Course and why?
+title_tag:
+- 'Which 21 topics would YOU suggest for an Advanced Ruby Course and why? '
+topsy_short_url:
+- http://bit.ly/9Ee68S
 ---
+
 <div>
   <p>
     <span class="drop_cap">T</span>here have been some heavy discussions at <a href="http://rubylearning.org/">RubyLearning</a> about what all should be covered in an <strong>Advanced Ruby Course</strong>. Many topics have been suggested along with a &#8216;for&#8217; and &#8216;against&#8217; each topic, but nothing concrete has come out. I&#8217;d like the topics to be more relevant to the &#8216;<em>Real World Ruby</em>&#8216; which any programmer with a <a href="http://book.rubylearning.org/">basic knowledge of Ruby</a> could master and use. At our Free Core Ruby Programming Course we cover the <a href="http://rubylearning.com/satishtalim/tutorial.html">following topics</a>.

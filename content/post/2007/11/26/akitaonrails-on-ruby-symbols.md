@@ -1,15 +1,16 @@
 ---
-title: '"AkitaOnRails" On Ruby Symbols'
-author: "Satish Talim"
-date: "2007-11-26"
-layout: post
+author: Satish Talim
 categories:
-  - beginners
-  - code snippets
-  - ruby
-  - training
-  - tricks
+- beginners
+- code snippets
+- ruby
+- training
+- tricks
+date: 2007-11-26
+layout: post
+title: '"AkitaOnRails" On Ruby Symbols'
 ---
+
 *RubyLearning recently caught with **Fabio Akita** from Brazil and got
 his viewpoint on one of the vexing areas for beginners in Ruby –
 **Symbols**.*<!--more-->
