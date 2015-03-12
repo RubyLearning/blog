@@ -17,9 +17,8 @@ tags:
 ---
 <div>
   <p>
-    <span class="drop_cap">R</span>egistrations are now open for RubyLearning&#8217;s <em>long-awaited and popular</em> Ruby programming course. This is an intensive, online course for <em>beginners</em> that helps you get started with <strong>Ruby</strong> programming. The course starts on <b>Saturday, 28th Mar. 2015</b> and runs for seven weeks.
-  </p>
-<!--more-->
+    <span class="drop_cap">R</span>egistrations are now open for RubyLearning's <em>long-awaited and popular</em> Ruby programming course. This is an intensive, online course for <em>beginners</em> that helps you get started with <strong>Ruby</strong> programming. The course starts on <b>Saturday, 28th Mar. 2015</b> and runs for seven weeks.
+  </p> <!--more-->
 
   <h3>
     Course Fee and Discount
@@ -36,15 +35,15 @@ tags:
   <hr />
   
   <p>
-    Download <a href="http://rubylearning.com/data/AdviceRuby.zip">&#8216;Advice for Ruby Beginners&#8217;</a> as a .zip file.
+    Download <a href="http://rubylearning.com/data/AdviceRuby.zip">'Advice for Ruby Beginners'</a> as a .zip file.
   </p>
   
   <p class="update">
-    Here is what <b>Sandra Randall (Butler)</b>, a participant who just graduated, has to say &#8211; &#8220;You kindly offered me the opportunity to join your Ruby course. I&#8217;m new to development and found the course, even though basic for programmers, a little tricky for me. I managed to complete all of the assessments and really learnt a lot. Thank you very much for the opportunity. It has really given me the push I needed to learn Ruby and I&#8217;m currently treading my way through both the pickaxe and Agile Development books and enjoying it. I&#8217;ve recently been offered a position as a Junior Systems Developer at a local Software house in South Africa &#8211; all thanks to the push you gave me which gave me the motivation and drive to get going.&#8221;
+    Here is what <b>Sandra Randall (Butler)</b>, a participant who just graduated, has to say &#8211; &#8220;You kindly offered me the opportunity to join your Ruby course. I'm new to development and found the course, even though basic for programmers, a little tricky for me. I managed to complete all of the assessments and really learnt a lot. Thank you very much for the opportunity. It has really given me the push I needed to learn Ruby and I'm currently treading my way through both the pickaxe and Agile Development books and enjoying it. I've recently been offered a position as a Junior Systems Developer at a local Software house in South Africa &#8211; all thanks to the push you gave me which gave me the motivation and drive to get going.&#8221;
   </p>
   
   <h3>
-    What&#8217;s Ruby?
+    What's Ruby?
   </h3>
   
   <p>
@@ -52,7 +51,7 @@ tags:
   </p>
   
   <p>
-    According to <a href="http://www.ruby-lang.org/en/">http://www.ruby-lang.org/en/</a> &#8211; &#8220;Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. Ruby&#8217;s elegant syntax is natural to read and easy to write.&#8221;
+    According to <a href="http://www.ruby-lang.org/en/">http://www.ruby-lang.org/en/</a> &#8211; &#8220;Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. Ruby's elegant syntax is natural to read and easy to write.&#8221;
   </p>
   
   <p>
@@ -61,7 +60,7 @@ tags:
   
   <blockquote>
     <p>
-      I believe people want to express themselves when they program. They don&#8217;t want to fight with the language. Programming languages must feel natural to programmers. I tried to make people enjoy programming and concentrate on the fun and creative part of programming when they use Ruby.
+      I believe people want to express themselves when they program. They don't want to fight with the language. Programming languages must feel natural to programmers. I tried to make people enjoy programming and concentrate on the fun and creative part of programming when they use Ruby.
     </p>
   </blockquote>
   
@@ -106,7 +105,7 @@ tags:
   </h4>
   
   <p>
-    The course is based on the <strong>The Ultimate Guide to Ruby Programming</strong> eBook. This book is <a href="http://book.rubylearning.org/">priced at US$ 9.95</a>. However, the <a href="http://www.amazon.com/gp/product/B0062X2I68/ref=as_li_tf_tl?ie=UTF8&#038;camp=1789&#038;creative=9325&#038;creativeASIN=B0062X2I68&#038;linkCode=as2&#038;tag=satishtalimsw-20">Kindle edition</a> of the eBook is available for US$ 6.
+    The course is based on the <strong>The Ultimate Guide to Ruby Programming</strong> eBook. This book is <a href="http://book.rubylearning.org/">priced at US $ 9.95</a>. However, the <a href="http://www.amazon.com/gp/product/B0062X2I68/ref=as_li_tf_tl?ie=UTF8&#038;camp=1789&#038;creative=9325&#038;creativeASIN=B0062X2I68&#038;linkCode=as2&#038;tag=satishtalimsw-20">Kindle edition</a> of the eBook is available for US$ 6.
   </p>
   
   <h4>
@@ -114,11 +113,11 @@ tags:
   </h4>
   
   <p>
-    This is course material not found in the RubyLearning Study Notes nor in the E-Book! Depending on participation levels, we throw a Ruby coding challenge in the mix, right for the level we are at. We have been known to give out a prize or two for the &#8216;best&#8217; solution.
+    This is course material not found in the RubyLearning Study Notes nor in the E-Book! Depending on participation levels, we throw a Ruby coding challenge in the mix, right for the level we are at. We have been known to give out a prize or two for the 'best' solution.
   </p>
   
   <h3>
-    Who&#8217;s It For?
+    Who's It For?
   </h3>
   
   <p>
@@ -178,7 +177,7 @@ tags:
   </p>
   
   <p>
-    Please <a href="http://rubylearning.org/classes/login/index.php">create a new account</a> first and then pay US$ 44.95 by clicking on the PayPal button <a href="http://rubylearning.org/classes/enrol/index.php?id=58"><img src="http://rubylearning.com/images/paypal_ruby.gif" alt="Paypal" /></a>
+    Please <a href="http://rubylearning.org/classes/login/index.php">create a new account</a> first and then pay US $ 44.95 by clicking on the PayPal button <a href="http://rubylearning.org/classes/enrol/index.php?id=58"><img src="http://rubylearning.com/images/paypal_ruby.gif" alt="Paypal" /></a>
   </p>
   
   <h3>
