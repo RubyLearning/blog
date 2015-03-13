@@ -1,0 +1,36 @@
+{
+  "baseurl": "http://rubylearning.com/blog/",
+  "languageCode": "en-us",
+  "title": "RubyLearning Blog",
+  "socialsharing": true,
+  "disqusShortname": "rubylearning",
+  "paginate": 10,
+  "paginatePath": "page",
+  "pygmentsstyle": "vim",
+  "pygmentsuseclasses": false,
+  "permalinks": {
+    "post": "/:year/:month/:day/:title/"
+  },
+  "params": {
+    "sidebartitle": "Ruby Learning",
+    "sidebartagline": "Not Just Ruby Any More!",
+    "gaid": "UA-59044-10"
+  },
+  "taxonomies": {
+    "tag": "tags",
+    "category": "categories",
+    "series": "series",
+    "author": "authors"
+  },
+  "[menu": {
+    "social": {
+      "pre": "<i classfa fa-twitter",
+      "i>\"\nurl": "http://www.twitter.com/indianguru",
+      "identifier": "twitter"
+    },
+    "footer": {
+      "name": "RubyLearning Blog",
+      "url": "/"
+    }
+  }
+}
