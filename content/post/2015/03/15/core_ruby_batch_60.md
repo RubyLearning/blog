@@ -13,6 +13,7 @@ tags:
 - ruby
 - course
 - training
+socialsharing: true
 title: Learn Ruby programming - 60th batch
 ---
 

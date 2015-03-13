@@ -1,14 +1,15 @@
 ---
+title: Ruby Wizardry - A Book Review
+date: 2015-03-09T00:32:42-04:00
 author: Victor Goff
+socialsharing: true
 authorgoogleplus: https://plus.google.com/+VictorGoff/about
 authorlinkedin: https://www.linkedin.com/profile/view?id=13919883
 authortwitter: http://twitter.com/kotp
-date: 2015-03-09T00:32:42-04:00
 tags:
 - book
 - review
 - ruby
-title: Ruby Wizardry - A Book Review
 totop: true
 ---
 
