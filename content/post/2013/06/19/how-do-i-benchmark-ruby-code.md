@@ -27,7 +27,15 @@ How do I benchmark Ruby code?
 </h2>
 
 <p class="update">
-This guest post is by Jesse Storimer. Hes the author of <a href="http://www.jstorimer.com/products/working-with-unix-processes">Working With Unix Processes</a>, a gentle introduction to Unix system programming for Ruby programmers. Jesse has been programming Ruby since joining Shopify in 2008 and is still going strong, always looking for a chance to dig lower down into the stack. He lives way in the backwoods of southern Ontario, Canada with his wife and two daughters. Jesse blogs at <a href="http://jstorimer.com/">jstorimer.com</a> and has authored a few <a href="http://www.jstorimer.com/books">other books</a> for Ruby developers.
+This guest post is by Jesse Storimer. Hes the author of <a
+href="http://www.jstorimer.com/products/working-with-unix-processes">Working
+With Unix Processes</a>, a gentle introduction to Unix system programming for
+Ruby programmers. Jesse has been programming Ruby since joining Shopify in 2008
+and is still going strong, always looking for a chance to dig lower down into
+the stack. He lives way in the backwoods of southern Ontario, Canada with his
+wife and two daughters. Jesse blogs at <a
+href="http://jstorimer.com/">jstorimer.com</a> and has authored a few <a
+href="http://www.jstorimer.com/books">other books</a> for Ruby developers.
 </p>
 
 <p class="block">
@@ -35,7 +43,11 @@ This guest post is by Jesse Storimer. Hes the author of <a href="http://www.jsto
 </p>
 
 <p>
-Science, of course! Rubys standard library comes with a benchmarking library fit for measuring the execution time of your Ruby code. The <code>Benchmark</code> module offers several different ways for you to benchmark your code. Ill take you through the different options and their use cases.
+Science, of course! Rubys standard library comes with a benchmarking library
+fit for measuring the execution time of your Ruby code. The
+<code>Benchmark</code> module offers several different ways for you to
+benchmark your code. Ill take you through the different options and their use
+cases.
 </p>
 
 <h3 id="getting-started">
@@ -43,7 +55,10 @@ Getting started
 </h3>
 
 <p>
-The `Benchmark</code> module is in the standard library, so you dont need to install any gems to get it. Heres the <a href="http://www.ruby-doc.org/stdlib-2.0/libdoc/benchmark/rdoc/Benchmark.html">documentation from the standard library</a>.
+The `Benchmark</code> module is in the standard library, so you dont need to
+install any gems to get it. Heres the <a
+href="http://www.ruby-doc.org/stdlib-2.0/libdoc/benchmark/rdoc/Benchmark.html">documentation
+from the standard library</a>.
 </p>
 
 <p>
@@ -75,11 +90,18 @@ With no context, these might look like magic numbers. Here's what they mean:
 </div>
 
 <p>
-Generally, the number farthest to the right is the most important one. It tells how long it actually took to perform the operation. If youre curious about why the clock time is so high, the other numbers can help you drill down to see if youre spending time in system functions or your own code.
+Generally, the number farthest to the right is the most important one. It tells
+how long it actually took to perform the operation. If youre curious about why
+the clock time is so high, the other numbers can help you drill down to see if
+youre spending time in system functions or your own code.
 </p>
 
 <p>
-Now that you know what those magic numbers mean, we can move on to the core <code>Benchmark</code> API. The truth is that I rarely use the <code>measure</code> method on its own. It only prints the benchmark for a single block of code. The most common way to use <code>Benchmark</code> is to compare the execution time of different approaches to the same problem.
+Now that you know what those magic numbers mean, we can move on to the core
+<code>Benchmark</code> API. The truth is that I rarely use the
+<code>measure</code> method on its own. It only prints the benchmark for a
+single block of code. The most common way to use <code>Benchmark</code> is to
+compare the execution time of different approaches to the same problem.
 </p>
 
 <p>
@@ -91,7 +113,8 @@ Benchmark#bm
 </h3>
 
 <p>
-This method lets you define several blocks of code to benchmark, then prints the results side-by-side in the same format you saw earlier.
+This method lets you define several blocks of code to benchmark, then prints
+the results side-by-side in the same format you saw earlier.
 </p>
 
 ```ruby
@@ -125,7 +148,8 @@ This will print the following result:
 0.410000   0.010000   0.420000 (  0.413467)```
 
 <p>
-Notice that this is the same format I outlined earlier, but now you have little hints about each of the numbers.
+Notice that this is the same format I outlined earlier, but now you have little
+hints about each of the numbers.
 </p>
 
 <p>
@@ -140,11 +164,18 @@ end
 ```
 
 <p>
-You call the <code>Benchmark#bm</code> method passing a block. The block variable is a special object provided by <code>Benchmark</code>. It gives you a <code>report</code> method that you call with the block of code that you want to measure. <code>Benchmark</code> then runs both blocks of code and prints their execution times side-by-side.
+You call the <code>Benchmark#bm</code> method passing a block. The block
+variable is a special object provided by <code>Benchmark</code>. It gives you a
+<code>report</code> method that you call with the block of code that you want
+to measure. <code>Benchmark</code> then runs both blocks of code and prints
+their execution times side-by-side.
 </p>
 
 <p>
-<em>A note about iterations:</em> Often, when doing benchmarks that test code that executes very quickly, you need to do many iterations to see a meaningful number. In this case, I did 100,000 iterations of each variant just to get the execution time up to half a second so I could grasp the difference.
+<em>A note about iterations:</em> Often, when doing benchmarks that test code
+that executes very quickly, you need to do many iterations to see a meaningful
+number. In this case, I did 100,000 iterations of each variant just to get the
+execution time up to half a second so I could grasp the difference.
 </p>
 
 <h3 id="labels">
@@ -152,7 +183,10 @@ Labels
 </h3>
 
 <p>
-In that last benchmark, I buried some comments in the source that said what each block of code was doing. Thats not so helpful when looking at the results! <code>Benchmark</code> allows you to pass in a label to the <code>report</code> method that will be printed along with the results.
+In that last benchmark, I buried some comments in the source that said what
+each block of code was doing. Thats not so helpful when looking at the results!
+<code>Benchmark</code> allows you to pass in a label to the <code>report</code>
+method that will be printed along with the results.
 </p>
 
 ```
@@ -174,7 +208,8 @@ end
 ```
 
 <p>
-Ive now removed the comments describing the blocks and pass them in to the <code>report</code> method as an argument. Now the output describes itself:
+Ive now removed the comments describing the blocks and pass them in to the
+<code>report</code> method as an argument. Now the output describes itself:
 </p>
 
 ```
@@ -184,7 +219,12 @@ string interpolation          0.410000   0.010000   0.420000 (  0.416324)
 ```
 
 <p>
-Theres one more important change I made in that last example that may have gone unnoticed. I passed <code>27</code> as an argument to the <code>Benchmark.bm</code> method. This signifies how much padding the header labels should have in the result output. If you pass labels to <code>report</code>, but dont set this value high enough, your output wont line up properly.
+Theres one more important change I made in that last example that may have gone
+unnoticed. I passed <code>27</code> as an argument to the
+<code>Benchmark.bm</code> method. This signifies how much padding the header
+labels should have in the result output. If you pass labels to
+<code>report</code>, but dont set this value high enough, your output wont line
+up properly.
 </p>
 
 <p>
@@ -198,7 +238,8 @@ string interpolation         0.390000   0.010000   0.400000 (  0.394111)
 ```
 
 <p>
-Thats certainly not right. Make sure you pass a value thats greater than the length of your longest label. Thats the happy path.
+Thats certainly not right. Make sure you pass a value thats greater than the
+length of your longest label. Thats the happy path.
 </p>
 
 <h3 id="benchmarkbmbm">
@@ -206,23 +247,38 @@ Benchmark#bmbm
 </h3>
 
 <p>
-The <code>Benchmark#bm</code> you just saw is really the core of <code>Benchmark</code>, but theres one more method I should mention: <code>Benchmark#bmbm</code>. Thats right its the same method name, repeated twice.
+The <code>Benchmark#bm</code> you just saw is really the core of
+<code>Benchmark</code>, but theres one more method I should mention:
+<code>Benchmark#bmbm</code>. Thats right its the same method name, repeated
+twice.
 </p>
 
 <p>
-Sometimes, with a benchmark that creates a lot of objects, the results start to get skewed because of interactions with Rubys memory allocation or garbage collection routines. When creating a lot of objects, one block may need to run garbage collector, while the other doesnt; or just one block may get stuck with the cost of allocating more memory for Ruby to use.
+Sometimes, with a benchmark that creates a lot of objects, the results start to
+get skewed because of interactions with Rubys memory allocation or garbage
+collection routines. When creating a lot of objects, one block may need to run
+garbage collector, while the other doesnt; or just one block may get stuck with
+the cost of allocating more memory for Ruby to use.
 </p>
 
 <p>
-In this case, the benchmark can produce unbalanced results. This is when you want to use <code>Benchmark#bmbm</code>.
+In this case, the benchmark can produce unbalanced results. This is when you
+want to use <code>Benchmark#bmbm</code>.
 </p>
 
 <p>
-The method name is suitable because it actually benchmarks your blocks of code twice. First, it runs the code as a &#8216;rehearsal to force any initialization that needs to happen, then it forces the GC to run, then it runs the benchmark again &#8216;for real. This ensures that the system is fully initialized and the benchmark is fair.
+The method name is suitable because it actually benchmarks your blocks of code
+twice. First, it runs the code as a &#8216;rehearsal to force any
+initialization that needs to happen, then it forces the GC to run, then it runs
+the benchmark again &#8216;for real. This ensures that the system is fully
+initialized and the benchmark is fair.
 </p>
 
 <p>
-This last example benchmark allocates a lot of objects. When this runs at the rehearsal stage, Ruby has to allocate more memory to make room for all the objects. Then when the &#8216;real benchmark happens, the memory is already available and just the actual implementation is tested.
+This last example benchmark allocates a lot of objects. When this runs at the
+rehearsal stage, Ruby has to allocate more memory to make room for all the
+objects. Then when the &#8216;real benchmark happens, the memory is already
+available and just the actual implementation is tested.
 </p>
 
 ```
@@ -231,13 +287,13 @@ require 'benchmark'
 array = Array(1..10_000_000)
 
 Benchmark.bmbm(7) do |bm|
-bm.report('reverse') do
-array.dup.reverse
-end
+  bm.report('reverse') do
+    array.dup.reverse
+  end
 
-bm.report('reverse!') do
-array.dup.reverse!
-end
+  bm.report('reverse!') do
+    array.dup.reverse!
+  end
 end
 ```
 
@@ -265,10 +321,14 @@ Conclusion
 </h3>
 
 <p>
-When you want to try your hand at speeding up some of your Ruby code, make sure that you measure, measure, measure to prove that your new implementation is faster than the old one. This great little benchmarking library ships with Ruby right in the standard library, so theres no excuses!
+When you want to try your hand at speeding up some of your Ruby code, make sure
+that you measure, measure, measure to prove that your new implementation is
+faster than the old one. This great little benchmarking library ships with Ruby
+right in the standard library, so theres no excuses!
 </p>
 
 <p class="alert">
-<em>I hope you found this article valuable. Feel free to ask questions and give feedback in the comments section of this post. Thanks!</em>
+<em>I hope you found this article valuable. Feel free to ask questions and give
+feedback in the comments section of this post. Thanks!</em>
 </p>
 
