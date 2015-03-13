@@ -41,11 +41,6 @@
         "url": "http://satishtalim.com/"
       }
     ],
-    "social": {
-      "pre": "<i classfa fa-twitter i>",
-      "url": "http://www.twitter.com/indianguru",
-      "identifier": "twitter"
-    }
   },
   "footer": {
     "name": "RubyLearning Blog",
