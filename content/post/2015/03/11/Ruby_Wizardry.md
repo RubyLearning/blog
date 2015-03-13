@@ -1,18 +1,18 @@
----
-title: Ruby Wizardry - A Book Review
-date: 2015-03-09T00:32:42-04:00
-author: Victor Goff
-socialsharing: true
-authorgoogleplus: https://plus.google.com/+VictorGoff/about
-authorlinkedin: https://www.linkedin.com/profile/view?id=13919883
-authortwitter: http://twitter.com/kotp
-tags:
-- book
-- review
-- ruby
-totop: true
----
-
+{
+    "title": "Ruby Wizardry - A Book Review",
+    "date": "2015-03-09T04:32:42.000Z",
+    "author": "Victor Goff",
+    "socialsharing": true,
+    "authorgoogleplus": "https://plus.google.com/+VictorGoff/about",
+    "authorlinkedin": "https://www.linkedin.com/profile/view?id=13919883",
+    "authortwitter": "http://twitter.com/kotp",
+    "tags": [
+        "book",
+        "review",
+        "ruby"
+    ],
+    "totop": true
+}   
 ### It all starts at the beginning.
 It really is a whimsical story, about a kingdom in some trouble because
 of some mischievous hooligans and how this kingdom is saved by, well,
