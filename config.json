@@ -22,15 +22,33 @@
     "series": "series",
     "author": "authors"
   },
-  "[menu": {
+  "menu": {
+    "main": [
+      {
+        "name": "Hub",
+        "url": "http://rubylearning.com/"
+      },
+      {
+        "name": "Tutorial",
+        "url": "http://rubylearning.com/satishtalim/tutorial.html"
+      },
+      {
+        "name": "Online Course",
+        "url": "http://rubylearning.org"
+      },
+      {
+        "name": "Satish",
+        "url": "http://satishtalim.com/"
+      }
+    ],
     "social": {
-      "pre": "<i classfa fa-twitter",
-      "i>\"\nurl": "http://www.twitter.com/indianguru",
+      "pre": "<i classfa fa-twitter i>",
+      "url": "http://www.twitter.com/indianguru",
       "identifier": "twitter"
-    },
-    "footer": {
-      "name": "RubyLearning Blog",
-      "url": "/"
     }
+  },
+  "footer": {
+    "name": "RubyLearning Blog",
+    "url": "/"
   }
 }
