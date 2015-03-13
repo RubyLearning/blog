@@ -1,20 +1,21 @@
 ---
+title: Learn Ruby programming - 60th batch
 author: Satish Talim
-categories:
-- beginners
-- ruby
-- training
 date: 2015-03-11
 draft: false
 layout: post
 permalink: /2015/03/11/learn-ruby-programming-60th-batch/
+categories:
+- beginners
+- ruby
+- training
 tags:
 - programming
 - ruby
 - course
 - training
 socialsharing: true
-title: Learn Ruby programming - 60th batch
+totop: true
 ---
 
 <div>
