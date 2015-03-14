@@ -6,7 +6,7 @@ categories:
   - Rails
   - Ruby on Rails
 layout: post
-permalink: /2012/07/24/minimal-i18n-with-rails-3-2/
+permalink: /2012/07/24/minimal-i18n-with-rails-3.2/
 tags:
   - fabio akita
   - I18n with Rails
