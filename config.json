@@ -4,6 +4,7 @@
   "title": "RubyLearning Blog",
   "socialsharing": true,
   "disqusShortname": "rubylearning",
+  "footnotereturnlinkcontents": "↩",
   "paginate": 10,
   "paginatePath": "page",
   "pygmentsstyle": "vim",
