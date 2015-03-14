@@ -1,19 +1,19 @@
 ---
+title: 'Book Review: Exploring Everyday Things with R and Ruby'
 author: Victor Goff
-categories:
-- book promotions
-- ruby
 date: 2012-07-09
+categories:
+  - book promotions
+  - ruby
 layout: post
 permalink: /2012/07/09/book-review-exploring-everyday-things-with-r-and-ruby/
 tags:
-- book
-- review
-- programming
-- r
-- ruby
-- sau sheong chang
-title: 'Book Review: Exploring Everyday Things with R and Ruby'
+  - book
+  - review
+  - programming
+  - r
+  - ruby
+  - sau sheong chang
 ---
 
 A book review of **Exploring Everyday Things with R and Ruby**.
@@ -23,7 +23,7 @@ Publisher: O’Reilly Media.
 
 ![Exploring Everyday Things with R and Ruby](http://rubylearning.com/images/cat.gif)
 I got the opportunity to review [Exploring Everyday Things with R and Ruby](http://shop.oreilly.com/product/0636920022626.do)
-by Sau Sheong Chang and published by O’Reilly Media^[1](#fn-6609-1)^
+by Sau Sheong Chang and published by O’Reilly Media.[^book]
 
  This book, as expected, talks about R and Ruby. The first chapters cover
  Ruby at an introductory level.
@@ -31,7 +31,7 @@ by Sau Sheong Chang and published by O’Reilly Media^[1](#fn-6609-1)^
  In the first chapter, after showing how you can install Ruby and an
  introduction to the basics of Ruby, he also provides “a quick
  introduction to Shoes, a simple but powerful UI toolkit for
- Ruby”^[2](#fn-6609-2)^, with installation suggestions and sample code.
+ Ruby”[^shoes], with installation suggestions and sample code.
 
  His introduction to Ruby covers the basics and is just a bit more than
  enough to understand the code in the rest of his book. I think he did a
@@ -71,8 +71,7 @@ by Sau Sheong Chang and published by O’Reilly Media^[1](#fn-6609-1)^
  communicate with most? Finding the most often used words and the
  trending themes in your communications? You are in luck. He will take
  you through the Enron Saga to lightly touch on analyzing that e-mail
- data^[3](#fn-6609-3)^, but easily apply it to your own IMAP e-mail
- accounts.
+ data[^enron], but easily apply it to your own IMAP e-mail accounts.
 
  How about biometrics, recording your own heartbeat through a home-made
  electronic stethoscope? Yes, you will be able to do this, and take
@@ -85,7 +84,7 @@ by Sau Sheong Chang and published by O’Reilly Media^[1](#fn-6609-1)^
  produce in a graphical chart. That makes it fun to the nth power, right?
 
  Well, what can be more fun than Boid’s… and boid **is** the
- woid^[4](#fn-6609-4)^ in this next chapter. Using Ruby Shoes you will
+ woid[^boids] in this next chapter. Using Ruby Shoes you will
  explore the flocking of birds, you will write a simulation and are
  encouraged to continue playing on.
 
@@ -100,17 +99,13 @@ by Sau Sheong Chang and published by O’Reilly Media^[1](#fn-6609-1)^
 
  Like this review?
 
- “Book Review: Exploring Everyday Things with R and Ruby” – 
+ “Book Review: Exploring Everyday Things with R and Ruby” –
  [Click to Tweet](https://twitter.com/intent/tweet?text=Book+Review%3A+Exploring+Everyday+Things+with+R+and+Ruby+http%3A%2F%2Fbit.ly%2FNez21o "Book Review: Exploring Everyday Things with R and Ruby")
 
 
- 1.  “Exploring Everyday Things with R and Ruby – O’Reilly Media.” 2012.  6 Jul. 2012 [http://shop.oreilly.com/product/0636920022626.do](http://shop.oreilly.com/product/0636920022626.do).
- [↩](#fnref-6609-1)
- 2.  “Exploring Everyday Things with R and Ruby \> 1. The Hat and the …” 2012. 6 Jul. 2012 [http://my.safaribooksonline.com/book/-/9781449342203/1dot-the-hat-and-the-whip/id2776202](http://my.safaribooksonline.com/book/-/9781449342203/1dot-the-hat-and-the-whip/id2776202)
-[↩](#fnref-6609-2)
-3.  “Enron Email Dataset.” 2004. 6 Jul. 2012 [http://www.cs.cmu.edu/\~enron/](http://www.cs.cmu.edu/~enron/)
-[↩](#fnref-6609-3)
-4.  Did you see what I did there? “The Trashman – The surfin bird – YouTube.” 2007. 6 Jul. 2012 [http://www.youtube.com/watch?v=QXLqMB6vBic](http://www.youtube.com/watch?v=QXLqMB6vBic)
-[↩](#fnref-6609-4)
+ [^book]: “Exploring Everyday Things with R and Ruby – O’Reilly Media.” 2012. <http://shop.oreilly.com/product/0636920022626.do>.
+[^shoes]: “Exploring Everyday Things with R and Ruby \> 1. The Hat and the …” 2012. <http://my.safaribooksonline.com/book/-/9781449342203/1dot-the-hat-and-the-whip/id2776202>
+[^enron]: “Enron Email Dataset.” 2004. <http://www.cs.cmu.edu/~enron/>
+[^boids]: Did you see what I did there? “The Trashman – The surfin bird – YouTube.” 2007. <http://www.youtube.com/watch?v=QXLqMB6vBic>
 
 
