@@ -12,6 +12,11 @@
         "review",
         "ruby"
     ],
+    "categories": [
+        "book",
+        "review",
+        "ruby"
+    ],
     "totop": true
 }
 ### It all starts at the beginning.
