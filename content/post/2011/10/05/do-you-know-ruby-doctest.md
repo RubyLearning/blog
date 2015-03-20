@@ -1,5 +1,11 @@
 ---
+title: Do you know Ruby Doctest?
 author: Victor Goff
+authorlink: http://twitter.com/kotp
+socialsharing: true
+authorgoogleplus: "https://plus.google.com/+VictorGoff/about"
+authorlinkedin: "https://www.linkedin.com/in/vgoff"
+authortwitter: "http://twitter.com/kotp"
 categories:
 - beginners
 - ruby
@@ -11,21 +17,7 @@ tags:
 - programming
 - doctest
 - ruby
-thesis_description:
-- Victor Goff shows you how to use Ruby Doctest.
-thesis_keywords:
-- Ruby DocTest,Programming,Ruby programming
-thesis_thumb_height:
-- 66
-thesis_thumb_width:
-- 66
-title: Do you know Ruby Doctest?
-topsy_short_url:
-- http://bit.ly/ngEQqQ
 ---
-
-## Do you know Ruby Doctest?
-
 This guest post is by Victor Goff, who enjoys mentoring Ruby at
 RubyLearning.org since 2008. <!--more--> You can reach him on IRC Chat at
 #rubylearning.org on freenode.net. He also blogs occasionally at
@@ -37,7 +29,7 @@ sessions, resulting in a way to provide usage examples as well as knowing when
 an expected use fails because of some update or changes to our program or
 environment.
 
-### Installing Ruby DocTest ###
+## Installing Ruby DocTest ##
 
 Rubydoctest can be installed by doing the following from the command line:
 
@@ -47,7 +39,7 @@ If you are running Windows or using RVM the above should work (pending network/
 internet connectivity) but you may need to use sudo to install depending on
 your set up.
 
-### The parts of Ruby DocTest ###
+## The parts of Ruby DocTest ##
 
 Rubydoctest information can be contained within a comment or a comment block.
 Let’s start by creating a file hello.rb:
@@ -95,7 +87,7 @@ As you can see, we get passing tests. And if this were above the method
 definition it may even be collected during ri and rdoc generation (this process
 is outside the scope of this article.)
 
-### Refactoring with RubyDoctest ###
+## Refactoring with RubyDoctest ##
 
 Once we have a simple test in place, and that test is passing, we can refactor
 it, with confidence that the method still passes.
@@ -119,7 +111,7 @@ And as we can see, it passes.
 
 Next, we will fully develop our hello method so that it has some nice features.
 
-### Using RubyDoctest in a TDD manner ###
+## Using RubyDoctest in a TDD manner ##
 
 We will be starting our hello method over from scratch. Going through the full
 life cycle of a small method, and testing along the way. It will be
@@ -132,9 +124,9 @@ It all starts with an idea: I would like a hello method that will simply state
 tests that I would eventually like to have, I place this in my hello.rb file:
 
     =begin
-    doctest: hello returns âHello World!â
+    doctest: hello returns "Hello World!"
     >> hello
-    => âHello World!â
+    => "Hello World!"
     =end
 
 And to make sure that it is written correctly, we do want to run the following
@@ -309,7 +301,7 @@ thing to do here. Let’s give that a shot:
       "Hello student!"
     end
 
-Adding the '*' to the argument will give us the ability to accept 0 or more
+Adding the '\*' to the argument will give us the ability to accept 0 or more
 arguments. Let’s test and see if we are still in an error condition:
 
     rubydoctest hello.rb
@@ -322,7 +314,7 @@ arguments. Let’s test and see if we are still in an error condition:
     2 comparisons, 2 doctests, 1 failures, 0 errors
 
 Seems to be OK, as we are no longer in an error condition. And a fail condition
-leads us where to go. We are getting âHello student!â when we don’t give
+leads us where to go. We are getting "Hello student!" when we don’t give
 any argument. Looking above at our program, we want something a little more
 dynamic. Let’s use name variable to give us what we want in the string.
 
@@ -347,7 +339,7 @@ It looks good to me, let’s see what our tests tell us?
 As I know that prior to this change, the additional feature passed, we will
 ignore any change to that, and continue to make our default behavior work.
 What is Ruby telling us? That we can’t convert Array into String on line 3. It
-must be the +() method. Let’s use .to_s method to convert the name variable
+must be the `+()` method. Let’s use `.to_s` method to convert the name variable
 explicitly to a string:
 
     def hello *name
@@ -371,7 +363,7 @@ and see if that takes us away from the error:
 Good, we are out of error mode again, and back to FAIL mode. We can deal with
 that, and we got some more information. We got what appears to be an empty
 Array as indicated by the [] in the string. I would guess it is because of the
-*name that we added. Let’s try a default value instead. Still not changing any
+name that we added. Let’s try a default value instead. Still not changing any
 tests… but paying attention to the feedback from the first test.
 
     def hello name='World'
@@ -393,7 +385,7 @@ refactor our code. And looking at our code I see some things that can be
 improved.
 
     def hello name='World'
-      "Hello + name + â!"
+      "Hello + name + "!
     end
 
 Let’s use remove the .to_s method as we know we are going to get a string. Of

@@ -1,9 +1,10 @@
 +++
 title = "Comment Types in Ruby"
 author = "Victor Goff"
-authorgoogleplus = "https://plus.google.com/+SatishTalim/about"
-authorlinkedin = "https://www.linkedin.com/in/satishtalim"
-authortwitter = "http://twitter.com/indianguru"
+authorlink = "http://twitter.com/kotp"
+authorgoogleplus = "https://plus.google.com/+VictorGoff/about"
+authorlinkedin = "https://www.linkedin.com/in/vgoff"
+authortwitter = "http://twitter.com/kotp"
 date = "2015-03-20T01:15:34-04:00"
 draft = false
 nocomment = false

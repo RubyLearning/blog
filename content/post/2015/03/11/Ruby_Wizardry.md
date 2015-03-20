@@ -2,9 +2,10 @@
     "title": "Ruby Wizardry - A Book Review",
     "date": "2015-03-09T04:32:42.000Z",
     "author": "Victor Goff",
+    "authorlink": "http://twitter.com/kotp",
     "socialsharing": true,
     "authorgoogleplus": "https://plus.google.com/+VictorGoff/about",
-    "authorlinkedin": "https://www.linkedin.com/profile/view?id=13919883",
+    "authorlinkedin": "https://www.linkedin.com/in/vgoff",
     "authortwitter": "http://twitter.com/kotp",
     "tags": [
         "book",
