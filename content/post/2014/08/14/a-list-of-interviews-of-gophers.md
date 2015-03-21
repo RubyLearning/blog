@@ -1,20 +1,19 @@
 ---
+title: A List of Interviews of Gophers
+date: 2014-08-14
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
 categories:
 - go
 - golang
-date: 2014-08-14
 layout: post
 permalink: /2014/08/14/a-list-of-interviews-of-gophers/
-thesis_description:
-- A list of interviews of Go developers taken for GopherConIndia.
-thesis_keywords:
-- golang,gopherconindia,go programming
-title: A List of Interviews of Gophers
-topsy_short_url:
-- http://bit.ly/1ow1VdW
+draft: false
 ---
-
 Since May 2014, I have been busy organizing India's first-ever Go programming conference -- [GopherConIndia][1] --  The experience so far has been awesome and I get a chance to interact with Gophers from all over the world. For GopherConIndia, we have interviewed many Gophers. <!--more-->
 
 Below, I have created a list of all the interviews so far but *please feel free to add to this list, any other Gopher interview(s) that I might have missed out.*

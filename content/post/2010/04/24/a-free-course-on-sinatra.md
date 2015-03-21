@@ -1,12 +1,18 @@
 ---
+draft: true
+title: A Free Course on Sinatra
+date: 2010-04-24
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
 categories:
 - Learn Sinatra
 - Ruby
 - Sinatra
 - Training
-date: 2010-04-24
-draft: true
 layout: post
 permalink: /2010/04/24/a-free-course-on-sinatra/
 tags:
@@ -14,289 +20,161 @@ tags:
 - Sinatra
 - Sinatra eBook
 - The Ruby Programming Language
-thesis_description:
-- The first-ever free, online course on Sinatra 1.0 by RubyLearning.org
-thesis_keywords:
-- Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language
-title: A Free Course on Sinatra
-topsy_short_url:
-- http://bit.ly/cwV3PD
 ---
+## A Free Course on Sinatra
 
-<div>
-  <h3>
-    A Free Course on Sinatra
-  </h3>
-  
-  <p>
-    <span class="drop_cap">T</span>o celebrate the release of <b>Sinatra 1.0</b> RubyLearning announces the first-ever, free online &#8220;<strong>Introduction to Sinatra</strong>&#8221; course starting from <b>15th May 2010</b>.
-  </p>
-  
-  <blockquote class="right">
-    <p>
-      Sinatra &#8211; quickly create tiny web apps and services
-    </p>
-  </blockquote>
-  
-  <h3>
-    What&#8217;s Sinatra?
-  </h3>
-  
-  <p>
-    Sinatra is a micro-framework for quickly creating <em>tiny web-applications</em> and <em>small services</em> in Ruby. It is not a Model-View-Controller (MVC) based framework.
-  </p>
-  
-  <p>
-    Please read &#8211; <a href="http://deadprogrammersociety.blogspot.com/2007/10/sinatra-ruby-web-framework-and-why-it.html">Sinatra, a Ruby web framework, and Why it Matters</a>.
-  </p>
-  
-  <h3>
-    Our Awesome Sponsor
-  </h3>
-  
-  <p>
-    This course is sponsored by <strong>Rock & Code</strong>.
-  </p>
-  
-  <p>
-    <a href="http://rock-n-code.com/"><img class="alignright" src='http://rubylearning.com/images/rockncode-125.png' width="125" height="125" style="border: 0px none ;" alt="A leading software development firm based in Amsterdam" title="A leading software development firm based in Amsterdam" /></a>
-  </p>
-  
-  <p>
-    <strong><a href="http://rock-n-code.com/">Rock & Code</a></strong> is an Amsterdam based artisan shop that specializes in providing custom server, desktop, mobile and web solutions, which thunder strike your competition and rock your business to the top. If you have a software problem, we hold the key. If you have an idea, the Rock & Code team has what it takes to make it a dazzling reality. We employ Agile techniques together with Ruby, Erlang, Objective-C, and other Open Source technologies and libraries to turn you into the hottest new thing in town. Our communications and marketing services further strengthen our digital endeavors and help you ace the rest and be among the best. After all, there are many ways to rock but only we can rock you to the top.
-  </p>
-  
-  <p>
-    <img class="alignright" src="http://rubylearning.com/images/heroku-optimized.gif" alt="Heroku Logo" title="Heroku" />
-  </p>
-  
-  <p>
-    Thanks to <a href="http://heroku.com/"><strong>Heroku</strong></a> for providing the facility to create free hosting accounts for all the participants, to host their apps created during the course. Heroku &#8211; it&#8217;s fast, it&#8217;s easy, and it just works!
-  </p>
-  
-  <h3>
-    What Will I Learn?
-  </h3>
-  
-  <p>
-    In this introductory course, you will learn the essential features of Sinatra 1.0 that you will end up using every day. The course topics are:
-  </p>
-  
-  <ul>
-    <li>
-      Introduction to Sinatra <ul>
-        <li>
-          What is Sinatra?
-        </li>
-        <li>
-          A quick look at HTTP
-        </li>
-        <li>
-          What&#8217;s HTTP?
-        </li>
-        <li>
-          Loading a web page
-        </li>
-        <li>
-          HTTP request methods
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      A quick look at Routes
-    </li>
-    <li>
-      set
-    </li>
-    <li>
-      before block
-    </li>
-    <li>
-      pass
-    </li>
-    <li>
-      status
-    </li>
-    <li>
-      A trivial Sinatra application
-    </li>
-    <li>
-      Installation <ul>
-        <li>
-          Dependencies
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      Deployment <ul>
-        <li>
-          Git
-        </li>
-        <li>
-          Heroku
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      Views &#8211; ERB and HAML
-    </li>
-    <li>
-      Handler
-    </li>
-    <li>
-      Form parameters
-    </li>
-    <li>
-      Layouts
-    </li>
-    <li>
-      Error Handling
-    </li>
-    <li>
-      Helpers
-    </li>
-    <li>
-      Exercises <ul>
-        <li>
-          String Reversal Service
-        </li>
-        <li>
-          Stock Exchange Quote Service
-        </li>
-        <li>
-          Mountain Bike Trails
-        </li>
-        <li>
-          Finding Photos on Flickr
-        </li>
-        <li>
-          Sorter Web Service
-        </li>
-        <li>
-          Using Yahoo! Web Service for Search
-        </li>
-        <li>
-          Simple CRUD app with ActiveRecord and YAML
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      Using Rack Middleware
-    </li>
-  </ul>
-  
-  <p>
-    You can read through the <a href="http://rubylearning.com/satishtalim/faq.html">RubyLearning FAQ</a>.
-  </p>
-  
-  <h3>
-    Some Fun Apps
-  </h3>
-  
-  <p>
-    Here are some fun apps created by the batch participants and deployed to Heroku:
-  </p>
-  
-  <ul>
-    <li>
-      England&#8217;s Paul Harris&#8217; &#8211; <a href="http://pchcrud.heroku.com/">A Simple CRUD App</a>.
-    </li>
-    <li>
-      Australia&#8217;s Brett Petersen&#8217;s &#8211; <a href="http://blazing-waterfall-72.heroku.com/">Mountain Bike Trails</a>.
-    </li>
-    <li>
-      Mexico&#8217;s Hector Sansores&#8217; &#8211; <a href="http://sinatra2.hectorsq.com/">String Reversal Service</a>.
-    </li>
-  </ul>
-  
-  <p style="text-align: justify;">
-    Won&#8217;t you like to create some simple Sinatra applications like the following?
-  </p>
-  
-  <ul>
-    <li>
-      <a href="http://afternoon-cloud-19.heroku.com/">Stock Exchange Quote Service</a> or
-    </li>
-    <li>
-      <a href="http://vivid-flower-63.heroku.com/">Finding Photos on Flickr</a>
-    </li>
-    <li>
-      <a href="http://blooming-window-92.heroku.com/">Using Yahoo! Web Service for Search</a>
-    </li>
-  </ul>
-  
-  <p style="text-align: justify;">
-    <b>Yes, you too can build all such applications and many more</b>.
-  </p>
-  
-  <h3>
-    Who&#8217;s It For?
-  </h3>
-  
-  <p>
-    Anyone who knows the Ruby programming language can take the &#8220;<strong>Introduction to Sinatra</strong>&#8221; course, and is a starting point for people new to Sinatra and a guide to help learn it as quickly and easily as possible.
-  </p>
-  
-  <p>
-    <img class="alignright" src="http://rubylearning.com/images/sinatralogo.jpg" alt="Sinatra Icon" title="Sinatra microframework" />
-  </p>
-  
-  <h3>
-    Dates
-  </h3>
-  
-  <p>
-    The course starts on 15th May 2010 and runs for a week. You first need to <a href="http://rubylearning.org/">register on the site</a> and then and email me your registered email id to <b>satish [dot] talim [at] gmail.com</b>.
-  </p>
-  
-  <h3>
-    Number of Participants
-  </h3>
-  
-  <p>
-    The course is restricted to the <b>first 30 participants on a first-come-first-served basis</b>.
-  </p>
-  
-  <p>
-    Famous <a href="http://rubylearning.com/blog/2009/06/29/20-rubyists-using-sinatra-do-you/">Rubyists using Sinatra</a> talked to RubyLearning and gave us their views on:
-  </p>
-  
-  <ul>
-    <li>
-      <a href="http://rubylearning.com/blog/2009/08/11/blake-mizerany-how-do-i-learn-and-master-sinatra/">How do I learn and master Sinatra?</a>
-    </li>
-    <li>
-      <a href="http://rubylearning.com/blog/2009/07/19/what-are-the-twelve-rules-of-sinatra/">The 12 rules of Sinatra</a>
-    </li>
-  </ul>
-  
-  <p>
-    Also, thanks to <a href="http://rubylearning.com/blog/2009/03/03/interview-adam-keys-on-sinatra/">Adam Keys</a>, <a href="http://rubylearning.com/blog/2009/03/20/interview-aaron-quint-on-sinatra/">Aaron Quint</a>, and <a href="http://rubylearning.com/blog/2009/03/20/interview-ryan-tomayko-on-sinatra/">Ryan Tomayko</a> for sharing their expertise on Sinatra with the course participants.
-  </p>
-  
-  <p>
-    And last but not the least, thanks to <b>Julio Javier Cicchelli</b> for his constant support to RubyLearning.org
-  </p>
-  
-  <p>
-    So hurry, registrations have started.
-  </p>
-  
-  <p class="alert">
-    By the end of the course, you can quickly create your own tiny web-applications in Ruby and write lots of small services.
-  </p>
-  
-  <p>
-    <img class="alignleft" src='http://rubylearning.com/images/update.jpg' style="border: 0px none ;" alt="Update" title="Update" />
-  </p>
-  
-  <p>
-    <b>Registrations for this course are now closed</b>.
-  </p>
-</div>
+To celebrate the release of **Sinatra 1.0** RubyLearning announces the
+first-ever, free online “**Introduction to Sinatra**” course starting
+from **15th May 2010**.
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Sinatra" rel="tag">Sinatra</a>, <a href="http://technorati.com/tag/Sinatra+eBook" rel="tag">Sinatra eBook</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>
+> Sinatra – quickly create tiny web apps and services
+
+## What’s Sinatra?
+
+Sinatra is a micro-framework for quickly creating *tiny
+web-applications* and *small services* in Ruby. It is not a
+Model-View-Controller (MVC) based framework.
+
+Please read – [Sinatra, a Ruby web framework, and Why it
+Matters](http://deadprogrammersociety.blogspot.com/2007/10/sinatra-ruby-web-framework-and-why-it.html).
+
+## Our Awesome Sponsor
+
+This course is sponsored by **Rock & Code**.
+
+[![A leading software development firm based in
+Amsterdam](http://rubylearning.com/images/rockncode-125.png "A leading software development firm based in Amsterdam")](http://rock-n-code.com/)
+
+**[Rock & Code](http://rock-n-code.com/)** is an Amsterdam based artisan
+shop that specializes in providing custom server, desktop, mobile and
+web solutions, which thunder strike your competition and rock your
+business to the top. If you have a software problem, we hold the key. If
+you have an idea, the Rock & Code team has what it takes to make it a
+dazzling reality. We employ Agile techniques together with Ruby, Erlang,
+Objective-C, and other Open Source technologies and libraries to turn
+you into the hottest new thing in town. Our communications and marketing
+services further strengthen our digital endeavors and help you ace the
+rest and be among the best. After all, there are many ways to rock but
+only we can rock you to the top.
+
+![Heroku
+Logo](http://rubylearning.com/images/heroku-optimized.gif "Heroku")
+
+Thanks to [**Heroku**](http://heroku.com/) for providing the facility to
+create free hosting accounts for all the participants, to host their
+apps created during the course. Heroku – it’s fast, it’s easy, and it
+just works!
+
+## What Will I Learn?
+
+In this introductory course, you will learn the essential features of
+Sinatra 1.0 that you will end up using every day. The course topics are:
+
+-   Introduction to Sinatra
+    -   What is Sinatra?
+    -   A quick look at HTTP
+    -   What’s HTTP?
+    -   Loading a web page
+    -   HTTP request methods
+-   A quick look at Routes
+-   set
+-   before block
+-   pass
+-   status
+-   A trivial Sinatra application
+-   Installation
+    -   Dependencies
+-   Deployment
+    -   Git
+    -   Heroku
+-   Views – ERB and HAML
+-   Handler
+-   Form parameters
+-   Layouts
+-   Error Handling
+-   Helpers
+-   Exercises
+    -   String Reversal Service
+    -   Stock Exchange Quote Service
+    -   Mountain Bike Trails
+    -   Finding Photos on Flickr
+    -   Sorter Web Service
+    -   Using Yahoo! Web Service for Search
+    -   Simple CRUD app with ActiveRecord and YAML
+-   Using Rack Middleware
+
+You can read through the [RubyLearning
+FAQ](http://rubylearning.com/satishtalim/faq.html).
+
+## Some Fun Apps
+
+Here are some fun apps created by the batch participants and deployed to
+Heroku:
+
+-   England’s Paul Harris’ – [A Simple CRUD
+    App](http://pchcrud.heroku.com/).
+-   Australia’s Brett Petersen’s – [Mountain Bike
+    Trails](http://blazing-waterfall-72.heroku.com/).
+-   Mexico’s Hector Sansores’ – [String Reversal
+    Service](http://sinatra2.hectorsq.com/).
+
+Won’t you like to create some simple Sinatra applications like the
+following?
+
+-   [Stock Exchange Quote
+    Service](http://afternoon-cloud-19.heroku.com/) or
+-   [Finding Photos on Flickr](http://vivid-flower-63.heroku.com/)
+-   [Using Yahoo! Web Service for
+    Search](http://blooming-window-92.heroku.com/)
+
+**Yes, you too can build all such applications and many more**.
+
+## Who’s It For?
+
+Anyone who knows the Ruby programming language can take the
+“**Introduction to Sinatra**” course, and is a starting point for people
+new to Sinatra and a guide to help learn it as quickly and easily as
+possible.
+
+![Sinatra
+Icon](http://rubylearning.com/images/sinatralogo.jpg "Sinatra microframework")
+
+## Dates
+
+The course starts on 15th May 2010 and runs for a week. You first need
+to [register on the site](http://rubylearning.org/) and then and email
+me your registered email id to **satish [dot] talim [at] gmail.com**.
+
+## Number of Participants
+
+The course is restricted to the **first 30 participants on a
+first-come-first-served basis**.
+
+Famous [Rubyists using
+Sinatra](http://rubylearning.com/blog/2009/06/29/20-rubyists-using-sinatra-do-you/)
+talked to RubyLearning and gave us their views on:
+
+-   [How do I learn and master
+    Sinatra?](http://rubylearning.com/blog/2009/08/11/blake-mizerany-how-do-i-learn-and-master-sinatra/)
+-   [The 12 rules of
+    Sinatra](http://rubylearning.com/blog/2009/07/19/what-are-the-twelve-rules-of-sinatra/)
+
+Also, thanks to [Adam
+Keys](http://rubylearning.com/blog/2009/03/03/interview-adam-keys-on-sinatra/),
+[Aaron
+Quint](http://rubylearning.com/blog/2009/03/20/interview-aaron-quint-on-sinatra/),
+and [Ryan
+Tomayko](http://rubylearning.com/blog/2009/03/20/interview-ryan-tomayko-on-sinatra/)
+for sharing their expertise on Sinatra with the course participants.
+
+And last but not the least, thanks to **Julio Javier Cicchelli** for his
+constant support to RubyLearning.org
+
+So hurry, registrations have started.
+
+By the end of the course, you can quickly create your own tiny
+web-applications in Ruby and write lots of small services.
+
+![Update](http://rubylearning.com/images/update.jpg "Update")
+
+**Registrations for this course are now closed**.
