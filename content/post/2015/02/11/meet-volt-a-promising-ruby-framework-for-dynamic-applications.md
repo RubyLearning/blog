@@ -1,5 +1,5 @@
 ---
-title: "Meet Volt: a Promising Ruby Framework for Dynamic Appications"
+title: "Meet Volt: a Promising Ruby Framework for Dynamic Applications"
 author: Amaury
 categories:
 - Ruby
