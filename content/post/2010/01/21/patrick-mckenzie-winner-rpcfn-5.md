@@ -62,12 +62,10 @@ most, as compared to other languages? Why?
 of code which operate together very well. For example, to read a
 property file in Ruby:
 
-{{< highlight ruby >}}
 File.readlines("property.txt")
   .map {|line| line.split("#")[0]}
   .map {|line| line.split("=")}
   .inject({}) {|hash, couplet| hash[couplet[0]]=couplet[1]; hash}
-{{< /highlight >}}
 
 does all the work for you. That is a trivial example in Ruby which would
 take me almost a page to write in Java (well, assuming I wasn’t using a

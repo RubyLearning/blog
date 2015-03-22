@@ -73,7 +73,6 @@ properties from it. Every object in Ruby has its own methods, and
 instance variables which can be added, edited or removed during runtime.
 Here is a simple example:
 
-{{< highlight ruby >}}
     # Example 1: create a new instance of class Object
     my_object = Object.new
 
@@ -89,7 +88,6 @@ Here is a simple example:
 
     my_object.set_my_variable = "Hello"
     my_object.get_my_variable # => Hello
-{{< /highlight >}}
 
 In this example, we have created a new instance of the `Object` class
 and defined two methods on that instance for writing and reading
@@ -98,7 +96,6 @@ available to our object `my_object` and will not be present on any
 other instance of the `Object` class. We can prove this by extending our
 example like so:
 
-{{< highlight ruby >}}
     # Example 2: create a new instance of class Object
     my_object = Object.new
 
@@ -119,7 +116,6 @@ example like so:
     my_object.get_my_variable # => Hello
 
     my_other_object.get_my_variable = "Hello" # => NoMethodError
-{{< /highlight >}}
 
 When we try to call `get_my_variable()` on our second object
 `my_other_object` the interpreter raises a `NoMethodError` to tell us
@@ -134,7 +130,6 @@ common example: writing class methods.
 You’ll probably already be aware of this common syntax for writing
 methods to your Ruby classes:
 
-{{< highlight ruby >}}
     # Example 3
     class MyClass
       def self.capitalize_name
@@ -142,7 +137,6 @@ methods to your Ruby classes:
       end
     end
     print MyClass.capitalize_name # => MYCLASS
-{{< /highlight >}}
 
 Within our class definition we’re defining a method on one particular
 object just like we did in Example 1. Only, this time the object is
@@ -152,7 +146,6 @@ MyClass and no other class (yet). This is just one example of how to
 write a class method. To refer back to Example 3 again, here are three
 different approaches to defining the same class methods:
 
-{{< highlight ruby >}}
     # Example 4
     # approach 1
     class MyClass
@@ -176,7 +169,6 @@ different approaches to defining the same class methods:
     def MyClass.capitalize_name
       name.upcase
     end
-{{< /highlight >}}
 
 See how similar approach 3 here is to Example 1? You will hopefully have
 realised that when you write a class method in Ruby, it’s just the same
@@ -195,7 +187,6 @@ Here’s an example…
 on each of it’s models. Within the application we have a class called
 CarModel:
 
-{{< highlight ruby >}}
     # Example 5
     class CarModel
       def engine_info=(info)
@@ -278,7 +269,6 @@ CarModel:
         @stereo_price
       end
     end
-{{< /highlight >}}
 
 Each car model comes with various features such as “stereo”, “alarm”
 etc. We have a method to get and set the values of each feature of the
@@ -288,7 +278,6 @@ add to the CarModel class, we need to define two new methods:
  Since each of these methods are similar, we can do the following to
 simplify this code:
 
-{{< highlight ruby >}}
     # Example 6
     class CarModel
       FEATURES = ["engine", "wheel", "airbag", "alarm", "stereo"]
@@ -311,7 +300,6 @@ simplify this code:
         end
       end
     end
-{{< /highlight >}}
 
 In this example, we start by defining an array called `FEATURES` which
 includes all the features we wish to add methods for. Then, for each
@@ -331,19 +319,16 @@ in Ruby so it’s not surprising that Ruby already has methods that do
 just that. `Module#attr_accessor` can be used to do the same thing as in
 Example 6 with just a single line of code.
 
-{{< highlight ruby >}}
     # Example 7
     class CarModel
       attr_accessor :engine_info, :engine_price, :wheel_info, :wheel_price, :airbag_info, :airbag_price, :alarm_info, :alarm_price, :stereo_info, :stereo_price
     end
-{{< /highlight >}}
 
 Great! But this still isn’t ideal. For each feature, we still need to
 define two attributes (`feature_info` and `feature_price`). Ideally we
 should be able to call a method that can do the same as in Example 7 but
 by only listing each feature once.
 
-{{< highlight ruby >}}
     # Example 8
     class CarModel
       # define a class macro for setting features
@@ -356,7 +341,6 @@ by only listing each feature once.
       # set _info and _price methods for each of these features
       features :engine, :wheel, :airbag, :alarm, :stereo
     end
-{{< /highlight >}}
 
 In this example, we take each of the arguments for `CarModel#features`
 and pass them to `attr_accessor` with `_price` and `_info` extensions.
@@ -394,7 +378,6 @@ for some pretty useful effects.
 is passed two arguments; the name of the missing method (as a symbol)
 and array of its arguments. Let’s look at an example:
 
-{{< highlight ruby >}}
     # Example 9
     class MyGhostClass
       def method_missing(name, *args)
@@ -405,7 +388,6 @@ and array of its arguments. Let’s look at an example:
     m = MyGhostClass.new
     m.awesome_method("one", "two") # => awesome_method was called with arguments: one,two
     m.another_method("three", "four") # => another_method was called with arguments: three,four
-{{< /highlight >}}
 
 There’s no method named awesome_method() or another_method() within
 our class yet when we try calling it, we don’t see the usual
@@ -417,7 +399,6 @@ method. Let’s say, for example, that all methods containing the word
 “awesome” should be printed out just like in Example 9. All other
 methods should raise the default `NoMethodError`.
 
-{{< highlight ruby >}}
     # Example 10
     class MyGhostClass
       def method_missing(name, *args)
@@ -432,7 +413,6 @@ methods should raise the default `NoMethodError`.
     m = MyGhostClass.new
     m.awesome_method("one", "two") # =>  awesome_method was called with arguments: one,two
     m.another_method("three", "four") # =>  NoMethodError
-{{< /highlight >}}
 
 This time, calling `awesome_method` behaves just like in Example 9, but
 `another_method` doesn’t contain the word “awesome” so we pass this up
@@ -444,11 +424,9 @@ Strictly speaking, `MyGhostClass#awesome_method` is not really a method.
 If we create an instance of MyGhostClass and scan it’s methods for any
 with “awesome” in the name we won’t find any.
 
-{{< highlight ruby >}}
     # Example 11
     @m = MyGhostClass.new
     @m.methods.grep(/awesome/) # => nil
-{{< /highlight >}}
 
 Instead, we call this a ghost method. Ghost methods come with pros and
 cons. The major pro is the ability to write code that responds to
@@ -459,7 +437,6 @@ names.
  With that in mind, let’s go back to our CarModel example and see if we
 can extend the functionality a little further.
 
-{{< highlight ruby >}}
     # Example 12
     class CarModel
       def method_missing(name, *args)
@@ -472,7 +449,6 @@ can extend the functionality a little further.
         end
       end
     end
-{{< /highlight >}}
 
 This example may look a little complex but is really quite simple.
 First, we take the name argument and convert it from a symbol to a
@@ -487,7 +463,6 @@ Now, we don’t have to specify the features each car model has in
 advance. We can simply get and set values on any `_price` or `_info`
 attribute during runtime:
 
-{{< highlight ruby >}}
     # Example 13
     @car_model = CarModel.new
 
@@ -496,7 +471,6 @@ attribute during runtime:
 
     @car_model.stereo_info  # => "CD/MP3 Player"
     @car_model.stereo_price # => "£79.99"
-{{< /highlight >}}
 
 ## Conclusion
 

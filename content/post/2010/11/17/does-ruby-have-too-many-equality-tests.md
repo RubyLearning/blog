@@ -44,7 +44,6 @@ for equality this is what you will use. The intent of this method is “do
 the objects have the same value regardless of class?” The following are
 a few examples that will illustrate the behavior:
 
-{{< highlight ruby >}}
     a = Object.new
     a == a                             # true
     a == Object.new                    # false
@@ -52,7 +51,6 @@ a few examples that will illustrate the behavior:
     "foo".object_id == "foo".object_id # false
     1 == 1.0                           # true
     1.class == 1.0.class               # false
-{{< /highlight >}}
 
 The first two examples show the default behavior when comparing
 instances of class `Object`. If the two objects are the same object in
@@ -86,14 +84,12 @@ with the value of the object and not concerned if two objects are the
 same instance. But unlike `==,` `eql?` does care about the class. Let’s look
 at some examples:
 
-{{< highlight ruby >}}
     a = Object.new
     a.eql? a                             # true
     a.eql? Object.new                    # false
     "foo".eql? "foo"                     # true
     "foo".object_id == "foo".object_id   # false
     1.eql? 1.0                           # false
-{{< /highlight >}}.
 
 As you can see eql? starts out like ==, but when comparing the Fixnum to
 the Float the result is false even though they have the same value. An
@@ -110,7 +106,6 @@ that the objects being compared are the same instances in memory. This
 means the value of their object id will be same as they are literally
 two pointers to the same instance.
 
-{{< highlight ruby >}}
     a = Object.new
     a.equal? a                           # true
     a.equal? Object.new                  # false
@@ -118,7 +113,6 @@ two pointers to the same instance.
     "foo".object_id == "foo".object_id   # false
     1.equal? 1                           # true
     1.object_id == 1.object_id           # true
-{{< /highlight >}}.
 
 So our default behavior is like the other equality tests but the
 similarities end there. When you compare two difference instances of
@@ -142,7 +136,6 @@ is a way you can compare two objects using a single operator but having
 the intent change depending on the context of the comparison. Lets give
 some examples:
 
-{{< highlight ruby >}}
     a = Object.new
     a === a                             # true
     a === Object.new                    # false
@@ -153,7 +146,6 @@ some examples:
     Fixnum  === 1                       # true
     (1..10) === 5                       # true
     /o/ === 'foo'                       # true
-{{< /highlight >}}
 
 As we can see this starts out looking a LOT like `==`. We can see that the
 comparison is concerned with value not the instance in memory. It also
@@ -165,14 +157,12 @@ get `true`. When comparing a `regexp` with a string it returns `true` if the
 this way? Because the `===` operator is used in the case control flow
 statement. Review the following example:
 
-{{< highlight ruby >}}
     case obj
       when "foo"          then ...
       when Fixnum, Float  then ...
       when 1..10          then ...
       when /o/            then ...
     end
-{{< /highlight >}}
 
 This is the magic of `===`. It lets the intent change depending on the
 context of the comparison. So sometimes you want a simple value
@@ -193,13 +183,11 @@ return `false` (even if comparing two objects that are the same instance).
 Where this operator gets interesting is with the `Regexp` class. Take a
 look at the following examples:
 
-{{< highlight ruby >}}
     a = Object.new
     a =~ a                                          # false
     /o/   =~ 'foo'                                  # true
     'foo' =~ /o/                                    # true
     Mime::Type.new('application/xml') =~ 'text/xml' # true
-{{< /highlight >}}
 
 `Regexp` defines `=~` as alias to the match method. This provides the
 familiar `=~` syntax found in languages like Perl while still providing a
