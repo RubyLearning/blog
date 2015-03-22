@@ -1,14 +1,20 @@
 ---
+draft: false
+title: Startups.in Interview
+date: 2007-04-29
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: https://www.facebook.com/rubylearning
 categories:
 - news
 - rails
 - ruby
-date: 2007-04-29
 layout: post
-title: Startups.in Interview
 ---
-
 Nag. B is the brain behind **[Startups.in](http://startups.in/)**.
 Startups.in simplifies the establishment of startups through a
 collaborative approach that is a win-win situation to all the involved
@@ -131,13 +137,3 @@ offers quality web hosting in this context. Also many
 [isp](http://www.ispsushi.com) now offer the services of web hosting and
 some offer [free wireless internet](http://www.cableunplugged.com) along
 with taking hosing plan from them.
-
-* * * * *
-
-
-Technorati Tags: [Business](http://technorati.com/tag/Business),
-[Entrepreneurship](http://technorati.com/tag/Entrepreneurship),
-[India](http://technorati.com/tag/India), [Nag.
-B](http://technorati.com/tag/Nag.+B),
-[Pune](http://technorati.com/tag/Pune),
-[Startups.in](http://technorati.com/tag/Startups.in)

@@ -1,13 +1,20 @@
 ---
+draft: false
+title: Interview with Ola Bini &#8211; JRuby Core Developer
+date: 2007-08-30
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: https://www.facebook.com/rubylearning
 categories:
 - interview
 - jruby
 - rails
 - ruby
-date: 2007-08-30
 layout: post
-title: Interview with Ola Bini &#8211; JRuby Core Developer
 ---
 
 [![Ola

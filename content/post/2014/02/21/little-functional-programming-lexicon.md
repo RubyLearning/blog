@@ -1,23 +1,17 @@
 ---
+draft: false
+title: Little Functional Programming Lexicon
+date: 2014-02-21
 author: Elise Huard
 categories:
 - Beginners
 - General
-date: 2014-02-21
 layout: post
 permalink: /2014/02/21/little-functional-programming-lexicon/
 tags:
 - Elise Huard
 - Functional Programming
-thesis_description:
-- Elise Huard explains functional programming in simple terms. A guest post on RubyLearning.
-thesis_keywords:
-- Functional Programming, Elise Huard
-title: Little Functional Programming Lexicon
-topsy_short_url:
-- http://bit.ly/1jUgBks
 ---
-
 <div>
   <p class="update">
     This guest post is by <strong>Elise Huard</strong>, who is working as a freelance software engineer. She has 15 years of software under her belt and is keen on providing experienced advice as well as coding help. She has programmed in Ruby for 6 years before turning to Clojure and Haskell, and enjoys exploring the world of functional programming. She lives in Berlin, Germany with her family.
@@ -374,5 +368,3 @@ topsy_short_url:
     <em>Feel free to ask questions and give feedback in the comments section of this post. Thanks!</em>
   </p>
 </div>
-
-Technorati Tags: <a href="http://technorati.com/tag/Functional+Programming" rel="tag">Functional Programming</a>, <a href="http://technorati.com/tag/Elise+Huard" rel="tag"> Elise Huard</a>

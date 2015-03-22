@@ -1,4 +1,5 @@
 ---
+draft: true
 title: A List of Interviews of Gophers
 date: 2014-08-14
 author: Satish Talim
@@ -12,7 +13,6 @@ categories:
 - golang
 layout: post
 permalink: /2014/08/14/a-list-of-interviews-of-gophers/
-draft: false
 ---
 Since May 2014, I have been busy organizing India's first-ever Go programming conference -- [GopherConIndia][1] --  The experience so far has been awesome and I get a chance to interact with Gophers from all over the world. For GopherConIndia, we have interviewed many Gophers. <!--more-->
 
