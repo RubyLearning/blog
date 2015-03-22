@@ -44,7 +44,7 @@ topsy_short_url:
       <strong><a href="https://twitter.com/marsee">Marsee Henon</a></strong>, <strong><a href="http://twitter.com/#!/heather_fox">Heather Fox</a></strong> and <a href="http://nostarch.com/">Travis Peterson</a> who make all the Ruby-related books available to RubyLearning.
     </li>
     <li>
-      And last but not the least, I want to thank my family and friends, all the RubyLearning participants at the <a href="http://rubylearning.org/">various courses</a>, all the <a href="http://www.facebook.com/rubylearning">Facebook</a> and <a href="http://www.linkedin.com/company/rubylearning">LinkedIn</a> fans, all those who have purchased <a href="http://rubylearning.com/blog/ebooks/">RubyLearning&#8217;s eBooks</a> and all that have subscribed to this blog, followed my <a href="http://twitter.com/#!/indianguru">tweets</a> and encouraged me with their comments and feedback. Please keep them coming.
+      And last but not the least, I want to thank my family and friends, all the RubyLearning participants at the <a href="http://rubylearning.org/">various courses</a>, all the <a href="http://www.facebook.com/satishtalim/about">Facebook</a> and <a href="http://www.linkedin.com/company/rubylearning">LinkedIn</a> fans, all those who have purchased <a href="http://rubylearning.com/blog/ebooks/">RubyLearning&#8217;s eBooks</a> and all that have subscribed to this blog, followed my <a href="http://twitter.com/#!/indianguru">tweets</a> and encouraged me with their comments and feedback. Please keep them coming.
     </li>
   </ul>
   

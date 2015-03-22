@@ -8,7 +8,7 @@ socialsharing: true
 authorgoogleplus: https://plus.google.com/+SatishTalim/about
 authorlinkedin: https://www.linkedin.com/in/satishtalim
 authortwitter: http://twitter.com/IndianGuru
-authorfacebook: http://www.facebook.com/rubylearning
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Shorty Awards
 - Twitter

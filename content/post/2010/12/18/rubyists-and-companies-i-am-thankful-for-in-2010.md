@@ -8,7 +8,7 @@ socialsharing: true
 authorgoogleplus: https://plus.google.com/+SatishTalim/about
 authorlinkedin: https://www.linkedin.com/in/satishtalim
 authortwitter: http://twitter.com/IndianGuru
-authorfacebook: https://www.facebook.com/rubylearning
+authorfacebook: https://www.facebook.com/satishtalim/about
 categories:
 - General
 layout: post
@@ -200,7 +200,7 @@ post](http://rubylearning.com/images/evergreen2.jpg "Evergreen post")
     all the RubyLearning participants at the [various
     courses](http://rubylearning.org/), all the [Ruby
     Challenge](http://ruby-challenge.rubylearning.org/) participants,
-    all the [Facebook](http://www.facebook.com/rubylearning) and
+    all the [Facebook](http://www.facebook.com/satishtalim/about) and
     [LinkedIn](http://www.linkedin.com/company/rubylearning) fans, all
     those who have purchased [RubyLearning’s
     eBooks](http://rubylearning.com/blog/ebooks/) and all that have
