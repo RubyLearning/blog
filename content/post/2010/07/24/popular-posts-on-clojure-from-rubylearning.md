@@ -1,50 +1,36 @@
 ---
+draft: false
+title: Popular Posts on Clojure from RubyLearning
+date: 2010-07-24
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: https://www.facebook.com/rubylearning
 categories:
 - Clojure
-date: 2010-07-24
 layout: post
 permalink: /2010/07/24/popular-posts-on-clojure-from-rubylearning/
 tags:
 - Clojure
-thesis_description:
-- A list of some popular posts on Clojure from RubyLearning.
-thesis_keywords:
-- clojure, clojure interviews
-title: Popular Posts on Clojure from RubyLearning
-topsy_short_url:
-- http://bit.ly/awDv4Y
 ---
+Many Rubyists today are talking about and exploring Clojure and I wanted
+to share a list of some popular posts on Clojure from RubyLearning.
+Enjoy!
 
-<div>
-  <p class="alert">
-    Many Rubyists today are talking about and exploring Clojure and I wanted to share a list of some popular posts on Clojure from RubyLearning. Enjoy!
-  </p>
-  
-  <ol>
-    <li>
-      <a href="http://rubylearning.com/blog/2010/04/06/rich-hickey-talks-to-rubylearnings-clojure-course-participants/">Rich Hickey</a>
-    </li>
-    <li>
-      <a href="http://rubylearning.com/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/">Stuart Halloway</a>
-    </li>
-    <li>
-      <a href="http://rubylearning.com/blog/2010/03/10/michael-fogus-talks-to-rubylearnings-clojure-course-participants/">Michael Fogus</a>
-    </li>
-    <li>
-      <a href="http://rubylearning.com/blog/2010/03/18/amit-rathore-talks-to-rubylearnings-clojure-course-participants/">Amit Rathore</a>
-    </li>
-    <li>
-      <a href="http://rubylearning.com/blog/2010/07/29/clojure-a-chat-with-andrew-boekhoff/">Andrew Boekhoff</a>
-    </li>
-    <li>
-      <a href="http://rubylearning.com/blog/2010/07/26/clojure-tips-from-the-experts/">Clojure Tips from the Experts</a>.
-    </li>
-  </ol>
-  
-  <p>
-    And hopefully more to come&#8230;
-  </p>
-</div>
+1.  [Rich
+    Hickey](http://rubylearning.com/blog/2010/04/06/rich-hickey-talks-to-rubylearnings-clojure-course-participants/)
+2.  [Stuart
+    Halloway](http://rubylearning.com/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/)
+3.  [Michael
+    Fogus](http://rubylearning.com/blog/2010/03/10/michael-fogus-talks-to-rubylearnings-clojure-course-participants/)
+4.  [Amit
+    Rathore](http://rubylearning.com/blog/2010/03/18/amit-rathore-talks-to-rubylearnings-clojure-course-participants/)
+5.  [Andrew
+    Boekhoff](http://rubylearning.com/blog/2010/07/29/clojure-a-chat-with-andrew-boekhoff/)
+6.  [Clojure Tips from the
+    Experts](http://rubylearning.com/blog/2010/07/26/clojure-tips-from-the-experts/).
 
-Technorati Tags: <a href="http://technorati.com/tag/Clojure" rel="tag">Clojure</a>
+And hopefully more to come…

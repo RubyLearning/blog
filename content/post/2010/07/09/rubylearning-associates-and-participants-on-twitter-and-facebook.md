@@ -1,9 +1,14 @@
 ---
-Hide OgTags:
-- 0
-Hide SexyBookmarks:
-- 0
+draft: false
+title: RubyLearning Associates and Participants on Twitter and Facebook
+date: 2010-07-09
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: https://www.facebook.com/rubylearning
 categories:
 - Clojure
 - Ruby
@@ -11,7 +16,6 @@ categories:
 - Shoes
 - Sinatra
 - Twitter
-date: 2010-07-09
 layout: post
 permalink: /2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/
 tags:
@@ -19,882 +23,498 @@ tags:
 - Ruby
 - Ruby on Rails
 - RubyLearning
-thesis_description:
-- A list of RubyLearning Associates and Participants on Twitter and Facebook.
-thesis_keywords:
-- Clojure,Ruby,Ruby on Rails,RubyLearning
-title: RubyLearning Associates and Participants on Twitter and Facebook
-topsy_short_url:
-- http://bit.ly/b5XCdz
 ---
+## RubyLearning Associates and Participants on Twitter and Facebook
 
-<div>
-  <h3>
-    RubyLearning Associates and Participants on Twitter and Facebook
-  </h3>
-  
-  <p class="alert">
-    RubyLearning is associated with some amazing, talented people these last 5 years. I am compiling a list (in alphabetical order) showcasing them; people who have either undergone some of the courses at RubyLearning or have been instrumental in taking RubyLearning to the next level.
-  </p>
-  
-  <h4>
-    Argentina
-  </h4>
-  
-  <ol>
-    <li>
-      Gustavo A. Courault on <a href="http://twitter.com/Courault">Twitter</a> and <a href="http://www.facebook.com/#!/gcourault">Facebook</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    Australia
-  </h4>
-  
-  <ol>
-    <li>
-      <span style="color:#0000A0">Dr Nic Williams</span> on <a href="http://twitter.com/drnic">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Rhys Powell on <a href="http://twitter.com/FrogBawt">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Austria
-  </h4>
-  
-  <ol>
-    <li>
-      <span style="color:#0000A0">Michael Kohl</span> on <a href="http://twitter.com/citizen428">Twitter</a>, Facebook and <a href="https://plus.google.com/u/0/101046237539584353961/">Google+</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    Bangladesh
-  </h4>
-  
-  <ol>
-    <li>
-      Samiron Paul on <a href="http://twitter.com/samironpaul">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Brazil
-  </h4>
-  
-  <ol>
-    <li>
-      Andre Lima Silva on <a href="http://twitter.com/vixlima">Twitter</a>, <a href="http://www.facebook.com/vixlima">Facebook</a> and <a href="https://github.com/vixlima">GitHub</a>.
-    </li>
-    <li>
-      Cassiano Faria on <a href="http://twitter.com/cassianofaria">Twitter</a> and <a href="http://www.facebook.com/cassianofaria">Facebook</a>.
-    </li>
-    <li>
-      Christopher Moura on <a href="http://twitter.com/christopher78">Twitter</a> and <a href="http://www.facebook.com/christopher.moura">Facebook</a>.
-    </li>
-    <li>
-      Daniel Freire on <a href="http://twitter.com/danfoxz">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Daniel Kühl Lima on <a href="http://twitter.com/dklima">Twitter</a> and <a href="http://pt-br.facebook.com/people/Daniel-Kuhl-Lima/1051337048">Facebook</a>.
-    </li>
-    <li>
-      Diógenes Fernandes on <a href="http://twitter.com/diofeher">Twitter</a> and <a href="http://www.facebook.com/people/Diogenes-Herminio/100000328087335">Facebook</a>.
-    </li>
-    <li>
-      Elomar Franca on <a href="http://twitter.com/elomar">Twitter</a> and <a href="http://www.facebook.com/elomar.f">Facebook</a>.
-    </li>
-    <li>
-      Eric Fer on <a href="http://twitter.com/ericfer">Twitter</a> and <a href="http://www.facebook.com/ericferz">Facebook</a>.
-    </li>
-    <li>
-      Felipe Elias Philipp on <a href="http://twitter.com/felipeelias">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Felipe Sewaybricker Lombardi on <a href="http://twitter.com/felipe_kiros">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Fabio Akita</span> on <a href="http://twitter.com/akitaonrails">Twitter</a> and <a href="http://www.facebook.com/akitaonrails">Facebook</a>.
-    </li>
-    <li>
-      Herminio Torres on <a href="http://twitter.com/herminiotorres">Twitter</a> and <a href="http://www.facebook.com/herminiocesar">Facebook</a>.
-    </li>
-    <li>
-      Jefferson Jean Martins Girão on <a href="http://twitter.com/jeffersongirao">Twitter</a> and <a href="http://pt-br.facebook.com/people/Jefferson-Jean-Martins-Girao/100000634363833">Facebook</a>.
-    </li>
-    <li>
-      Joao Vitor Lacerda Guimaraes on <a href="http://twitter.com/joaovitor">Twitter</a> and <a href="http://www.facebook.com/joaovitor">Facebook</a>.
-    </li>
-    <li>
-      Kleber Virgilio Correia on <a href="http://twitter.com/klebervirgilio">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Lucas Allan Cardoso on <a href="http://twitter.com/lucasallan">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Marcio Giaxa Marinheiro on <a href="http://twitter.com/marciogm">Twitter</a> and <a href="http://www.facebook.com/marciogiaxa">Facebook</a>.
-    </li>
-    <li>
-      <span style="color:#0000A0">Marcos Ricardo</span> on <a href="http://twitter.com/marcric">Twitter</a> and <a href="http://www.facebook.com/profile.php?id=100000351446343">Facebook</a>.
-    </li>
-    <li>
-      Mariana M. Ribeiro on <a href="http://twitter.com/MARIRIB1">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Michel Brito on <a href="Michel Brito">Twitter</a> and <a href="http://www.facebook.com/michelbrito">Facebook</a>.
-    </li>
-    <li>
-      Nícolas Faccin Iensen on <a href="http://twitter.com/nicolasiensen">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Rafael Caetano Pinto on <a href="http://twitter.com/barenko">Twitter</a>, Facebook and <a href="https://github.com/barenko">GitHub</a>.
-    </li>
-    <li>
-      Raphael Ivan on <a href="http://twitter.com/raphaelivan">Twitter</a>, Facebook and <a href="https://github.com/raphaelivan">GitHub</a>.
-    </li>
-    <li>
-      Rodolfo Luiz on <a href="http://twitter.com/rodolfols">Twitter</a> and <a href="http://www.facebook.com/rodolfols">Facebook</a>.
-    </li>
-    <li>
-      Rodrigo Flores on <a href="http://twitter.com/rlmflores">Twitter</a> and <a href="http://www.facebook.com/rodrigolmflores">Facebook</a>.
-    </li>
-    <li>
-      Rodrigo Machad on <a href="http://twitter.com/rcmachado">Twitter</a>, <a href="http://facebook.com/rcmachado">Facebook</a> and <a href="http://github.com/rcmachado">GitHub</a>.
-    </li>
-    <li>
-      Rudak Duarte Mendonça on <a href="http://twitter.com/rudak">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Saulo Arruda on <a href="http://twitter.com/sauloarruda">Twitter</a> and <a href="http://www.facebook.com/sauloarruda">Facebook</a>.
-    </li>
-    <li>
-      Sergio Lima on <a href="http://twitter.com/sergiosouzalima">Twitter</a> and <a href="http://www.facebook.com/sergiosouzalima">Facebook</a>.
-    </li>
-    <li>
-      <span style="color:#0000A0">Willian Molinari</span> on <a href="http://twitter.com/WillianMolinari">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Cambodia
-  </h4>
-  
-  <ol>
-    <li>
-      <span style="color:#0000A0">Samnang Chhun</span> on <a href="http://twitter.com/samnangchhun">Twitter</a>, <a href="https://github.com/samnang">Facebook</a>, <a href="https://github.com/samnang">GitHUb</a> and <a href="https://plus.google.com/u/0/105136417144363639670/">Google+</a>.
-    </li>
-    <li>
-      Prum Sambath on <a href="http://twitter.com/Sambath">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Canada
-  </h4>
-  
-  <ol>
-    <li>
-      Alvaro Tejada Galindo on <a href="http://twitter.com/Blag">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Antonio Cangiano</span> on <a href="http://twitter.com/acangiano">Twitter</a>, Facebook and <a href="https://plus.google.com/104323476891214773710/">Google+</a>.
-    </li>
-    <li>
-      Dennis Misener on <a href="http://twitter.com/DMisener">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Dennis Theisen on <a href="http://twitter.com/soleone">Twitter</a> and <a href="http://www.facebook.com/dennistheisen">Facebook</a>.
-    </li>
-    <li>
-      <span style="color:#0000A0">Jeff Savin</span> on <a href="http://twitter.com/JeffSavin">Twitter</a> and <a href="http://www.facebook.com/jeff.l.savin">Facebook</a>.
-    </li>
-    <li>
-      Matthew Boehlig on <a href="http://twitter.com/thetamind">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Paul Carvalho on <a href="http://twitter.com/can_test">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    China
-  </h4>
-  
-  <ol>
-    <li>
-      David Ruan on <a href="http://twitter.com/ruanwz">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Denmark
-  </h4>
-  
-  <ol>
-    <li>
-      Roy Simon on <a href="http://twitter.com/roydealsimon">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Ecuador
-  </h4>
-  
-  <ol>
-    <li>
-      Marcelo Bonilla on Twitter and <a href="http://www.facebook.com/chelobonilla">Facebook</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    Egypt
-  </h4>
-  
-  <ol>
-    <li>
-      Ahmad Al-Ajmi on <a href="http://twitter.com/cssah">Twitter</a> and <a href="http://www.facebook.com/cssah">Facebook</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    Estonia
-  </h4>
-  
-  <ol>
-    <li>
-      Jevgeni Holodkov on Twitter and <a href="http://www.facebook.com/jevgeni.holodkov">Facebook</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    Finland
-  </h4>
-  
-  <ol>
-    <li>
-      Abel B. Terefe on <a href="http://twitter.com/abel_ter">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    France
-  </h4>
-  
-  <ol>
-    <li>
-      <span style="color:#0000A0">Michèle Garoche</span> on <a href="http://twitter.com/migatine">Twitter</a>, Facebook, <a href="http://github.com/migane">GitHub</a> and <a href="http://gplus.to/migatine">Google+</a>.
-    </li>
-    <li>
-      <span style="color:#0000A0">Thibaut Barrère</span> on <a href="http://twitter.com/thibaut_barrere">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Germany
-  </h4>
-  
-  <ol>
-    <li>
-      <span style="color:#0000A0">Dennis Theisen</span> on <a href="http://twitter.com/soleone">Twitter</a>, <a href="http://facebook.com/dennistheisen">Facebook</a> and <a href="http://github.com/Soleone">GitHub</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    Greece
-  </h4>
-  
-  <ol>
-    <li>
-      John Deliyiannis on <a href="http://twitter.com/johndel">Twitter</a> and <a href="http://www.facebook.com/istoselidas">Facebook</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    India
-  </h4>
-  
-  <ol>
-    <li>
-      Abhinav Saxena on <a href="http://twitter.com/abhinav">Twitter</a> and <a href="http://www.facebook.com/abhinavs">Facebook</a>.
-    </li>
-    <li>
-      Abhinav Upadhyay on <a href="http://twitter.com/iamabhi9">Twitter</a> and <a href="http://www.facebook.com/abhinav.jacksparrow">Facebook</a>.
-    </li>
-    <li>
-      Akshat Paul on <a href="http://twitter.com/paulakshat">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Ambanna Yatnal on <a href="http://twitter.com/ambanna">Twitter</a> and <a href="http://www.facebook.com/Ambanna">Facebook</a>.
-    </li>
-    <li>
-      Amol Londhe on Twitter and <a href="http://www.facebook.com/profile.php?id=100001645362511">Facebook</a>.
-    </li>
-    <li>
-      Anil Wadghule on <a href="http://twitter.com/anildigital">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Ankita Mathur on <a href="http://twitter.com/anksangel">Twitter</a> and <a href="http://en-gb.facebook.com/people/Ankita-Mathur/1634648937">Facebook</a>.
-    </li>
-    <li>
-      <span style="color:#0000A0">Baishampayan Ghose</span> on <a href="http://twitter.com/ghoseb">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Balaji Alagusundaram on <a href="http://twitter.com/aviniyan">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Bhushan G Ahire</span> on <a href="http://twitter.com/bhushangahire">Twitter</a> and <a href="http://www.facebook.com/bhushangahire">Facebook</a>.
-    </li>
-    <li>
-      Dhanesh Purohit on <a href="http://twitter.com/dhaneshpurohit">Twitter</a> and <a href="http://www.facebook.com/dhanesh.purohit">Facebook</a>.
-    </li>
-    <li>
-      Dhruva Sagar on <a href="http://twitter.com/dhruvasagar">Twitter</a> and <a href="http://www.facebook.com/people/Dhruva-Sagar/100001257499345">Facebook</a>.
-    </li>
-    <li>
-      <span style="color:#0000A0">Gautam Rege</span> on <a href="http://twitter.com/gautamrege">Twitter</a> and <a href="http://www.facebook.com/gautam.rege">Facebook</a>.
-    </li>
-    <li>
-      Gokula Murthy on <a href="http://twitter.com/gokulamurthy">Twitter</a> and <a href="http://www.facebook.com/gokulamurthy">Facebook</a>.
-    </li>
-    <li>
-      Jigar Gosar on <a href="http://twitter.com/jigargosar">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Ketan Doshi on <a href="http://twitter.com/ketandoshi">Twitter</a> and <a href="http://www.facebook.com/ketandoshi81">Facebook</a>.
-    </li>
-    <li>
-      Manik Juneja on <a href="http://twitter.com/mjuneja">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Manimaran Malaichamy on <a href="http://twitter.com/manimaranm">Twitter</a>, <a href="http://www.facebook.com/people/Manimaran-Malaichamy/100000858117720">Facebook</a>, <a href="http://github.com/maniempire">GitHub</a> and <a href="http://gplus.to/manimaran">Google+</a>
-    </li>
-    <li>
-      Manoj Mathai on <a href="http://twitter.com/letronje">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Mohammed Aslam on <a href="http://twitter.com/tweeslam">Twitter</a> and <a href="http://www.facebook.com/mohammed.aslam">Facebook</a>.
-    </li>
-    <li>
-      Nithin Bekal on <a href="http://twitter.com/nithinbekal">Twitter</a> and <a href="http://www.facebook.com/nithinbekal">Facebook</a>.
-    </li>
-    <li>
-      Piyush Gupta on <a href="https://twitter.com/mba_piyush">Twitter</a> and <a href="http://www.facebook.com/#!/mba.piyushgupta">Facebook</a>.
-    </li>
-    <li>
-      Prakash Sejwani on <a href="http://twitter.com/peter_sejwani">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Rajarshi Das on Twitter and <a href="http://www.facebook.com/rajarshi2576">Facebook</a>.
-    </li>
-    <li>
-      Rajeev Sharma on Twitter and <a href="http://www.facebook.com/rajeevkannav">Facebook</a>.
-    </li>
-    <li>
-      <span style="color:#0000A0">Ramakrishnan Muthukrishnan</span> on <a href="http://twitter.com/vu3rdd">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Ravikumar N on <a href="http://twitter.com/HappyRavi">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Rohan R Arora on <a href="http://twitter.com/rohan071290">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Rohit Arondekar on <a href="http://twitter.com/rohitarondekar">Twitter</a> and <a href="http://www.facebook.com/rohit.arondekar">Facebook</a>.
-    </li>
-    <li>
-      Rohit Pal on <a href="http://twitter.com/rohitpal">Twitter</a> and <a href="http://www.facebook.com/palrohit">Facebook</a>.
-    </li>
-    <li>
-      S K Prasad on <a href="http://twitter.com/skprasad">Twitter</a> and <a href="http://facebook.com/skprasad">Facebook</a>.
-    </li>
-    <li>
-      Sandip Ransing on <a href="http://twitter.com/sandipransing">Twitter</a> and <a href="http://github.com/sandipransing">Facebook</a>.
-    </li>
-    <li>
-      Santosh Gokak on <a href="http://twitter.com/santoshgokak">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Satish Talim on <a href="http://twitter.com/IndianGuru">Twitter</a>, <a href="http://www.facebook.com/satishtalim">Facebook</a> and <a href="https://plus.google.com/107809992818057105754/">Google+</a>.
-    </li>
-    <li>
-      Saurabh Bhatia on <a href="http://twitter.com/safew">Twitter</a> and <a href="http://www.facebook.com/saurabh.a.bhatia">Facebook</a>.
-    </li>
-    <li>
-      Saurabh Purnaye on <a href="http://twitter.com/saurabhp/">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Shyammohan Kanojia on <a href="http://twitter.com/_shyam">Twitter</a> and <a href="http://www.facebook.com/Shyammohankanojia">Facebook</a>.
-    </li>
-    <li>
-      Sheetal Prasad Goyal on <a href="http://twitter.com/spgoyalmnit">Twitter</a> and <a href="http://www.facebook.com/spgoyalmnit">Facebook</a>.
-    </li>
-    <li>
-      Siva Gollapalli on <a href="http://twitter.com/sivagollapalli">Twitter</a> and Facebook.
-    </li>
-    <li>
-      SoftMind Technology on <a href="http://twitter.com/SoftMind">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Sreelakshmi Sridharan on Twitter and <a href="http://www.facebook.com/sree.lakshmi1">Facebook</a>.
-    </li>
-    <li>
-      Suman Mukherjee on <a href="http://twitter.com/mukherjeesuman">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Surya Raj Tripathi on <a href="http://twitter.com/surya_raj">Twitter</a> and <a href="http://www.facebook.com/tripathi.surya">Facebook</a>.
-    </li>
-    <li>
-      Vamsi Krishna on <a href="https://twitter.com/VAMccrishna">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Vinay Seshadri on <a href="http://twitter.com/ytvinay">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Japan
-  </h4>
-  
-  <ol>
-    <li>
-      Kenneth Burling on <a href="http://twitter.com/burlingk">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Satoshi Asakawa</span> on <a href="http://twitter.com/ashbb">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Malaysia
-  </h4>
-  
-  <ol>
-    <li>
-      Yuvan Kumar Danabalan on <a href="http://twitter.com/yuvankumar">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Macedonia
-  </h4>
-  
-  <ol>
-    <li>
-      Dalibor Nasevic on <a href="http://twitter.com/blackflasher">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Mexico
-  </h4>
-  
-  <ol>
-    <li>
-      Alonso Delgado on <a href="http://twitter.com/adam_9_dz">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Emmanuel Delgado on <a href="http://twitter.com/chischaschos">Twitter</a> and <a href="http://www.facebook.com/chischaschos">Facebook</a>.
-    </li>
-    <li>
-      Hector Sansores on <a href="http://twitter.com/hectorsq">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Jose Castaneyra on <a href="http://twitter.com/jcastaneyra">Twitter</a> and <a href="http://www.facebook.com/jcastaneyra">Facebook</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    Netherlands
-  </h4>
-  
-  <ol>
-    <li>
-      <span style="color:#0000A0">Julio Javier Cicchelli</span> on <a href="http://twitter.com/monsieur_rock">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Pakistan
-  </h4>
-  
-  <ol>
-    <li>
-      Ahmed Mubbashir Khan on <a href="http://twitter.com/mubbashir">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Hasham Malik on <a href="http://twitter.com/hasham2">Twitter</a> and <a href="http://www.facebook.com/hasham2">Facebook</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    Peru
-  </h4>
-  
-  <ol>
-    <li>
-      Alvaro Pereyra on <a href="http://twitter.com/yaraher">Twitter</a> and Facebook.
-    </li>
-    <li>
-      José Corcuera Z. on <a href="http://twitter.com/jcorcuera">Twitter</a> and <a href="http://www.facebook.com/jzcorcuera">Facebook</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    Philippines
-  </h4>
-  
-  <ol>
-    <li>
-      Dennis Carique on Twitter and <a href="http://www.facebook.com/dcarique">Facebook</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    Poland
-  </h4>
-  
-  <ol>
-    <li>
-      <span style="color:#0000A0">Daniel Kotowski</span> on <a href="http://twitter.com/kotosha">Twitter</a> and <a href="http://www.facebook.com/kotosha">Facebook</a>.
-    </li>
-    <li>
-      Grzegorz Smajdor on <a href="http://twitter.com/sfistak">Twitter</a>, Facebook and <a href="http://github.com/gs">GitHub</a>.
-    </li>
-    <li>
-      Michal Kuklis on <a href="http://twitter.com/mkuklis">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Portugal
-  </h4>
-  
-  <ol>
-    <li>
-      Jorge Mendes on <a href="http://twitter.com/jorgemendes">Twitter</a> and <a href="http://www.facebook.com/jorge.mendes75">Facebook</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    Romania
-  </h4>
-  
-  <ol>
-    <li>
-      Cristi Ispas on <a href="http://twitter.com/cispas2000">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Serbia
-  </h4>
-  
-  <ol>
-    <li>
-      Milan Dobrota on <a href="http://twitter.com/milandobrota">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Singapore
-  </h4>
-  
-  <ol>
-    <li>
-      <span style="color:#0000A0">Sau Sheong</span> on <a href="http://twitter.com/sausheong">Twitter</a>, Facebook and <a href="https://plus.google.com/u/0/114610362086938873953/">Google+</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    Slovenia
-  </h4>
-  
-  <ol>
-    <li>
-      Jure Srsen on <a href="http://twitter.com/Hoornet">Twitter</a> and <a href="http://www.facebook.com/hoornet">Facebook</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    Spain
-  </h4>
-  
-  <ol>
-    <li>
-      Javier Neira on <a href="http://twitter.com/jneira">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Juanjo Bazan on <a href="http://twitter.com/xuanxu">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Lorenzo Planas on <a href="http://twitter.com/lorenzoplanas">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Switzerland
-  </h4>
-  
-  <ol>
-    <li>
-      Vincent Jacquel on <a href="http://twitter.com/minikermit">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Thailand
-  </h4>
-  
-  <ol>
-    <li>
-      Twin Panichsombat on <a href="http://twitter.com/roofimon">Twitter</a> and <a href="http://www.facebook.com/roofimon">Facebook</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    Turkey
-  </h4>
-  
-  <ol>
-    <li>
-      Burc Yildirim on <a href="http://twitter.com/phrewww">Twitter</a> and <a href="http://www.facebook.com/burc.yildirim">Facebook</a>.
-    </li>
-    <li>
-      Niyazi Ates on <a href="http://twitter.com/hazal1">Twitter</a> and <a href="http://tr-tr.facebook.com/people/Niyazi-Ates/615514520">Facebook</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    UK
-  </h4>
-  
-  <ol>
-    <li>
-      <span style="color:#0000A0">Bruce Scharlau</span> on <a href="http://twitter.com/scharlau">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Jamie van Dyke</span> on <a href="http://twitter.com/fearoffish">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Maris Orbidans on <a href="http://twitter.com/Marutks">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Peter Cooper</span> on <a href="http://twitter.com/peterc">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Richard Taylor on <a href="http://twitter.com/moomerman">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Sam Aaron on <a href="http://twitter.com/samaaron">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Sami Bashraheel on <a href="http://twitter.com/#!/samib_">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Ukraine
-  </h4>
-  
-  <ol>
-    <li>
-      Vladyslav Sumskyi on <a href="http://twitter.com/sumskyi">Twitter</a> and <a href="http://tr-tr.facebook.com/people/Niyazi-Ates/615514520">Facebook</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    Uruguay
-  </h4>
-  
-  <ol>
-    <li>
-      Bernhard Üllenberg on <a href="http://twitter.com/Fotoretusche">Twitter</a> and <a href="http://www.facebook.com/#!/bernhard.uellenberg">http://www.facebook.com/#!/bernhard.uellenberg</a>.
-    </li>
-  </ol>
-  
-  <h4>
-    USA
-  </h4>
-  
-  <ol>
-    <li>
-      <span style="color:#0000A0">Aaron Quint</span> on <a href="http://twitter.com/aq">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Al Snow</span> on <a href="http://twitter.com/jasnow">Twitter</a> and <a href="http://www.facebook.com/al.snow">Facebook</a>.
-    </li>
-    <li>
-      <span style="color:#0000A0">Amit Rathore</span> on <a href="http://twitter.com/amitrathore">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Ashish Dixit on <a href="http://twitter.com/tundal45">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Braxton Gregory Smith on <a href="http://twitter.com/braxtongsmith">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Bruce Williams</span> on <a href="http://twitter.com/wbruce">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Charles Nutter</span> on <a href="http://twitter.com/headius">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Chris Strom</span> on <a href="http://twitter.com/eee_c">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Dan Wanek on <a href="http://twitter.com/zentourist">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Daniel Solano Gómez</span> on <a href="http://twitter.com/deepbluelambda">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Darren Shafae on <a href="http://twitter.com/Papercheck">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Dave Thomas</span> on <a href="http://twitter.com/pragdave">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">David A Black</span> on <a href="http://twitter.com/david_a_black">Twitter</a> and Facebook.
-    </li>
-    <li>
-      David Loeffler on <a href="http://twitter.com/#!/loeffler">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Doug Sparling</span> on <a href="http://twitter.com/scriptrunner">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Dustin Shafae on <a href="http://twitter.com/#!/DustinShafae">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Eric Lavigne on <a href="http://twitter.com/ericlavigne">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Fletcher Fowler on <a href="http://twitter.com/fzf">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">George Thompson</span> on <a href="http://twitter.com/millionmonkey">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Greg Newman on <a href="http://twitter.com/gregnewman">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Ian Dees</span> on <a href="http://twitter.com/undees">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">James Edward Gray II</span> on <a href="http://twitter.com/JEG2">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Jerry Anning</span> on <a href="http://twitter.com/anatman">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">John Trupiano</span> on <a href="http://twitter.com/jtrupiano">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Juan Gomez on <a href="http://twitter.com/#!/_juandg">Twitter</a> and <a href="http://www.facebook.com/juandg">Facebook</a>.
-    </li>
-    <li>
-      Lea Caldwell on Twitter and <a href="http://www.facebook.com/Sienta414">Facebook</a>.
-    </li>
-    <li>
-      Mark Fayngersh on <a href="http://twitter.com/gmaster1440">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Mark Champine on <a href="http://twitter.com/mchampine">Twitter</a> and <a href="http://www.facebook.com/mchampine">Facebook</a>.
-    </li>
-    <li>
-      Mark Nyon on <a href="http://twitter.com/scorintha">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Mark Volkmann</span> on <a href="http://twitter.com/mark_volkmann">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Michael Fogus</span> on <a href="http://twitter.com/fogus">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Narayan Iyer on <a href="http://twitter.com/iyerland">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Naum Trifanoff on <a href="http://twitter.com/naum">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Nick Hird on <a href="http://twitter.com/boondox">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Noel Rappin</span> on <a href="http://twitter.com/noelrap">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Prakash N Murthy on <a href="http://twitter.com/#!/_prakash">Twitter</a> and <a href="http://www.facebook.com/prakash.murthy">Facebook</a>.
-    </li>
-    <li>
-      Raghava Nellaturu on <a href="http://twitter.com/rnella01">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Raj Kandati on <a href="http://twitter.com/raj421">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Ricardo J Sanchez on <a href="http://twitter.com/ricardojsanchez">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Ryan Bates</span> on <a href="http://twitter.com/rbates">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Solomon White on <a href="http://twitter.com/rubysolo">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Spencer Poplin on <a href="http://twitter.com/slpoplin">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Spencer Roach on <a href="http://twitter.com/spncrgr">Twitter</a> and <a href="http://www.facebook.com/spncrgr">Facebook</a>.
-    </li>
-    <li>
-      Steve Kim on <a href="http://twitter.com/skim">Twitter</a> and Facebook.
-    </li>
-    <li>
-      <span style="color:#0000A0">Stuart Halloway</span> on <a href="http://twitter.com/stuarthalloway">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Thomas Thornton on <a href="http://twitter.com/tltjr">Twitter</a> and Facebook.
-    </li>
-    <li>
-      Tom Marrs on <a href="http://twitter.com/TomMarrs">Twitter</a> and <a href="http://www.facebook.com/thomasamarrs">Facebook</a>.
-    </li>
-    <li>
-      Tom Mulcahy on Twitter and <a href="http://www.facebook.com/tom.mulcahy">Facebook</a>.
-    </li>
-    <li>
-      <span style="color:#0000A0">Victor Goff III</span> on <a href="http://twitter.com/kotp">Twitter</a>, Facebook and <a href="http://gplus.to/vhgiii">Google+</a>.
-    </li>
-    <li>
-      Winston Lawrence on <a href="http://twitter.com/winstonlawrence">Twitter</a> and Facebook.
-    </li>
-  </ol>
-  
-  <h4>
-    Vietnam
-  </h4>
-  
-  <ol>
-    <li>
-      Bui Dinh Ngoc on Twitter and <a href="http://www.facebook.com/bdngoc">Facebook</a>.
-    </li>
-    <li>
-      Tinh T. Dinh on Twitter, Facebook and <a href="https://plus.google.com/u/0/104618807642305066883/">Google+</a>.
-    </li>
-  </ol>
-  
-  <h3>
-    Update
-  </h3>
-  
-  <p>
-    I’ll be updating this page from time to time. If you have been associated with RubyLearning in some way or the other and would like your information (Full name, Country of Residence, Twitter Id and / or Facebook Profile URL and / or GitHub URL) displayed here, please post the information here as a comment or email me at satish [dot] talim [at] gmail.com.
-  </p>
-  
-  <p>
-    Thank you for your time and help.
-  </p>
-</div>
+RubyLearning is associated with some amazing, talented people these last
+5 years. I am compiling a list (in alphabetical order) showcasing them;
+people who have either undergone some of the courses at RubyLearning or
+have been instrumental in taking RubyLearning to the next level.<!--more-->
 
-Technorati Tags: <a href="http://technorati.com/tag/Clojure" rel="tag">Clojure</a>, <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Ruby+on+Rails" rel="tag">Ruby on Rails</a>, <a href="http://technorati.com/tag/RubyLearning" rel="tag">RubyLearning</a>
+### Argentina
+
+1.  Gustavo A. Courault on [Twitter](http://twitter.com/Courault) and
+    [Facebook](http://www.facebook.com/#!/gcourault).
+
+### Australia
+
+1.  Dr Nic Williams on [Twitter](http://twitter.com/drnic) and Facebook.
+2.  Rhys Powell on [Twitter](http://twitter.com/FrogBawt) and Facebook.
+
+### Austria
+
+1.  Michael Kohl on [Twitter](http://twitter.com/citizen428), Facebook
+    and [Google+](https://plus.google.com/u/0/101046237539584353961/).
+
+### Bangladesh
+
+1.  Samiron Paul on [Twitter](http://twitter.com/samironpaul) and
+    Facebook.
+
+### Brazil
+
+1.  Andre Lima Silva on [Twitter](http://twitter.com/vixlima),
+    [Facebook](http://www.facebook.com/vixlima) and
+    [GitHub](https://github.com/vixlima).
+2.  Cassiano Faria on [Twitter](http://twitter.com/cassianofaria) and
+    [Facebook](http://www.facebook.com/cassianofaria).
+3.  Christopher Moura on [Twitter](http://twitter.com/christopher78) and
+    [Facebook](http://www.facebook.com/christopher.moura).
+4.  Daniel Freire on [Twitter](http://twitter.com/danfoxz) and Facebook.
+5.  Daniel Kühl Lima on [Twitter](http://twitter.com/dklima) and
+    [Facebook](http://pt-br.facebook.com/people/Daniel-Kuhl-Lima/1051337048).
+6.  Diógenes Fernandes on [Twitter](http://twitter.com/diofeher) and
+    [Facebook](http://www.facebook.com/people/Diogenes-Herminio/100000328087335).
+7.  Elomar Franca on [Twitter](http://twitter.com/elomar) and
+    [Facebook](http://www.facebook.com/elomar.f).
+8.  Eric Fer on [Twitter](http://twitter.com/ericfer) and
+    [Facebook](http://www.facebook.com/ericferz).
+9.  Felipe Elias Philipp on [Twitter](http://twitter.com/felipeelias)
+    and Facebook.
+10. Felipe Sewaybricker Lombardi on
+    [Twitter](http://twitter.com/felipe_kiros) and Facebook.
+11. Fabio Akita on [Twitter](http://twitter.com/akitaonrails) and
+    [Facebook](http://www.facebook.com/akitaonrails).
+12. Herminio Torres on [Twitter](http://twitter.com/herminiotorres) and
+    [Facebook](http://www.facebook.com/herminiocesar).
+13. Jefferson Jean Martins Girão on
+    [Twitter](http://twitter.com/jeffersongirao) and
+    [Facebook](http://pt-br.facebook.com/people/Jefferson-Jean-Martins-Girao/100000634363833).
+14. Joao Vitor Lacerda Guimaraes on
+    [Twitter](http://twitter.com/joaovitor) and
+    [Facebook](http://www.facebook.com/joaovitor).
+15. Kleber Virgilio Correia on
+    [Twitter](http://twitter.com/klebervirgilio) and Facebook.
+16. Lucas Allan Cardoso on [Twitter](http://twitter.com/lucasallan) and
+    Facebook.
+17. Marcio Giaxa Marinheiro on [Twitter](http://twitter.com/marciogm)
+    and [Facebook](http://www.facebook.com/marciogiaxa).
+18. Marcos Ricardo on [Twitter](http://twitter.com/marcric) and
+    [Facebook](http://www.facebook.com/profile.php?id=100000351446343).
+19. Mariana M. Ribeiro on [Twitter](http://twitter.com/MARIRIB1) and
+    Facebook.
+20. Michel Brito on [Twitter](Michel%20Brito) and
+    [Facebook](http://www.facebook.com/michelbrito).
+21. Nícolas Faccin Iensen on [Twitter](http://twitter.com/nicolasiensen)
+    and Facebook.
+22. Rafael Caetano Pinto on [Twitter](http://twitter.com/barenko),
+    Facebook and [GitHub](https://github.com/barenko).
+23. Raphael Ivan on [Twitter](http://twitter.com/raphaelivan), Facebook
+    and [GitHub](https://github.com/raphaelivan).
+24. Rodolfo Luiz on [Twitter](http://twitter.com/rodolfols) and
+    [Facebook](http://www.facebook.com/rodolfols).
+25. Rodrigo Flores on [Twitter](http://twitter.com/rlmflores) and
+    [Facebook](http://www.facebook.com/rodrigolmflores).
+26. Rodrigo Machad on [Twitter](http://twitter.com/rcmachado),
+    [Facebook](http://facebook.com/rcmachado) and
+    [GitHub](http://github.com/rcmachado).
+27. Rudak Duarte Mendonça on [Twitter](http://twitter.com/rudak) and
+    Facebook.
+28. Saulo Arruda on [Twitter](http://twitter.com/sauloarruda) and
+    [Facebook](http://www.facebook.com/sauloarruda).
+29. Sergio Lima on [Twitter](http://twitter.com/sergiosouzalima) and
+    [Facebook](http://www.facebook.com/sergiosouzalima).
+30. Willian Molinari on [Twitter](http://twitter.com/WillianMolinari)
+    and Facebook.
+
+### Cambodia
+
+1.  Samnang Chhun on [Twitter](http://twitter.com/samnangchhun),
+    [Facebook](https://github.com/samnang),
+    [GitHUb](https://github.com/samnang) and
+    [Google+](https://plus.google.com/u/0/105136417144363639670/).
+2.  Prum Sambath on [Twitter](http://twitter.com/Sambath) and Facebook.
+
+### Canada
+
+1.  Alvaro Tejada Galindo on [Twitter](http://twitter.com/Blag) and
+    Facebook.
+2.  Antonio Cangiano on [Twitter](http://twitter.com/acangiano),
+    Facebook and
+    [Google+](https://plus.google.com/104323476891214773710/).
+3.  Dennis Misener on [Twitter](http://twitter.com/DMisener) and
+    Facebook.
+4.  Dennis Theisen on [Twitter](http://twitter.com/soleone) and
+    [Facebook](http://www.facebook.com/dennistheisen).
+5.  Jeff Savin on [Twitter](http://twitter.com/JeffSavin) and
+    [Facebook](http://www.facebook.com/jeff.l.savin).
+6.  Matthew Boehlig on [Twitter](http://twitter.com/thetamind) and
+    Facebook.
+7.  Paul Carvalho on [Twitter](http://twitter.com/can_test) and
+    Facebook.
+
+### China
+
+1.  David Ruan on [Twitter](http://twitter.com/ruanwz) and Facebook.
+
+### Denmark
+
+1.  Roy Simon on [Twitter](http://twitter.com/roydealsimon) and
+    Facebook.
+
+### Ecuador
+
+1.  Marcelo Bonilla on Twitter and
+    [Facebook](http://www.facebook.com/chelobonilla).
+
+### Egypt
+
+1.  Ahmad Al-Ajmi on [Twitter](http://twitter.com/cssah) and
+    [Facebook](http://www.facebook.com/cssah).
+
+### Estonia
+
+1.  Jevgeni Holodkov on Twitter and
+    [Facebook](http://www.facebook.com/jevgeni.holodkov).
+
+### Finland
+
+1.  Abel B. Terefe on [Twitter](http://twitter.com/abel_ter) and
+    Facebook.
+
+### France
+
+1.  Michèle Garoche on [Twitter](http://twitter.com/migatine), Facebook,
+    [GitHub](http://github.com/migane) and
+    [Google+](http://gplus.to/migatine).
+2.  Thibaut Barrère on [Twitter](http://twitter.com/thibaut_barrere) and
+    Facebook.
+
+### Germany
+
+1.  Dennis Theisen on [Twitter](http://twitter.com/soleone),
+    [Facebook](http://facebook.com/dennistheisen) and
+    [GitHub](http://github.com/Soleone).
+
+### Greece
+
+1.  John Deliyiannis on [Twitter](http://twitter.com/johndel) and
+    [Facebook](http://www.facebook.com/istoselidas).
+
+### India
+
+1.  Abhinav Saxena on [Twitter](http://twitter.com/abhinav) and
+    [Facebook](http://www.facebook.com/abhinavs).
+2.  Abhinav Upadhyay on [Twitter](http://twitter.com/iamabhi9) and
+    [Facebook](http://www.facebook.com/abhinav.jacksparrow).
+3.  Akshat Paul on [Twitter](http://twitter.com/paulakshat) and
+    Facebook.
+4.  Ambanna Yatnal on [Twitter](http://twitter.com/ambanna) and
+    [Facebook](http://www.facebook.com/Ambanna).
+5.  Amol Londhe on Twitter and
+    [Facebook](http://www.facebook.com/profile.php?id=100001645362511).
+6.  Anil Wadghule on [Twitter](http://twitter.com/anildigital) and
+    Facebook.
+7.  Ankita Mathur on [Twitter](http://twitter.com/anksangel) and
+    [Facebook](http://en-gb.facebook.com/people/Ankita-Mathur/1634648937).
+8.  Baishampayan Ghose on [Twitter](http://twitter.com/ghoseb) and
+    Facebook.
+9.  Balaji Alagusundaram on [Twitter](http://twitter.com/aviniyan) and
+    Facebook.
+10. Bhushan G Ahire on [Twitter](http://twitter.com/bhushangahire) and
+    [Facebook](http://www.facebook.com/bhushangahire).
+11. Dhanesh Purohit on [Twitter](http://twitter.com/dhaneshpurohit) and
+    [Facebook](http://www.facebook.com/dhanesh.purohit).
+12. Dhruva Sagar on [Twitter](http://twitter.com/dhruvasagar) and
+    [Facebook](http://www.facebook.com/people/Dhruva-Sagar/100001257499345).
+13. Gautam Rege on [Twitter](http://twitter.com/gautamrege) and
+    [Facebook](http://www.facebook.com/gautam.rege).
+14. Gokula Murthy on [Twitter](http://twitter.com/gokulamurthy) and
+    [Facebook](http://www.facebook.com/gokulamurthy).
+15. Jigar Gosar on [Twitter](http://twitter.com/jigargosar) and
+    Facebook.
+16. Ketan Doshi on [Twitter](http://twitter.com/ketandoshi) and
+    [Facebook](http://www.facebook.com/ketandoshi81).
+17. Manik Juneja on [Twitter](http://twitter.com/mjuneja) and Facebook.
+18. Manimaran Malaichamy on [Twitter](http://twitter.com/manimaranm),
+    [Facebook](http://www.facebook.com/people/Manimaran-Malaichamy/100000858117720),
+    [GitHub](http://github.com/maniempire) and
+    [Google+](http://gplus.to/manimaran)
+19. Manoj Mathai on [Twitter](http://twitter.com/letronje) and Facebook.
+20. Mohammed Aslam on [Twitter](http://twitter.com/tweeslam) and
+    [Facebook](http://www.facebook.com/mohammed.aslam).
+21. Nithin Bekal on [Twitter](http://twitter.com/nithinbekal) and
+    [Facebook](http://www.facebook.com/nithinbekal).
+22. Piyush Gupta on [Twitter](https://twitter.com/mba_piyush) and
+    [Facebook](http://www.facebook.com/#!/mba.piyushgupta).
+23. Prakash Sejwani on [Twitter](http://twitter.com/peter_sejwani) and
+    Facebook.
+24. Rajarshi Das on Twitter and
+    [Facebook](http://www.facebook.com/rajarshi2576).
+25. Rajeev Sharma on Twitter and
+    [Facebook](http://www.facebook.com/rajeevkannav).
+26. Ramakrishnan Muthukrishnan on [Twitter](http://twitter.com/vu3rdd)
+    and Facebook.
+27. Ravikumar N on [Twitter](http://twitter.com/HappyRavi) and Facebook.
+28. Rohan R Arora on [Twitter](http://twitter.com/rohan071290) and
+    Facebook.
+29. Rohit Arondekar on [Twitter](http://twitter.com/rohitarondekar) and
+    [Facebook](http://www.facebook.com/rohit.arondekar).
+30. Rohit Pal on [Twitter](http://twitter.com/rohitpal) and
+    [Facebook](http://www.facebook.com/palrohit).
+31. S K Prasad on [Twitter](http://twitter.com/skprasad) and
+    [Facebook](http://facebook.com/skprasad).
+32. Sandip Ransing on [Twitter](http://twitter.com/sandipransing) and
+    [Facebook](http://github.com/sandipransing).
+33. Santosh Gokak on [Twitter](http://twitter.com/santoshgokak) and
+    Facebook.
+34. Satish Talim on [Twitter](http://twitter.com/IndianGuru),
+    [Facebook](http://www.facebook.com/satishtalim) and
+    [Google+](https://plus.google.com/107809992818057105754/).
+35. Saurabh Bhatia on [Twitter](http://twitter.com/safew) and
+    [Facebook](http://www.facebook.com/saurabh.a.bhatia).
+36. Saurabh Purnaye on [Twitter](http://twitter.com/saurabhp/) and
+    Facebook.
+37. Shyammohan Kanojia on [Twitter](http://twitter.com/_shyam) and
+    [Facebook](http://www.facebook.com/Shyammohankanojia).
+38. Sheetal Prasad Goyal on [Twitter](http://twitter.com/spgoyalmnit)
+    and [Facebook](http://www.facebook.com/spgoyalmnit).
+39. Siva Gollapalli on [Twitter](http://twitter.com/sivagollapalli) and
+    Facebook.
+40. SoftMind Technology on [Twitter](http://twitter.com/SoftMind) and
+    Facebook.
+41. Sreelakshmi Sridharan on Twitter and
+    [Facebook](http://www.facebook.com/sree.lakshmi1).
+42. Suman Mukherjee on [Twitter](http://twitter.com/mukherjeesuman) and
+    Facebook.
+43. Surya Raj Tripathi on [Twitter](http://twitter.com/surya_raj) and
+    [Facebook](http://www.facebook.com/tripathi.surya).
+44. Vamsi Krishna on [Twitter](https://twitter.com/VAMccrishna) and
+    Facebook.
+45. Vinay Seshadri on [Twitter](http://twitter.com/ytvinay) and
+    Facebook.
+
+### Japan
+
+1.  Kenneth Burling on [Twitter](http://twitter.com/burlingk) and
+    Facebook.
+2.  Satoshi Asakawa on [Twitter](http://twitter.com/ashbb) and Facebook.
+
+### Malaysia
+
+1.  Yuvan Kumar Danabalan on [Twitter](http://twitter.com/yuvankumar)
+    and Facebook.
+
+### Macedonia
+
+1.  Dalibor Nasevic on [Twitter](http://twitter.com/blackflasher) and
+    Facebook.
+
+### Mexico
+
+1.  Alonso Delgado on [Twitter](http://twitter.com/adam_9_dz) and
+    Facebook.
+2.  Emmanuel Delgado on [Twitter](http://twitter.com/chischaschos) and
+    [Facebook](http://www.facebook.com/chischaschos).
+3.  Hector Sansores on [Twitter](http://twitter.com/hectorsq) and
+    Facebook.
+4.  Jose Castaneyra on [Twitter](http://twitter.com/jcastaneyra) and
+    [Facebook](http://www.facebook.com/jcastaneyra).
+
+### Netherlands
+
+1.  Julio Javier Cicchelli on
+    [Twitter](http://twitter.com/monsieur_rock) and Facebook.
+
+### Pakistan
+
+1.  Ahmed Mubbashir Khan on [Twitter](http://twitter.com/mubbashir) and
+    Facebook.
+2.  Hasham Malik on [Twitter](http://twitter.com/hasham2) and
+    [Facebook](http://www.facebook.com/hasham2).
+
+### Peru
+
+1.  Alvaro Pereyra on [Twitter](http://twitter.com/yaraher) and
+    Facebook.
+2.  José Corcuera Z. on [Twitter](http://twitter.com/jcorcuera) and
+    [Facebook](http://www.facebook.com/jzcorcuera).
+
+### Philippines
+
+1.  Dennis Carique on Twitter and
+    [Facebook](http://www.facebook.com/dcarique).
+
+### Poland
+
+1.  Daniel Kotowski on [Twitter](http://twitter.com/kotosha) and
+    [Facebook](http://www.facebook.com/kotosha).
+2.  Grzegorz Smajdor on [Twitter](http://twitter.com/sfistak), Facebook
+    and [GitHub](http://github.com/gs).
+3.  Michal Kuklis on [Twitter](http://twitter.com/mkuklis) and Facebook.
+
+### Portugal
+
+1.  Jorge Mendes on [Twitter](http://twitter.com/jorgemendes) and
+    [Facebook](http://www.facebook.com/jorge.mendes75).
+
+### Romania
+
+1.  Cristi Ispas on [Twitter](http://twitter.com/cispas2000) and
+    Facebook.
+
+### Serbia
+
+1.  Milan Dobrota on [Twitter](http://twitter.com/milandobrota) and
+    Facebook.
+
+### Singapore
+
+1.  Sau Sheong on [Twitter](http://twitter.com/sausheong), Facebook and
+    [Google+](https://plus.google.com/u/0/114610362086938873953/).
+
+### Slovenia
+
+1.  Jure Srsen on [Twitter](http://twitter.com/Hoornet) and
+    [Facebook](http://www.facebook.com/hoornet).
+
+### Spain
+
+1.  Javier Neira on [Twitter](http://twitter.com/jneira) and Facebook.
+2.  Juanjo Bazan on [Twitter](http://twitter.com/xuanxu) and Facebook.
+3.  Lorenzo Planas on [Twitter](http://twitter.com/lorenzoplanas) and
+    Facebook.
+
+### Switzerland
+
+1.  Vincent Jacquel on [Twitter](http://twitter.com/minikermit) and
+    Facebook.
+
+### Thailand
+
+1.  Twin Panichsombat on [Twitter](http://twitter.com/roofimon) and
+    [Facebook](http://www.facebook.com/roofimon).
+
+### Turkey
+
+1.  Burc Yildirim on [Twitter](http://twitter.com/phrewww) and
+    [Facebook](http://www.facebook.com/burc.yildirim).
+2.  Niyazi Ates on [Twitter](http://twitter.com/hazal1) and
+    [Facebook](http://tr-tr.facebook.com/people/Niyazi-Ates/615514520).
+
+### UK
+
+1.  Bruce Scharlau on [Twitter](http://twitter.com/scharlau) and
+    Facebook.
+2.  Jamie van Dyke on [Twitter](http://twitter.com/fearoffish) and
+    Facebook.
+3.  Maris Orbidans on [Twitter](http://twitter.com/Marutks) and
+    Facebook.
+4.  Peter Cooper on [Twitter](http://twitter.com/peterc) and Facebook.
+5.  Richard Taylor on [Twitter](http://twitter.com/moomerman) and
+    Facebook.
+6.  Sam Aaron on [Twitter](http://twitter.com/samaaron) and Facebook.
+7.  Sami Bashraheel on [Twitter](http://twitter.com/#!/samib_) and
+    Facebook.
+
+### Ukraine
+
+1.  Vladyslav Sumskyi on [Twitter](http://twitter.com/sumskyi) and
+    [Facebook](http://tr-tr.facebook.com/people/Niyazi-Ates/615514520).
+
+### Uruguay
+
+1.  Bernhard Üllenberg on [Twitter](http://twitter.com/Fotoretusche) and
+    [http://www.facebook.com/\#!/bernhard.uellenberg](http://www.facebook.com/#!/bernhard.uellenberg).
+
+### USA
+
+1.  Aaron Quint on [Twitter](http://twitter.com/aq) and Facebook.
+2.  Al Snow on [Twitter](http://twitter.com/jasnow) and
+    [Facebook](http://www.facebook.com/al.snow).
+3.  Amit Rathore on [Twitter](http://twitter.com/amitrathore) and
+    Facebook.
+4.  Ashish Dixit on [Twitter](http://twitter.com/tundal45) and Facebook.
+5.  Braxton Gregory Smith on [Twitter](http://twitter.com/braxtongsmith)
+    and Facebook.
+6.  Bruce Williams on [Twitter](http://twitter.com/wbruce) and Facebook.
+7.  Charles Nutter on [Twitter](http://twitter.com/headius) and
+    Facebook.
+8.  Chris Strom on [Twitter](http://twitter.com/eee_c) and Facebook.
+9.  Dan Wanek on [Twitter](http://twitter.com/zentourist) and Facebook.
+10. Daniel Solano Gómez on [Twitter](http://twitter.com/deepbluelambda)
+    and Facebook.
+11. Darren Shafae on [Twitter](http://twitter.com/Papercheck) and
+    Facebook.
+12. Dave Thomas on [Twitter](http://twitter.com/pragdave) and Facebook.
+13. David A Black on [Twitter](http://twitter.com/david_a_black) and
+    Facebook.
+14. David Loeffler on [Twitter](http://twitter.com/#!/loeffler) and
+    Facebook.
+15. Doug Sparling on [Twitter](http://twitter.com/scriptrunner) and
+    Facebook.
+16. Dustin Shafae on [Twitter](http://twitter.com/#!/DustinShafae) and
+    Facebook.
+17. Eric Lavigne on [Twitter](http://twitter.com/ericlavigne) and
+    Facebook.
+18. Fletcher Fowler on [Twitter](http://twitter.com/fzf) and Facebook.
+19. George Thompson on [Twitter](http://twitter.com/millionmonkey) and
+    Facebook.
+20. Greg Newman on [Twitter](http://twitter.com/gregnewman) and
+    Facebook.
+21. Ian Dees on [Twitter](http://twitter.com/undees) and Facebook.
+22. James Edward Gray II on [Twitter](http://twitter.com/JEG2) and
+    Facebook.
+23. Jerry Anning on [Twitter](http://twitter.com/anatman) and Facebook.
+24. John Trupiano on [Twitter](http://twitter.com/jtrupiano) and
+    Facebook.
+25. Juan Gomez on [Twitter](http://twitter.com/#!/_juandg) and
+    [Facebook](http://www.facebook.com/juandg).
+26. Lea Caldwell on Twitter and
+    [Facebook](http://www.facebook.com/Sienta414).
+27. Mark Fayngersh on [Twitter](http://twitter.com/gmaster1440) and
+    Facebook.
+28. Mark Champine on [Twitter](http://twitter.com/mchampine) and
+    [Facebook](http://www.facebook.com/mchampine).
+29. Mark Nyon on [Twitter](http://twitter.com/scorintha) and Facebook.
+30. Mark Volkmann on [Twitter](http://twitter.com/mark_volkmann) and
+    Facebook.
+31. Michael Fogus on [Twitter](http://twitter.com/fogus) and Facebook.
+32. Narayan Iyer on [Twitter](http://twitter.com/iyerland) and Facebook.
+33. Naum Trifanoff on [Twitter](http://twitter.com/naum) and Facebook.
+34. Nick Hird on [Twitter](http://twitter.com/boondox) and Facebook.
+35. Noel Rappin on [Twitter](http://twitter.com/noelrap) and Facebook.
+36. Prakash N Murthy on [Twitter](http://twitter.com/#!/_prakash) and
+    [Facebook](http://www.facebook.com/prakash.murthy).
+37. Raghava Nellaturu on [Twitter](http://twitter.com/rnella01) and
+    Facebook.
+38. Raj Kandati on [Twitter](http://twitter.com/raj421) and Facebook.
+39. Ricardo J Sanchez on [Twitter](http://twitter.com/ricardojsanchez)
+    and Facebook.
+40. Ryan Bates on [Twitter](http://twitter.com/rbates) and Facebook.
+41. Solomon White on [Twitter](http://twitter.com/rubysolo) and
+    Facebook.
+42. Spencer Poplin on [Twitter](http://twitter.com/slpoplin) and
+    Facebook.
+43. Spencer Roach on [Twitter](http://twitter.com/spncrgr) and
+    [Facebook](http://www.facebook.com/spncrgr).
+44. Steve Kim on [Twitter](http://twitter.com/skim) and Facebook.
+45. Stuart Halloway on [Twitter](http://twitter.com/stuarthalloway) and
+    Facebook.
+46. Thomas Thornton on [Twitter](http://twitter.com/tltjr) and Facebook.
+47. Tom Marrs on [Twitter](http://twitter.com/TomMarrs) and
+    [Facebook](http://www.facebook.com/thomasamarrs).
+48. Tom Mulcahy on Twitter and
+    [Facebook](http://www.facebook.com/tom.mulcahy).
+49. Victor Goff III on [Twitter](http://twitter.com/kotp), Facebook and
+    [Google+](http://gplus.to/vhgiii).
+50. Winston Lawrence on [Twitter](http://twitter.com/winstonlawrence)
+    and Facebook.
+
+### Vietnam
+
+1.  Bui Dinh Ngoc on Twitter and
+    [Facebook](http://www.facebook.com/bdngoc).
+2.  Tinh T. Dinh on Twitter, Facebook and
+    [Google+](https://plus.google.com/u/0/104618807642305066883/).
+
+## Update
+
+I’ll be updating this page from time to time. If you have been
+associated with RubyLearning in some way or the other and would like
+your information (Full name, Country of Residence, Twitter Id and / or
+Facebook Profile URL and / or GitHub URL) displayed here, please post
+the information here as a comment or email me at satish [dot] talim [at]
+gmail.com.
+
+Thank you for your time and help.

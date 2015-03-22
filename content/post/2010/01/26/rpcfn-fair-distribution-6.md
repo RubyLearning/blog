@@ -8,6 +8,7 @@ socialsharing: true
 authorgoogleplus: https://plus.google.com/+SatishTalim/about
 authorlinkedin: https://www.linkedin.com/in/satishtalim
 authortwitter: http://twitter.com/IndianGuru
+authorfacebook: https://www.facebook.com/rubylearning
 categories:
 - beginners
 - rpcfn

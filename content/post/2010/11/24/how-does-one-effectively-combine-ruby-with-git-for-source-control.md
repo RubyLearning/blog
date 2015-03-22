@@ -1,11 +1,12 @@
 ---
+draft: false
 title: How does one effectively combine Ruby with Git for source control?
+date: 2010-11-24
 author: Erik Andrejko
 categories:
   - Beginners
   - Ruby
   - Ruby Masters
-date: 2010-11-24
 layout: post
 permalink: /2010/11/24/how-does-one-effectively-combine-ruby-with-git-for-source-control/
 tags:

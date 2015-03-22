@@ -1,4 +1,5 @@
 ---
+draft: false
 title: How do I build DSLs with yield and instance_eval?
 date: 2010-11-30
 author: Michael Bleigh
