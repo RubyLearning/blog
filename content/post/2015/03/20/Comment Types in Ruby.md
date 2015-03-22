@@ -19,12 +19,8 @@ same.<!--more-->
 The comment block is created with the `=begin` and `=end` delimiters.
 This looks like:
 
-{{< highlight ruby >}}
-=begin
-The answer to Life, The Universe, and Everything.
-=end
-puts 42
-{{< /highlight >}}
+<script
+src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/a4d5c34572559d8add34e6dfddbcdfb79bd4cf29/2015/03/20/comment-types-in-ruby/comment_block.rb?embed=t"></script>
 
 It helps to make readable areas that are without extra marks.  And
 wherever and whatever you write in those areas are not interpreted by
@@ -35,11 +31,8 @@ This is the simple comment where you place an octothorpe as the first
 non-whitespace character of the line, and everything else written is
 excluded from being interpreted by Ruby.  It is ignored. It looks like:
 
-{{< highlight ruby >}}
-# The answer to Life, The Universe, and Everything.
-puts 42
-{{< /highlight >}}
-
+<script
+src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/a4d5c34572559d8add34e6dfddbcdfb79bd4cf29/2015/03/20/comment-types-in-ruby/comment_in_line.rb?embed=t"></script>
 
 ## The in-line comment
 The "baasically two types" part comes in when you comment code at the
@@ -47,9 +40,8 @@ end of a statement.
 
 It looks like this:
 
-{{< highlight ruby >}}
-puts "42" # The answer to Life, The Universe, and Everything.
-{{< /highlight >}}
+<script
+src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/a4d5c34572559d8add34e6dfddbcdfb79bd4cf29/2015/03/20/comment-types-in-ruby/comment_line.rb?embed=t"></script>
 
 ## What comment style should you use and when?
 What comment style you use depends on a few factors.
