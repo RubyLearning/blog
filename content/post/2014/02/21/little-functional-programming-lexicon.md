@@ -35,7 +35,7 @@ but I hope this’ll get you started.
 A closure is a function that “stores” the surrounding scope. An example
 in javascript to make this clearer:
 
-<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/bc067e4c977d26a83ec6a26c27f7d222e0117859/2014/02/21/little-functional-programming-lexicon/javascript_sample_1.js?embed=t"></script>
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/891ad0bfc9034f37b62cf28aad74d2b177e6c09e/2014/02/21/little-functional-programming-lexicon/javascript_sample_1.js?embed=t"></script>
 
 The function multiplier returns another function, which will multiply
 any given number with the argument *factor*.
@@ -201,8 +201,8 @@ Advantages:
 ## Monads (et Al.)
 
 There are numerous text and blog posts about what monads are, some of
-them crystal clear and some of them slightly obfuscating the concepts.\
- Here’s the thing though: unless you’re doing Haskell or similar
+them crystal clear and some of them slightly obfuscating the concepts.
+Here’s the thing though: unless you’re doing Haskell or similar
 *statically typed [pure](“#purity”) functional languages*, you don’t
 really need to know what they are.
 
