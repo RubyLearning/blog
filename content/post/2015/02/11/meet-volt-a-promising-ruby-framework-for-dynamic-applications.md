@@ -1,6 +1,7 @@
 ---
 title: "Meet Volt: a Promising Ruby Framework for Dynamic Applications"
-author: Amaury
+author: Amaury Andres Peniche Gonzalez
+authorlink: http://www.toptal.com/resume/amaury-andres-peniche-gonzalez
 categories:
 - Ruby
 date: 2015-02-11
@@ -10,8 +11,11 @@ tags:
 - ruby
 - volt
 - framework
+categories:
+- ruby
+- volt
+- framework
 ---
-
 **By Amaury Andres Peniche Gonzalez – Software Engineer at
 [Toptal](http://www.toptal.com/)**
 
