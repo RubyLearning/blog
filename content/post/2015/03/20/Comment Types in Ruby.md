@@ -31,8 +31,7 @@ This is the simple comment where you place an octothorpe as the first
 non-whitespace character of the line, and everything else written is
 excluded from being interpreted by Ruby.  It is ignored. It looks like:
 
-<script
-src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/a4d5c34572559d8add34e6dfddbcdfb79bd4cf29/2015/03/20/comment-types-in-ruby/comment_in_line.rb?embed=t"></script>
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/a4d5c34572559d8add34e6dfddbcdfb79bd4cf29/2015/03/20/comment-types-in-ruby/comment_line.rb?embed=t"></script>
 
 ## The in-line comment
 The "basically two types" part comes in when you comment code at the
@@ -40,8 +39,8 @@ end of a statement.
 
 It looks like this:
 
-<script
-src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/a4d5c34572559d8add34e6dfddbcdfb79bd4cf29/2015/03/20/comment-types-in-ruby/comment_line.rb?embed=t"></script>
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/a4d5c34572559d8add34e6dfddbcdfb79bd4cf29/2015/03/20/comment-types-in-ruby/comment_in_line.rb?embed=t"></script>
+
 
 ## What comment style should you use and when?
 What comment style you use depends on a few factors.
