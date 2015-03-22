@@ -3,6 +3,12 @@ draft: false
 title: Showcasing RubyLearning's Awesome Rubyists
 date: 2010-02-22
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - ruby
 - ruby on rails
@@ -24,7 +30,7 @@ to the next level.<!--more-->
 
 ## Ruby Stars
 
-### Alvaro Pereyra Rabanal
+-- Alvaro Pereyra Rabanal
 
 [![Alvaro Pereyra
 Rabanal](http://www.rubylearning.com/images/apr.jpg "Alvaro Pereyra Rabanal")](http://twitter.com/yaraher)

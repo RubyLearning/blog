@@ -72,7 +72,7 @@ Joseph Wilk has this to say about the challenge:
 The four persons who win, can’t win again in the next immediate
 challenge but can still participate.
 
-## The Ruby Challenge {style="color:#0000FF;"}
+## *The Ruby Challenge*
 
 ![RPCFN](http://rubylearning.com/images/rubypc.jpg "Ruby Programming Challenge For Newbies")
 
@@ -82,7 +82,7 @@ All the instructions and the code to get you started are in a Github
 repository:
 [http://github.com/josephwilk/japanese-mosaic-logic-puzzle](http://github.com/josephwilk/japanese-mosaic-logic-puzzle)
 
-## How to Enter the Challenge {style="color:#0000FF;"}
+## *How to Enter the Challenge*
 
 Read the [Challenge
 Rules](http://rubylearning.com/blog/ruby-programming-challenge-faq/index.php#rpc6).
@@ -167,7 +167,7 @@ will reply asap.
 
 -   Manuel Korfmann
 
-## The Winner {style="color:#0000FF;"}
+## *The Winner*
 
 ![Winners](http://rubylearning.com/images/winner_icon_1.png)
 

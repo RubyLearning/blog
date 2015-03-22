@@ -8,6 +8,7 @@ socialsharing: true
 authorgoogleplus: https://plus.google.com/+SatishTalim/about
 authorlinkedin: https://www.linkedin.com/in/satishtalim
 authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - General
 layout: post
@@ -15,7 +16,7 @@ permalink: /2010/10/15/let-the-world-know-who-you-are/
 tags:
 - social networking
 ---
-### Let The World Know Who YOU Are!
+## Let The World Know Who YOU Are!
 
 I am connected with awesome people across the globe thanks to my
 RubyLearning sites and social networking websites like Facebook,

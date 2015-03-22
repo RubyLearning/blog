@@ -8,6 +8,7 @@ socialsharing: true
 authorgoogleplus: https://plus.google.com/+SatishTalim/about
 authorlinkedin: https://www.linkedin.com/in/satishtalim
 authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - Clojure
 - Training
@@ -18,11 +19,9 @@ tags:
 - Clojure course
 - Clojure Training
 ---
-## About RubyLearning
-
 RL offers online courses in Ruby programming, Git & GitHub, Shoes, JRuby
 and Sinatra. Since 2005, over 25,000 participants spread across 140+
-countries have learned Ruby and other Ruby related timely topics. This
+countries have learned Ruby<!--more--> and other Ruby related timely topics. This
 has been possible due to the extensive support provided by the mentors
 of these courses. RL strives hard to improve the methodology and course
 content based on the extensive and critical feedback we receive. Thanks

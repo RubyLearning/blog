@@ -1,10 +1,18 @@
 ---
+draft: false
+title: 'RubyLearning''s Sponsor: Railsware'
+date: 2009-03-22
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - ruby
 - sponsors
 - twitter
-date: 2009-03-22
 description:
 - Railsware are Silver Sponsor of the "Using Twitter with Ruby" course at RubyLearning.
 keywords:
@@ -17,39 +25,38 @@ tags:
 - ruby on rails
 - sponsors
 - twitter
-title: 'RubyLearning''s Sponsor: Railsware'
 ---
+It’s time to thank RubyLearning’s sponsor –
+[Railsware](http://www.railsware.com/).
 
-<div>
-  <p>
-    It&#8217;s time to thank RubyLearning&#8217;s sponsor &#8211; <a href="http://www.railsware.com/">Railsware</a>.
-  </p>
-  
-  <p>
-    <a href='http://www.railsware.com/'><img class="alignright" src='http://rubylearning.com/images/Railsware125x125.png' width="125" height="125" style="border: 0px none ;" alt="Railsware for premium-quality web applications" title="Railsware for premium-quality web applications" /></a>
-  </p>
-  
-  <p>
-    Twitter, twitter! Are you twittering all around and nobody hears your sweet voice? That&#8217;s strange. Perhaps Twitter isn&#8217;t your marketing tool. However for <a href="http://www.railsware.com/">Railsware</a>, Twitter became that real call to action when the team of Ruby on Rails developers preaching methods of agile programming came together in 2005. Until that time Twitter had not become so &#8216;rich and famous&#8217; as it is now, developers were open to new ideas and the goal was somewhere far away.
-  </p>
-  
-  <p>
-    With its very first project, Railsware got focused on fast implementation of web applications using <a href="http://www.railsware.com/be-agile">agile methods</a>. As another example, 37signals became one of those companies who succeeded in elegant and powerful Rails development. Their book â€œGetting Realâ€ became a universal guide for <a href="http://railsware.com/services">Railsware</a> to building successful web applications.
-  </p>
-  
-  <blockquote class="right">
-    <p>
-      Railsware for premium-quality web applications
-    </p>
-  </blockquote>
-  
-  <p>
-    Open-source Rails community gives developers an opportunity to discover new methods and tools, to meet requirements not met by the licensed software. Twitter is the same. Even today Twitter is probably the biggest Rails site on the web and its growing scalability is a loud fact of its open-source nature.
-  </p>
-  
-  <p>
-    Do you remember that Email, IM, RSS, SMS and the web are just transports as well as Twitter? Railsware gives every startup-idea a fast scalable &#8216;ware&#8217; delivering solution.
-  </p>
-</div>
+[![Railsware for premium-quality web
+applications](http://rubylearning.com/images/Railsware125x125.png "Railsware for premium-quality web applications")](http://www.railsware.com/)
 
-Technorati Tags: <a href="http://technorati.com/tag/Railsware" rel="tag">Railsware</a>, <a href="http://technorati.com/tag/Twitter" rel="tag">Twitter</a>, <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Ruby+on+Rails" rel="tag">Ruby on Rails</a>, <a href="http://technorati.com/tag/Sponsors" rel="tag">Sponsors</a>
+Twitter, twitter! Are you twittering all around and nobody hears your
+sweet voice? That’s strange. Perhaps Twitter isn’t your marketing tool.
+However for<!--more--> [Railsware](http://www.railsware.com/), Twitter became that
+real call to action when the team of Ruby on Rails developers preaching
+methods of agile programming came together in 2005. Until that time
+Twitter had not become so ‘rich and famous’ as it is now, developers
+were open to new ideas and the goal was somewhere far away.
+
+With its very first project, Railsware got focused on fast
+implementation of web applications using [agile
+methods](http://www.railsware.com/be-agile). As another example,
+37signals became one of those companies who succeeded in elegant and
+powerful Rails development. Their book "Getting Real"? became a
+universal guide for [Railsware](http://railsware.com/services) to
+building successful web applications.
+
+> Railsware for premium-quality web applications
+
+Open-source Rails community gives developers an opportunity to discover
+new methods and tools, to meet requirements not met by the licensed
+software. Twitter is the same. Even today Twitter is probably the
+biggest Rails site on the web and its growing scalability is a loud fact
+of its open-source nature.
+
+Do you remember that Email, IM, RSS, SMS and the web are just transports
+as well as Twitter? Railsware gives every startup-idea a fast scalable
+‘ware’ delivering solution.
+

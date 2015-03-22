@@ -8,6 +8,7 @@ socialsharing: true
 authorgoogleplus: https://plus.google.com/+SatishTalim/about
 authorlinkedin: https://www.linkedin.com/in/satishtalim
 authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - Learn Sinatra
 - Ruby
@@ -24,14 +25,14 @@ tags:
 - Sinatra eBook
 - The Ruby Programming Language
 ---
-### New Course: Sinatra 101
+## New Course: Sinatra 101
 
 RubyLearning announces the ninth batch of the online “**Sinatra 101**”
 course starting from **27th Nov. 2010**.
 
 > Sinatra – quickly create tiny web apps and services
 <!--more-->
-### What’s Sinatra?
+## What’s Sinatra?
 
 Sinatra is a micro-framework for quickly creating *tiny
 web-applications* and *small services* in Ruby. It is not a
@@ -48,7 +49,7 @@ create free hosting accounts for all the participants, to host their
 apps created during the course. Heroku – it’s fast, it’s easy, and it
 just works!
 
-### What Will I Learn?
+## What Will I Learn?
 
 In this introductory course, you will learn the essential features of
 Sinatra 1.0 that you will end up using every day. The course topics are:
@@ -89,7 +90,7 @@ Sinatra 1.0 that you will end up using every day. The course topics are:
 You can read through the [RubyLearning
 FAQ](http://rubylearning.com/satishtalim/faq.html).
 
-### Some Fun Apps
+## Some Fun Apps
 
 ![Sinatra
 Icon](http://rubylearning.com/images/sinatralogo.jpg "Sinatra microframework")
@@ -113,23 +114,23 @@ following?
 
 **Yes, you too can build all such applications and many more**.
 
-### Who’s It For?
+## Who’s It For?
 
 Anyone who knows the Ruby programming language can take the “**Sinatra
 101**” course, and is a starting point for people new to Sinatra and a
 guide to help learn it as quickly and easily as possible.
 
-### Dates
+## Dates
 
 The course starts on 27th Nov. 2010 and runs for a week.
 
-### Course Fees
+## Course Fees
 
 The Course Fee is **US\$ 14.95 per participant**. The course fee goes
 towards maintaining RubyLearning and helps provide quality content to
 you.
 
-### Registration
+## Registration
 
 To register for the course, please click
 **[here](http://rubylearning.org/class/course/view.php?id=64)**.
@@ -143,12 +144,9 @@ talked to RubyLearning and gave us their views on:
 -   [The 12 rules of
     Sinatra](http://rubylearning.com/blog/2009/07/19/what-are-the-twelve-rules-of-sinatra/)
 
-Also, thanks to [Adam
-Keys](http://rubylearning.com/blog/2009/03/03/interview-adam-keys-on-sinatra/),
-[Aaron
-Quint](http://rubylearning.com/blog/2009/03/20/interview-aaron-quint-on-sinatra/),
-and [Ryan
-Tomayko](http://rubylearning.com/blog/2009/03/20/interview-ryan-tomayko-on-sinatra/)
+Also, thanks to [Adam Keys](http://rubylearning.com/blog/2009/03/03/interview-adam-keys-on-sinatra/),
+[Aaron Quint](http://rubylearning.com/blog/2009/03/20/interview-aaron-quint-on-sinatra/),
+and [Ryan Tomayko](http://rubylearning.com/blog/2009/03/20/interview-ryan-tomayko-on-sinatra/)
 for sharing their expertise on Sinatra with the course participants.
 
 So hurry, registrations have started.

@@ -8,6 +8,7 @@ socialsharing: true
 authorgoogleplus: https://plus.google.com/+SatishTalim/about
 authorlinkedin: https://www.linkedin.com/in/satishtalim
 authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - Beginners
 - Clojure
@@ -23,7 +24,7 @@ tags:
 - Ruby
 - Ruby Challenge
 ---
-### Programming Challenge for Newbies in Clojure and Python too?
+## Programming Challenge for Newbies in Clojure and Python too?
 
 RubyLearning has been conducting the monthly Ruby Programming Challenge
 for Newbies for over a year now and so far 12 challenges have been

@@ -1,14 +1,26 @@
 ---
+draft: false
+title: Who are the Top 5 Twitter Graded Rubyists?
+date: 2009-03-02
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - Beginners
 - Ruby
 - Twitter
-date: 2009-03-02
 description:
 - A list of the top 5 Twitter graded Rubyists. Catch them if you can!
 keywords:
-- Ruby,Rubyists,The Ruby Programming Language,Twitter, Twitter Grader
+- Ruby
+- Rubyists
+- The Ruby Programming Language
+- Twitter
+- Twitter Grader
 layout: post
 permalink: /2009/03/02/who-are-the-top-5-twitter-graded-rubyists/
 tags:
@@ -17,65 +29,43 @@ tags:
 - The Ruby Programming Language
 - Twitter
 - Twitter Grader
-title: Who are the Top 5 Twitter Graded Rubyists?
-topsy_short_url:
-- http://bit.ly/bQw4Ox
 ---
+As a follow-up to our earlier post “[50+ Rubyists to Follow on
+Twitter](http://rubylearning.com/blog/2008/10/29/50-rubyists-to-follow-on-twitter/)”
+we used **Twitter Grader** to find out the top 5 ranked Rubyists.<!--more-->
 
-<div>
-  <p class="alert">
-    As a follow-up to our earlier post &#8220;<a href="http://rubylearning.com/blog/2008/10/29/50-rubyists-to-follow-on-twitter/">50+ Rubyists to Follow on Twitter</a>&#8221; we used <strong>Twitter Grader</strong> to find out the top 5 ranked Rubyists.
-  </p>
-  
-  <h3>
-    But What&#8217;s Twitter Grader?
-  </h3>
-  
-  <p>
-    <img class="alignright" src="http://rubylearning.com/images/icon_d.png" alt="Twitter" title="http://twitter.com/IndianGuru" width="128" height="128" />
-  </p>
-  
-  <p>
-    <a href="http://twitter.grader.com/">Twitter Grader</a> ranks your Twitter profile up against other users of Twitter, based on things like number of followers, the power of your follower network, how often you update, and your profile bio. It gives you two numbers: your overall rank and your percentage out of 100. It is a fun tool for Twitter users.
-  </p>
-  
-  <h3>
-    The Top 5 Ranked Rubyists
-  </h3>
-  
-  <ul>
-    <li>
-      Jason Fried: <a href="http://twitter.com/jasonfried">jasonfried</a> &#8211; Grade: 99.97 | Rank: 653 | <a href="http://www.37signals.com/">Website</a>
-    </li>
-    <li>
-      Amy Hoy: <a href="http://twitter.com/amyhoy">amyhoy</a> &#8211; Grade: 99.96 | Rank: 779 | <a href="http://www.slash7.com/">Website</a>
-    </li>
-    <li>
-      Jamis Buck: <a href="http://twitter.com/jamis">jamis</a> &#8211; Grade: 99.95 | Rank: 934 | <a href="http://weblog.jamisbuck.org/">Website</a>
-    </li>
-    <li>
-      Dr Nic Williams: <a href="http://twitter.com/drnic">drnic</a> &#8211; Grade: 99.94 | Rank: 1014 | <a href="http://drnicwilliams.com/">Website</a>
-    </li>
-    <li>
-      Rick Olson: <a href="http://twitter.com/technoweenie">technoweenie</a> &#8211; Grade: 99.94 | Rank: 1014 | <a href="http://techno-weenie.net/">Website</a>
-    </li>
-  </ul>
-  
-  <p>
-    <strong>Note</strong>: These ranking were taken on Monday, 2nd March 2009 and will change with time.
-  </p>
-  
-  <p>
-    Being a bit of a Twitter Egomaniac, I graded myself too:<br />Grade: 99.8 and Rank: 2,694 out of 1,461,068
-  </p>
-  
-  <p>
-    Not bad!
-  </p>
-  
-  <p>
-    What&#8217;s your <a href="http://twitter.grader.com/">Twitter Grade</a>? Post it as a comment. Oh yeah, and <a href="http://twitter.com/IndianGuru">follow me</a> if youâ€™re not already.
-  </p>
-</div>
+### But What’s Twitter Grader?
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Rubyists" rel="tag">Rubyists</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>, <a href="http://technorati.com/tag/Twitter" rel="tag">Twitter</a>, <a href="http://technorati.com/tag/Twitter+Grader" rel="tag"> Twitter Grader</a>
+![Twitter](http://rubylearning.com/images/icon_d.png "http://twitter.com/IndianGuru")
+
+[Twitter Grader](http://twitter.grader.com/) ranks your Twitter profile
+up against other users of Twitter, based on things like number of
+followers, the power of your follower network, how often you update, and
+your profile bio. It gives you two numbers: your overall rank and your
+percentage out of 100. It is a fun tool for Twitter users.
+
+### The Top 5 Ranked Rubyists
+
+-   Jason Fried: [jasonfried](http://twitter.com/jasonfried) – Grade:
+    99.97 | Rank: 653 | [Website](http://www.37signals.com/)
+-   Amy Hoy: [amyhoy](http://twitter.com/amyhoy) – Grade: 99.96 | Rank:
+    779 | [Website](http://www.slash7.com/)
+-   Jamis Buck: [jamis](http://twitter.com/jamis) – Grade: 99.95 | Rank:
+    934 | [Website](http://weblog.jamisbuck.org/)
+-   Dr Nic Williams: [drnic](http://twitter.com/drnic) – Grade: 99.94 |
+    Rank: 1014 | [Website](http://drnicwilliams.com/)
+-   Rick Olson: [technoweenie](http://twitter.com/technoweenie) – Grade:
+    99.94 | Rank: 1014 | [Website](http://techno-weenie.net/)
+
+**Note**: These ranking were taken on Monday, 2nd March 2009 and will
+change with time.
+
+Being a bit of a Twitter Egomaniac, I graded myself too:\
+Grade: 99.8 and Rank: 2,694 out of 1,461,068
+
+Not bad!
+
+What’s your [Twitter Grade](http://twitter.grader.com/)? Post it as a
+comment. Oh yeah, and [follow me](http://twitter.com/IndianGuru) if
+youâ€™re not already.
+

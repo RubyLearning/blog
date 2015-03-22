@@ -3,6 +3,12 @@ draft: true
 title: "Want To Build A Mobile App On An Android™ Phone With Rhodes?"
 date: 2010-12-07
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - Beginners
 - Rhodes
@@ -17,11 +23,9 @@ tags:
 - ruby programming
 - Ruby training
 ---
-## Want To Build A Mobile App On An Android Phone With Rhodes?
-
 Based on your opinion, we have designed a first-ever online **FREE**
 introductory course “**Building a mobile app on an Android phone using
-Rhodes**“
+Rhodes**“<!--more-->
 
 ## Smartphones
 

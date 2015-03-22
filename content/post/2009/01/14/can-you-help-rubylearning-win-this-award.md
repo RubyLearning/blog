@@ -1,15 +1,17 @@
 ---
+draft: false
 title: Can YOU help RubyLearning win this award?
+date: 2009-01-14
 author: Satish Talim
 authorlink: "http://satishtalim.com"
 socialsharing: true
 authorgoogleplus: https://plus.google.com/+SatishTalim/about
 authorlinkedin: https://www.linkedin.com/in/satishtalim
 authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - Ruby
 - Twitter
-date: 2009-01-14
 description:
 - The Shorty Awards aim to honor the best Twitterers of 2008 in categories like education.
   RubyLearning is one of the finalists in this category.

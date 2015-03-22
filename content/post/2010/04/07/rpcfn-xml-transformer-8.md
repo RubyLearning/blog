@@ -8,6 +8,7 @@ socialsharing: true
 authorgoogleplus: https://plus.google.com/+SatishTalim/about
 authorlinkedin: https://www.linkedin.com/in/satishtalim
 authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - beginners
 - rpcfn
@@ -26,7 +27,7 @@ tags:
 
 ### RPCFN: XML Transformer (\#8)
 
-#### By Jamie van Dyke
+-- By Jamie van Dyke
 
 ## About Jamie van Dyke
 

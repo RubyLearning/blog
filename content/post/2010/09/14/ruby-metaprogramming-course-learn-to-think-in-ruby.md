@@ -8,6 +8,7 @@ socialsharing: true
 authorgoogleplus: https://plus.google.com/+SatishTalim/about
 authorlinkedin: https://www.linkedin.com/in/satishtalim
 authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - Metaprogramming
 - Ruby
@@ -23,13 +24,6 @@ tags:
 After the huge success of the first three “**Ruby Metaprogramming**”
 batches, RubyLearning now announces the fourth official batch from 23rd
 Oct. 2010.
-thesis_description:
-- The fourth batch of the popular Ruby Metaprogramming course starts 23rd Oct. 2010.
-  Registrations open.
-thesis_keywords:
-- Ruby,Metaprogramming,Ruby Metaprogramming,Satoshi Asakawa,The Ruby Programming Language
-topsy_short_url:
-- http://bit.ly/9nwdoX
 
 ### What’s Ruby Metaprogramming?
 

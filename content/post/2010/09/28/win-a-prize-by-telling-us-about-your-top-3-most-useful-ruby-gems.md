@@ -8,6 +8,7 @@ socialsharing: true
 authorgoogleplus: https://plus.google.com/+SatishTalim/about
 authorlinkedin: https://www.linkedin.com/in/satishtalim
 authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - Ruby
 layout: post
@@ -18,11 +19,9 @@ tags:
 - Ruby Gems
 - Top 3 Most Useful Ruby Gems
 ---
-## Win a Prize by Telling us about Your Top 3 Most Useful Ruby Gems
-
 Today I'd like to try something a little different on the blog and open
 up a topic for some discussion. This one could cause some ‘energetic’
-conversation but I’d love to do an informal poll on it anyway.
+conversation but I’d love to do an informal poll on it anyway.<!--more-->
 
 **Top 3 Most Useful Ruby Gems – and why?**
 
