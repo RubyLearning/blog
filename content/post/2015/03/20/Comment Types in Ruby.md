@@ -35,7 +35,7 @@ excluded from being interpreted by Ruby.  It is ignored. It looks like:
 src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/a4d5c34572559d8add34e6dfddbcdfb79bd4cf29/2015/03/20/comment-types-in-ruby/comment_in_line.rb?embed=t"></script>
 
 ## The in-line comment
-The "baasically two types" part comes in when you comment code at the
+The "basically two types" part comes in when you comment code at the
 end of a statement.
 
 It looks like this:
