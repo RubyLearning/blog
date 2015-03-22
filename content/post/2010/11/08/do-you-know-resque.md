@@ -312,14 +312,9 @@ give feedback in the comments section of this post. Thanks!*
 
 ***Do also read* these awesome Guest Posts:**
 
--   [Do You Understand Ruby’s Objects, Messages and
-    Blocks?](/2010/11/03/do-you-understand-rubys-objects-messages-and-blocks/)
--   [How Does One Use Design Patterns In
-    Ruby?](/2010/11/02/how-does-one-use-design-patterns-in-ruby/)
--   [Do you know what’s new in Ruby
-    1.9?](/2010/10/26/do-you-know-whats-new-in-ruby-1-9/)
--   [The value of a personal bug
-    log](hhttp://rubylearning.com/blogttp://rubylearning.com/blog/2010/10/25/the-value-of-a-personal-bug-log/)
--   [Do You Enjoy Your Code
-    Quality?](/2010/10/18/do-you-enjoy-your-code-quality/)
+-   [Do You Understand Ruby’s Objects, Messages and Blocks?](/blog/2010/11/03/do-you-understand-rubys-objects-messages-and-blocks/)
+-   [How Does One Use Design Patterns In Ruby?](/blog/2010/11/02/how-does-one-use-design-patterns-in-ruby/)
+-   [Do you know what’s new in Ruby 1.9?](/blog/2010/10/26/do-you-know-whats-new-in-ruby-1-9/)
+-   [The value of a personal bug log](/blog/2010/10/25/the-value-of-a-personal-bug-log/)
+-   [Do You Enjoy Your Code Quality?](/blog/2010/10/18/do-you-enjoy-your-code-quality/)
 
