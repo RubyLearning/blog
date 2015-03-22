@@ -9,13 +9,6 @@ tags:
 - ruby
 - volt
 - framework
-thesis_description:
-- Meet Volt, A Promising Ruby Framework For Dynamic Applications.
-thesis_keywords:
-- Ruby,The Ruby Programming Language,Volt framework
-title: Meet Volt, A Promising Ruby Framework For Dynamic Applications
-topsy_short_url:
-- http://bit.ly/1IQhbgt
 ---
 
 **By Amaury Andres Peniche Gonzalez – Software Engineer at
@@ -72,17 +65,12 @@ number one use case of real time applications.
 First of all, let’s install Volt and MongoDB. The latter process will
 not be covered in detail:
 
-    gem install volt
-
-    brew install mongodb
-    mkdir -p /data/db (create dbpath)
-    chown `id -u` /data/db (change the owner to have the proper dbpath permissions)
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/0f03f5437f3c9821ce6d49ce3424afda431808f1/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/setup_part1.sh?embed=t"></script>
 
 Now we’re ready to create our first app, lets call it ‘chat’. We can do
 that easily in a couple of lines:
 
-    volt new chat
-    cd chat
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/0f03f5437f3c9821ce6d49ce3424afda431808f1/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/main_part2.html?embed=t"></script>
 
 The document structure has some similarities to Rails. The main
 difference Rails users will notice is that we have an extra folder
@@ -100,11 +88,11 @@ Let’s start the server by executing ‘volt server’ command in console,
 and see how it looks in the browser by navigating to
 [localhost:3000](http://localhost:3000):
 
-    volt server
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/461f71e3d021d66681b73fe24af2909fc58b5053/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/start_server.sh?embed=t"></script>
 
 Also don’t forget to start MongoDB in console:
 
-    mongod
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/0f03f5437f3c9821ce6d49ce3424afda431808f1/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/start_mongod.sh?embed=t"></script>
 
 We can notice that Volt comes with a number of default pages, including
 ‘Home’ and ‘About’. These can be customized right away.
@@ -120,40 +108,27 @@ Now, let’s start working on our app. First of all we don’t need the
 ‘About’ page so we can go ahead and delete the following: The
 app/main/views/main/about.html file, the about action in
 app/main/controllers/main\_controller.rb, remove the ‘/about’ route in
-the app/main/config/routes.rb and the nav link in
-app/main/views/main/main.html.
+the `app/main/config/routes.rb` and the nav link in
+`app/main/views/main/main.html`.
 
-    <ul class="nav nav-pills pull-right">
-      <:nav href="/" text="Home" />
-      <:user-templates:menu />
-    </ul>
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/461f71e3d021d66681b73fe24af2909fc58b5053/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/main_part1.html?embed=t"></script>
 
 Now let’s get down to business and start by listing all registered
 users:
 
-    <:Body>
-      <h1>Home</h1>
-      <div class="row">
-        <div class="col-md-4">
-        {{ _users.each do |user| }}
-            <div class="contact">
-            {{user._name}}
-            </div>
-        {{ end }}
-        </div>
-      </div>
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/461f71e3d021d66681b73fe24af2909fc58b5053/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/main_part2.html?embed=t"></script>
 
 Now all the registered users are being listed in the homepage. Note that
-the code written inside {{ }} is Ruby code that gets executed. This way
+the code written inside `{{ }}` is Ruby code that gets executed. This way
 we can iterate over user collection and print each one out.
 
-As you may have noticed, ‘*users’ is the name of the collection where
+As you may have noticed, `users` is the name of the collection where
 all users are stored; something to have in mind is that attributes are
-accessed with an underscore ‘*‘ prepended to the attribute name. For
+accessed with an underscore `_` prepended to the attribute name. For
 this to work, we first need to add a line of code at the top of the
-main\_controller.rb file:
+main_controller.rb file:
 
-    model :store
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/0f03f5437f3c9821ce6d49ce3424afda431808f1/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/main_controller.part1.rb?embed=t"></script>
 
 Volt comes with multiple collection models accessible from the
 controller, and each of them stores the information in a different
@@ -169,46 +144,28 @@ the list (since he shouldn’t be able to send messages to himself), show
 the list only to authenticated users and show a ‘landing’ page to
 non-authenticated users:
 
-    <:Body>
-      <h1>Home</h1>
-      {{ if Volt.user }}
-        <div class="row">
-        <div class="col-md-4">
-            {{ _users.each do |user| }}
-            {{ if user._id != Volt.user._id }}
-                <div class="contact {{ if params._user_id == user._id }} active {{ end }}" e-click="select_conversation(user)">
-                {{user._name}}
-                </div>
-            {{ end }}
-            {{ end }}
-        </div>
-        </div>
-      {{ else }}
-        <p>This is a sample application built with Volt to demonstrate its real-time capabilities. Please log in to access it.</p>
-      {{ end }}
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/0f03f5437f3c9821ce6d49ce3424afda431808f1/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/main_.part3.html?embed=t"></script>
 
-    Volt.user return the current (logged in) user or nil.
+`Volt.user` returns the current (logged in) user or `nil`.
 
-The e-click attribute lets us select a method from the controller that
+The `e-click` attribute lets us select a method from the controller that
 will be called when that element is clicked.
 
 ### Attributes and CSS
 
-In fact, all ‘e-‘ attributes are event binders in Volt, so for example
-we can add e-submit to a form to choose the action that will be called
+In fact, all `e-` attributes are event binders in Volt, so for example
+we can add `e-submit` to a form to choose the action that will be called
 on the controller. We are going to add the ‘selected’ user’s ID to the
 parameters so we can know which one has been selected and add a class
-called ‘active’ which we can later style.
+called `active` which we can later style.
 
-Now let’s create the select\_conversation method in the controller:
+Now let’s create the `select_conversation` method in the controller:
 
-    def select_conversation(user)
-      params._user_id = user._id
-    end
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/0f03f5437f3c9821ce6d49ce3424afda431808f1/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/main_controller.part2.html?embed=t"></script>
 
 And that’s it – if you check out the page again, you can see that the
 URL changes every time you click on a user’s name. Also, the class
-‘active’ is being added to that element, so let’s add some CSS to make
+`active` is being added to that element, so let’s add some CSS to make
 it visible (I’ll go ahead and add the CSS for items we will add later
 on):
 
@@ -222,28 +179,19 @@ for sending new messages.
 
 Notice that the value of the input is an attribute we’re creating on the
 page collection model since we don’t want it to be stored in the data
-store. Now let’s define the ‘current\_conversation’ and ‘send\_message’
+store. Now let’s define the `current_conversation` and `send_message`
 methods in the controller:
 
-    def send_message
-      unless page._new_message.strip.empty?
-        _messages << { sender_id: Volt.user._id, receiver_id: params._user_id, text: page._new_message }
-        page._new_message = ''
-      end
-    end
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/0f03f5437f3c9821ce6d49ce3424afda431808f1/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/main_controller.part3.rb?embed=t"></script>
 
-    def current_conversation
-      _messages.find({ "$or" => [{ sender_id: Volt.user._id, receiver_id: params._user_id }, { sender_id: params._user_id, receiver_id: Volt.user._id }] })
-    end
-
-In the send\_message method we add a new message to the collection if
+In the `send_message` method we add a new message to the collection if
 the message is not blank (we’re checking inline so we don’t have to mess
-with validations at the moment), then we set the page.\_new\_message to
-” so we empty the input field.
+with validations at the moment), then we set the `page._new_message` to
+`""` so we empty the input field.
 
 We might want to add that line to the end of the select\_conversation
 method as well. The current conversation method just queries the
-\_messages collection for messages between the selected user and the
+`_messages` collection for messages between the selected user and the
 current user.
 
 ### Wrap Up With Real-Time Notifications
@@ -251,23 +199,16 @@ current user.
 To finish, I would like to have some kind of notification system, so
 users could see when other users are messaging them.
 
-Let’s add a new collection called \_notifications and create a new one
+Let’s add a new collection called `_notifications` and create a new one
 after each message is sent:
 
 Also, we need to delete notifications from after a user selects the
 conversation and sees the new messages, so I added that part to the
-select\_conversation method.
+`select_conversation` method.
 
 Let’s add a notification counter right next to the user name:
 
-    <div class="contact {{ if params._user_id == user._id }} active {{ end }}" e-click="select_conversation(user)">
-      {{user._name}}
-      {{ if unread_notifications_from(user).count > 0 }}
-        <span class="badge">
-        {{ unread_notifications_from(user).count }}
-        </span>
-      {{ end }}
-    </div>
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/0f03f5437f3c9821ce6d49ce3424afda431808f1/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/index_main.part1.html?embed=t"></script>
 
 Now the app is ready, you can open a couple of browsers and start
 testing the real-time capabilities of Volt.
@@ -288,9 +229,7 @@ people start experimenting with it. Due to a number of innovative
 features, many developers could fall in love with Volt and use it for
 their next project.
 
-Finally, here’s the [complete code](https://gist.github.com/apeniche/2bb6edd82c3e3e0044e6) that we have developed.
-
-Technorati Tags: [Ruby](http://technorati.com/tag/Ruby), [The Ruby
-Programming
-Language](http://technorati.com/tag/The+Ruby+Programming+Language),
-[Volt framework](http://technorati.com/tag/Volt+framework)
+Finally, here’s the [complete
+code](https://gist.github.com/apeniche/2bb6edd82c3e3e0044e6) that we have
+developed.
+<script src="https://gist.github.com/apeniche/2bb6edd82c3e3e0044e6.js"></script>
