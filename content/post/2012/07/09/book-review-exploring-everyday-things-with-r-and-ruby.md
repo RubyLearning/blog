@@ -19,6 +19,7 @@ tags:
   - r
   - ruby
   - sau sheong chang
+  - Victor Goff
 ---
 
 A book review of **Exploring Everyday Things with R and Ruby**.

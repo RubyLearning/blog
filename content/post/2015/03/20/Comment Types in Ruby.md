@@ -8,8 +8,8 @@ authortwitter = "http://twitter.com/kotp"
 date = "2015-03-20T01:15:34-04:00"
 draft = false
 nocomment = false
-tags = ["basics", "ruby"]
-categories = ["ruby"]
+tags = ["ruby", "victor goff"]
+categories = ["ruby", "basics"]
 totop = true
 +++
 There are basically two types of comments in Ruby.  And they work the

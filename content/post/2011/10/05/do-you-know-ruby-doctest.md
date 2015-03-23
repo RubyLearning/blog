@@ -17,6 +17,7 @@ tags:
 - programming
 - doctest
 - ruby
+- Victor Goff
 ---
 This guest post is by Victor Goff, who enjoys mentoring Ruby at
 RubyLearning.org since 2008. <!--more--> You can reach him on IRC Chat at
