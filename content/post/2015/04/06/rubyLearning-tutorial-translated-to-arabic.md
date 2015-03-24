@@ -14,13 +14,13 @@ ogphoto = "/blog/media/ruby3arabi-brand.png"
 +++
 AliOsm is young Libyan programmer, and started programming in 2011.
 
-In 2014 he saw the Ruby programming language and liked it, and now he
-has the [ruby3arabi.com](http://ruby3arabi.com) site and he hopes to
-help Ruby language to become popular in the Arabic programmers
-community.  Here is Ali Osm telling us about what is going on.<!--more-->
+In 2014 he saw the Ruby programming language and liked it, and so he decided to
+create the [ruby3arabi.com](http://ruby3arabi.com) site and he hopes to help
+Ruby language to become popular in the Arabic programmers community.  Here is
+Ali Osm telling us about what is going on.<!--more-->
 
 ![Ruby3Arabi](/blog/media/ruby3arabi-brand_30.png "Image of Ruby3Arabi
-Website Icon"")
+Website Icon")
 
 On 6 March 2015 we started the site Ruby3Arabi.com, which explains the Ruby
 programming language which is translated from RubyLearning.com after having
@@ -39,4 +39,4 @@ it to be a social platform which enables Arab Ruby programmers
 specifically and the Arab programmers in general to communicate and
 exchange experience.
 
-Let us know what you think!
+You can let Ali Osm know what you think below or in [e-mail](mailto:aliosm_1997@gmail.com).
