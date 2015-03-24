@@ -19,7 +19,7 @@ has the [ruby3arabi.com](http://ruby3arabi.com) site and he hopes to
 help Ruby language to become popular in the Arabic programmers
 community.  Here is Ali Osm telling us about what is going on.<!--more-->
 
-![Ruby3Arabi](/media/ruby3arabi-brand_30.png "Image of Ruby3Arabi
+![Ruby3Arabi](/blog/media/ruby3arabi-brand_30.png "Image of Ruby3Arabi
 Website Icon"")
 
 On 6 March 2015 we started the site Ruby3Arabi.com, which explains the Ruby
