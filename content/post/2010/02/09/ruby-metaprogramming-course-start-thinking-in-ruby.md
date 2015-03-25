@@ -23,10 +23,8 @@ tags:
 - Satoshi Asakawa
 - The Ruby Programming Language
 ---
-RubyLearning is honored to have [Paolo
-Perrotta](http://rubylearning.com/blog/2009/07/01/interview-author-paolo-perrotta/),
-author of the book [Metaprogramming
-Ruby](http://www.amazon.com/gp/product/1934356476?ie=UTF8&tag=satishtalimsw-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1934356476),
+RubyLearning is honored to have [Paolo Perrotta](http://rubylearning.com/blog/2009/07/01/interview-author-paolo-perrotta/),
+author of the book [Metaprogramming Ruby](http://www.amazon.com/gp/product/1934356476?ie=UTF8&tag=satishtalimsw-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1934356476),
 who would be answering some of the questions in the course forum.
 
 After the huge success of the first two “**Ruby Metaprogramming**”

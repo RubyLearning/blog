@@ -31,15 +31,14 @@ tags:
 
 ## About James Edward Gray II
 
-![James Edward Gray
-II](http://rubylearning.com/images/jamesgray.jpg "James Edward Gray II")James
-Edward Gray II was called into the principal’s office in high school for
-writing a black jack program on his calculator and beaming it to all the
-math students almost 20 years ago. He’s been tinkering with little code
-challenges ever since. After discovering Ruby, he formalized this
-process by creating the [Ruby Quiz](http://www.rubyquiz.com/). Though he
-no longer runs those challenges, he’s glad to see that the spirit lives
-on in projects like the RPCFN.
+![James Edward Gray II](http://rubylearning.com/images/jamesgray.jpg "James Edward Gray II")
+James Edward Gray II was called into the principal’s office in high school for
+writing a black jack program on his calculator and beaming it to all the math
+students almost 20 years ago. He’s been tinkering with little code challenges
+ever since. After discovering Ruby, he formalized this process by creating the
+[Ruby Quiz](http://www.rubyquiz.com/). Though he no longer runs those
+challenges, he’s glad to see that the spirit lives on in projects like the
+RPCFN.
 
 James has this to say about the challenge:
 

@@ -1,4 +1,5 @@
 ---
+draft: false
 title: 'RPCFN: Cycle Tracks - 12'
 date: 2010-07-31
 author: Satish Talim
@@ -35,8 +36,7 @@ and popular.<!--more-->
 
 ## About David Griffiths
 
-![David
-Griffiths](http://rubylearning.com/images/Dg_on_beach.png "David Griffiths")
+![David Griffiths](http://rubylearning.com/images/Dg_on_beach.png "David Griffiths")
 In David’s own words: “I’m an agile developer, writer and trainer based
 in the UK. I used to write a monthly Java development column and I’ve
 used and taught agile methods to companies around the UK. But I’ve been

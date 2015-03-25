@@ -27,8 +27,7 @@ In this brief interview, Satish Talim of RubyLearning talks to **Patrick
 McKenzie of Japan**, winner of the fifth [Ruby Programming Challenge For
 Newbies](http://rubylearning.com/blog/2009/12/27/rpcfn-mazes-5/).<!--more-->
 
-![Patrick
-McKenzie](http://www.rubylearning.com/images/patrick-125x125.jpg "Patrick McKenzie")
+![Patrick McKenzie](http://www.rubylearning.com/images/patrick-125x125.jpg "Patrick McKenzie")
 
 **Satish\>\>** Welcome Patrick and thanks for taking out time to share
 your thoughts. For the benefit of the readers, could you tell us
@@ -36,11 +35,10 @@ something about your self?
 
 **Patrick\>\>** Thanks Satish for the opportunity. My name is Patrick
 McKenzie and by day I work on big freaking Java web apps at a Japanese
-corporation in Nagoya. By night, I run a [small software
-business](http://www.bingocardcreator.com/), which sells desktop
-software written in Java and a web application written in Ruby on Rails.
-I also [blog](http://www.kalzumeus.com/) a bit, mostly on business and
-programming topics.
+corporation in Nagoya. By night, I run a [small software business](http://www.bingocardcreator.com/),
+which sells desktop software written in Java and a web application written in
+Ruby on Rails. I also [blog](http://www.kalzumeus.com/) a bit, mostly on
+business and programming topics.
 
 **Satish\>\>** How did you get involved with Ruby programming?
 
@@ -62,10 +60,10 @@ most, as compared to other languages? Why?
 of code which operate together very well. For example, to read a
 property file in Ruby:
 
-File.readlines("property.txt")
-  .map {|line| line.split("#")[0]}
-  .map {|line| line.split("=")}
-  .inject({}) {|hash, couplet| hash[couplet[0]]=couplet[1]; hash}
+    File.readlines("property.txt")
+      .map {|line| line.split("#")[0]}
+      .map {|line| line.split("=")}
+      .inject({}) {|hash, couplet| hash[couplet[0]]=couplet[1]; hash}
 
 does all the work for you. That is a trivial example in Ruby which would
 take me almost a page to write in Java (well, assuming I wasn’t using a

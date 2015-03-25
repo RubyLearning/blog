@@ -24,12 +24,10 @@ tags:
 - ruby programming
 - russia
 ---
-In this brief interview, Satish Talim of RubyLearning talks to **Dmitry
-Lipovoi of Russia**, winner of the tenth [Ruby Programming Challenge For
-Newbies](http://rubylearning.com/blog/2010/05/25/rpcfn-business-hours-10/).<!--more-->
-
-![Dmitry
-Lipovoi](http://www.rubylearning.com/images/photo-for-rpcfn.jpg "Dmitry Lipovoi")
+In this brief interview, Satish Talim of RubyLearning talks to **Dmitry Lipovoi
+of Russia**, winner of the tenth [Ruby Programming Challenge For Newbies](http://rubylearning.com/blog/2010/05/25/rpcfn-business-hours-10/).
+<!--more-->
+![Dmitry Lipovoi](http://www.rubylearning.com/images/photo-for-rpcfn.jpg "Dmitry Lipovoi")
 
 **Satish\>\>** Welcome Dmitry and thanks for taking out time to share
 your thoughts. For the benefit of the readers, could you tell us

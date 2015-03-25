@@ -25,12 +25,10 @@ tags:
 - ruby programming
 ---
 In this brief interview, Satish Talim of RubyLearning talks to
-**Guillaume Petit of France**, winner of the sixth [Ruby Programming
-Challenge For
-Newbies](http://rubylearning.com/blog/2010/01/26/rpcfn-fair-distribution-6/).
+**Guillaume Petit of France**, winner of the sixth
+[Ruby Programming Challenge For Newbies](http://rubylearning.com/blog/2010/01/26/rpcfn-fair-distribution-6/).
 
-![Guillaume
-Petit](http://www.rubylearning.com/images/guillaume_petit.jpg "Guillaume Petit")
+![Guillaume Petit](http://www.rubylearning.com/images/guillaume_petit.jpg "Guillaume Petit")
 
 **Satish\>\>** Welcome Guillaume and thanks for taking out time to share
 your thoughts. For the benefit of the readers, could you tell us

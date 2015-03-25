@@ -1,12 +1,13 @@
 ---
+draft: false
 title: 'Book Review: Exploring Everyday Things with R and Ruby'
+date: 2012-07-09
 author: Victor Goff
 authorlink: http://twitter.com/kotp
 socialsharing: true
 authorgoogleplus: "https://plus.google.com/+VictorGoff/about"
 authorlinkedin: "https://www.linkedin.com/in/vgoff"
 authortwitter: "http://twitter.com/kotp"
-date: 2012-07-09
 categories:
   - book promotions
   - ruby

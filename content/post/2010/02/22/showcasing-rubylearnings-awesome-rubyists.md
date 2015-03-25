@@ -32,8 +32,7 @@ to the next level.<!--more-->
 
 -- Alvaro Pereyra Rabanal
 
-[![Alvaro Pereyra
-Rabanal](http://www.rubylearning.com/images/apr.jpg "Alvaro Pereyra Rabanal")](http://twitter.com/yaraher)
+[![Alvaro Pereyra Rabanal](http://www.rubylearning.com/images/apr.jpg "Alvaro Pereyra Rabanal")](http://twitter.com/yaraher)
 
 **[Alvaro Pereyra Rabanal](http://twitter.com/yaraher)** is based in
 Peru. Currently, he has started teaching Ruby and Rails and he is about

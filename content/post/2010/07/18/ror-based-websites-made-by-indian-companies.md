@@ -19,10 +19,9 @@ tags:
 - Ruby
 - Ruby on Rails
 ---
-As a sequel to my post [Indian Ruby on Rails
-Portfolio](http://rubylearning.com/blog/2010/02/08/indian-ruby-on-rails-portfolio/),
-I am compiling a list (in alphabetical order of company names)
-showcasing **ROR based websites made by Indian companies**.
+As a sequel to my post [Indian Ruby on Rails Portfolio](http://rubylearning.com/blog/2010/02/08/indian-ruby-on-rails-portfolio/),
+I am compiling a list (in alphabetical order of company names) showcasing **ROR
+based websites made by Indian companies**.
 
 I’ll be updating this page from time to time. If you are the owner /
 developer of such a website(s), then I would appreciate if you would
