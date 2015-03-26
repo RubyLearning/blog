@@ -20,7 +20,7 @@ totop: true
 
 <div>
   <p>
-    <span class="drop_cap">R</span>egistrations are now open for RubyLearning's <em>long-awaited and popular</em> Ruby programming course. This is an intensive, online course for <em>beginners</em> that helps you get started with <strong>Ruby</strong> programming. The course starts on <b>Saturday, 28th Mar. 2015</b> and runs for seven weeks.
+    <span class="drop_cap">R</span>egistrations are now open for RubyLearning's <em>long-awaited and popular</em> Ruby programming course. This is an intensive, online course for <em>beginners</em> that helps you get started with <strong>Ruby</strong> programming. The course starts on <b>Saturday, 11 Apr 2015</b> and runs for seven weeks.
   </p> <!--more-->
 
   <h3>
@@ -162,7 +162,7 @@ totop: true
   </h3>
   
   <p>
-    The course starts on <b>Saturday, 28th Mar. 2015</b> and runs for seven weeks.
+    The course starts on <b>Saturday, 11th Apr 2015</b> and runs for seven weeks.
   </p>
   
   <h3>
