@@ -47,4 +47,6 @@ son who is starting to learn to program.
 There are other areas that are difficult though, where he references things
 that are not used, but addresses them in the “Questions” section.
 
-
+There are things that are initially overlooked, using string interpolation eary
+on (Exercise 2) but not explaining what it does.  Why does the math happen in “
+3 + 2 #{3 + 2}” inside the brackets?
