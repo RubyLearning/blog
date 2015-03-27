@@ -2,7 +2,7 @@
 draft = true
 title = "RubyLearning Tutorial Translated To Arabic"
 date = "2015-04-06T00:32:34-04:00"
-author = "AliOsm"
+author = "Ali Osm"
 authortwitter = "http://twitter.com/AliOsm_1997"
 authorfacebook = "http://fb.com/Ali.L.Malak"
 categories = ["Rubylearning", "arabic", "tryruby"]
@@ -15,18 +15,18 @@ ogphoto = "/blog/media/ruby3arabi-brand.png"
 AliOsm is young Libyan programmer, and started programming in 2011.
 
 In 2014 he saw the Ruby programming language and liked it, and so he decided to
-create the [ruby3arabi.com](http://ruby3arabi.com) site and he hopes to help
+create the [Ruby3arabi.com](http://ruby3arabi.com) site and he hopes to help
 Ruby language to become popular in the Arabic programmers community.  Here is
 Ali Osm telling us about what is going on.<!--more-->
 
-![Ruby3Arabi](/blog/media/ruby3arabi-brand_30.png "Image of Ruby3Arabi
+![Ruby3arabi](/blog/media/ruby3arabi-brand_30.png "Image of Ruby3arabi
 Website Icon")
 
-On 6 March 2015 we started the site Ruby3Arabi.com, which explains the Ruby
+On 6 March 2015 we started the site Ruby3arabi.com, which explains the Ruby
 programming language which is translated from RubyLearning.com after having
 talked Mr. Satish Talim.
 
-This site includes most of the lessons on the site in Arabic with a the
+This site includes most of the lessons on the site in Arabic with the
 additional feature of using 'tryruby' on the site so that you can run
 Ruby in your browser without installing on your own operating system.
 
