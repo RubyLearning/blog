@@ -1,10 +1,18 @@
 ---
+draft: false
+title: FREE Course On Ruby's Cross Platform GUI App Toolkit - Shoes
+date: 2011-08-19
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Ruby
 - Shoes
 - Training
-date: 2011-08-19
 draft: true
 layout: post
 permalink: /2011/08/19/free-course-on-rubys-cross-platform-gui-app-toolkit/
@@ -16,12 +24,6 @@ tags:
 - Shoes
 - Steve Klabnik
 - The Ruby Programming Language
-thesis_description:
-- Celebrate Whyday with RubyLearning's Free course on Ruby Shoes.
-thesis_keywords:
-- Ruby course,Ruby training,Ruby,Satoshi Asakawa,Steve Klabnik,Shoes,The Ruby Programming
-  Language
-title: FREE Course On Ruby's Cross Platform GUI App Toolkit - Shoes
 topsy_short_url:
 - http://bit.ly/qARPbd
 ---
@@ -150,7 +152,6 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby+course" rel="tag">Ruby course</a>, <a href="http://technorati.com/tag/Ruby+training" rel="tag">Ruby training</a>, <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Satoshi+Asakawa" rel="tag">Satoshi Asakawa</a>, <a href="http://technorati.com/tag/Steve+Klabnik" rel="tag">Steve Klabnik</a>, <a href="http://technorati.com/tag/Shoes" rel="tag">Shoes</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>
 
 <div class='footnotes'>
   <div class='footnotedivider'>

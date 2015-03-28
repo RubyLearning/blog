@@ -1,20 +1,17 @@
 ---
+draft: false
+title: All about Struct
+date: 2012-09-06
 author: Steve Klabnik
 categories:
 - beginners
 - ruby
-date: 2012-09-06
 layout: post
 permalink: /2012/09/06/all-about-struct/
 tags:
 - programming
 - ruby
 - struct
-thesis_description:
-- Steve Klabnik shows us how to take advantage of Struct and OStruct in Ruby.
-thesis_keywords:
-- struct, Programming,Ruby programming
-title: All about Struct
 topsy_short_url:
 - http://bit.ly/TkmLgm
 ---
@@ -222,6 +219,3 @@ and “[How do I keep multiple Ruby projects
 separate?](http://rubylearning.com/blog/2010/12/20/how-do-i-keep-multiple-ruby-projects-separate/)”
 on RubyLearning. Thanks!
 
-Technorati Tags: [struct](http://technorati.com/tag/struct),
-[Programming](http://technorati.com/tag/Programming), [Ruby
-programming](http://technorati.com/tag/Ruby+programming)

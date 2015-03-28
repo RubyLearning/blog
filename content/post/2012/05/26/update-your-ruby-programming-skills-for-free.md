@@ -1,11 +1,18 @@
 ---
+draft: true
+title: Update your Ruby programming skills for free
+date: 2012-05-26
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Ruby
 - Training
-date: 2012-05-26
-draft: true
 layout: post
 permalink: /2012/05/26/update-your-ruby-programming-skills-for-free/
 tags:
@@ -13,11 +20,6 @@ tags:
 - Ruby
 - Ruby course
 - Ruby training
-thesis_description:
-- Update your Ruby programming skills for free at RubyLearning.
-thesis_keywords:
-- Ruby course,Ruby Training, Programming, Ruby
-title: Update your Ruby programming skills for free
 topsy_short_url:
 - null
 ---
@@ -36,4 +38,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby+course" rel="tag">Ruby course</a>, <a href="http://technorati.com/tag/Ruby+Training" rel="tag">Ruby Training</a>, <a href="http://technorati.com/tag/Programming" rel="tag"> Programming</a>, <a href="http://technorati.com/tag/Ruby" rel="tag"> Ruby</a>

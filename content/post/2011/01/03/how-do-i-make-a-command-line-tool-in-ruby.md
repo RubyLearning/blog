@@ -1,10 +1,12 @@
 ---
+draft: false
+title: How do I make a command-line tool in Ruby?
+date: 2011-01-03
 author: Allen Wei
 categories:
 - Beginners
 - Ruby
 - Ruby Masters
-date: 2011-01-03
 layout: post
 permalink: /2011/01/03/how-do-i-make-a-command-line-tool-in-ruby/
 tags:
@@ -12,11 +14,6 @@ tags:
 - programming
 - ruby programming
 - Thor
-thesis_description:
-- Allen Wei explains how to make a command-line tool in Ruby.
-thesis_keywords:
-- OptionParser,Programming,Ruby programming,Thor
-title: How do I make a command-line tool in Ruby?
 topsy_short_url:
 - http://bit.ly/hRvh7b
 ---
@@ -409,4 +406,3 @@ start server
   </ul>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/OptionParser" rel="tag">OptionParser</a>, <a href="http://technorati.com/tag/Programming" rel="tag">Programming</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>, <a href="http://technorati.com/tag/Thor" rel="tag">Thor</a>

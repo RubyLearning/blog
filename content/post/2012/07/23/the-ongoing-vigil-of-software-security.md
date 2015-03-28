@@ -1,20 +1,16 @@
 ---
+draft: false
+title: The Ongoing Vigil of Software Security
+date: 2012-07-23
 author: James Schorr
 categories:
 - Ruby
 - Security
-date: 2012-07-23
 layout: post
 permalink: /2012/07/23/the-ongoing-vigil-of-software-security/
 tags:
 - James M. Schorr
 - Software Security
-thesis_description:
-- James Schorr gives us some examples of how we can improve the security of our software
-  projects to proactively work towards producing quality, stable software.
-thesis_keywords:
-- James M. Schorr, Software Security
-title: The Ongoing Vigil of Software Security
 topsy_short_url:
 - null
 ---
@@ -369,4 +365,3 @@ topsy_short_url:
   </ul>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/James+M.+Schorr" rel="tag">James M. Schorr</a>, <a href="http://technorati.com/tag/Software+Security" rel="tag"> Software Security</a>

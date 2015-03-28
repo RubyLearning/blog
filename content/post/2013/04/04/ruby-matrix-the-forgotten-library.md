@@ -1,9 +1,11 @@
 ---
+draft: false
+title: Ruby Matrix, the Forgotten Library
+date: 2013-04-04
 author: Matthew Kirk
 categories:
 - Ruby
 - Ruby Masters
-date: 2013-04-04
 layout: post
 permalink: /2013/04/04/ruby-matrix-the-forgotten-library/
 tags:
@@ -11,12 +13,6 @@ tags:
 - programming
 - Ruby
 - Ruby Matrix
-thesis_description:
-- Matrices can be useful to solve problems involving systems of equations. Matthew
-  Kirk shows us how.
-thesis_keywords:
-- Ruby, Programming, Matthew Kirk, Ruby Matrix
-title: Ruby Matrix, the Forgotten Library
 topsy_short_url:
 - http://bit.ly/ZaQOvG
 ---
@@ -208,4 +204,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Programming" rel="tag"> Programming</a>, <a href="http://technorati.com/tag/Matthew+Kirk" rel="tag"> Matthew Kirk</a>, <a href="http://technorati.com/tag/Ruby+Matrix" rel="tag"> Ruby Matrix</a>

@@ -1,11 +1,13 @@
 ---
+draft: false
+title: An Introduction to Outside-in Development
+date: 2010-10-05
 author: Harold Gimenez
 categories:
 - Beginners
 - Popular
 - Ruby
 - Ruby Masters
-date: 2010-10-05
 layout: post
 permalink: /2010/10/05/outside-in-development/
 tags:
@@ -15,12 +17,6 @@ tags:
 - Ruby
 - Ruby Beginners
 - Ruby for Noobs
-thesis_description:
-- "Harold Giménez introduces us to Outside-in Development that helps add value to
-  a product's users and stakeholders. A guest post on RubyLearning."
-thesis_keywords:
-- "Ruby, Programming, Harold Giménez, Ruby for Noobs, Ruby beginners, Outside-in Development"
-title: An Introduction to Outside-in Development
 topsy_short_url:
 - http://bit.ly/9hTxef
 ---
@@ -695,4 +691,3 @@ end</pre>
   </ul>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Programming" rel="tag"> Programming</a>, <a href="http://technorati.com/tag/Harold+Gim%C3%A9nez" rel="tag"> Harold Giménez</a>, <a href="http://technorati.com/tag/Ruby+for+Noobs" rel="tag"> Ruby for Noobs</a>, <a href="http://technorati.com/tag/Ruby+beginners" rel="tag"> Ruby beginners</a>, <a href="http://technorati.com/tag/Outside-in+Development" rel="tag"> Outside-in Development</a>

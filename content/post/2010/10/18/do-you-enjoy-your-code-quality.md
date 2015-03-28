@@ -1,23 +1,19 @@
 ---
+draft: false
+title: Do You Enjoy Your Code Quality?
+date: 2010-10-18
 author: James Schorr
 categories:
 - Beginners
 - Popular
 - Ruby
 - Ruby Masters
-date: 2010-10-18
 layout: post
 permalink: /2010/10/18/do-you-enjoy-your-code-quality/
 tags:
 - Code Quality
 - James M. Schorr
 - programming
-thesis_description:
-- James M. Schorr gives real-world tips on how to enjoy crafting software by improving
-  the quality of your code and your development habits.
-thesis_keywords:
-- Programming, James M. Schorr, Code Quality
-title: Do You Enjoy Your Code Quality?
 topsy_short_url:
 - null
 ---
@@ -173,4 +169,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Programming" rel="tag">Programming</a>, <a href="http://technorati.com/tag/James+M.+Schorr" rel="tag"> James M. Schorr</a>, <a href="http://technorati.com/tag/Code+Quality" rel="tag"> Code Quality</a>

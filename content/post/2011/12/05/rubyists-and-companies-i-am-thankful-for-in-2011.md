@@ -1,22 +1,25 @@
 ---
+draft: false
+title: Rubyists and Companies I am thankful for in 2011
+date: 2011-12-05
 Hide OgTags:
 - 0
 Hide SexyBookmarks:
 - 0
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Ruby
-date: 2011-12-05
 layout: post
 permalink: /2011/12/05/rubyists-and-companies-i-am-thankful-for-in-2011/
 tags:
 - Ruby
 - Rubyists
-thesis_description:
-- Rubyists and Companies I am thankful for in 2011.
-thesis_keywords:
-- Ruby,Rubyists
-title: Rubyists and Companies I am thankful for in 2011
 topsy_short_url:
 - null
 ---
@@ -65,4 +68,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Rubyists" rel="tag">Rubyists</a>

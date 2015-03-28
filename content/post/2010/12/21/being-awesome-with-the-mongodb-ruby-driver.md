@@ -1,10 +1,12 @@
 ---
+draft: false
+title: Being Awesome with the MongoDB Ruby Driver
+date: 2010-12-21
 author: Ethan Gunderson
 categories:
 - Beginners
 - Ruby
 - Ruby Masters
-date: 2010-12-21
 layout: post
 permalink: /2010/12/21/being-awesome-with-the-mongodb-ruby-driver/
 tags:
@@ -12,12 +14,6 @@ tags:
 - MongoDB Ruby Driver
 - programming
 - ruby programming
-thesis_description:
-- Ethan Gunderson shows how easy it is to use the MongoDB Ruby driver and builds some
-  of the common queries you would find in a common blog.
-thesis_keywords:
-- MongoDB,MongoDB Ruby Driver, Programming,Ruby programming
-title: Being Awesome with the MongoDB Ruby Driver
 topsy_short_url:
 - null
 ---
@@ -217,4 +213,3 @@ posts.update( { :_id => post_id }, post )
   </ul>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/MongoDB" rel="tag">MongoDB</a>, <a href="http://technorati.com/tag/MongoDB+Ruby+Driver" rel="tag">MongoDB Ruby Driver</a>, <a href="http://technorati.com/tag/Programming" rel="tag"> Programming</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>

@@ -1,15 +1,23 @@
 ---
+draft: false
+title: Do you know how to write an internal DSL in Ruby?
+date: 2011-10-02
 Hide OgTags:
 - 0
 Hide SexyBookmarks:
 - 0
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Metaprogramming
 - Popular
 - Ruby
-date: 2011-10-02
 layout: post
 permalink: /2011/10/02/do-you-know-how-to-write-an-internal-dsl-in-ruby/
 tags:
@@ -17,11 +25,6 @@ tags:
 - Ruby
 - Ruby DSL
 - ruby programming
-thesis_description:
-- RubyLearning shows you how to write a simple Ruby based DSL.
-thesis_keywords:
-- Ruby, Programming, Ruby programming, Ruby DSL
-title: Do you know how to write an internal DSL in Ruby?
 topsy_short_url:
 - http://bit.ly/rsrPHC
 ---
@@ -265,4 +268,3 @@ Anderssen's Opening Andersspike: 1. a3 g6 2. g4
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Programming" rel="tag"> Programming</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag"> Ruby programming</a>, <a href="http://technorati.com/tag/Ruby+DSL" rel="tag"> Ruby DSL</a>

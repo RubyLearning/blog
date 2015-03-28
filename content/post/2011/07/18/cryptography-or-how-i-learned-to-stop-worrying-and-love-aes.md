@@ -1,10 +1,12 @@
 ---
+draft: false
+title: 'Cryptography Or: How I Learned to Stop Worrying, and Love AES'
+date: 2011-07-18
 author: Phillip Gawlowski
 categories:
 - Beginners
 - Ruby
 - Ruby Masters
-date: 2011-07-18
 layout: post
 permalink: /2011/07/18/cryptography-or-how-i-learned-to-stop-worrying-and-love-aes/
 tags:
@@ -13,11 +15,6 @@ tags:
 - Phillip Gawlowski
 - programming
 - ruby programming
-thesis_description:
-- Phillip Gawlowski explains how to use encryption and decryption in Ruby.
-thesis_keywords:
-- Programming,Ruby programming, Phillip Gawlowski, decryption, encryption
-title: 'Cryptography Or: How I Learned to Stop Worrying, and Love AES'
 topsy_short_url:
 - null
 ---
@@ -259,4 +256,3 @@ puts aes.update(encrypted) + aes.final</pre>
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Programming" rel="tag">Programming</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>, <a href="http://technorati.com/tag/Phillip+Gawlowski" rel="tag"> Phillip Gawlowski</a>

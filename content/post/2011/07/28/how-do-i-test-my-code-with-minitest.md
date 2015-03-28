@@ -1,21 +1,18 @@
 ---
+draft: false
+title: How do I test my code with Minitest?
+date: 2011-07-28
 author: Steve Klabnik
 categories:
 - Beginners
 - Ruby
 - Ruby Masters
-date: 2011-07-28
 layout: post
 permalink: /2011/07/28/how-do-i-test-my-code-with-minitest/
 tags:
 - minitest
 - programming
 - ruby programming
-thesis_description:
-- Steve Klabnik introduces the readers to Ruby's minitest.
-thesis_keywords:
-- minitest, Programming,Ruby programming
-title: How do I test my code with Minitest?
 topsy_short_url:
 - null
 ---
@@ -302,4 +299,3 @@ refute true #=&gt; fail</pre>
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/minitest" rel="tag">minitest</a>, <a href="http://technorati.com/tag/Programming" rel="tag"> Programming</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>

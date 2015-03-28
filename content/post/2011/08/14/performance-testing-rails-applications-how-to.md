@@ -1,21 +1,18 @@
 ---
+draft: false
+title: 'Performance Testing Rails Applications: How To?'
+date: 2011-08-14
 author: "Gonçalo Silva"
 categories:
 - Ruby
 - Ruby Masters
 - Ruby on Rails
-date: 2011-08-14
 layout: post
 permalink: /2011/08/14/performance-testing-rails-applications-how-to/
 tags:
 - programming
 - Ruby on Rails
 - ruby programming
-thesis_description:
-- "Gonçalo Silva shows you how to do performance testing of your Rails applications."
-thesis_keywords:
-- Programming,Ruby programming, Ruby on Rails
-title: 'Performance Testing Rails Applications: How To?'
 topsy_short_url:
 - http://bit.ly/pZKKcu
 ---
@@ -334,4 +331,3 @@ LoginTest#test_login (105 ms warmup)
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Programming" rel="tag">Programming</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>, <a href="http://technorati.com/tag/Ruby+on+Rails" rel="tag"> Ruby on Rails</a>

@@ -1,21 +1,18 @@
 ---
+draft: false
+title: How do I smell Ruby code?
+date: 2011-03-01
 author: Timon Vonk
 categories:
 - Beginners
 - Ruby
 - Ruby Masters
-date: 2011-03-01
 layout: post
 permalink: /2011/03/01/how-do-i-smell-ruby-code/
 tags:
 - programming
 - Ruby code smell
 - ruby programming
-thesis_description:
-- Timon Vonk talks about Ruby code smells in an effort to improve Ruby code.
-thesis_keywords:
-- Programming,Ruby programming, Ruby code smell
-title: How do I smell Ruby code?
 topsy_short_url:
 - http://bit.ly/hT9oKA
 ---
@@ -213,4 +210,3 @@ end
   </ul>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Programming" rel="tag">Programming</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>, <a href="http://technorati.com/tag/Ruby+code+smell" rel="tag"> Ruby code smell</a>

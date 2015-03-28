@@ -196,7 +196,3 @@ expectations correctly, there is no real-time ‘webcasting’.
 
 Remember, the idea is to have fun learning Clojure.
 
-Technorati Tags: [Clojure
-course](http://technorati.com/tag/Clojure+course),
-[Clojure](http://technorati.com/tag/Clojure), [Clojure
-Training](http://technorati.com/tag/Clojure+Training)

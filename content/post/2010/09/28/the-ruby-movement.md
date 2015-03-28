@@ -256,9 +256,6 @@ code RL01 during checkout.
 -   [How to Learn Ruby (or any programming
     language)](http://rubylearning.com/blog/2010/09/20/how-to-learn-ruby-or-any-programming-language/)
 
-Technorati Tags: [Ruby](http://technorati.com/tag/Ruby),
-[Programming](http://technorati.com/tag/Programming), [Matt
-Aimonetti](http://technorati.com/tag/Matt+Aimonetti)
 
 1.  [http://en.wikipedia.org/wiki/Art\_movement](http://en.wikipedia.org/wiki/Art_movement).
     [↩](#fnref-4744-1)

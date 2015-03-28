@@ -1,10 +1,18 @@
 ---
+draft: false
+title: How do I use Sinatra to access the Google+ API?
+date: 2011-09-20
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Heroku
 - Ruby
 - Sinatra
-date: 2011-09-20
 layout: post
 permalink: /2011/09/20/how-do-i-use-sinatra-to-access-the-google-api/
 tags:
@@ -13,17 +21,6 @@ tags:
 - Ruby
 - ruby programming
 - Sinatra
-thesis_description:
-- A simple Sinatra app that accesses the Google+ API.
-thesis_keywords:
-- Ruby, Programming, Ruby programming, Sinatra, Google+
-thesis_post_image_frame:
-- true
-thesis_post_image_horizontal:
-- center
-thesis_post_image_vertical:
-- before-post
-title: How do I use Sinatra to access the Google+ API?
 topsy_short_url:
 - null
 ---
@@ -482,4 +479,3 @@ properties.each { |key, value| puts "#{key} equals #{value}" }
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Programming" rel="tag"> Programming</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag"> Ruby programming</a>, <a href="http://technorati.com/tag/Sinatra" rel="tag"> Sinatra</a>, <a href="http://technorati.com/tag/Google%2B" rel="tag"> Google+</a>

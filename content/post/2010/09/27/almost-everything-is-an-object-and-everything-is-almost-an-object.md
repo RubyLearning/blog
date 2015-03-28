@@ -1,10 +1,12 @@
 ---
+draft: false
+title: Almost everything is an object (and everything is almost an object!)
+date: 2010-09-27
 author: David Black
 categories:
 - Beginners
 - Ruby
 - Ruby Masters
-date: 2010-09-27
 layout: post
 permalink: /2010/09/27/almost-everything-is-an-object-and-everything-is-almost-an-object/
 tags:
@@ -13,12 +15,6 @@ tags:
 - Ruby
 - ruby beginner
 - Ruby for Noobs
-thesis_description:
-- David A. Black explains to Ruby Noobs why almost everything in Ruby is an object.
-  A guest blog post on RubyLearning.
-thesis_keywords:
-- Ruby, Programming, David A. Black, Ruby beginner, Ruby for Noobs
-title: Almost everything is an object (and everything is almost an object!)
 topsy_short_url:
 - http://bit.ly/cpn3BG
 ---
@@ -288,4 +284,3 @@ Hi!
   </ul>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Programming" rel="tag"> Programming</a>, <a href="http://technorati.com/tag/David+A.+Black" rel="tag"> David A. Black</a>, <a href="http://technorati.com/tag/Ruby+beginner" rel="tag"> Ruby beginner</a>, <a href="http://technorati.com/tag/Ruby+for+Noobs" rel="tag"> Ruby for Noobs</a>

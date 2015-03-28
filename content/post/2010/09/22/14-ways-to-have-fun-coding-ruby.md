@@ -1,11 +1,13 @@
 ---
+draft: false
+title: 14 Ways To Have Fun Coding Ruby
+date: 2010-09-22
 author: Jeff Schoolcraft
 categories:
 - Beginners
 - Popular
 - Ruby
 - Ruby Masters
-date: 2010-09-22
 layout: post
 permalink: /2010/09/22/14-ways-to-have-fun-coding-ruby/
 tags:
@@ -14,12 +16,6 @@ tags:
 - Ruby
 - Ruby Beginners
 - Ruby for Noobs
-thesis_description:
-- Guest blogger Jeff Schoolcraft shows you 14 different ways to have fun coding with
-  Ruby.
-thesis_keywords:
-- Ruby, Programming, Jeff Schoolcraft,Ruby beginners, Ruby for Noobs
-title: 14 Ways To Have Fun Coding Ruby
 topsy_short_url:
 - http://bit.ly/cLPU17
 ---
@@ -211,4 +207,3 @@ topsy_short_url:
   </ul>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Programming" rel="tag"> Programming</a>, <a href="http://technorati.com/tag/Jeff+Schoolcraft" rel="tag"> Jeff Schoolcraft</a>

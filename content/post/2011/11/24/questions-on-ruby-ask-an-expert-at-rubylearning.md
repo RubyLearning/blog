@@ -1,14 +1,22 @@
 ---
+draft: false
+title: Questions on Ruby? Ask An Expert at RubyLearning
+date: 2011-11-24
 Hide OgTags:
 - 0
 Hide SexyBookmarks:
 - 0
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Ruby
 - Ruby Masters
-date: 2011-11-24
 layout: post
 permalink: /2011/11/24/questions-on-ruby-ask-an-expert-at-rubylearning/
 tags:
@@ -17,11 +25,6 @@ tags:
 - Ruby Experts
 - ruby gurus
 - Ruby Newbies
-thesis_description:
-- An Ask An Expert series related to Ruby programming on RubyLearning.
-thesis_keywords:
-- Ruby Gurus,Ruby,Programming, Ruby Newbies,Ruby Experts
-title: Questions on Ruby? Ask An Expert at RubyLearning
 topsy_short_url:
 - null
 ---
@@ -101,4 +104,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby+Gurus" rel="tag">Ruby Gurus</a>, <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Programming" rel="tag">Programming</a>, <a href="http://technorati.com/tag/Ruby+Newbies" rel="tag"> Ruby Newbies</a>, <a href="http://technorati.com/tag/Ruby+Experts" rel="tag">Ruby Experts</a>

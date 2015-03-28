@@ -1,9 +1,11 @@
 ---
+draft: false
+title: Let's Talk About Conditional Expressions
+date: 2011-12-21
 author: Evan Light
 categories:
 - Beginners
 - Ruby
-date: 2011-12-21
 layout: post
 permalink: /2011/12/21/lets-talk-about-conditional-expressions/
 social_broadcasted:
@@ -14,11 +16,6 @@ tags:
 - Conditional Expressions
 - programming
 - ruby programming
-thesis_description:
-- Evan Light talks about Conditional Expressions in Ruby.
-thesis_keywords:
-- Programming,Ruby programming,Conditional Expressions
-title: Let's Talk About Conditional Expressions
 topsy_short_url:
 - null
 ---
@@ -92,4 +89,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Programming" rel="tag">Programming</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>, <a href="http://technorati.com/tag/Conditional+Expressions" rel="tag">Conditional Expressions</a>

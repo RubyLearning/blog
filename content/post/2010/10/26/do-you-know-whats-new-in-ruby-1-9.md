@@ -1,21 +1,18 @@
 ---
+draft: false
+title: Do you know what's new in Ruby 1.9?
+date: 2010-10-26
 author: Carlo Pecchia
 categories:
 - beginners
 - ruby
 - ruby masters
-date: 2010-10-26
 layout: post
 permalink: /2010/10/26/do-you-know-whats-new-in-ruby-1-9/
 tags:
 - programming
 - ruby 1.9
 - ruby programming
-thesis_description:
-- Carlo Pecchia walks us thro' the changes in Ruby 1.9 in this guest post on RubyLearning.
-thesis_keywords:
-- Programming, Ruby 1.9,Ruby programming
-title: Do you know what's new in Ruby 1.9?
 topsy_short_url:
 - http://bit.ly/9TeJ4R
 ---
@@ -280,4 +277,3 @@ puts fb.resume 20
   </ul>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Programming" rel="tag">Programming</a>, <a href="http://technorati.com/tag/Ruby+1.9" rel="tag"> Ruby 1.9</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>

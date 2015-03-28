@@ -1,10 +1,12 @@
 ---
+draft: false
+title: Ruby Forensics
+date: 2010-10-04
 author: Elise Huard
 categories:
 - Beginners
 - Ruby
 - Ruby Masters
-date: 2010-10-04
 layout: post
 permalink: /2010/10/04/ruby-forensics/
 tags:
@@ -14,12 +16,6 @@ tags:
 - Ruby Beginners
 - Ruby for Noobs
 - Ruby Forensics
-thesis_description:
-- Elise Huard introduces us to introspection - Ruby's capability to determine the
-  type of an object at runtime. A guest blog post on RubyLearning.
-thesis_keywords:
-- Ruby, Programming, Elise Huard, Ruby for Noobs, Ruby beginners, Ruby Forensics
-title: Ruby Forensics
 topsy_short_url:
 - http://bit.ly/b9Ohlv
 ---
@@ -180,4 +176,3 @@ class CheeseCake &lt; Cake; end</pre>
   </ul>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Programming" rel="tag"> Programming</a>, <a href="http://technorati.com/tag/Elise+Huard" rel="tag"> Elise Huard</a>, <a href="http://technorati.com/tag/Ruby+for+Noobs" rel="tag"> Ruby for Noobs</a>, <a href="http://technorati.com/tag/Ruby+beginners" rel="tag"> Ruby beginners</a>, <a href="http://technorati.com/tag/Ruby+Forensics" rel="tag"> Ruby Forensics</a>

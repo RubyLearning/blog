@@ -174,7 +174,3 @@ the wonderful world of Ruby on your own.
 
 Remember, the idea is to have fun learning Ruby.
 
-Technorati Tags: [Ruby course](http://technorati.com/tag/Ruby+course),
-[Ruby](http://technorati.com/tag/Ruby), [Ruby
-Training](http://technorati.com/tag/Ruby+Training),
-[Programming](http://technorati.com/tag/Programming)

@@ -1,11 +1,18 @@
 ---
+draft: true
+title: A "FREE" Ruby Metaprogramming Course - Learn to Think in Ruby
+date: 2013-02-08
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Metaprogramming
 - Ruby
 - Training
-date: 2013-02-08
-draft: true
 layout: post
 permalink: /2013/02/08/a-free-ruby-metaprogramming-course-learn-to-think-in-ruby/
 tags:
@@ -15,11 +22,6 @@ tags:
 - Ruby training
 - Shoes
 - The Ruby Programming Language
-thesis_description:
-- The only online course on Ruby metaprogramming by RubyLearning.
-thesis_keywords:
-- Ruby course,Ruby training,Ruby,Shoes,The Ruby Programming Language,metaprogramming
-title: A "FREE" Ruby Metaprogramming Course - Learn to Think in Ruby
 topsy_short_url:
 - http://bit.ly/YIPnjf
 ---
@@ -175,6 +177,3 @@ topsy_short_url:
       This <a href="http://rubylearning.com/satishtalim/faq.html">FAQ</a> would help answer most of your queries.
     </p></div> 
     
-    <p>
-      Technorati Tags: <a href="http://technorati.com/tag/Ruby+course" rel="tag">Ruby course</a>, <a href="http://technorati.com/tag/Ruby+training" rel="tag">Ruby training</a>, <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Shoes" rel="tag">Shoes</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>, <a href="http://technorati.com/tag/metaprogramming" rel="tag">metaprogramming</a>
-    </p>

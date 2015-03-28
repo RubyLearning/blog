@@ -1,4 +1,7 @@
 ---
+draft: false
+title: Do you ponder what to name things in your code?
+date: 2011-11-30
 Hide OgTags:
 - 0
 Hide SexyBookmarks:
@@ -7,19 +10,12 @@ author: Evan Light
 categories:
 - Beginners
 - Ruby
-date: 2011-11-30
 layout: post
 permalink: /2011/11/30/do-you-ponder-what-to-name-things-in-your-code/
 tags:
 - code
 - programming
 - ruby programming
-thesis_description:
-- Do you ponder what to name things in your code? A guest post on RubyLearning by
-  Evan Light.
-thesis_keywords:
-- Programming,Ruby programming,code,TDD,BDD,naming
-title: Do you ponder what to name things in your code?
 topsy_short_url:
 - http://bit.ly/vy1E0m
 ---
@@ -229,7 +225,6 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Programming" rel="tag">Programming</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>, <a href="http://technorati.com/tag/code" rel="tag">code</a>
 
 <div class='footnotes'>
   <div class='footnotedivider'>

@@ -1,12 +1,19 @@
 ---
+draft: false
+title: Ruby Re-Awakens Pune in 2006
+date: 2007-01-07
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - news
 - rails
 - ruby
-date: 2007-01-07
 layout: post
-title: Ruby Re-Awakens Pune in 2006
 ---
 
 In the early part of 2006, in my hometown
@@ -60,6 +67,3 @@ site](http://www.ruby-lang.org/en/documentation/).
 Ruby is poised for growth and in the coming years you would hear a lot
 from the Rubyists in Pune.
 
-Technorati Tags: [India](http://technorati.com/tag/India),
-[Pune](http://technorati.com/tag/Pune),
-[Ruby](http://technorati.com/tag/Ruby)

@@ -1,8 +1,16 @@
 ---
+draft: false
+title: Migration downtime for RubyLearning
+date: 2012-01-19
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - General
-date: 2012-01-19
 draft: true - RubyLearning slice migration from St. Louis (STL) to Chicago (ORD) datacenter
   of Slicehost.
 layout: post
@@ -10,10 +18,6 @@ permalink: /2012/01/19/migration-downtime-for-rubylearning/
 tags:
 - Migration
 - Slicehost
-thesis_description: null
-thesis_keywords:
-- Slicehost, Migration
-title: Migration downtime for RubyLearning
 topsy_short_url:
 - null
 ---
@@ -32,4 +36,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Slicehost" rel="tag">Slicehost</a>, <a href="http://technorati.com/tag/Migration" rel="tag"> Migration</a>

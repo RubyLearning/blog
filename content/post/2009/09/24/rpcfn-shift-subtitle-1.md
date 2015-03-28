@@ -343,11 +343,3 @@ by Chris Strom.
     doing it. Fabio is thankful to **Satoshi Asakawa** for using one of
     his ideas in this implementation.
 
-Technorati Tags: [Ruby](http://technorati.com/tag/Ruby), [The Ruby
-Programming
-Language](http://technorati.com/tag/The+Ruby+Programming+Language),
-[Ruby Programming Challenge For
-Newbies](http://technorati.com/tag/Ruby+Programming+Challenge+For+Newbies),
-[Programming](http://technorati.com/tag/Programming),
-[RPCFN](http://technorati.com/tag/RPCFN), [Fabio
-Akita](http://technorati.com/tag/Fabio+Akita)

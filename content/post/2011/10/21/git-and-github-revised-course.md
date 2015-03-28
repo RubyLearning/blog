@@ -1,9 +1,17 @@
 ---
+draft: false
+title: Git and GitHub Revised Course
+date: 2011-10-21
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Training
-date: 2011-10-21
 draft: true
 layout: post
 permalink: /2011/10/21/git-and-github-revised-course/
@@ -13,11 +21,6 @@ tags:
 - GitHub
 - github ebook
 - using git and github ebook
-thesis_description:
-- An introductory but an intensive, online course for beginners on Git and GitHub.
-thesis_keywords:
-- git,github,using git and github ebook,git ebook,github ebook
-title: Git and GitHub Revised Course
 topsy_short_url:
 - http://bit.ly/qn01w1
 ---
@@ -170,7 +173,6 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Git" rel="tag">Git</a>, <a href="http://technorati.com/tag/GitHub" rel="tag">GitHub</a>
 
 <div class='footnotes'>
   <div class='footnotedivider'>

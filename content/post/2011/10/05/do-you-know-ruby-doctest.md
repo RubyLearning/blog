@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Do you know Ruby Doctest?
 author: Victor Goff
 authorlink: http://twitter.com/kotp
@@ -10,7 +11,6 @@ categories:
 - beginners
 - ruby
 - doctest
-date: 2011-10-05
 layout: post
 permalink: /2011/10/05/do-you-know-ruby-doctest/
 tags:
@@ -59,6 +59,7 @@ doctest information inside. Other than the doctest: directive, it should remind
 you of an IRB session.
 
 The doctest: directive is the human readable title of the test. If this isn’t
+date: 2011-10-05
 supplied you would end up seeing ‘default’ as the title.
 
     To use rubydoctest:
@@ -412,4 +413,3 @@ and we see that we are good.
 
 I hope you found this article valuable. Feel free to ask questions and give
 feedback in the comments section of this post. Thanks!
-Technorati Tags: Ruby_DocTest, Programming, Ruby_programming

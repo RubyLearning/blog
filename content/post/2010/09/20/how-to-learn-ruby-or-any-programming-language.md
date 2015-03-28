@@ -1,4 +1,7 @@
 ---
+draft: false
+title: How to Learn Ruby (or any programming language)
+date: 2010-09-20
 Hide OgTags:
 - 0
 Hide SexyBookmarks:
@@ -8,21 +11,12 @@ categories:
 - Beginners
 - Ruby
 - Ruby Masters
-date: 2010-09-20
 layout: post
 permalink: /2010/09/20/how-to-learn-ruby-or-any-programming-language/
 tags:
 - Geoffrey Grosenbach
 - programming
 - Ruby
-thesis_description:
-- Geoffrey Grosenbach talks to programming beginners on how to learn any programming
-  language. A guest blog post on RubyLearning.
-thesis_keywords:
-- Ruby, Programming, Geoffrey Grosenbach
-title: How to Learn Ruby (or any programming language)
-topsy_short_url:
-- http://bit.ly/c4kTnP
 ---
 
 <div>
@@ -131,4 +125,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Programming" rel="tag"> Programming</a>, <a href="http://technorati.com/tag/Geoffrey+Grosenbach" rel="tag"> Geoffrey Grosenbach</a>

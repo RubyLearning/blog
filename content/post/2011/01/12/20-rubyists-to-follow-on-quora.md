@@ -1,9 +1,11 @@
 ---
+draft: false
+title: 20+ Rubyists to Follow on Quora
+date: 2011-01-12
 author: Satish Talim
 categories:
 - Quora
 - Ruby
-date: 2011-01-12
 dsq_thread_id:
 - 208368588
 layout: post
@@ -14,11 +16,6 @@ tags:
 - Ruby
 - ruby programming
 - Rubyists
-thesis_description:
-- A list of Rubyists using Quora.
-thesis_keywords:
-- Quora,Programming,Rubyists,Ruby Programming,Ruby
-title: 20+ Rubyists to Follow on Quora
 topsy_short_url:
 - null
 ---
@@ -222,4 +219,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Quora" rel="tag">Quora</a>, <a href="http://technorati.com/tag/Programming" rel="tag">Programming</a>, <a href="http://technorati.com/tag/Rubyists" rel="tag">Rubyists</a>, <a href="http://technorati.com/tag/Ruby+Programming" rel="tag">Ruby Programming</a>, <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>

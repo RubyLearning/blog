@@ -1,17 +1,16 @@
 ---
+draft: false
+title: Ruby in 2012
+date: 2012-04-23
 author: Matt Aimonetti
 categories:
 - Ruby
-date: 2012-04-23
 layout: post
 permalink: /2012/04/23/ruby-in-2012/
 tags:
 - programming
 - ruby
 - ruby programming
-thesis_keywords:
-- Ruby,programming,Ruby programming,Python,Node.js,Rails
-title: Ruby in 2012
 ---
 
 <div>
@@ -120,7 +119,6 @@ title: Ruby in 2012
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Programming" rel="tag">Programming</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>, <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>
 
 <div class='footnotes'>
   <div class='footnotedivider'>

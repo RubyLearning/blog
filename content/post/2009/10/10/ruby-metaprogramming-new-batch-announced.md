@@ -142,10 +142,3 @@ By the end of the course, and to reiterate what Paolo Perrotta said, you
 will understand metaprogramming and that’s the moment you will start
 “thinking in Ruby”.
 
-Technorati Tags: [Ruby](http://technorati.com/tag/Ruby),
-[Metaprogramming](http://technorati.com/tag/Metaprogramming), [Ruby
-Metaprogramming](http://technorati.com/tag/Ruby+Metaprogramming),
-[Satoshi Asakawa](http://technorati.com/tag/Satoshi+Asakawa), [The Ruby
-Programming
-Language](http://technorati.com/tag/The+Ruby+Programming+Language),
-[Paolo Perrotta](http://technorati.com/tag/Paolo+Perrotta)
