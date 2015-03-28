@@ -1,13 +1,14 @@
 ---
+draft: false
+title: '"AkitaOnRails" On Anatomy of Ruby Blocks/Closures'
+date: 2007-11-30
 author: Fabio Akita
 categories:
 - beginners
 - rails
 - ruby
 - training
-date: 2007-11-30
 layout: post
-title: '"AkitaOnRails" On Anatomy of Ruby Blocks/Closures'
 ---
 
 ***Fabio Akita’s*** "AkitaOnRails" series at RubyLearning.com, for
@@ -462,8 +463,3 @@ for closure’s modus operandi. Hope you enjoyed this article!
 In case you have any queries, questions on this article, kindly post
 your questions here and Fabio would be glad to answer.*
 
-Technorati Tags: [Brazil](http://technorati.com/tag/Brazil), [Fabio
-Akita](http://technorati.com/tag/Fabio+Akita),
-[Rails](http://technorati.com/tag/Rails), [Ruby
-Blocks](http://technorati.com/tag/Ruby+Blocks), [Ruby
-Programming](http://technorati.com/tag/Ruby+Programming)

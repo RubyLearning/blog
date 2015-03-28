@@ -1,5 +1,14 @@
 ---
+draft: false
+title: 'Interview: Author Eldon Alameda'
+date: 2009-06-15
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - Beginners
 - Book Promotions
@@ -8,11 +17,14 @@ categories:
 - Rails
 - Ruby
 - Ruby on Rails
-date: 2009-06-15
 description:
-- Eldon Alameda author of the book Foundation Rails 2, talks to RubyLearning.
+- "Eldon Alameda author of the book Foundation Rails 2, talks to RubyLearning."
 keywords:
-- Eldon Alameda,Foundation Rails 2,Ruby programming,Book promotion,Ruby on Rails
+- Eldon Alameda
+- Foundation Rails 2
+- Ruby programming
+- Book promotion
+- Ruby on Rails
 layout: post
 permalink: /2009/06/15/interview-author-eldon-alameda/
 tags:
@@ -21,11 +33,6 @@ tags:
 - Foundation Rails 2
 - Ruby on Rails
 - ruby programming
-thesis_description:
-- Eldon Alameda author of the book Foundation Rails 2, talks to RubyLearning.
-thesis_keywords:
-- Eldon Alameda,Foundation Rails 2,Ruby programming,Book promotion,Ruby on Rails
-title: 'Interview: Author Eldon Alameda'
 ---
 
 <div>
@@ -120,4 +127,3 @@ title: 'Interview: Author Eldon Alameda'
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Eldon+Alameda" rel="tag">Eldon Alameda</a>, <a href="http://technorati.com/tag/Foundation+Rails+2" rel="tag">Foundation Rails 2</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>, <a href="http://technorati.com/tag/Book+promotion" rel="tag">Book promotion</a>, <a href="http://technorati.com/tag/Ruby+on+Rails" rel="tag">Ruby on Rails</a>

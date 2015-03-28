@@ -1,14 +1,20 @@
 ---
+draft: false
+title: 'Interview: Phil Tomson'
+date: 2007-04-08
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - news
 - rails
 - ruby
-date: 2007-04-08
 layout: post
-title: 'Interview: Phil Tomson'
 ---
-
 (This interview appeared before on 18th Aug. 2006 on the PuneRuby blog).
 
 Today, we shall be talking to another Ruby Guru – **Phil Tomson**.<!--more-->
@@ -115,10 +121,4 @@ Then came Rails and now we often have 20 and sometimes more.
 
 **Satish Talim\>\>** Thanks Phil for sharing your views with the
 PuneRuby members.
-
-Technorati Tags: [Interviews](http://technorati.com/tag/Interviews),
-[Interview: Phil
-Tomson](http://technorati.com/tag/Interview%3A+Phil+Tomson), [Phil
-Tomson](http://technorati.com/tag/Phil+Tomson), [Ruby
-Interviews](http://technorati.com/tag/Ruby+Interviews)
 

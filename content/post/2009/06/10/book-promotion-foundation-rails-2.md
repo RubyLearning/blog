@@ -1,5 +1,14 @@
 ---
+draft: false
+title: 'Book Promotion: Foundation Rails 2'
+date: 2009-06-10
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - Beginners
 - Book Promotions
@@ -7,11 +16,14 @@ categories:
 - Rails
 - Ruby
 - Ruby on Rails
-date: 2009-06-10
 description:
-- Book Promotion of Eldon Alameda's book Foundation Rails 2
+- "Book Promotion of Eldon Alameda's book Foundation Rails 2"
 keywords:
-- Ruby,Book Promotions,Foundation Rails 2,The Ruby Programming Language,Eldon Alameda
+- Ruby
+- Book Promotions
+- Foundation Rails 2
+- The Ruby Programming Language
+- Eldon Alameda
 layout: post
 permalink: /2009/06/10/book-promotion-foundation-rails-2/
 tags:
@@ -20,13 +32,6 @@ tags:
 - Foundation Rails 2
 - Ruby
 - The Ruby Programming Language
-thesis_post_image_horizontal:
-- left
-thesis_post_image_vertical:
-- after-headline
-thesis_thumb_horizontal:
-- right
-title: 'Book Promotion: Foundation Rails 2'
 ---
 
 <div>
@@ -75,4 +80,3 @@ title: 'Book Promotion: Foundation Rails 2'
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Book+Promotions" rel="tag">Book Promotions</a>, <a href="http://technorati.com/tag/Foundation+Rails+2" rel="tag">Foundation Rails 2</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>, <a href="http://technorati.com/tag/Eldon+Alameda" rel="tag">Eldon Alameda</a>

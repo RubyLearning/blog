@@ -19,7 +19,11 @@ description:
 dsq_thread_id:
 - 208369477
 keywords:
-- The Future of Ruby is Fail!,Ruby Programming,Ruby Interviews,Pune,India
+- The Future of Ruby is Fail!
+- Ruby Programming
+- Ruby Interviews
+- Pune
+- India
 layout: post
 permalink: /2009/06/09/the-future-of-ruby-is-fail/
 tags:
@@ -28,12 +32,6 @@ tags:
 - ruby interviews
 - ruby programming
 - The Future of Ruby is Fail!
-thesis_description:
-- Four Ruby experts from Pune, India discuss the future of Ruby from the Indian context.
-thesis_keywords:
-- The Future of Ruby is Fail!,Ruby Programming,Ruby Interviews,Pune,India
-topsy_short_url:
-- http://bit.ly/cB4xgu
 ---
 ## The Future of Ruby is Fail!
 
