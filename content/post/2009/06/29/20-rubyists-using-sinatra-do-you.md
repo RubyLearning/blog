@@ -1,11 +1,19 @@
 ---
+draft: false
+title: 20+ Rubyists are using Sinatra - Do you?
+date: 2009-06-29
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - beginners
 - interview
 - ruby
 - sinatra
-date: 2009-06-29
 layout: post
 permalink: /2009/06/29/20-rubyists-using-sinatra-do-you/
 tags:
@@ -13,11 +21,6 @@ tags:
 - rubyists
 - rubyists using sinatra
 - sinatra
-thesis_keywords:
-- Rubyists Using Sinatra,Ruby Programming,Rubyists,Sinatra
-title: 20+ Rubyists are using Sinatra - Do you?
-topsy_short_url:
-- null
 ---
 
 <div>
@@ -178,4 +181,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Rubyists+Using+Sinatra" rel="tag">Rubyists Using Sinatra</a>, <a href="http://technorati.com/tag/Ruby+Programming" rel="tag">Ruby Programming</a>, <a href="http://technorati.com/tag/Rubyists" rel="tag">Rubyists</a>, <a href="http://technorati.com/tag/Sinatra" rel="tag">Sinatra</a>

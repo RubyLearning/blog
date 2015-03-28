@@ -1,11 +1,18 @@
 ---
+draft: true
+title: Git and GitHub - A Revised Course
+date: 2009-08-03
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - Beginners
 - Ruby
 - Training
-date: 2009-08-03
-draft: true
 layout: post
 permalink: /2009/08/03/git-and-github-a-revised-course/
 tags:
@@ -13,11 +20,6 @@ tags:
 - GitHub
 - Ruby
 - The Ruby Programming Language
-thesis_description:
-- Quickly learn Git and GitHub in this unique, online course at RubyLearning.
-thesis_keywords:
-- Git,GitHub,Ruby,The Ruby Programming Language
-title: Git and GitHub - A Revised Course
 ---
 
 <div>
@@ -182,7 +184,6 @@ title: Git and GitHub - A Revised Course
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Git" rel="tag">Git</a>, <a href="http://technorati.com/tag/GitHub" rel="tag">GitHub</a>, <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>
 
 <div class='footnotes'>
   <div class='footnotedivider'>

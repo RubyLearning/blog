@@ -1,12 +1,20 @@
 ---
+draft: false
+title: 'Blake Mizerany: How do I learn and master Sinatra?'
+date: 2009-08-11
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - Beginners
 - Interview
 - Learn Sinatra
 - Ruby
 - Sinatra
-date: 2009-08-11
 layout: post
 permalink: /2009/08/11/blake-mizerany-how-do-i-learn-and-master-sinatra/
 tags:
@@ -14,12 +22,6 @@ tags:
 - Learning Sinatra
 - ruby programming
 - Sinatra
-thesis_description:
-- "In the last part of the mini series “How do I learn and master Sinatra?”, Blake
-  Mizerany, the creator of Sinatra,  gives us his insights on mastering Sinatra."
-thesis_keywords:
-- Blake Mizerany,Sinatra,Ruby programming,Learning Sinatra
-title: 'Blake Mizerany: How do I learn and master Sinatra?'
 topsy_short_url:
 - http://bit.ly/1HL7HPp
 ---
@@ -179,4 +181,3 @@ topsy_short_url:
   </ul>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Blake+Mizerany" rel="tag">Blake Mizerany</a>, <a href="http://technorati.com/tag/Sinatra" rel="tag">Sinatra</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>, <a href="http://technorati.com/tag/Learning+Sinatra" rel="tag">Learning Sinatra</a>

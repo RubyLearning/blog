@@ -1,10 +1,17 @@
 ---
+draft: false
+date: 2009-06-23
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - Ruby
 - Sinatra
 - Training
-date: 2009-06-23
 layout: post
 permalink: /2009/06/23/want-to-create-a-sinatra-web-service/
 tags:
@@ -15,12 +22,6 @@ tags:
 - Sinatra tutorial
 - Sinatra web service
 - sorter
-thesis_description:
-- Learn how to quickly write and create a Sinatra web service.
-thesis_keywords:
-- cURL,Sinatra,Sinatra web service,Ruby programming,sorter,cloudControl
-thesis_title:
-- 'Sinatra Web Service: Sorter'
 title: Want to create a Sinatra Web Service?
 topsy_short_url:
 - http://bit.ly/9y6qlm
@@ -164,4 +165,3 @@ zebra</pre>
   </ul>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/cURL" rel="tag">cURL</a>, <a href="http://technorati.com/tag/Sinatra" rel="tag">Sinatra</a>, <a href="http://technorati.com/tag/Sinatra+web+service" rel="tag">Sinatra web service</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>, <a href="http://technorati.com/tag/sorter" rel="tag">sorter</a>, <a href="http://technorati.com/tag/cloudControl" rel="tag">cloudControl</a>

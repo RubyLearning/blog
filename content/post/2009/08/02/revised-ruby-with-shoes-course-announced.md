@@ -1,12 +1,19 @@
 ---
+draft: true
+title: Revised Ruby with Shoes Course Announced
+date: 2009-08-02
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - Beginners
 - Ruby
 - Shoes
 - Training
-date: 2009-08-02
-draft: true
 layout: post
 permalink: /2009/08/02/revised-ruby-with-shoes-course-announced/
 tags:
@@ -16,11 +23,6 @@ tags:
 - Satoshi Asakawa
 - Shoes
 - The Ruby Programming Language
-thesis_description:
-- The next batch of the very popular Ruby with Shoes course announced at RubyLearning.org
-thesis_keywords:
-- Ruby course,Ruby training,Ruby,Satoshi Asakawa,Shoes,The Ruby Programming Language
-title: Revised Ruby with Shoes Course Announced
 ---
 
 <div>
@@ -153,9 +155,6 @@ title: Revised Ruby with Shoes Course Announced
           This <a href="http://rubylearning.com/satishtalim/faq.html">FAQ</a> would help answer most of your queries.
         </p></div> 
         
-        <p>
-          Technorati Tags: <a href="http://technorati.com/tag/Ruby+course" rel="tag">Ruby course</a>, <a href="http://technorati.com/tag/Ruby+training" rel="tag">Ruby training</a>, <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Satoshi+Asakawa" rel="tag">Satoshi Asakawa</a>, <a href="http://technorati.com/tag/Shoes" rel="tag">Shoes</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>
-        </p>
         
         <div class='footnotes'>
           <div class='footnotedivider'>

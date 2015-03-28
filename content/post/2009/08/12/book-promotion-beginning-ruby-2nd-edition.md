@@ -1,11 +1,19 @@
 ---
+draft: false
+title: 'Book Promotion: Beginning Ruby 2nd Edition'
+date: 2009-08-12
 author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
 categories:
 - Beginners
 - Book Promotions
 - Promotions
 - Ruby
-date: 2009-08-12
 layout: post
 permalink: /2009/08/12/book-promotion-beginning-ruby-2nd-edition/
 tags:
@@ -14,13 +22,6 @@ tags:
 - Peter Cooper
 - Ruby
 - The Ruby Programming Language
-thesis_description:
-- |
-  Peter Cooper's popular book "Beginning Ruby 2nd Edition" is being promoted on RubyLearning.org
-thesis_keywords:
-- Ruby,Book Promotions,Beginning Ruby 2nd Edition,The Ruby Programming Language,Peter
-  Cooper
-title: 'Book Promotion: Beginning Ruby 2nd Edition'
 ---
 
 <div>
@@ -69,4 +70,3 @@ title: 'Book Promotion: Beginning Ruby 2nd Edition'
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Book+Promotions" rel="tag">Book Promotions</a>, <a href="http://technorati.com/tag/Beginning+Ruby+2nd+Edition" rel="tag">Beginning Ruby 2nd Edition</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>, <a href="http://technorati.com/tag/Peter+Cooper" rel="tag">Peter Cooper</a>
