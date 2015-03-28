@@ -1,12 +1,19 @@
 ---
+draft: true
+title: Sinatra - 5th Batch of the Popular Course Announced
+date: 2009-08-29
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Ruby
 - Sinatra
 - Training
-date: 2009-08-29
-draft: true
 layout: post
 permalink: /2009/08/29/sinatra-5th-batch-of-the-popular-course-announced/
 tags:
@@ -14,11 +21,6 @@ tags:
 - Sinatra
 - Sinatra eBook
 - The Ruby Programming Language
-thesis_description:
-- The 5th batch of the popular Sinatra course has been announced at RubyLearning.org
-thesis_keywords:
-- Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language
-title: Sinatra - 5th Batch of the Popular Course Announced
 topsy_short_url:
 - http://bit.ly/7QrT1Y
 ---
@@ -284,4 +286,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Sinatra" rel="tag">Sinatra</a>, <a href="http://technorati.com/tag/Sinatra+eBook" rel="tag">Sinatra eBook</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>

@@ -1,12 +1,20 @@
 ---
+draft: false
+title: A "FREE" online course on Sinatra - 12th batch
+date: 2013-12-28
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Learn Sinatra
 - Ruby
 - Sinatra
 - Training
-date: 2013-12-28
 draft: true
 layout: post
 permalink: /2013/12/28/a-free-online-course-on-sinatra-12th-batch/
@@ -17,11 +25,6 @@ tags:
 - Sinatra 101
 - Sinatra eBook
 - The Ruby Programming Language
-thesis_description:
-- RubyLearning's popular online course on Sinatra starts 1st Feb. 2014.
-thesis_keywords:
-- Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language,Sinatra 101,programming
-title: A "FREE" online course on Sinatra - 12th batch
 topsy_short_url:
 - http://bit.ly/1cvz1TQ
 ---
@@ -278,4 +281,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Sinatra" rel="tag">Sinatra</a>, <a href="http://technorati.com/tag/Sinatra+eBook" rel="tag">Sinatra eBook</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>, <a href="http://technorati.com/tag/Sinatra+101" rel="tag">Sinatra 101</a>, <a href="http://technorati.com/tag/programming" rel="tag">programming</a>

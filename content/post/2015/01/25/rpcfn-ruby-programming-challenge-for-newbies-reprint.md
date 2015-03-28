@@ -1,10 +1,18 @@
 ---
+draft: false
+title: 'RPCFN: Ruby Programming Challenge For Newbies (Reprint)'
+date: 2015-01-25
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - RPCFN
 - Ruby
-date: 2015-01-25
 layout: post
 permalink: /2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/
 tags:
@@ -13,15 +21,6 @@ tags:
 - Ruby
 - Ruby Programming Challenge For Newbies
 - The Ruby Programming Language
-thesis_description:
-- Details about the proposed Ruby Programming Challenge For Newbies at RubyLearning.
-thesis_keywords:
-- Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN
-thesis_thumb_height:
-- 66
-thesis_thumb_width:
-- 66
-title: 'RPCFN: Ruby Programming Challenge For Newbies (Reprint)'
 topsy_short_url:
 - http://bit.ly/1CGJucj
 ---
@@ -153,4 +152,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>, <a href="http://technorati.com/tag/Ruby+Programming+Challenge+For+Newbies" rel="tag">Ruby Programming Challenge For Newbies</a>, <a href="http://technorati.com/tag/Programming" rel="tag">Programming</a>, <a href="http://technorati.com/tag/RPCFN" rel="tag">RPCFN</a>

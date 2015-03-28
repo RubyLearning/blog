@@ -1,17 +1,27 @@
 ---
+draft: true
+title: Introduction to Sinatra Course Announced
+date: 2009-06-14
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Heroku
 - Ruby
 - Sinatra
 - Training
-date: 2009-06-14
 description:
-- The only online "Introduction to Sinatra" course announced at RubyLearning.org
-draft: true
+- "The only online "Introduction to Sinatra" course announced at RubyLearning.org"
 keywords:
-- Ruby,Sinatra,Sinatra eBook,The Ruby Programming Language
+- Ruby
+- Sinatra
+- Sinatra eBook
+- The Ruby Programming Language
 layout: post
 permalink: /2009/06/14/introduction-to-sinatra-course-announced/
 tags:
@@ -19,7 +29,6 @@ tags:
 - Sinatra
 - Sinatra eBook
 - The Ruby Programming Language
-title: Introduction to Sinatra Course Announced
 ---
 
 <div>
@@ -267,4 +276,3 @@ title: Introduction to Sinatra Course Announced
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Sinatra" rel="tag">Sinatra</a>, <a href="http://technorati.com/tag/Sinatra+eBook" rel="tag">Sinatra eBook</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>

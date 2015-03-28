@@ -1,16 +1,27 @@
 ---
+draft: false
+title: 'Interview: Author David Black'
+date: 2009-06-09
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Book Promotions
 - Interview
 - Promotions
 - Ruby
-date: 2009-06-09
 description:
-- Author David Black talks to RubyLearning about his book - The Well-Grounded Rubyist
+- "Author David Black talks to RubyLearning about his book - The Well-Grounded Rubyist"
 keywords:
-- David Black,The Well-Grounded Rubyist,Ruby programming,Book promotion
+- David Black
+- The Well-Grounded Rubyist
+- Ruby programming
+- Book promotion
 layout: post
 permalink: /2009/06/09/interview-author-david-black/
 tags:
@@ -18,7 +29,6 @@ tags:
 - David Black
 - ruby programming
 - The Well-Grounded Rubyist
-title: 'Interview: Author David Black'
 ---
 
 <div>
@@ -91,4 +101,3 @@ title: 'Interview: Author David Black'
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/David+A.+Black" rel="tag">David A. Black</a>, <a href="http://technorati.com/tag/The+Well-Grounded+Rubyist" rel="tag">The Well-Grounded Rubyist</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>, <a href="http://technorati.com/tag/Book+promotion" rel="tag">Book promotion</a>

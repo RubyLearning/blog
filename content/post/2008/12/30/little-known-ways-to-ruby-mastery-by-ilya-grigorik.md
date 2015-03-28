@@ -1,24 +1,43 @@
 ---
+draft: false
+title: Little Known Ways to Ruby Mastery by Ilya Grigorik
+date: 2008-12-30
 Hide OgTags:
 - 0
 Hide SexyBookmarks:
 - 0
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Interview
 - Ruby
 - Ruby Masters
-date: 2008-12-30
 description:
-- The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to
-  and answers questions confronting Ruby beginners from across the globe.
+- "The Path to Ruby Mastery Interview Series by Ruby Masters, provides guidance to
+  and answers questions confronting Ruby beginners from across the globe."
 gaveen.skyeye@gmail.com:
 - gaveen
 keywords:
-- ruby for beginners,ruby beginners,ruby programming,ruby on rails blog,rails blog,rails
-  tutorials,ruby beginners' questions,little known ways to ruby mastery,ruby masters,interviews,Ilya
-  Grigorik,ruby,the ruby programming language
+- ruby for beginners
+- ruby beginners
+- ruby programming
+- ruby on rails blog
+- rails blog
+- rails tutorials
+- ruby beginners' questions
+- little known ways to ruby mastery
+- ruby masters
+- interviews
+- Ilya
+- Grigorik
+- ruby
+- the ruby programming language
 layout: post
 permalink: /2008/12/30/little-known-ways-to-ruby-mastery-by-ilya-grigorik/
 tags:
@@ -28,7 +47,6 @@ tags:
 - Ruby
 - Ruby Beginners' Questions
 - The Ruby Programming Language
-title: Little Known Ways to Ruby Mastery by Ilya Grigorik
 topsy_short_url:
 - http://bit.ly/uZ1P1h
 ---
@@ -276,4 +294,3 @@ topsy_short_url:
   </ul>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Interviews" rel="tag">Interviews</a>, <a href="http://technorati.com/tag/Little+Known+Ways+to+Ruby+Mastery" rel="tag">Little Known Ways to Ruby Mastery</a>, <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Ruby+Beginners%26%238217%3B+Questions" rel="tag">Ruby Beginners&#8217; Questions</a>, <a href="http://technorati.com/tag/Ilya+Grigorik" rel="tag">Ilya Grigorik</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>

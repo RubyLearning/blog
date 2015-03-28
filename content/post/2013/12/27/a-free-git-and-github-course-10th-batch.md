@@ -1,24 +1,22 @@
 ---
+draft: true
+title: A "FREE" Git and GitHub Course - 10th batch
+date: 2013-12-27
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Training
-date: 2013-12-27
-draft: true
 layout: post
 permalink: /2013/12/27/a-free-git-and-github-course-10th-batch/
 tags:
 - Git
 - GitHub
-thesis_description:
-- RubyLearning's free online course on Git and GitHub - 10th batch.
-thesis_keywords:
-- Git,GitHub
-thesis_thumb_height:
-- 66
-thesis_thumb_width:
-- 66
-title: A "FREE" Git and GitHub Course - 10th batch
 topsy_short_url:
 - http://bit.ly/19mapLW
 ---
@@ -228,7 +226,6 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Git" rel="tag">Git</a>, <a href="http://technorati.com/tag/GitHub" rel="tag">GitHub</a>
 
 <div class='footnotes'>
   <div class='footnotedivider'>

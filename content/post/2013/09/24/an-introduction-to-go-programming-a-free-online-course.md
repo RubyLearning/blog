@@ -1,22 +1,24 @@
 ---
+draft: true
+title: An Introduction to Go programming - A Free Online Course
+date: 2013-09-24
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Go
 - Training
-date: 2013-09-24
-draft: true
 layout: post
 permalink: /2013/09/24/an-introduction-to-go-programming-a-free-online-course/
 tags:
 - Go programming
 - Google+
 - programming
-thesis_description:
-- RubyLearning's first of its kind - a free online GO programming course.
-thesis_keywords:
-- Go programming, Google, programming
-title: An Introduction to Go programming - A Free Online Course
 topsy_short_url:
 - http://bit.ly/1gUuTvl
 ---
@@ -96,4 +98,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Go+programming" rel="tag">Go programming</a>, <a href="http://technorati.com/tag/Google" rel="tag"> Google</a>, <a href="http://technorati.com/tag/programming" rel="tag"> programming</a>

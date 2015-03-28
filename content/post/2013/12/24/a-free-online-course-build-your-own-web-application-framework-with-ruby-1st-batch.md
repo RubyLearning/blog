@@ -1,10 +1,17 @@
 ---
+draft: true
+title: A "FREE" Online Course - Build your own web-application framework with Ruby
+date: 2013-12-24
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Ruby
 - Training
-date: 2013-12-24
-draft: true
 layout: post
 permalink: /2013/12/24/a-free-online-course-build-your-own-web-application-framework-with-ruby-1st-batch/
 tags:
@@ -12,16 +19,6 @@ tags:
 - Heroku
 - Rack
 - Ruby training
-thesis_description:
-- Learn how to build your own web-application framework with Ruby.
-thesis_keywords:
-- Ruby Training, Rack, Gem, Heroku
-thesis_thumb_height:
-- 66
-thesis_thumb_width:
-- 66
-title: A "FREE" Online Course - Build your own web-application framework with Ruby
-  - 1st batch
 topsy_short_url:
 - http://bit.ly/1gTlDMI
 ---
@@ -235,4 +232,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby+Training" rel="tag">Ruby Training</a>, <a href="http://technorati.com/tag/Rack" rel="tag"> Rack</a>, <a href="http://technorati.com/tag/Gem" rel="tag"> Gem</a>, <a href="http://technorati.com/tag/Heroku" rel="tag"> Heroku</a>

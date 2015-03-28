@@ -1,11 +1,19 @@
 ---
+draft: false
+title: Follow 10+ Rubyists using Sinatra on Twitter (Reprint)
+date: 2015-01-07
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Popular
 - Ruby
 - Sinatra
-date: 2015-01-07
 layout: post
 permalink: /2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/
 tags:
@@ -16,11 +24,6 @@ tags:
 - Sinatra
 - The Ruby Programming Language
 - Twitter
-thesis_description:
-- A list of Rubyists using Sinatra, the micro-web framework.
-thesis_keywords:
-- Ruby,Rubyists,Ruby Beginners,Ruby Masters,The Ruby Programming Language,Sinatra,Twitter
-title: Follow 10+ Rubyists using Sinatra on Twitter (Reprint)
 topsy_short_url:
 - http://bit.ly/1xQTeR0
 ---
@@ -240,4 +243,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Rubyists" rel="tag">Rubyists</a>, <a href="http://technorati.com/tag/Ruby+Beginners" rel="tag">Ruby Beginners</a>, <a href="http://technorati.com/tag/Ruby+Masters" rel="tag">Ruby Masters</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>, <a href="http://technorati.com/tag/Sinatra" rel="tag">Sinatra</a>, <a href="http://technorati.com/tag/Twitter" rel="tag">Twitter</a>

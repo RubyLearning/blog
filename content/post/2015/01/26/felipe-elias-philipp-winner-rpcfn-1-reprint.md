@@ -1,10 +1,18 @@
 ---
+draft: false
+title: Felipe Elias Philipp Winner RPCFN - 1 (Reprint)
+date: 2015-01-26
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - beginners
 - rpcfn
 - ruby
-date: 2015-01-26
 layout: post
 permalink: /2015/01/26/felipe-elias-philipp-winner-rpcfn-1-reprint/
 tags:
@@ -12,13 +20,6 @@ tags:
 - felipe elias philipp
 - rpcfn
 - ruby
-- ruby programming
-thesis_description:
-- RubyLearning talks to Felipe Elias Philipp from Brazil, winner of the first-ever
-  Ruby Programming Challenge for Newbies.
-thesis_keywords:
-- Felipe Elias Philipp,Ruby,Ruby programming,RPCFN,Brazil
-title: Felipe Elias Philipp Winner RPCFN - 1 (Reprint)
 topsy_short_url:
 - http://bit.ly/1z04x6D
 ---
@@ -81,4 +82,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Felipe+Elias+Philipp" rel="tag">Felipe Elias Philipp</a>, <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>, <a href="http://technorati.com/tag/RPCFN" rel="tag">RPCFN</a>, <a href="http://technorati.com/tag/Brazil" rel="tag">Brazil</a>

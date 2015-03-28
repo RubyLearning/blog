@@ -3,6 +3,12 @@ draft: true
 title: Learn Ruby programming - 59th batch
 date: 2015-02-08
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - beginners
 - ruby
@@ -166,7 +172,3 @@ the wonderful world of Ruby on your own.
 
 Remember, the idea is to have fun learning Ruby.
 
-Technorati Tags: [Ruby course](http://technorati.com/tag/Ruby+course),
-[Ruby](http://technorati.com/tag/Ruby), [Ruby
-Training](http://technorati.com/tag/Ruby+Training),
-[Programming](http://technorati.com/tag/Programming)

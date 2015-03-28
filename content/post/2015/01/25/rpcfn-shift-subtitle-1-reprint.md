@@ -1,12 +1,19 @@
 ---
+draft: false
+permalink: /2015/01/25/rpcfn-shift-subtitle-1-reprint/
+date: 2015-01-25
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - beginners
 - rpcfn
 - ruby
-date: 2015-01-25
 layout: post
-permalink: /2015/01/25/rpcfn-shift-subtitle-1-reprint/
 tags:
 - fabio akita
 - programming
@@ -14,11 +21,6 @@ tags:
 - ruby
 - ruby programming challenge for newbies
 - the ruby programming language
-thesis_description:
-- The first-ever Ruby Programming Challenge for Newbies.
-thesis_keywords:
-- Ruby,The Ruby Programming Language,Ruby Programming Challenge For Newbies,Programming,RPCFN,Fabio
-  Akita
 title: 'RPCFN: Shift Subtitle Reprint'
 topsy_short_url:
 - http://bit.ly/1Jo00zF
@@ -492,4 +494,3 @@ puts b.usec
   </ul>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>, <a href="http://technorati.com/tag/Ruby+Programming+Challenge+For+Newbies" rel="tag">Ruby Programming Challenge For Newbies</a>, <a href="http://technorati.com/tag/Programming" rel="tag">Programming</a>, <a href="http://technorati.com/tag/RPCFN" rel="tag">RPCFN</a>, <a href="http://technorati.com/tag/Fabio+Akita" rel="tag">Fabio Akita</a>

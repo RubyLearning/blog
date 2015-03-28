@@ -1,5 +1,14 @@
 ---
+draft: false
+title: 'Karel Minarik: How do I learn and master Sinatra? (Reprint)'
+date: 2015-01-07
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Interview
@@ -7,7 +16,6 @@ categories:
 - Ruby
 - Ruby Masters
 - Sinatra
-date: 2015-01-07
 layout: post
 permalink: /2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/
 tags:
@@ -15,12 +23,6 @@ tags:
 - Learning Sinatra
 - ruby programming
 - Sinatra
-thesis_description:
-- In the fourth part of the mini series "How do I learn and master Sinatra?", Karel
-  Minarik gives us his insights on mastering Sinatra.
-thesis_keywords:
-- Karel Minarik,Sinatra,Ruby programming,Learning Sinatra
-title: 'Karel Minarik: How do I learn and master Sinatra? (Reprint)'
 topsy_short_url:
 - http://bit.ly/1xQPAGA
 ---
@@ -192,4 +194,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Karel+Minarik" rel="tag">Karel Minarik</a>, <a href="http://technorati.com/tag/Sinatra" rel="tag">Sinatra</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>, <a href="http://technorati.com/tag/Learning+Sinatra" rel="tag">Learning Sinatra</a>

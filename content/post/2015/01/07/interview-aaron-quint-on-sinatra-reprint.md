@@ -1,11 +1,19 @@
 ---
+draft: false
+title: 'Interview: Aaron Quint on Sinatra (Reprint)'
+date: 2015-01-07
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Interview
 - Ruby
 - Sinatra
-date: 2015-01-07
 layout: post
 permalink: /2015/01/07/interview-aaron-quint-on-sinatra-reprint/
 tags:
@@ -15,11 +23,6 @@ tags:
 - Ruby
 - Sinatra
 - The Ruby Programming Language
-thesis_description:
-- 'Interview: Aaron Quint on Sinatra'
-thesis_keywords:
-- 1st Easy Limited,Aaron Quint,Interviews,Ruby,Sinatra,The Ruby Programming Language
-title: 'Interview: Aaron Quint on Sinatra (Reprint)'
 topsy_short_url:
 - http://bit.ly/1HLkmC1
 ---
@@ -114,9 +117,6 @@ topsy_short_url:
       <strong><em>Post supported by 1st Easy Limited</em>:</strong> <a href="http://www.1steasy.com/">1st Easy Limited</a> are keen to play an active role in encouraging the adoption of new development technologies, and are delighted to have been given the opportunity to support the work of Satish Talim and his team at RubyLearning. If you&#8217;re a developer, or an alumni of RubyLearning and would like to test your own Sinatra apps or freshly acquired skills, you&#8217;re welcome to take advantage of the free hosting trials that 1st Easy offer: simply visit the <a href="http://www.1steasy.com/rubylearning.htm">registration page</a> and leave your details. The full-featured accounts are yours to do with as you please for one month, after which you can transfer your hard work to a paid account, or walk away with no questions asked!
     </p></div> 
     
-    <p>
-      Technorati Tags: <a href="http://technorati.com/tag/1st+Easy+Limited" rel="tag">1st Easy Limited</a>, <a href="http://technorati.com/tag/Aaron+Quint" rel="tag">Aaron Quint</a>, <a href="http://technorati.com/tag/Interviews" rel="tag">Interviews</a>, <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Sinatra" rel="tag">Sinatra</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>
-    </p>
     
     <div class='footnotes'>
       <div class='footnotedivider'>

@@ -1,11 +1,19 @@
 ---
+draft: false
+title: 'Sinatra: Some Questions from Ruby Newbies'
+date: 2013-08-14
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Learn Sinatra
 - Ruby
 - Sinatra
-date: 2013-08-14
 layout: post
 permalink: /2013/08/14/sinatra-some-questions-from-ruby-newbies/
 tags:
@@ -17,12 +25,6 @@ tags:
 - Nathan Esquenazi
 - Sinatra
 - Sudarshan Shubakar
-thesis_description:
-- Ruby Gurus answer Ruby beginner's questions related to Sinatra on RubyLearning.
-thesis_keywords:
-- Andy Lindeman,Carlo Pecchia,Dan Mayer,Darren Jones,Nathan Esquenazi,Sudarshan Shubakar,Sinatra,Learning
-  Sinatra
-title: 'Sinatra: Some Questions from Ruby Newbies'
 topsy_short_url:
 - http://bit.ly/149Igli
 ---
@@ -267,4 +269,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Andy+Lindeman" rel="tag">Andy Lindeman</a>, <a href="http://technorati.com/tag/Carlo+Pecchia" rel="tag">Carlo Pecchia</a>, <a href="http://technorati.com/tag/Dan+Mayer" rel="tag">Dan Mayer</a>, <a href="http://technorati.com/tag/Darren+Jones" rel="tag">Darren Jones</a>, <a href="http://technorati.com/tag/Nathan+Esquenazi" rel="tag">Nathan Esquenazi</a>, <a href="http://technorati.com/tag/Sudarshan+Shubakar" rel="tag">Sudarshan Shubakar</a>, <a href="http://technorati.com/tag/Sinatra" rel="tag">Sinatra</a>, <a href="http://technorati.com/tag/Learning+Sinatra" rel="tag">Learning Sinatra</a>

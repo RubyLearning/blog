@@ -1,17 +1,28 @@
 ---
+draft: false
+title: 'Matt Aimonetti: Why on earth would you ignore Merb?'
+date: 2008-12-18
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Interview
 - JRuby
 - Rails
 - Ruby
-date: 2008-12-18
 description:
 - Matt Aimonetti shows how Merb is the Ruby framework of the future.
 jeremymcanally@gmail.com:
 - jeremymcanally
 keywords:
-- Matt Aimonetti,Merb,Merbist,Ruby programming
+- Matt Aimonetti
+- Merb
+- Merbist
+- Ruby programming
 layout: post
 mattaimonetti@gmail.com:
 - merbist
@@ -29,7 +40,6 @@ tags:
 - Rails
 - Ruby
 - RubyLearning
-title: 'Matt Aimonetti: Why on earth would you ignore Merb?'
 topsy_short_url:
 - http://bit.ly/dpDnbr
 ---
@@ -382,4 +392,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Interviews" rel="tag">Interviews</a>, <a href="http://technorati.com/tag/Matt+Aimonetti" rel="tag">Matt Aimonetti</a>, <a href="http://technorati.com/tag/Merb" rel="tag">Merb</a>, <a href="http://technorati.com/tag/Merbist" rel="tag">Merbist</a>, <a href="http://technorati.com/tag/JRuby" rel="tag">JRuby</a>, <a href="http://technorati.com/tag/Rails" rel="tag">Rails</a>, <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/RubyLearning" rel="tag">RubyLearning</a>

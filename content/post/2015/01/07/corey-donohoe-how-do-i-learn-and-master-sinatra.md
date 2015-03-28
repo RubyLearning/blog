@@ -1,12 +1,20 @@
 ---
+draft: false
+title: 'Corey Donohoe: How do I learn and master Sinatra?'
+date: 2015-01-07
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Learn Sinatra
 - Ruby
 - Ruby Masters
 - Sinatra
-date: 2015-01-07
 layout: post
 permalink: /2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/
 tags:
@@ -14,12 +22,6 @@ tags:
 - Learning Sinatra
 - ruby programming
 - Sinatra
-thesis_description:
-- In the first part of a mini series "How do I learn and master Sinatra", Corey Donohoe
-  gives us his insights on mastering Sinatra.
-thesis_keywords:
-- Corey Donohoe,Sinatra,Ruby programming,Learning Sinatra
-title: 'Corey Donohoe: How do I learn and master Sinatra?'
 topsy_short_url:
 - http://bit.ly/1HL25Vk
 ---
@@ -144,4 +146,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Corey+Donohoe" rel="tag">Corey Donohoe</a>, <a href="http://technorati.com/tag/Sinatra" rel="tag">Sinatra</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>, <a href="http://technorati.com/tag/Learning+Sinatra" rel="tag">Learning Sinatra</a>

@@ -1,10 +1,17 @@
 ---
+draft: true
+title: A "FREE" Online Course - Programming the Web with Ruby - 6th batch
+date: 2014-01-03
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Ruby
 - Training
-date: 2014-01-03
-draft: true
 layout: post
 permalink: /2014/01/03/a-free-online-course-programming-the-web-with-ruby-6th-batch/
 tags:
@@ -13,12 +20,6 @@ tags:
 - Ruby course
 - Ruby training
 - Web programming
-thesis_description:
-- The popular online course Programming the web with Ruby has been announced for 8th
-  Feb. 2014.
-thesis_keywords:
-- Ruby course,Ruby,Ruby Training, Programming, Web programming
-title: A "FREE" Online Course - Programming the Web with Ruby - 6th batch
 topsy_short_url:
 - http://bit.ly/19E2yMC
 ---
@@ -240,4 +241,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby+course" rel="tag">Ruby course</a>, <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/Ruby+Training" rel="tag">Ruby Training</a>, <a href="http://technorati.com/tag/Programming" rel="tag"> Programming</a>, <a href="http://technorati.com/tag/Web+programming" rel="tag"> Web programming</a>

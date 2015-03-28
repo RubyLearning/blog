@@ -1,19 +1,17 @@
 ---
+draft: false
+title: From Lousy to Beautiful
+date: 2014-01-24
+draft: false
 author: James Schorr
 categories:
 - Beginners
 - Ruby
-date: 2014-01-24
 layout: post
 permalink: /2014/01/24/from-lousy-to-beautiful/
 tags:
 - James M. Schorr
 - Ruby
-thesis_description:
-- 'James M. Schorr shows you how to write beautiful code in Ruby. '
-thesis_keywords:
-- James M. Schorr, Ruby
-title: From Lousy to Beautiful
 topsy_short_url:
 - http://bit.ly/19Rrujj
 ---
@@ -335,7 +333,4 @@ given with author’s permission):
 
 *Feel free to ask questions and give feedback in the comments section of
 this post. Thanks!*
-
-Technorati Tags: [James M.
-Schorr](http://technorati.com/tag/James+M.+Schorr)
 

@@ -1,9 +1,17 @@
 ---
+draft: false
+title: 'Poll: Ruby Problems for Beginners and Prizes (Reprint)'
+date: 2015-01-13
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - RPCFN
 - Ruby
-date: 2015-01-13
 layout: post
 permalink: /2015/01/13/poll-ruby-problems-for-beginners-and-prizes-reprint/
 tags:
@@ -13,13 +21,6 @@ tags:
 - Ruby Problems
 - Ruby Programming Challenge For Newbies
 - The Ruby Programming Language
-thesis_description:
-- RubyLearning is asking its readers to vote and give suggestions on whether it should
-  start a Ruby programming challenge for beginners.
-thesis_keywords:
-- Ruby,The Ruby Programming Language, Ruby Beginners,Ruby Problems,Ruby Programming
-  Challenge For Newbies, RPCFN
-title: 'Poll: Ruby Problems for Beginners and Prizes (Reprint)'
 topsy_short_url:
 - http://bit.ly/1yexhbE
 ---
@@ -88,4 +89,3 @@ topsy_short_url:
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>, <a href="http://technorati.com/tag/The+Ruby+Programming+Language" rel="tag">The Ruby Programming Language</a>, <a href="http://technorati.com/tag/Ruby+Beginners" rel="tag"> Ruby Beginners</a>, <a href="http://technorati.com/tag/Ruby+Problems" rel="tag">Ruby Problems</a>, <a href="http://technorati.com/tag/Ruby+Programming+Challenge+For+Newbies" rel="tag">Ruby Programming Challenge For Newbies</a>, <a href="http://technorati.com/tag/RPCFN" rel="tag"> RPCFN</a>

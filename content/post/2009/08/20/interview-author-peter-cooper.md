@@ -1,12 +1,20 @@
 ---
+draft: false
+title: 'Interview: Author Peter Cooper'
+date: 2009-08-20
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - Beginners
 - Book Promotions
 - Interview
 - Promotions
 - Ruby
-date: 2009-08-20
 layout: post
 permalink: /2009/08/20/interview-author-peter-cooper/
 tags:
@@ -14,12 +22,6 @@ tags:
 - Book promotion
 - Peter Cooper
 - ruby programming
-thesis_description:
-- Peter Cooper, author of Beginning Ruby talks to Satish Talim of RubyLearning during
-  the promo of Peter's book.
-thesis_keywords:
-- Peter Cooper,Beginning Ruby,Ruby programming,Book promotion
-title: 'Interview: Author Peter Cooper'
 ---
 
 <div>
@@ -96,4 +98,3 @@ title: 'Interview: Author Peter Cooper'
   </p>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Peter+Cooper" rel="tag">Peter Cooper</a>, <a href="http://technorati.com/tag/Beginning+Ruby" rel="tag">Beginning Ruby</a>, <a href="http://technorati.com/tag/Ruby+programming" rel="tag">Ruby programming</a>, <a href="http://technorati.com/tag/Book+promotion" rel="tag">Book promotion</a>

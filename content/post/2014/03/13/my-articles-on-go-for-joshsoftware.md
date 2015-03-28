@@ -1,14 +1,21 @@
 ---
+draft: false
+title: My articles on Go for JoshSoftware
+date: 2014-03-13
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - go
-date: 2014-03-13
 layout: post
 permalink: /2014/03/13/my-articles-on-go-for-joshsoftware/
 tags:
 - go
 - golang
-title: My articles on Go for JoshSoftware
 ---
 
 <div>
@@ -50,4 +57,3 @@ title: My articles on Go for JoshSoftware
   </ul>
 </div>
 
-Technorati Tags: <a href="http://technorati.com/tag/Go" rel="tag">Go</a>, <a href="http://technorati.com/tag/Golang" rel="tag">Golang</a>

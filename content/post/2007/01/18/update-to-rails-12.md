@@ -1,11 +1,17 @@
 ---
+draft: true
+title: Update to Rails 1.2
+date: 2007-01-18
 author: Satish Talim
+authorlink: http://satishtalim.com
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/satishtalim/about
 categories:
 - rails
-date: 2007-01-18
-draft: true
 layout: post
-title: Update to Rails 1.2
 ---
 
 **Rails** has made many changes from 1.1.6 to 1.2. Update your working copy to
@@ -35,6 +41,3 @@ prompt:
     Installing RDoc documentation for actionmailer-1.3.0...
     Installing RDoc documentation for actionwebservice-1.2.0...
 
-Technorati Tags: [Rails](http://technorati.com/tag/Rails), [Rails
-1.2](http://technorati.com/tag/Rails+1.2),
-[Ruby](http://technorati.com/tag/Ruby)
