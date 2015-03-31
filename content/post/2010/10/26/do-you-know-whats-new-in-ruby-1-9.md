@@ -13,267 +13,202 @@ tags:
 - programming
 - ruby 1.9
 - ruby programming
-topsy_short_url:
-- http://bit.ly/9TeJ4R
 ---
+This guest post is by **[Carlo Pecchia](http://carlopecchia.eu/)**, who
+is an IT engineer mainly interested on agile methodologies and "good
+practices" for developing large and complex systems. He is also
+interested in web architectures and emerging programming languages.<!--more-->
 
-<div>
-  <h3>
-    Do you know what&#8217;s new in Ruby 1.9?
-  </h3>
-  
-  <p class="update">
-    This guest post is by <strong><a href="http://carlopecchia.eu/">Carlo Pecchia</a></strong>, who is an IT engineer mainly interested on agile methodologies and &#8220;good practices&#8221; for developing large and complex systems. He is also interested in web architectures and emerging programming languages.
-  </p>
-  
-  <p class="block">
-    <img class="alignright" src="http://rubylearning.com/images/carlopecchia.jpg" alt="Carlo Pecchia" title="Carlo Pecchia" width="125" height="125" /> <span class="drop_cap">W</span>ith major version 1.9 the Ruby language took a series of improvements devoted to rationalizing and better organizing the internal structure of the language itself.
-  </p>
-  
-  <p>
-    The language &#8220;core&#8221; sized from around 3 MB in version 1.0 to 30 in version 1.9: we see that both internal and external (some interfaces) refactoring was needed. Let me show you the main improvements introduced.
-  </p>
-  
-  <h3>
-    Smart things
-  </h3>
-  
-  <p>
-    A list of a general &#8211; smart &#8211; improvements: <tt>Rubygems</tt> in now officially a part of Ruby, and so is <tt>Rake</tt>. Some poorly used libraries were removed from the core &#8211; but always available as gems: soap, jruby, etc.
-  </p>
-  
-  <h3>
-    Objects hieararchy
-  </h3>
-  
-  <p>
-    A new root in the class hierarchy was introduced <tt>BasicObject</tt>:
-  </p>
-  
-  <pre>1.8 =&gt; [Class, Module, Object, Kernel]
-1.9 =&gt; [Class, Module, Object, Kernel, BasicObject]
+![Carlo Pecchia](http://rubylearning.com/images/carlopecchia.jpg "Carlo Pecchia")
 
-BasicObject.instance_methods
-# =&gt; [:==, :equal?, :!, :!=, :instance_eval, :instance_exec, :__send__]
-</pre>
-  
-  <p>
-    This serves to better organize things internally. This class is so &#8220;basic&#8221; that it doesn&#8217;t give even the <tt>object_id</tt>, in fact the last statement will generate an error (&#8216;undefined method&#8230;&#8217;):
-  </p>
-  
-  <pre>foo = BasicObject.new
-foo.object_id
-</pre>
-  
-  <h3>
-    Loving chain methods
-  </h3>
-  
-  <p>
-    More often in Ruby than in other languages, the chain methods style is used. In order to improve this &#8220;technique&#8221; the new method <tt>tap</tt> has been released (and backported into 1.8 too):
-  </p>
-  
-  <pre>>puts "Hello".reverse
-            .tap{ |o| puts "reversed: #{o}" }
-            .upcase
+## Do you know what's new in Ruby 1.9?
 
-# =&gt; reversed: olleH
-# =&gt; OLLEH
-</pre>
-  
-  <p>
-    Basically, we can now also &#8220;do something else too&#8221; with the object in the chain.
-  </p>
-  
-  <h3>
-    Main changes
-  </h3>
-  
-  <p>
-    Let us now see the main areas where changes were introduced: symbols, arrays, hashes and blocks. And finally, an interesting improvement toward parallelism: the fibers.
-  </p>
-  
-  <h3>
-    Symbols
-  </h3>
-  
-  <p>
-    Symbols are now interpreted as string wrt regular expressions:
-  </p>
-  
-  <pre>>a = [:windows, :mac, :amiga]
-puts a.grep(/ac/)
+With major version 1.9 the Ruby language took a series of improvements
+devoted to rationalizing and better organizing the internal structure of
+the language itself.
 
-# 1.8 =&gt; []
-# 1.9 =&gt; mac
-</pre>
-  
-  <p>
-    We can also get a Proc from a symbol:
-  </p>
-  
-  <pre>u = :upcase.to_proc
-u.call('lorem ipsum...')
-</pre>
-  
-  <h3>
-    Arrays
-  </h3>
-  
-  <p>
-    Arrays, a fundamental store in any modern language, have been deeply revisited:
-  </p>
-  
-  <ul>
-    <li>
-      the method <tt>to_a</tt> doesn&#8217;t belong to the <tt>Object</tt> class.
-    </li>
-    <li>
-      arrays can be easily created with the homonym class (eg: <code>a = Array('apple', 'bananas')</code>) for an improved code readability.
-    </li>
-    <li>
-      in such a creation the implicit separator &#8211; default is &#8220;\n&#8221; &#8211; is not considered.
-    </li>
-    <li>
-      the splat operator (<code>*a = some_array_here</code>) has a more consistent behaviour.
-    </li>
-  </ul>
-  
-  <h3>
-    Hashes
-  </h3>
-  
-  <p>
-    Now hashes (finally!) are stable data structures: elements keep order insertion. Even a Hash is not &#8211; by definition &#8211; such a kind of data abstraction, that feature can be very handy.
-  </p>
-  
-  <p>
-    It&#8217;s now possible to declare hashes differently (use name: value pairs to create a hash if the keys are symbols):
-  </p>
-  
-  <pre>data = { jan: 201234, feb: 234234, mar: 234345 }
-</pre>
-  
-  <p>
-    And that, obviously, make obsolete some other forms: if-then-else with colon and splat hashes definition (eg: <code>h = {"jan", 201234, "feb", 234234, "mar", 234345}</code>).
-  </p>
-  
-  <p>
-    <b>Easy access within a string</b>:
-  </p>
-  
-  <pre>puts "First two months of this year was: %{jan} and %{feb}" % data
-</pre>
-  
-  <p>
-    Finally, to make things more consistently, we have two major differences:
-  </p>
-  
-  <ul>
-    <li>
-      <tt>select</tt> method on hash &#8211; that aim to act like a &#8220;filter&#8221; &#8211; return a hash (in 1.8 it returns an array of arrays&#8230;)
-    </li>
-    <li>
-      <tt>to_s</tt> method return and internal representation of the hash, rather than join together keys and values.
-    </li>
-  </ul>
-  
-  <h3>
-    Blocks
-  </h3>
-  
-  <p>
-    Still considering the mantra word &#8220;rationalization&#8221;, blocks and methods share the same syntax for parameters:
-  </p>
-  
-  <pre>def my_method(foo, bar=10, *baz)
-  ...
-end
+The language "core" sized from around 3 MB in version 1.0 to 30 in
+version 1.9: we see that both internal and external (some interfaces)
+refactoring was needed. Let me show you the main improvements
+introduced.
 
-lambda {|foo, bar=10, *baz| ...}
-</pre>
-  
-  <p>
-    An interesting &#8220;correction&#8221; was made on block parameters: now they are local variables and don&#8217;t collide with external references:
-  </p>
-  
-  <pre>foo = 'this is an external variable'
-bar = 23
+## Smart things
 
-10.times do |foo|
-  bar = foo + 1
-  # foo here is unrelated from the external name
-end
-</pre>
-  
-  <p>
-    <b>This was a major issue in language version 1.8.</b>
-  </p>
-  
-  <p>
-    Of course, if <tt>within</tt> a block (outside parameters list) we reference an external variable, that one will be modified. With 1.9 we can &#8220;protect&#8221; such variables declaring an internal homonym:
-  </p>
-  
-  <pre>foo = 'this is an external variable'
-bar = 23
+A list of a general -- smart -- improvements: `Rubygems` in now officially
+a part of Ruby, and so is `Rake`. Some poorly used libraries were
+removed from the core -- but always available as gems: soap, jruby, etc.
 
-10.times do |i;foo|
-  bar = bar + 1
-  foo = bar % 2
-end
+## Objects hieararchy
 
-# foo untouched, but bar modified
-</pre>
-  
-  <h3>
-    Fibers
-  </h3>
-  
-  <p>
-    We will see an increasing usage of parallelism techniques in programming, and the spread of (really interesting) languages like Clojure and Erlang is a clear sign. Ruby too &#8211; with 1.9 &#8211; offers a nice tool for programmers: fibers.
-  </p>
-  
-  <p>
-    They are a lightweight processes &#8211; memory footprint is only 4Kbytes &#8211; conceived for a cooperative concurrence. Basically we can think of them like Procs that maintain status over calls:
-  </p>
-  
-  <pre>fb = Fiber.new do |val|
-  Fiber.yield "That's all... (#{val})"
-  Fiber.yield "folks! (#{val})"
-end
+A new root in the class hierarchy was introduced `BasicObject`:
 
-puts fb.resume 10
-...
-puts fb.resume 20
-</pre>
-  
-  <h3>
-    A final note
-  </h3>
-  
-  <p>
-    The transition &#8211; fairly smooth in my opinion &#8211; towards version 1.9 is still in progress. I hope this post helps you to understand the major differences and to act accordingly when coding, both by your own and on someone elses code.
-  </p>
-  
-  <p class="attn">
-    <img class="alignleft" height="48" width="48" alt="Alert!" src="http://rubylearning.com/images/icon_warning.png" title="Alert!" /><strong>A final tip:</strong> pay attention when using a gem &#8211; the interesting project <a href="http://isitruby19.com/">http://isitruby19.com/</a> can help you see if a gem is already ported on Ruby 1.9.
-  </p>
-  
-  <p>
-    <em>I hope you found this article valuable. Feel free to ask questions and give feedback in the comments section of this post. Thanks!</em>
-  </p>
-  
-  <p>
-    <strong><em>Do read</em> these awesome Guest Posts:</strong>
-  </p>
-  
-  <ul>
-    <li>
-      <a href="http://rubylearning.com/blog/2010/10/25/the-value-of-a-personal-bug-log/">The value of a personal bug log</a>
-    </li>
-    <li>
-      <a href="http://rubylearning.com/blog/2010/10/18/do-you-enjoy-your-code-quality/">Do You Enjoy Your Code Quality?</a>
-    </li>
-  </ul>
-</div>
+    1.8 => [Class, Module, Object, Kernel]
+    1.9 => [Class, Module, Object, Kernel, BasicObject]
+
+    BasicObject.instance_methods
+    # => [:==, :equal?, :!, :!=, :instance_eval, :instance_exec, :__send__]
+
+This serves to better organize things internally. This class is so
+"basic" that it doesn't give even the `object_id`, in fact the last
+statement will generate an error ('undefined method...'):
+
+    foo = BasicObject.new
+    foo.object_id
+
+## Loving chain methods
+
+More often in Ruby than in other languages, the chain methods style is
+used. In order to improve this "technique" the new method `tap` has been
+released (and backported into 1.8 too):
+
+    >puts "Hello".reverse
+                .tap{ |o| puts "reversed: #{o}" }
+                .upcase
+
+    # => reversed: olleH
+    # => OLLEH
+
+Basically, we can now also "do something else too" with the object in
+the chain.
+
+## Main changes
+
+Let us now see the main areas where changes were introduced: symbols,
+arrays, hashes and blocks. And finally, an interesting improvement
+toward parallelism: the fibers.
+
+## Symbols
+
+Symbols are now interpreted as string wrt regular expressions:
+
+    >a = [:windows, :mac, :amiga]
+    puts a.grep(/ac/)
+
+    # 1.8 => []
+    # 1.9 => mac
+
+We can also get a Proc from a symbol:
+
+    u = :upcase.to_proc
+    u.call('lorem ipsum...')
+
+## Arrays
+
+Arrays, a fundamental store in any modern language, have been deeply
+revisited:
+
+-   the method `to_a` doesn't belong to the `Object` class.
+-   arrays can be easily created with the homonym class (eg:
+    `a = Array('apple', 'bananas')`) for an improved code readability.
+-   in such a creation the implicit separator -- default is "\\n" -- is
+    not considered.
+-   the splat operator (`*a = some_array_here`) has a more consistent
+    behaviour.
+
+## Hashes
+
+Now hashes (finally!) are stable data structures: elements keep order
+insertion. Even a Hash is not -- by definition -- such a kind of data
+abstraction, that feature can be very handy.
+
+It's now possible to declare hashes differently (use name: value pairs
+to create a hash if the keys are symbols):
+
+    data = { jan: 201234, feb: 234234, mar: 234345 }
+
+And that, obviously, make obsolete some other forms: if-then-else with
+colon and splat hashes definition (eg:
+`h = {"jan", 201234, "feb", 234234, "mar", 234345}`).
+
+**Easy access within a string**:
+
+    puts "First two months of this year was: %{jan} and %{feb}" % data
+
+Finally, to make things more consistently, we have two major
+differences:
+
+-   `select` method on hash -- that aim to act like a "filter" -- return a
+    hash (in 1.8 it returns an array of arrays...)
+-   `to_s` method return and internal representation of the hash, rather
+    than join together keys and values.
+
+## Blocks
+
+Still considering the mantra word "rationalization", blocks and methods
+share the same syntax for parameters:
+
+    def my_method(foo, bar=10, *baz)
+      ...
+    end
+
+    lambda {|foo, bar=10, *baz| ...}
+
+An interesting "correction" was made on block parameters: now they are
+local variables and don't collide with external references:
+
+    foo = 'this is an external variable'
+    bar = 23
+
+    10.times do |foo|
+      bar = foo + 1
+      # foo here is unrelated from the external name
+    end
+
+**This was a major issue in language version 1.8.**
+
+Of course, if `within` a block (outside parameters list) we reference an
+external variable, that one will be modified. With 1.9 we can "protect"
+such variables declaring an internal homonym:
+
+    foo = 'this is an external variable'
+    bar = 23
+
+    10.times do |i;foo|
+      bar = bar + 1
+      foo = bar % 2
+    end
+
+    # foo untouched, but bar modified
+
+## Fibers
+
+We will see an increasing usage of parallelism techniques in
+programming, and the spread of (really interesting) languages like
+Clojure and Erlang is a clear sign. Ruby too -- with 1.9 -- offers a nice
+tool for programmers: fibers.
+
+They are a lightweight processes -- memory footprint is only 4Kbytes --
+conceived for a cooperative concurrence. Basically we can think of them
+like Procs that maintain status over calls:
+
+    fb = Fiber.new do |val|
+      Fiber.yield "That's all... (#{val})"
+      Fiber.yield "folks! (#{val})"
+    end
+
+    puts fb.resume 10
+    ...
+    puts fb.resume 20
+
+## A final note
+
+The transition -- fairly smooth in my opinion -- towards version 1.9 is
+still in progress. I hope this post helps you to understand the major
+differences and to act accordingly when coding, both by your own and on
+someone elses code.
+
+![Alert!](http://rubylearning.com/images/icon_warning.png "Alert!")**A
+final tip:** pay attention when using a gem -- the interesting project
+[http://isitruby19.com/](http://isitruby19.com/) can help you see if a
+gem is already ported on Ruby 1.9.
+
+*I hope you found this article valuable. Feel free to ask questions and
+give feedback in the comments section of this post. Thanks!*
+
+***Do read* these awesome Guest Posts:**
+
+-   [The value of a personal bug
+    log](http://rubylearning.com/blog/2010/10/25/the-value-of-a-personal-bug-log/)
+-   [Do You Enjoy Your Code
+    Quality?](http://rubylearning.com/blog/2010/10/18/do-you-enjoy-your-code-quality/)
 
