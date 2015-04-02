@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "RubyLearning Tutorial Translated To Arabic"
 date = "2015-04-06T00:32:34-04:00"
+publishdate = "2015-04-06"
 author = "Ali Osm"
 authortwitter = "http://twitter.com/AliOsm_1997"
 authorfacebook = "http://fb.com/Ali.L.Malak"
