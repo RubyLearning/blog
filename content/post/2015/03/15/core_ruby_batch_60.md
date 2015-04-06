@@ -166,8 +166,7 @@ pay US \$ 44.95 by clicking on the PayPal button
 
 ## How does the course work?
 
-For details on how the course works, refer
-[here](http://rubylearning.com/blog/how-the-course-works/).
+For details on how the course works, refer [here]({{< ref "how-the-course-works.md" >}})
 
 At the end of this course you should have all the knowledge to explore
 the wonderful world of Ruby on your own.
