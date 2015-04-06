@@ -15,7 +15,7 @@ totop = true
 **Advertising / Sponsorship**
 
 RubyLearning.org accepts advertising enquiries, although we like to
-handle advertising delicately to keep up a high standard. Contact Satish
+handle advertising delicately to keep up a high standard.<!--more--> Contact Satish
 Talim at **satish [at] rubylearning [dot] org** to discuss.
 
 **125×125 Banner** ad opportunities (that appear on all pages of the

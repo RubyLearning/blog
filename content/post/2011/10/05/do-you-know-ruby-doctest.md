@@ -2,6 +2,7 @@
 draft: false
 title: Do you know Ruby Doctest?
 author: Victor Goff
+date: 2011-10-05
 authorlink: http://twitter.com/kotp
 socialsharing: true
 authorgoogleplus: "https://plus.google.com/+VictorGoff/about"
@@ -12,7 +13,6 @@ categories:
 - ruby
 - doctest
 layout: post
-permalink: /2011/10/05/do-you-know-ruby-doctest/
 tags:
 - programming
 - doctest
