@@ -13,7 +13,7 @@ tags = ["translation", "Arabic"]
 totop = true
 ogphoto = "/blog/media/ruby3arabi-brand.png"
 +++
-AliOsm is young Libyan programmer, and started programming in 2011.
+Ali Osm is young Libyan programmer, and started programming in 2011.
 
 In 2014 he saw the Ruby programming language and liked it, and so he decided to
 create the [Ruby3arabi.com](http://ruby3arabi.com) site and he hopes to help
