@@ -8,7 +8,7 @@ authortwitter = "http://twitter.com/kotp"
 date = "2015-03-20T01:15:34-04:00"
 draft = false
 nocomment = false
-tags = ["ruby", "victor goff"]
+tags = ["ruby", "Victor Goff"]
 categories = ["ruby", "basics"]
 totop = true
 +++
