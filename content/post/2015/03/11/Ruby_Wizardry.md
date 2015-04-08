@@ -10,7 +10,8 @@
     "tags": [
         "book",
         "review",
-        "ruby"
+        "ruby",
+        "Victor Goff"
     ],
     "categories": [
         "book",
