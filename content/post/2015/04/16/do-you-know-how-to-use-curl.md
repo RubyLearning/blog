@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "do you know how to use curl"
-date = "2016-04-02T03:03:49-04:00"
-publishdate = "2016-04-02"
+date = "2015-04-16"
+publishdate = "2015-04-16"
 author = "Satish Talim"
 authorlink = "http://satishtalim.com"
 authorfacebook = "http://www.facebook.com/satishtalim/about"
@@ -70,7 +70,8 @@ following command.
     > cd C:\cURL
 
 You can now issue cURL commands. On Linux or OSX, you may have to
-prepend `./` to your commands. For example, instead of `curl http://some/url`, the command you'd use would be `./curl http://some/url`.
+prepend `./` to your commands. For example, instead of `curl http://some/url`,
+the command you'd use would be `./curl http://some/url`.
 
 To test cURL, enter the following command.
 
@@ -93,5 +94,5 @@ previous example, the Twitter URL was a parameter.
 Please refer to the following URL for the various options available in
 cURL:
 
-[http://curl.haxx.se/docs/manpage.html](http://curl.haxx.se/docs/manpage.html)
+<http://curl.haxx.se/docs/manpage.html>
  
