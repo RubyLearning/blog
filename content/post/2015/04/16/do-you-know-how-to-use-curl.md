@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "do you know how to use curl"
+title = "Do You Know How To Use cURL"
 date = "2015-04-16"
 publishdate = "2015-04-16"
 author = "Satish Talim"
