@@ -75,7 +75,7 @@ the command you'd use would be `./curl http://some/url`.
 
 To test cURL, enter the following command.
 
-    curl -I [http://twitter.com/](http://twitter.com/)
+    curl -I http://twitter.com/
 
 You should see HTTP response headers. The first line should be "HTTP/1.1
 200 OK." This means you've made a successful request to Twitter using
