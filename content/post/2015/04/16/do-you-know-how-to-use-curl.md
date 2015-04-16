@@ -21,7 +21,7 @@ totop = true
 
 cURL is available on many platforms, including Windows (all variants),
 OSX (all versions) and Linux (all distros). cURL is available from the
-cURL website at [http://curl.haxx.se/](http://curl.haxx.se/).
+cURL website at [http://curl.haxx.se/](http://curl.haxx.se/).<!--more-->
 
 
 To install cURL on Linux, you should first check for cURL binaries in
