@@ -27,37 +27,38 @@ though it seems like it might be an easy book to review, it is, what I would
 call, a “Pattern Book”.  Due to this, it is actually a bit more difficult to
 review.
 
-It is an instructional book, it is teaching you the “hard way”, because you
-really need to follow along, it builds up from the basics and gets you to a
-good place to continue to learn from.  And it covers a lot.
-
-But it also has a lot of areas to review because of this, a lot of little
-technical things.  And I went through every exercise.
-
-One of the things that I got an impression of is that he wrote this while being
-immersed in another language.  There are hints of it throughout.  One
-problem area, which is not going to be a show stopper, but a problem area
-nonetheless, is his explanation about the triple equals in Ruby.  There is no
-such thing, but he uses it from the time he introduces it and through the book.
-It is little things like this that can shake a new student in the language, if
-they even spot it.  If they spot it, they start to wonder what else is not
-right.  It can be a pretty large distraction.
-
 This book is patterned from his prior “Learn The Hard Way” books, and follows
 along with the theme, which is helpful.  I will be reading more of his books,
 as once you now the format of one, you can know what to expect from the others.
-The pace is good for a beginner programmer, and I am going through this with my
-son who is starting to learn to program.
+
+As an instructional book, it is teaching you the “hard way”, because you
+really need to follow along, it builds up from the basics and gets you to a
+good place to continue to learn from.  And it covers a lot.
+
+It also has a lot of areas to review because of this, a lot of little
+technical things.  I went through every exercise, and am now going through
+every exercise with someone new to programming.  I believe that the pace is
+good for a new programmer.
+
+I get an impression of is that the author wrote this while being immersed in
+another language.  There are hints of it throughout.  One problem area, which
+is not going to be a show stopper, but a problem area nonetheless, is his
+explanation about the triple equals in Ruby.  There is no such thing, but he
+uses it from the time he introduces it and through the book.  It is little
+things like this that can confuse a new programmer in the language, if they
+even spot it.  If they spot it, they start to wonder what else is not right.
+It can be a pretty large distraction.
 
 There are other areas that are difficult though, where he references things
 that are not used, but addresses them in the “Questions” section.
 
-There are things that are initially overlooked, using string interpolation early
-on (Exercise 2) but not explaining what it does.  Why does the math happen in
-`"3 + 2 #{3 + 2}"` inside the brackets?  Sometimes we do ignore things when
-instructing but I felt it was fitting to explain at least briefly what is
-happening.  But I think that is a little too magical, yet a simple concept, and
-could have been at least addressed.
+There are things that are initially overlooked. For example, using string
+interpolation early on (Exercise 2) but not explaining what it does.  Why does
+the math happen in `"3 + 2 #{3 + 2}"` inside the brackets?  Sometimes we do
+ignore things when instructing but I felt it was fitting to explain at least
+briefly what is happening.  I think that is a little too magical to let it be
+seen, yet let it not be addressed there.  That is, for a new programmer.  An
+experienced one will likely be familiar enough to know.
 
 There are places were we are told that an error will happen if we do something,
 yet doing so does not raise an error.  This can be very time consuming for
@@ -82,9 +83,9 @@ The good news is that some of these problems can likely be taken care of in a
 pull request.  The distractions are minor if you are teaching, or leading a
 group, but reading this alone could be frustrating as you are trying to dig
 into what is going on.  Especially since Zed Shaw states in places, to
-paraphrase, "Don't worry about it right now, just do as I say."  He has the
-right idea, but where there are mistakes it can be very confusing, and very
-frustrating.
+paraphrase, "Don't worry about it right now, just do as I say."  Once that
+statement is made, an explicit level of trust being demanded, I believe this
+lowers the tolerance of omissions and errors dramatically.
 
 I would recommend the book for those that are leading a 'workshop' or putting
 together some Ruby classes, that can provide the answers when strange things
@@ -94,17 +95,15 @@ available to answer questions.
 
 I was surprised to see some of these problems in a "Third Edition" copy.
 
-I may update this review once I have completed instructing with it.  This book
-is getting a good workout with the questions and findings that someone with
-fresh eyes to the language and the book, and a lot of graphite from my pencil
-is seeing the surface of the pages with notes an things that could be
-corrected.
-
 ## Summary
 
-Too many little problems, some outright errors, and some not so
-helpful lies, somehow it seems to be missing technical review, and final
-proofing.  Yet still a good tool for supervised instruction.
+Too many little problems, some outright technical errors, and some not so
+helpful printing problems. Somehow it seems to be missing technical review, and
+final proofing.
 
-Not a suggested book for a new programmer with no quick feedback loop, someone
-to ask.  I would not give this book to one of my kids and leave them to it.
+I believe it is still a good tool for supervised instruction.
+
+I can not recommend this book for a new programmer with no quick feedback loop,
+someone to ask.  I would not give this book to one of my kids and leave them to
+it.  It should work for a programmer just getting into Ruby, but familiar with
+other languages.
