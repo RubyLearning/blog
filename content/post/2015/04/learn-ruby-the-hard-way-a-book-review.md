@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Learn Ruby The Hard Way: A Book Review"
-date = "2015-04-25"
+date = "2015-04-27"
 author = "Victor Goff"
 authorlink = "http://twitter.com/kotp"
 socialsharing = true
@@ -19,8 +19,8 @@ Book author: Zed A. Shaw.</br>
 Publisher: Addison-Wesley</br><!--more-->
                       <!--more-->
 
-**TL;DR**: Great idea, generally a good book.  Many minor problems or things taught
-that may be misrepresented.
+**TL;DR**: Great idea, generally a good book.  Many minor problems or things
+taught that may be misrepresented.
 
 I got this book a while ago, and of course it is available online as well.  And
 though it seems like it might be an easy book to review, it is, what I would
@@ -40,14 +40,14 @@ technical things.  I went through every exercise, and am now going through
 every exercise with someone new to programming.  I believe that the pace is
 good for a new programmer.
 
-I get an impression of is that the author wrote this while being immersed in
-another language.  There are hints of it throughout.  One problem area, which
-is not going to be a show stopper, but a problem area nonetheless, is his
-explanation about the triple equals in Ruby.  There is no such thing, but he
-uses it from the time he introduces it and through the book.  It is little
-things like this that can confuse a new programmer in the language, if they
-even spot it.  If they spot it, they start to wonder what else is not right.
-It can be a pretty large distraction.
+I get an impression that the author wrote this while being immersed in another
+language.  There are hints of it throughout.  One problem area, which is not
+going to be a show stopper, but a problem area nonetheless, is his explanation
+about the triple equals in Ruby.  There is no such thing, but he uses it from
+the time he introduces it and through the book.  It is little things like this
+that can confuse a new programmer in the language, if they even spot it.  If
+they spot it, they start to wonder what else is not right.  It can be a pretty
+large distraction.
 
 There are other areas that are difficult though, where he references things
 that are not used, but addresses them in the “Questions” section.
@@ -98,8 +98,8 @@ I was surprised to see some of these problems in a "Third Edition" copy.
 ## Summary
 
 Too many little problems, some outright technical errors, and some not so
-helpful printing problems. Somehow it seems to be missing technical review, and
-final proofing.
+helpful printing problems. Somehow it seems to be missing a layer of technical
+review, and final proofing.
 
 I believe it is still a good tool for supervised instruction.
 
