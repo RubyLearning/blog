@@ -32,7 +32,7 @@ course starts on **Saturday, 13 June 2015** and runs for seven weeks.
 
 Please [create a new
 account](http://rubylearning.org/classes/login/index.php) first and then
-pay US\$ 44.95 by clicking on the PayPal button
+pay US $44.95 by clicking on the PayPal button
 [![Paypal](http://rubylearning.com/images/paypal_ruby.gif)](http://rubylearning.org/classes/enrol/index.php?id=59)
 
 **Note**: If you do not have a PayPal account and would like to pay by
@@ -84,7 +84,7 @@ HTTP concepts, RubyGems, Rack and Heroku.
 
 ## Some Highlights
 
-### RubyLearning�s IRC Channel
+### RubyLearning's IRC Channel
 
 Some of the mentors and students hang out at RubyLearning's IRC
 (irc.freenode.net) channel (\#rubylearning.org) for both technical and
@@ -110,10 +110,10 @@ your progress while learning Ruby.
 ### eBook
 
 The course is based on the **The Ultimate Guide to Ruby Programming**
-eBook. This book is [priced at US \$
-9.95](http://book.rubylearning.org/). However, the [Kindle
+eBook. This book is [priced at US $9.95](http://book.rubylearning.org/).
+However, the [Kindle
 edition](http://www.amazon.com/gp/product/B0062X2I68/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0062X2I68&linkCode=as2&tag=satishtalimsw-20)
-of the eBook is available for US\$ 6.
+of the eBook is available for US $6.00.
 
 ### Challenges and Side Tracks
 
