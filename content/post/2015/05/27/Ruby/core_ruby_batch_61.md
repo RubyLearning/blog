@@ -84,7 +84,7 @@ HTTP concepts, RubyGems, Rack and Heroku.
 
 ## Some Highlights
 
-### RubyLearning�s IRC Channel
+### RubyLearning's IRC Channel
 
 Some of the mentors and students hang out at RubyLearning's IRC
 (irc.freenode.net) channel (\#rubylearning.org) for both technical and
