@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Learn Ruby programming - 61th batch
+title: Learn Ruby programming - 61st batch
 date: 2015-05-27
 author: Satish Talim
 authorlink: "http://satishtalim.com"
@@ -10,7 +10,7 @@ authorlinkedin: https://www.linkedin.com/in/satishtalim
 authortwitter: http://twitter.com/IndianGuru
 authorfacebook: http://www.facebook.com/rubylearning
 layout: post
-permalink: /2015/05/27/learn-ruby-programming-61th-batch/
+permalink: /2015/05/27/learn-ruby-programming-61st-batch/
 categories:
 - beginners
 - ruby
