@@ -37,7 +37,7 @@ Download ['Advice for Ruby
 Beginners'](http://rubylearning.com/data/AdviceRuby.zip) as a .zip file.
 
 Here is what **Sandra Randall (Butler)**, a participant who just
-graduated, has to say – “You kindly offered me the opportunity to join
+graduated, has to say - "You kindly offered me the opportunity to join
 your Ruby course. I'm new to development and found the course, even
 though basic for programmers, a little tricky for me. I managed to
 complete all of the assessments and really learnt a lot. Thank you very
@@ -45,18 +45,18 @@ much for the opportunity. It has really given me the push I needed to
 learn Ruby and I'm currently treading my way through both the pickaxe
 and Agile Development books and enjoying it. I've recently been offered
 a position as a Junior Systems Developer at a local Software house in
-South Africa – all thanks to the push you gave me which gave me the
-motivation and drive to get going.”
+South Africa - all thanks to the push you gave me which gave me the
+motivation and drive to get going."
 
 ## What's Ruby?
 
 ![Ruby](http://rubylearning.com/images/rubylogo.png "License: http://creativecommons.org/licenses/by-sa/2.5/")
 
 According to
-[http://www.ruby-lang.org/en/](http://www.ruby-lang.org/en/) – “Ruby is
+[http://www.ruby-lang.org/en/](http://www.ruby-lang.org/en/) - "Ruby is
 a dynamic, open source programming language with a focus on simplicity
 and productivity. Ruby's elegant syntax is natural to read and easy to
-write.”
+write."
 
 **Yukihiro Matsumoto**, the creator of Ruby, in **[an
 interview](http://linuxdevcenter.com/pub/a/linux/2001/11/29/ruby.html)**
@@ -77,9 +77,9 @@ HTTP concepts, RubyGems, Rack and Heroku.
 
 ## Some Highlights
 
-### RubyLearning’s IRC Channel
+### RubyLearningï¿½s IRC Channel
 
-Some of the mentors and students hang out at RubyLearning’s IRC
+Some of the mentors and students hang out at RubyLearning's IRC
 (irc.freenode.net) channel (\#rubylearning.org) for both technical and
 non-technical discussions. Everyone benefits with the active discussions
 on Ruby with the mentors.
@@ -154,7 +154,7 @@ To pay the Course Fee:
 
 Please [create a new
 account](http://rubylearning.org/classes/login/index.php) first and then
-pay US \$ 44.95 by clicking on the PayPal button
+pay US $44.95 by clicking on the PayPal button
 [![Paypal](http://rubylearning.com/images/paypal_ruby.gif)](http://rubylearning.org/classes/enrol/index.php?id=59)
 
 ## How does the course work?
