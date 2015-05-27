@@ -1,21 +1,28 @@
 ---
-draft = false
-title = "core_ruby_batch_61"
-date = "2015-05-27T06:23:35+05:30"
-author = "Satish Talim"
-authorlink = "http://satishtalim.com"
-nocomment = false
-socialsharing = true
-authorfacebook = "http://www.facebook.com/satishtalim/about"
-authorgoogleplus = "https://plus.google.com/+SatishTalim/about"
-authorlinkedin = "https://www.linkedin.com/in/satishtalim"
-authortwitter = "http://twitter.com/IndianGuru"
-categories = ["Satish Talim", "ruby course", "beginners", "training"]
-tags = ["ruby course", "ruby", "beginners", "training"]
-totop = true
-
+draft: false
+title: Learn Ruby programming - 61th batch
+date: 2015-05-27
+author: Satish Talim
+authorlink: "http://satishtalim.com"
+socialsharing: true
+authorgoogleplus: https://plus.google.com/+SatishTalim/about
+authorlinkedin: https://www.linkedin.com/in/satishtalim
+authortwitter: http://twitter.com/IndianGuru
+authorfacebook: http://www.facebook.com/rubylearning
+layout: post
+permalink: /2015/05/27/learn-ruby-programming-61th-batch/
+categories:
+- beginners
+- ruby
+- training
+tags:
+- programming
+- ruby
+- course
+- training
+socialsharing: true
+totop: true
 ---
-
 Registrations are now open for RubyLearning's *long-awaited and popular*
 Ruby programming course. This is an intensive, online course for
 *beginners* that helps you get started with **Ruby** programming. The
