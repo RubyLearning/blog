@@ -1,3 +1,21 @@
++++
+draft = false
+title = "Ruby Programming Challenge for Newbies FAQ"
+date = "2010-01-01"
+publishdate = "2010-01-01"
+author = "Satish Talim"
+authorfacebook = "http://www.facebook.com/satishtalim/about"
+authorgoogleplus = "https://plus.google.com/+SatishTalim/about"
+authorlink = "http://satishtalim.com"
+authorlinkedin = "https://www.linkedin.com/in/satishtalim"
+authortwitter = "http://twitter.com/IndianGuru"
+categories = ['challenge', 'ruby']
+nocomment = false
+socialsharing = true
+tags = ["Satish Talim", "challenge", 'ruby']
+totop = true
+
++++
 Ruby Programming Challenge For Newbies FAQ
 ==========================================
 
