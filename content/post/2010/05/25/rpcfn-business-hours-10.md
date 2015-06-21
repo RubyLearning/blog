@@ -82,7 +82,7 @@ Ruby community.
 The four persons who win, can’t win again in the next immediate
 challenge but can still participate.
 
-## The Ruby Challenge {style="color:#0000FF;"}
+## The Ruby Challenge
 
 ![RPCFN](http://rubylearning.com/images/rubypc.jpg "Ruby Programming Challenge For Newbies")
 
@@ -143,7 +143,7 @@ need to build a gem for this. Pure Ruby code is all that is needed. Ryan
 will mostly be judging by the beauty of your code as long as it
 satisfies his test case.
 
-## How to Enter the Challenge {style="color:#0000FF;"}
+## How to Enter the Challenge
 
 Read the [Challenge
 Rules](http://rubylearning.com/blog/ruby-programming-challenge-faq/index.php#rpc6).
@@ -255,7 +255,7 @@ and some are participating for the fun of it.
 2.  Eric Hutzelman, USA
 3.  Benoit Daloze, Belgium
 
-## The Winners {style="color:#0000FF;"}
+## The Winners
 
 ![Winners](http://rubylearning.com/images/winner_icon_1.png)
 

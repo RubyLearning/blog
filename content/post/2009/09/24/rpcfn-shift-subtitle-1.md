@@ -97,7 +97,7 @@ asked!
 The two persons who win, can’t win again in the next immediate challenge
 but can still participate.
 
-## The Ruby Challenge {style="color:#0000FF;"}
+## The Ruby Challenge
 
 ![RPCFN](http://rubylearning.com/images/rubypc.jpg "Ruby Programming Challenge For Newbies")
 
@@ -177,7 +177,7 @@ way out.
 
 **(Note that the above two points are optional and not a requirement).**
 
-## How to Enter the Challenge {style="color:#0000FF;"}
+## How to Enter the Challenge
 
 **It’s free and registration is not required**. You can enter the
 challenge just by posting the following as a comment to this blog post:
@@ -310,7 +310,7 @@ and some are participating for the fun of it. The participants were:
 3.  Dominik Honnef, Germany
 4.  Mike Hodgson, Canada
 
-## The Winners {style="color:#0000FF;"}
+## The Winners
 
 ![Winners](http://rubylearning.com/images/winner_icon_1.png)
 

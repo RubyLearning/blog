@@ -69,7 +69,7 @@ that. I was hooked. It really hasn’t been the same since.”
 The four persons who win, can’t win again in the next immediate
 challenge but can still participate.
 
-## The Ruby Challenge {style="color:#0000FF;"}
+## The Ruby Challenge
 
 ![RPCFN](http://rubylearning.com/images/rubypc.jpg "Ruby Programming Challenge For Newbies")
 
@@ -80,7 +80,7 @@ The entire challenge details are available
 
 **Ensure that you submit both the solutions – see pages 2 and 3.**
 
-## How to Enter the Challenge {style="color:#0000FF;"}
+## How to Enter the Challenge
 
 Read the [Challenge
 Rules](http://rubylearning.com/blog/ruby-programming-challenge-faq/index.php#rpc6).
@@ -182,7 +182,7 @@ and some are participating for the fun of it.
 2.  Benoit Daloze, Belgium
 3.  Cary Swoveland, Canada
 
-## The Winners {style="color:#0000FF;"}
+## The Winners
 
 ![Winners](http://rubylearning.com/images/winner_icon_1.png)
 

@@ -100,7 +100,7 @@ the Ruby community.
 The four persons who win, can’t win again in the next immediate
 challenge but can still participate.
 
-## The Ruby Challenge {style="color:#0000FF;"}
+## The Ruby Challenge
 
 ![RPCFN](http://rubylearning.com/images/rubypc.jpg "Ruby Programming Challenge For Newbies")
 
@@ -109,7 +109,7 @@ challenge but can still participate.
 The entire challenge details are available at:
 [http://github.com/JEG2/broadsides](http://github.com/JEG2/broadsides).
 
-## How to Enter the Challenge {style="color:#0000FF;"}
+## How to Enter the Challenge
 
 Read the [Challenge
 Rules](http://rubylearning.com/blog/ruby-programming-challenge-faq/index.php#rpc6).
@@ -207,7 +207,7 @@ and some are participating for the fun of it.
 
 1.  Satoshi Asakawa, Japan
 
-## The Winners {style="color:#0000FF;"}
+## The Winners
 
 ![Winners](http://rubylearning.com/images/winner_icon_1.png)
 

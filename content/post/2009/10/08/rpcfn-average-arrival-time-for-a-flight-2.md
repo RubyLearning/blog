@@ -87,7 +87,7 @@ other products.
 The two persons who win, can’t win again in the next immediate challenge
 but can still participate.
 
-## The Ruby Challenge {style="color:#0000FF;"}
+## The Ruby Challenge
 
 ![RPCFN](http://rubylearning.com/images/rubypc.jpg "Ruby Programming Challenge For Newbies")
 
@@ -120,7 +120,7 @@ The output should look something like this when run from the console:
 Standard Libraries (meaning, no external Gems). You **do not** need to
 build a gem for this. Pure Ruby code is all that is needed.
 
-## How to Enter the Challenge {style="color:#0000FF;"}
+## How to Enter the Challenge
 
 Read the [Challenge
 Rules](http://rubylearning.com/blog/ruby-programming-challenge-faq/index.php#rpc6).
@@ -265,7 +265,7 @@ and some are participating for the fun of it.
 1.  Michael Kohl, Austria
 2.  [Peter Cooper, UK](http://rubyinside.com/)
 
-## The Winners {style="color:#0000FF;"}
+## The Winners
 
 ![Winners](http://rubylearning.com/images/winner_icon_1.png)
 
