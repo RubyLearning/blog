@@ -113,7 +113,7 @@ what each block of code was doing. Thats not so helpful when looking at
 the results! `Benchmark` allows you to pass in a label to the `report`
 method that will be printed along with the results.
 
-<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/c40eadba0e5256e0c5c27f538315222c2e5d290f/2013/06/19/how-do-i-benchmark-ruby-code/04_benchmark_labels.rb?embed=t"></script>
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/f4c734192682d7576b3ff804bfbb1271a16ae250/2013/06/19/how-do-i-benchmark-ruby-code/04_benchmark_labels.rb?embed=t"></script>
 [Code](https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/c40eadba0e5256e0c5c27f538315222c2e5d290f/2013/06/19/how-do-i-benchmark-ruby-code/04_benchmark_labels.rb)
 
 Ive now removed the comments describing the blocks and pass them in to
