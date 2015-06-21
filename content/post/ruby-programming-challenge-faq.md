@@ -1,14 +1,28 @@
-Ruby Programming Challenge For Newbies FAQ
-==========================================
++++
+draft = false
+title = "Ruby Programming Challenge for Newbies FAQ"
+date = "2009-09-23"
+publishdate = "2009-09-23"
+author = "Satish Talim"
+authorfacebook = "http://www.facebook.com/satishtalim/about"
+authorgoogleplus = "https://plus.google.com/+SatishTalim/about"
+authorlink = "http://satishtalim.com"
+authorlinkedin = "https://www.linkedin.com/in/satishtalim"
+authortwitter = "http://twitter.com/IndianGuru"
+categories = ['challenge', 'ruby']
+permalink = "rubylearning.com/blog/ruby-programming-challenge-faq"
+nocomment = false
+socialsharing = true
+tags = ["Satish Talim", "challenge", 'ruby']
+totop = true
 
++++
 What Is The Ruby Programming Challenge For Newbies (RPCFN)?
 -----------------------------------------------------------
 
 The RPCFN is a monthly programming challenge for **Ruby Newbies** in the
-spirit of the [Ruby
-Quiz](http://rubyquiz.com/).
-A new RPCFN will be posted on the [RubyLearning
-blog](http://rubylearning.com/blog/)
+spirit of the [Ruby Quiz](http://rubyquiz.com/).
+A new RPCFN will be posted on the [RubyLearning blog](http://rubylearning.com/blog/)
 every 1st of the month (normally). The contest is open to individuals
 only and you are invited to contribute solution(s) and/or discussion(s)
 as comments to the respective blog post. All solutions posted would be
