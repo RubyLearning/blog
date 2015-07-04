@@ -26,8 +26,8 @@ weightlifting, reading or writing
 
 ## Introduction
 
-![Gavin
-Morrice](http://rubylearning.com/images/GavinMorrice.jpg "Gavin Morrice")
+<img src="http://rubylearning.com/images/GavinMorrice.jpg" alt="Gavin
+Morrice" height="320" width="320">
 
 One of the most impressive aspects of Ruby is its metaprogramming
 capabilities. As a dynamic language, Ruby gives you the freedom to
