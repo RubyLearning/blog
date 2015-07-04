@@ -24,11 +24,10 @@ Edinburgh, Scotland. He likes sharing Rails tips<!--more--> on [his
 site](http://gavinmorrice.com/). When he’s not writing code he’s usually
 weightlifting, reading or writing
 
-## Introduction
+### Introduction
 
 <img src="http://rubylearning.com/images/GavinMorrice.jpg" alt="Gavin
 Morrice" height="320" width="320">
-
 One of the most impressive aspects of Ruby is its metaprogramming
 capabilities. As a dynamic language, Ruby gives you the freedom to
 define methods and even classes during runtime. Metaprogramming with
@@ -65,7 +64,7 @@ According to Wikipedia:
 > Metaprogramming is writing **code that writes code** during runtime to
 > make your life easier.
 
-## Adding methods in the context of an object {#object_context}
+### Adding methods in the context of an object {#object_context}
 
 In Ruby, *everything* is an object. The base class in Ruby is called
 `Object` (or `BasicObject` in Ruby 1.9) and all other classes inherit
@@ -125,7 +124,7 @@ that `my_other_object` doesn’t recognise the method
 To see where this feature of Ruby might be useful, let’s look at a more
 common example: writing class methods.
 
-### Writing Class Methods
+#### Writing Class Methods
 
 You’ll probably already be aware of this common syntax for writing
 methods to your Ruby classes:
@@ -175,7 +174,7 @@ realised that when you write a class method in Ruby, it’s just the same
 as creating an instance of any class and adding methods only to that
 instance, only this time its an instance of the class “Class”.
 
-## Writing Code That Writes Code {#writing_code_that_writes_code}
+### Writing Code That Writes Code {#writing_code_that_writes_code}
 
 An important philosophy in programming is DRY (Don’t Repeat Yourself).
 Writing code that is the same (or similar) several times is not only an
@@ -348,7 +347,7 @@ Although this approach is slightly more involved than the one in Example
 7, it ensures that each feature is treated the same and means that
 adding more attributes in future will be simpler.
 
-## A Brief Explanation of the Ruby Object Model
+### A Brief Explanation of the Ruby Object Model
 
 Before going any further, it’s important that we understand the basics
 of Ruby’s Object Model and how Ruby deals with method calls.  Whenever you call
@@ -418,7 +417,7 @@ This time, calling `awesome_method` behaves just like in Example 9, but
 `another_method` doesn’t contain the word “awesome” so we pass this up
 the chain of inheritance so the default behaviour is not broken.
 
-## Ghost Methods
+### Ghost Methods
 
 Strictly speaking, `MyGhostClass#awesome_method` is not really a method.
 If we create an instance of MyGhostClass and scan it’s methods for any
@@ -472,7 +471,7 @@ attribute during runtime:
     @car_model.stereo_info  # => "CD/MP3 Player"
     @car_model.stereo_price # => "£79.99"
 
-## Conclusion
+### Conclusion
 
 This tutorial has only scratched the surface of Ruby’s metaprogramming
 capabilities but hopefully it’s enough to spark your curiosity and will
