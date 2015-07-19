@@ -75,7 +75,7 @@ not be covered in detail:
 Now we’re ready to create our first app, lets call it ‘chat’. We can do
 that easily in a couple of lines:
 
-<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/0f03f5437f3c9821ce6d49ce3424afda431808f1/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/main_part2.html?embed=t"></script>
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/89d0a5924f410c6f5d0e03c1f323b01045a6b536/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/setup_part2.sh?embed=t"></script>
 
 The document structure has some similarities to Rails. The main
 difference Rails users will notice is that we have an extra folder
@@ -174,7 +174,11 @@ URL changes every time you click on a user’s name. Also, the class
 it visible (I’ll go ahead and add the CSS for items we will add later
 on):
 
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/b774ae9a7ae6cc98fceefea4a99e8b2bdb50d2db/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/active.css?embed=t"></script>
+
 Now let’s create a form on the right side to send messages to each user:
+
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/89d0a5924f410c6f5d0e03c1f323b01045a6b536/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/main_part2.html?embed=t"></script>
 
 First, we’re checking if there is a user selected before displaying the
 form, then we display all messages from the current conversation (the
@@ -206,6 +210,8 @@ users could see when other users are messaging them.
 
 Let’s add a new collection called `_notifications` and create a new one
 after each message is sent:
+
+<script src="https://bitbucket.org/teamrubylearning/rubylearning-code-snippets/src/a321082720529d3cf8c1cc4f15b208ff38728b47/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/add_and_delete_notifications.rb?embed=t"></script>
 
 Also, we need to delete notifications from after a user selects the
 conversation and sees the new messages, so I added that part to the
