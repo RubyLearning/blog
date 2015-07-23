@@ -26,7 +26,7 @@ totop: true
 Registrations are now open for RubyLearning's *long-awaited and popular*
 Ruby programming course. This is an intensive, online course for
 *beginners* that helps you get started with **Ruby** programming. The
-course starts on **Saturday, 27th June 2015** and runs for seven weeks.
+course starts on **Saturday, 9 August 2015** and runs for seven weeks.
 
 ## Course Fee and Discount
 
@@ -145,7 +145,7 @@ Victor Goff III and others from the RubyLearning team.
 
 ## Dates
 
-The course starts on **Saturday, 27th June 2015** and runs for seven
+The course starts on **Saturday, 9th of August 2015** and runs for seven
 weeks.
 
 ## How do I register and pay the course fees?
