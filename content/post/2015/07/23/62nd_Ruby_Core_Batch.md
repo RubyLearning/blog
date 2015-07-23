@@ -1,6 +1,6 @@
 ---
-draft: true
-title: Learn Ruby programming - 61st batch
+draft: false
+title: Learn Ruby programming - 62nd batch
 date: 2015-05-27
 author: Satish Talim
 authorlink: "http://satishtalim.com"
@@ -10,7 +10,7 @@ authorlinkedin: https://www.linkedin.com/in/satishtalim
 authortwitter: http://twitter.com/IndianGuru
 authorfacebook: http://www.facebook.com/rubylearning
 layout: post
-permalink: /2015/05/27/learn-ruby-programming-61st-batch/
+permalink: /2015/07/23/learn-ruby-programming-62nd-batch/
 categories:
 - beginners
 - ruby
@@ -33,7 +33,7 @@ course starts on **Saturday, 27th June 2015** and runs for seven weeks.
 Please [create a new
 account](http://rubylearning.org/classes/login/index.php) first and then
 pay US $44.95 by clicking on the PayPal button
-[![Paypal](http://rubylearning.com/images/paypal_ruby.gif)](http://rubylearning.org/classes/enrol/index.php?id=59)
+[![Paypal](http://rubylearning.com/images/paypal_ruby.gif)](http://rubylearning.org/classes/enrol/index.php?id=61)
 
 **Note**: If you do not have a PayPal account and would like to pay by
 credit card on PayPal then do email me at satish [at] rubylearning.org.
