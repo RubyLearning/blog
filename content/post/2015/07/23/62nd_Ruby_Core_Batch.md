@@ -162,7 +162,7 @@ To pay the Course Fee:
 Please [create a new
 account](http://rubylearning.org/classes/login/index.php) first and then
 pay US $44.95 by clicking on the PayPal button
-[![Paypal](http://rubylearning.com/images/paypal_ruby.gif)](http://rubylearning.org/classes/enrol/index.php?id=59)
+[![Paypal](http://rubylearning.com/images/paypal_ruby.gif)](http://rubylearning.org/classes/enrol/index.php?id=61)
 
 ## How does the course work?
 
