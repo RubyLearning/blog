@@ -23,7 +23,7 @@ tags:
 socialsharing: true
 totop: true
 ---
-Registrations are now open for RubyLearning's *long-awaited and popular*
+Registrations are now open for RubyLearning's *long-running and popular*
 Ruby programming course. This is an intensive, online course for
 *beginners* that helps you get started with **Ruby** programming. The
 course starts on **Saturday, 3 October 2015** and runs for seven weeks.
@@ -33,7 +33,7 @@ course starts on **Saturday, 3 October 2015** and runs for seven weeks.
 Please [create a new
 account](http://rubylearning.org/classes/login/index.php) first and then
 pay US $44.95 by clicking on the PayPal button
-[![Paypal](http://rubylearning.com/images/paypal_ruby.gif)](http://rubylearning.org/classes/enrol/index.php?id=61)
+[![Paypal](http://rubylearning.com/images/paypal_ruby.gif)](http://rubylearning.org/classes/enrol/index.php?id=62)
 
 **Note**: If you do not have a PayPal account and would like to pay by
 credit card on PayPal then do email me at satish [at] rubylearning.org.
@@ -162,7 +162,7 @@ To pay the Course Fee:
 Please [create a new
 account](http://rubylearning.org/classes/login/index.php) first and then
 pay US $44.95 by clicking on the PayPal button
-[![Paypal](http://rubylearning.com/images/paypal_ruby.gif)](http://rubylearning.org/classes/enrol/index.php?id=61)
+[![Paypal](http://rubylearning.com/images/paypal_ruby.gif)](http://rubylearning.org/classes/enrol/index.php?id=62)
 
 ## How does the course work?
 
