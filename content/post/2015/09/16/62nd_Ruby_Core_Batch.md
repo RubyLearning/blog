@@ -145,7 +145,7 @@ Victor Goff III and others from the RubyLearning team.
 
 ## Dates
 
-The course starts on **Saturday, 9th of August 2015** and runs for seven
+The course starts on **Saturday, 3rd of October 2015** and runs for seven
 weeks.
 
 ## How do I register and pay the course fees?
