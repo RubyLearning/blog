@@ -57,34 +57,42 @@ expectations correctly, there is no real-time ‘webcasting’.
 
 ### Some Commonly Asked Questions
 
--   **Qs.** Is there any specific time when I need to be online?\
-    **Ans.** No. You need not be online at a specific time of the day.
--   **Qs.** Is it important for me to take part in the course forums?\
-    **Ans.** YES. You must Participate in the forum(s) for asking and
-    answering questions or starting discussions. Share knowledge, and
-    exchange ideas among yourselves (participants) during the course
-    period. Participants are strongly encouraged to post technical
-    questions, interesting articles, tools, sample programs or anything
-    that is relevant to the class / lesson. Past participants will
-    confirm that they learned the best by active participation.
--   **Qs.** How much time do I need to spend online for a course, in a
-    day?\
-    **Ans.** This will vary from person to person. All depends upon your
-    comfort level and the amount of time you want to spend on a
-    particular lesson or task.
--   **Qs.** Is there any specific set time for feedback (e.g., any
-    mentor responds to me within 24 hours?)\
-    **Ans.** Normally somebody should answer your query / question
-    within 24 hours.
--   **Qs.** What happens if nobody answers my questions / queries?\
-    **Ans.** Normally, that will not happen. In case you feel that your
-    question / query is not answered, then please post the same in the
-    thread – “Any UnAnswered Questions / Queries”.
--   **Qs.** What happens to the class (or forums) after a course is
-    over? Can you keep it open for a few more days so that students can
-    complete and discuss too?\
-    **Ans.** The course and its forum is open for a month after the last
-    day of the course.
+- **Question**
+  - Is there any specific time when I need to be online?
+-  **Answer**
+  - No. You need not be online at a specific time of the day.
+- **Question**
+  - Is it important for me to take part in the course forums?
+- **Ans.** 
+  - YES. You must Participate in the forum(s) for asking and answering
+    questions or starting discussions. Share knowledge, and exchange ideas
+    among yourselves (participants) during the course period. Participants are
+    strongly encouraged to post technical questions, interesting articles,
+    tools, sample programs or anything that is relevant to the class / lesson.
+    Past participants will confirm that they learned the best by active
+    participation.
+-   **Question**
+  - How much time do I need to spend online for a course, in a day?
+- **Answer**
+  - This will vary from person to person. All depends upon your comfort level
+    and the amount of time you want to spend on a particular lesson or task.
+- **Question**
+  - Is there any specific set time for feedback (e.g., any mentor responds to
+    me within 24 hours?)
+- **Answer**
+  - Normally somebody should answer your query / question within 24 hours.
+- **Question**
+  - What happens if nobody answers my questions / queries?
+- **Answer**
+  - Normally, that will not happen. In case you feel that your question / query
+    is not answered, then please post the same in the thread – “Any UnAnswered
+Questions / Queries”.
+- **Question**
+  - What happens to the class (or forums) after a course is over? Can you keep
+    it open for a few more days so that students can complete and discuss too?
+- **Answer**
+  - The course and its forum is open for a month after the last day of the
+    course.
 
 Posted by **Satish Talim**
 
