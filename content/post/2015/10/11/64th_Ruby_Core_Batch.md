@@ -158,11 +158,11 @@ weeks.
     and provide quality content to you.
 
 To pay the Course Fee:
+[![Paypal](http://rubylearning.com/images/paypal_ruby.gif)](http://rubylearning.org/classes/enrol/index.php?id=63)
 
 Please [create a new
 account](http://rubylearning.org/classes/login/index.php) first and then
 pay US $44.95 by clicking on the PayPal button
-[![Paypal](http://rubylearning.com/images/paypal_ruby.gif)](http://rubylearning.org/classes/enrol/index.php?id=62)
 
 ## How does the course work?
 
