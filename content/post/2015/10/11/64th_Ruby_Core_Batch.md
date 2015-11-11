@@ -10,7 +10,7 @@ authorlinkedin: https://www.linkedin.com/in/satishtalim
 authortwitter: http://twitter.com/IndianGuru
 authorfacebook: http://www.facebook.com/rubylearning
 layout: post
-permalink: /2015/09/16/learn-ruby-programming-64th-batch/
+permalink: /2015/10/11/learn-ruby-programming-64th-batch/
 categories:
 - beginners
 - ruby
