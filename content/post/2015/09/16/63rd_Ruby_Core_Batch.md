@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Learn Ruby programming - 63rd batch
 date: 2015-09-16
 author: Satish Talim
