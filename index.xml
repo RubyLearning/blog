@@ -52,7 +52,7 @@ motivation and drive to get going.&amp;rdquo;&lt;/p&gt;
 
 &lt;h2 id=&#34;what-s-ruby:0abd26cdb3a9774f40682720c8206489&#34;&gt;What&amp;rsquo;s Ruby?&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/rubylogo.png&#34; alt=&#34;Ruby&#34; title=&#34;License: http://creativecommons.org/licenses/by-sa/2.5/&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/ruby_350.png&#34; alt=&#34;Ruby&#34; title=&#34;Modified for display - License: http://creativecommons.org/licenses/by-sa/2.5/&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;According to
@@ -1534,141 +1534,6 @@ developed.
     </item>
     
     <item>
-      <title>RPCFN: Ruby Programming Challenge For Newbies (Reprint)</title>
-      <link>http://rubylearning.com/blog/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</link>
-      <pubDate>Sun, 25 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://rubylearning.com/blog/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</guid>
-      <description>&lt;div&gt;
-  &lt;h3&gt;
-    RPCFN: Ruby Programming Challenge For Newbies
-  &lt;/h3&gt;
-  
-  &lt;p&gt;
-    &lt;b&gt;Note&lt;/b&gt;: This article first appeared on 20th Sept. 2009 but the original is not accessible; hence the reprint.
-  &lt;/p&gt;
-  
-  &lt;p class=&#34;update&#34;&gt;
-    After a &lt;a href=&#34;http://rubylearning.com/blog/2015/01/13/poll-ruby-problems-for-beginners-and-prizes-reprint/&#34;&gt;very encouraging response to our poll&lt;/a&gt; from YOU, the readers of the &lt;abbr title=&#34;RubyLearning&#34;&gt;RL&lt;/abbr&gt; blog, RL is happy to announce the first-ever &lt;b&gt;fortnightly&lt;/b&gt; (every 14 days) &amp;#8220;&lt;strong&gt;Ruby Programming Challenge For Newbies (RPCFN)&lt;/strong&gt;&amp;#8221; that starts on &lt;b&gt;Friday, 25th Sept. 2009&lt;/b&gt;.
-  &lt;/p&gt;
-  
-  &lt;h3&gt;
-    What Is The RPCFN?
-  &lt;/h3&gt;
-  
-  &lt;p&gt;
-    &lt;img class=&#34;alignright&#34; src=&#39;http://rubylearning.com/images/rubypc.jpg&#39; style=&#34;border: 0px none ;&#34; alt=&#34;RPCFN&#34; title=&#34;Ruby Programming Challenge For Newbies&#34; /&gt;
-  &lt;/p&gt;
-  
-  &lt;p&gt;
-    The RPCFN is a fortnightly (every 14 days) programming challenge for &lt;strong&gt;Ruby Newbies&lt;/strong&gt; in the spirit of the &lt;a href=&#34;http://rubyquiz.com/&#34;&gt;Ruby Quiz&lt;/a&gt;. A new RPCFN will be posted on this &lt;a href=&#34;http://rubylearning.com/blog/&#34;&gt;RubyLearning blog&lt;/a&gt; every alternate Friday, starting 25th Sept. 2009. The contest is open to individuals only and you are invited to contribute solution(s) and/or discussion(s) as comments to the respective blog post. 13 days after the RPCFN is posted (i.e. on a Thursday), all the solutions will be thrown open for everyone to see and comment upon. The next day i.e. Friday, the cycle begins again. The Ruby working solution(s) should be clear-cut, follow Ruby conventions and still be easy to understand.
-  &lt;/p&gt;
-  
-  &lt;h3&gt;
-    How does RPCFN benefit you?
-  &lt;/h3&gt;
-  
-  &lt;p&gt;
-    &lt;a href=&#34;http://rubylearning.com/blog/2009/07/15/chris-strom-how-do-i-learn-and-master-sinatra/&#34;&gt;Chris Strom&lt;/a&gt; (&lt;a title=&#34;twitter&#34; href=&#34;http://twitter.com/eee_c&#34;&gt;twitter&lt;/a&gt;&amp;nbsp;/&amp;nbsp;&lt;a title=&#34;blog&#34; href=&#34;http://japhr.blogspot.com&#34;&gt;blog&lt;/a&gt;) is one of the problem setters for the RPCFN and has this to say:
-  &lt;/p&gt;
-  
-  &lt;blockquote&gt;
-    &lt;p&gt;
-      RPCFN is a good idea as reading books and documentation can only take you so far when learning a new language. To really learn, you need to use the language. RPCFN provides a fabulous forum for using Ruby in the form of regular, engaging (but not arcanely difficult) challenges. Better yet, it provides feedback on how to use Ruby well, as each fortnight the best solution to a challenge is chosen. RPCFN is a wonderful introduction to the Ruby language and to the Ruby community. Welcome newbies!
-    &lt;/p&gt;
-  &lt;/blockquote&gt;
-  
-  &lt;h3&gt;
-    How to Enter
-  &lt;/h3&gt;
-  
-  &lt;p&gt;
-    It&amp;#8217;s free. You can enter the challenge by posting the following as a comment to the Ruby challenge blog post that will appear every alternate Friday, starting 25th Sept. 2009:
-  &lt;/p&gt;
-  
-  &lt;ul&gt;
-    &lt;li&gt;
-      Your name:
-    &lt;/li&gt;
-    &lt;li&gt;
-      Email address:
-    &lt;/li&gt;
-    &lt;li&gt;
-      URL of your 125&amp;#215;125 real photo (optional):
-    &lt;/li&gt;
-    &lt;li&gt;
-      Brief description of what you do:
-    &lt;/li&gt;
-    &lt;li&gt;
-      Country of Residence:
-    &lt;/li&gt;
-    &lt;li&gt;
-      Your Solution (i.e. Ruby code):
-    &lt;/li&gt;
-    &lt;li&gt;
-      Explanation (if any):
-    &lt;/li&gt;
-    &lt;li&gt;
-      Test cases (if any):
-    &lt;/li&gt;
-  &lt;/ul&gt;
-  
-  &lt;p&gt;
-    &lt;b&gt;Note&lt;/b&gt;: All solutions posted would be hidden to allow users to come up with their own solutions. The solutions will be revealed only after a winner is chosen.
-  &lt;/p&gt;
-  
-  &lt;h3&gt;
-    Notification
-  &lt;/h3&gt;
-  
-  &lt;p&gt;
-    The winning entries will be announced on this blog. The winners will be sent their prizes by email.
-  &lt;/p&gt;
-  
-  &lt;h3&gt;
-    Prizes
-  &lt;/h3&gt;
-  
-  &lt;p&gt;
-    There will normally be two prizes (though we reserve the right to change this for each challenge). One prize will be awarded for the best solution (if there is a tie between answers, then the one who posted first will be the winner) and the other will be decided by randomly selecting one person from all the remaining working solutions for that fortnight (14 days). If a person wins he/she can’t win again in the next, immediate challenge but can still participate. Prizes can range from small cash rewards to free PDFs &amp;#8211; whatever the sponsors of the challenge have offered.
-  &lt;/p&gt;
-  
-  &lt;h3&gt;
-    Sponsors
-  &lt;/h3&gt;
-  
-  &lt;p&gt;
-    Any individual or companies interested in sponsoring the fortnightly event are welcome. Please contact Satish Talim at &lt;a href=&#34;mailto:satish.talim@gmail.com&#34;&gt;satish.talim@gmail.com&lt;/a&gt;
-  &lt;/p&gt;
-  
-  &lt;h3&gt;
-    Donations
-  &lt;/h3&gt;
-  
-  &lt;p&gt;
-    RPCFN is entirely financed by RubyLearning and sometimes sponsors, so if you enjoy solving Ruby problems and would like to give something back by helping with the running costs then any donations are gratefully received.
-  &lt;/p&gt;
-  
-  &lt;h3&gt;
-    Acknowledgements
-  &lt;/h3&gt;
-  
-  &lt;p&gt;
-    Special thanks to the RubyLearning team, namely &lt;a href=&#34;http://citizen428.net/&#34;&gt;Michael Kohl&lt;/a&gt; (Austria), Peter Crawford (Italy), Satoshi Asakawa (Japan) and Victor Goff (USA).
-  &lt;/p&gt;
-  
-  &lt;h3&gt;
-    Questions?
-  &lt;/h3&gt;
-  
-  &lt;p&gt;
-    Contact Satish Talim at &lt;a href=&#34;mailto:satish.talim@gmail.com&#34;&gt;satish.talim@gmail.com&lt;/a&gt;
-  &lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>RPCFN: Shift Subtitle Reprint</title>
       <link>http://rubylearning.com/blog/2015/01/25/rpcfn-shift-subtitle-reprint/</link>
       <pubDate>Sun, 25 Jan 2015 00:00:00 +0000</pubDate>
@@ -2140,6 +2005,141 @@ puts b.usec
       &lt;b&gt;The Challenge is now closed&lt;/b&gt;. &lt;b&gt;Fabio Akita&lt;/b&gt; has a &lt;a href=&#34;http://github.com/akitaonrails/Shift-Subtitle&#34;&gt;working solution to this problem&lt;/a&gt;. This is not a &amp;#8220;perfect&amp;#8221; or the sole &amp;#8220;correct&amp;#8221; solution, but just one way of doing it. Fabio is thankful to &lt;b&gt;Satoshi Asakawa&lt;/b&gt; for using one of his ideas in this implementation.
     &lt;/li&gt;
   &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RPCFN: Ruby Programming Challenge For Newbies (Reprint)</title>
+      <link>http://rubylearning.com/blog/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</link>
+      <pubDate>Sun, 25 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubylearning.com/blog/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</guid>
+      <description>&lt;div&gt;
+  &lt;h3&gt;
+    RPCFN: Ruby Programming Challenge For Newbies
+  &lt;/h3&gt;
+  
+  &lt;p&gt;
+    &lt;b&gt;Note&lt;/b&gt;: This article first appeared on 20th Sept. 2009 but the original is not accessible; hence the reprint.
+  &lt;/p&gt;
+  
+  &lt;p class=&#34;update&#34;&gt;
+    After a &lt;a href=&#34;http://rubylearning.com/blog/2015/01/13/poll-ruby-problems-for-beginners-and-prizes-reprint/&#34;&gt;very encouraging response to our poll&lt;/a&gt; from YOU, the readers of the &lt;abbr title=&#34;RubyLearning&#34;&gt;RL&lt;/abbr&gt; blog, RL is happy to announce the first-ever &lt;b&gt;fortnightly&lt;/b&gt; (every 14 days) &amp;#8220;&lt;strong&gt;Ruby Programming Challenge For Newbies (RPCFN)&lt;/strong&gt;&amp;#8221; that starts on &lt;b&gt;Friday, 25th Sept. 2009&lt;/b&gt;.
+  &lt;/p&gt;
+  
+  &lt;h3&gt;
+    What Is The RPCFN?
+  &lt;/h3&gt;
+  
+  &lt;p&gt;
+    &lt;img class=&#34;alignright&#34; src=&#39;http://rubylearning.com/images/rubypc.jpg&#39; style=&#34;border: 0px none ;&#34; alt=&#34;RPCFN&#34; title=&#34;Ruby Programming Challenge For Newbies&#34; /&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    The RPCFN is a fortnightly (every 14 days) programming challenge for &lt;strong&gt;Ruby Newbies&lt;/strong&gt; in the spirit of the &lt;a href=&#34;http://rubyquiz.com/&#34;&gt;Ruby Quiz&lt;/a&gt;. A new RPCFN will be posted on this &lt;a href=&#34;http://rubylearning.com/blog/&#34;&gt;RubyLearning blog&lt;/a&gt; every alternate Friday, starting 25th Sept. 2009. The contest is open to individuals only and you are invited to contribute solution(s) and/or discussion(s) as comments to the respective blog post. 13 days after the RPCFN is posted (i.e. on a Thursday), all the solutions will be thrown open for everyone to see and comment upon. The next day i.e. Friday, the cycle begins again. The Ruby working solution(s) should be clear-cut, follow Ruby conventions and still be easy to understand.
+  &lt;/p&gt;
+  
+  &lt;h3&gt;
+    How does RPCFN benefit you?
+  &lt;/h3&gt;
+  
+  &lt;p&gt;
+    &lt;a href=&#34;http://rubylearning.com/blog/2009/07/15/chris-strom-how-do-i-learn-and-master-sinatra/&#34;&gt;Chris Strom&lt;/a&gt; (&lt;a title=&#34;twitter&#34; href=&#34;http://twitter.com/eee_c&#34;&gt;twitter&lt;/a&gt;&amp;nbsp;/&amp;nbsp;&lt;a title=&#34;blog&#34; href=&#34;http://japhr.blogspot.com&#34;&gt;blog&lt;/a&gt;) is one of the problem setters for the RPCFN and has this to say:
+  &lt;/p&gt;
+  
+  &lt;blockquote&gt;
+    &lt;p&gt;
+      RPCFN is a good idea as reading books and documentation can only take you so far when learning a new language. To really learn, you need to use the language. RPCFN provides a fabulous forum for using Ruby in the form of regular, engaging (but not arcanely difficult) challenges. Better yet, it provides feedback on how to use Ruby well, as each fortnight the best solution to a challenge is chosen. RPCFN is a wonderful introduction to the Ruby language and to the Ruby community. Welcome newbies!
+    &lt;/p&gt;
+  &lt;/blockquote&gt;
+  
+  &lt;h3&gt;
+    How to Enter
+  &lt;/h3&gt;
+  
+  &lt;p&gt;
+    It&amp;#8217;s free. You can enter the challenge by posting the following as a comment to the Ruby challenge blog post that will appear every alternate Friday, starting 25th Sept. 2009:
+  &lt;/p&gt;
+  
+  &lt;ul&gt;
+    &lt;li&gt;
+      Your name:
+    &lt;/li&gt;
+    &lt;li&gt;
+      Email address:
+    &lt;/li&gt;
+    &lt;li&gt;
+      URL of your 125&amp;#215;125 real photo (optional):
+    &lt;/li&gt;
+    &lt;li&gt;
+      Brief description of what you do:
+    &lt;/li&gt;
+    &lt;li&gt;
+      Country of Residence:
+    &lt;/li&gt;
+    &lt;li&gt;
+      Your Solution (i.e. Ruby code):
+    &lt;/li&gt;
+    &lt;li&gt;
+      Explanation (if any):
+    &lt;/li&gt;
+    &lt;li&gt;
+      Test cases (if any):
+    &lt;/li&gt;
+  &lt;/ul&gt;
+  
+  &lt;p&gt;
+    &lt;b&gt;Note&lt;/b&gt;: All solutions posted would be hidden to allow users to come up with their own solutions. The solutions will be revealed only after a winner is chosen.
+  &lt;/p&gt;
+  
+  &lt;h3&gt;
+    Notification
+  &lt;/h3&gt;
+  
+  &lt;p&gt;
+    The winning entries will be announced on this blog. The winners will be sent their prizes by email.
+  &lt;/p&gt;
+  
+  &lt;h3&gt;
+    Prizes
+  &lt;/h3&gt;
+  
+  &lt;p&gt;
+    There will normally be two prizes (though we reserve the right to change this for each challenge). One prize will be awarded for the best solution (if there is a tie between answers, then the one who posted first will be the winner) and the other will be decided by randomly selecting one person from all the remaining working solutions for that fortnight (14 days). If a person wins he/she can’t win again in the next, immediate challenge but can still participate. Prizes can range from small cash rewards to free PDFs &amp;#8211; whatever the sponsors of the challenge have offered.
+  &lt;/p&gt;
+  
+  &lt;h3&gt;
+    Sponsors
+  &lt;/h3&gt;
+  
+  &lt;p&gt;
+    Any individual or companies interested in sponsoring the fortnightly event are welcome. Please contact Satish Talim at &lt;a href=&#34;mailto:satish.talim@gmail.com&#34;&gt;satish.talim@gmail.com&lt;/a&gt;
+  &lt;/p&gt;
+  
+  &lt;h3&gt;
+    Donations
+  &lt;/h3&gt;
+  
+  &lt;p&gt;
+    RPCFN is entirely financed by RubyLearning and sometimes sponsors, so if you enjoy solving Ruby problems and would like to give something back by helping with the running costs then any donations are gratefully received.
+  &lt;/p&gt;
+  
+  &lt;h3&gt;
+    Acknowledgements
+  &lt;/h3&gt;
+  
+  &lt;p&gt;
+    Special thanks to the RubyLearning team, namely &lt;a href=&#34;http://citizen428.net/&#34;&gt;Michael Kohl&lt;/a&gt; (Austria), Peter Crawford (Italy), Satoshi Asakawa (Japan) and Victor Goff (USA).
+  &lt;/p&gt;
+  
+  &lt;h3&gt;
+    Questions?
+  &lt;/h3&gt;
+  
+  &lt;p&gt;
+    Contact Satish Talim at &lt;a href=&#34;mailto:satish.talim@gmail.com&#34;&gt;satish.talim@gmail.com&lt;/a&gt;
+  &lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
