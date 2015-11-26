@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ebook on RubyLearning Blog</title>
-    <link>http://rubylearning.com/blog/categories/ebook/</link>
+    <link>http://rubylearning.com/categories/ebook/</link>
     <description>Recent content in Ebook on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Apr 2013 02:03:43 -0400</lastBuildDate>
-    <atom:link href="http://rubylearning.com/blog/categories/ebook/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/categories/ebook/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What&#39;s Rack</title>
-      <link>http://rubylearning.com/blog/2013/04/02/whats-rack/</link>
+      <link>http://rubylearning.com/2013/04/02/whats-rack/</link>
       <pubDate>Tue, 02 Apr 2013 02:03:43 -0400</pubDate>
       
-      <guid>http://rubylearning.com/blog/2013/04/02/whats-rack/</guid>
+      <guid>http://rubylearning.com/2013/04/02/whats-rack/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;A Quick Introduction to Rack&lt;/strong&gt;&lt;/p&gt;

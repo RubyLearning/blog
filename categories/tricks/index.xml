@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tricks on RubyLearning Blog</title>
-    <link>http://rubylearning.com/blog/categories/tricks/</link>
+    <link>http://rubylearning.com/categories/tricks/</link>
     <description>Recent content in Tricks on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Jun 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/blog/categories/tricks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/categories/tricks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How do I benchmark Ruby code?</title>
-      <link>http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/</link>
+      <link>http://rubylearning.com/2013/06/19/how-do-i-benchmark-ruby-code/</link>
       <pubDate>Wed, 19 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/</guid>
+      <guid>http://rubylearning.com/2013/06/19/how-do-i-benchmark-ruby-code/</guid>
       <description>
 
 &lt;p&gt;This guest post is by Jesse Storimer. Hes the author of &lt;a href=&#34;http://www.jstorimer.com/products/working-with-unix-processes&#34;&gt;Working With Unix Processes&lt;/a&gt;,
@@ -189,10 +189,10 @@ give feedback in the comments section of this post. Thanks!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Clojure Tips from the Experts</title>
-      <link>http://rubylearning.com/blog/2010/07/26/clojure-tips-from-the-experts/</link>
+      <link>http://rubylearning.com/2010/07/26/clojure-tips-from-the-experts/</link>
       <pubDate>Mon, 26 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/07/26/clojure-tips-from-the-experts/</guid>
+      <guid>http://rubylearning.com/2010/07/26/clojure-tips-from-the-experts/</guid>
       <description>
 
 &lt;p&gt;RubyLearning wrote to a lot of experts, gathering their best tips on
@@ -702,10 +702,10 @@ to this post.&lt;/p&gt;
     
     <item>
       <title>&#34;AkitaOnRails&#34; On Ruby Symbols</title>
-      <link>http://rubylearning.com/blog/2007/11/26/akitaonrails-on-ruby-symbols/</link>
+      <link>http://rubylearning.com/2007/11/26/akitaonrails-on-ruby-symbols/</link>
       <pubDate>Mon, 26 Nov 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2007/11/26/akitaonrails-on-ruby-symbols/</guid>
+      <guid>http://rubylearning.com/2007/11/26/akitaonrails-on-ruby-symbols/</guid>
       <description>&lt;p&gt;&lt;em&gt;RubyLearning recently caught with &lt;strong&gt;Fabio Akita&lt;/strong&gt; from Brazil and got
 his viewpoint on one of the vexing areas for beginners in Ruby –
 &lt;strong&gt;Symbols&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -918,10 +918,10 @@ Symbols&lt;/a&gt;&lt;/p&gt;
     
     <item>
       <title>Ruby Quirks</title>
-      <link>http://rubylearning.com/blog/2007/04/11/ruby-quirks/</link>
+      <link>http://rubylearning.com/2007/04/11/ruby-quirks/</link>
       <pubDate>Wed, 11 Apr 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2007/04/11/ruby-quirks/</guid>
+      <guid>http://rubylearning.com/2007/04/11/ruby-quirks/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ruby Quirks&lt;/strong&gt; – peculiarity of behavior? I know this topic is
 debatable and remember &amp;ldquo;one man&amp;rsquo;s meat is another man&amp;rsquo;s poison!&amp;rdquo; I plan
 to write down here (in no particular order), some of the little Ruby
@@ -1158,10 +1158,10 @@ instantly put it on the internet.&lt;/p&gt;
     
     <item>
       <title>Your favourite bit of Ruby code?</title>
-      <link>http://rubylearning.com/blog/2007/02/09/your-favourite-bit-of-ruby-code/</link>
+      <link>http://rubylearning.com/2007/02/09/your-favourite-bit-of-ruby-code/</link>
       <pubDate>Fri, 09 Feb 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2007/02/09/your-favourite-bit-of-ruby-code/</guid>
+      <guid>http://rubylearning.com/2007/02/09/your-favourite-bit-of-ruby-code/</guid>
       <description>&lt;p&gt;An interesting thread at Ruby_talk is &amp;lsquo;Your favorite bit of Ruby code.&amp;rsquo;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -1192,10 +1192,10 @@ puts 6.factorial
     
     <item>
       <title>Convert bytes to megabytes</title>
-      <link>http://rubylearning.com/blog/2007/02/06/convert-bytes-to-megabytes/</link>
+      <link>http://rubylearning.com/2007/02/06/convert-bytes-to-megabytes/</link>
       <pubDate>Tue, 06 Feb 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2007/02/06/convert-bytes-to-megabytes/</guid>
+      <guid>http://rubylearning.com/2007/02/06/convert-bytes-to-megabytes/</guid>
       <description>&lt;p&gt;In one of my projects, I need to find the file-size in megabytes again
 and again. This simple method helps me to convert the size of a file in
 bytes to megabytes. This is useful for very large files.&lt;/p&gt;

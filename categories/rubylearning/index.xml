@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rubylearning on RubyLearning Blog</title>
-    <link>http://rubylearning.com/blog/categories/rubylearning/</link>
+    <link>http://rubylearning.com/categories/rubylearning/</link>
     <description>Recent content in Rubylearning on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Apr 2015 00:32:34 -0400</lastBuildDate>
-    <atom:link href="http://rubylearning.com/blog/categories/rubylearning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/categories/rubylearning/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>RubyLearning Tutorial Translated To Arabic</title>
-      <link>http://rubylearning.com/blog/2015/04/06/rubylearning-tutorial-translated-to-arabic/</link>
+      <link>http://rubylearning.com/2015/04/06/rubylearning-tutorial-translated-to-arabic/</link>
       <pubDate>Mon, 06 Apr 2015 00:32:34 -0400</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/04/06/rubylearning-tutorial-translated-to-arabic/</guid>
+      <guid>http://rubylearning.com/2015/04/06/rubylearning-tutorial-translated-to-arabic/</guid>
       <description>&lt;p&gt;Ali Osm is young Libyan programmer, and started programming in 2011.&lt;/p&gt;
 
 &lt;p&gt;In 2014 he saw the Ruby programming language and liked it, and so he decided to
@@ -22,7 +22,7 @@ create the &lt;a href=&#34;http://ruby3arabi.com&#34;&gt;Ruby3arabi.com&lt;/a&gt
 Ruby language to become popular in the Arabic programmers community.  Here is
 Ali Osm telling us about what is going on.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/blog/blog/media/ruby3arabi-brand_30.png&#34; alt=&#34;Ruby3arabi&#34; title=&#34;Image of Ruby3arabi
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/blog/media/ruby3arabi-brand_30.png&#34; alt=&#34;Ruby3arabi&#34; title=&#34;Image of Ruby3arabi
 Website Icon&#34; /&gt;
 &lt;/p&gt;
 

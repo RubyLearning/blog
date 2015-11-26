@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Basics on RubyLearning Blog</title>
-    <link>http://rubylearning.com/blog/categories/basics/</link>
+    <link>http://rubylearning.com/categories/basics/</link>
     <description>Recent content in Basics on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Mar 2015 01:15:34 -0400</lastBuildDate>
-    <atom:link href="http://rubylearning.com/blog/categories/basics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/categories/basics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Comment Types in Ruby</title>
-      <link>http://rubylearning.com/blog/2015/03/20/comment-types-in-ruby/</link>
+      <link>http://rubylearning.com/2015/03/20/comment-types-in-ruby/</link>
       <pubDate>Fri, 20 Mar 2015 01:15:34 -0400</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/03/20/comment-types-in-ruby/</guid>
+      <guid>http://rubylearning.com/2015/03/20/comment-types-in-ruby/</guid>
       <description>
 
 &lt;p&gt;There are basically two types of comments in Ruby.  And they work the

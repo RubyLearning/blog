@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learn Sinatra on RubyLearning Blog</title>
-    <link>http://rubylearning.com/blog/categories/learn-sinatra/</link>
+    <link>http://rubylearning.com/categories/learn-sinatra/</link>
     <description>Recent content in Learn Sinatra on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/blog/categories/learn-sinatra/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/categories/learn-sinatra/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What are the Twelve Rules of Sinatra? (Reprint)</title>
-      <link>http://rubylearning.com/blog/2015/01/24/what-are-the-twelve-rules-of-sinatra-reprint/</link>
+      <link>http://rubylearning.com/2015/01/24/what-are-the-twelve-rules-of-sinatra-reprint/</link>
       <pubDate>Sat, 24 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/24/what-are-the-twelve-rules-of-sinatra-reprint/</guid>
+      <guid>http://rubylearning.com/2015/01/24/what-are-the-twelve-rules-of-sinatra-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This article first appeared on 19th July. 2009 but the original is not accessible; hence the reprint.
@@ -77,10 +77,10 @@
     
     <item>
       <title>Corey Donohoe: How do I learn and master Sinatra?</title>
-      <link>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</link>
+      <link>http://rubylearning.com/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</guid>
+      <guid>http://rubylearning.com/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: We are re-printing this blog post that appeared on 6th July 2009, as the original post is not accessible.
@@ -205,10 +205,10 @@
     
     <item>
       <title>Karel Minarik: How do I learn and master Sinatra? (Reprint)</title>
-      <link>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</link>
+      <link>http://rubylearning.com/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</guid>
+      <guid>http://rubylearning.com/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This is reprint of the blog post that appeared on 13th July 2009, as the original is not accessible.
@@ -380,10 +380,10 @@
     
     <item>
       <title>Sinatra: Some Questions from Ruby Newbies</title>
-      <link>http://rubylearning.com/blog/2013/08/14/sinatra-some-questions-from-ruby-newbies/</link>
+      <link>http://rubylearning.com/2013/08/14/sinatra-some-questions-from-ruby-newbies/</link>
       <pubDate>Wed, 14 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2013/08/14/sinatra-some-questions-from-ruby-newbies/</guid>
+      <guid>http://rubylearning.com/2013/08/14/sinatra-some-questions-from-ruby-newbies/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     Darren Jones in his excellent book &lt;a href=&#34;http://www.amazon.com/gp/product/0987332147/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0987332147&amp;linkCode=as2&amp;tag=satishtalimsw-20&#34;&gt;Jump Start Sinatra&lt;/a&gt; says &amp;#8220;&lt;em&gt;Since its release in 2007, Sinatra has quickly gained in popularity in the Ruby web community due to its elegant simplicity and classy syntax. Everybody who uses it falls in love with its elegant simplicity and classy syntax&lt;/em&gt;.&amp;#8221;
@@ -628,10 +628,10 @@
     
     <item>
       <title>Cookie-based Sessions in Sinatra</title>
-      <link>http://rubylearning.com/blog/2009/09/30/cookie-based-sessions-in-sinatra/</link>
+      <link>http://rubylearning.com/2009/09/30/cookie-based-sessions-in-sinatra/</link>
       <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/09/30/cookie-based-sessions-in-sinatra/</guid>
+      <guid>http://rubylearning.com/2009/09/30/cookie-based-sessions-in-sinatra/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/jjcicchelli.jpg&#34; alt=&#34;Julio Javier
@@ -854,10 +854,10 @@ So go ahead and rock &amp;amp; code!&lt;/p&gt;
     
     <item>
       <title>Blake Mizerany: How do I learn and master Sinatra?</title>
-      <link>http://rubylearning.com/blog/2009/08/11/blake-mizerany-how-do-i-learn-and-master-sinatra/</link>
+      <link>http://rubylearning.com/2009/08/11/blake-mizerany-how-do-i-learn-and-master-sinatra/</link>
       <pubDate>Tue, 11 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/08/11/blake-mizerany-how-do-i-learn-and-master-sinatra/</guid>
+      <guid>http://rubylearning.com/2009/08/11/blake-mizerany-how-do-i-learn-and-master-sinatra/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;last&lt;/strong&gt; installment on the RL blog, of a mini series &amp;ndash;
 &amp;ldquo;&lt;strong&gt;How do I learn and master Sinatra?&lt;/strong&gt;&amp;rdquo; &amp;ndash; by top Rubyists using
 &lt;em&gt;Sinatra&lt;/em&gt;. The interview series will provide insight and commentary from
@@ -998,10 +998,10 @@ Gabaldon&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>Carlos Gabaldon: How do I learn and master Sinatra?</title>
-      <link>http://rubylearning.com/blog/2009/07/21/carlos-gabaldon-how-do-i-learn-and-master-sinatra/</link>
+      <link>http://rubylearning.com/2009/07/21/carlos-gabaldon-how-do-i-learn-and-master-sinatra/</link>
       <pubDate>Tue, 21 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/07/21/carlos-gabaldon-how-do-i-learn-and-master-sinatra/</guid>
+      <guid>http://rubylearning.com/2009/07/21/carlos-gabaldon-how-do-i-learn-and-master-sinatra/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;eight&lt;/strong&gt; installment on the RL blog, of a mini series –
 “&lt;strong&gt;How do I learn and master Sinatra?&lt;/strong&gt;” – by top Rubyists using
 &lt;em&gt;Sinatra&lt;/em&gt;. The interview series will provide insight and commentary from
@@ -1146,10 +1146,10 @@ get to deploy your app, with full technical support from their team!&lt;/p&gt;
     
     <item>
       <title>Julio Javier Cicchelli: How do I learn and master Sinatra?</title>
-      <link>http://rubylearning.com/blog/2009/07/20/julio-javier-cicchelli-how-do-i-learn-and-master-sinatra/</link>
+      <link>http://rubylearning.com/2009/07/20/julio-javier-cicchelli-how-do-i-learn-and-master-sinatra/</link>
       <pubDate>Mon, 20 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/07/20/julio-javier-cicchelli-how-do-i-learn-and-master-sinatra/</guid>
+      <guid>http://rubylearning.com/2009/07/20/julio-javier-cicchelli-how-do-i-learn-and-master-sinatra/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;seventh&lt;/strong&gt; installment on the RL blog, of a mini series
 – “&lt;strong&gt;How do I learn and master Sinatra?&lt;/strong&gt;” – by top Rubyists using
 &lt;em&gt;Sinatra&lt;/em&gt;. The interview series will provide insight and commentary from
@@ -1389,10 +1389,10 @@ get to deploy your app, with full technical support from their team!&lt;/p&gt;
     
     <item>
       <title>Nick Plante: How do I learn and master Sinatra?</title>
-      <link>http://rubylearning.com/blog/2009/07/17/nick-plante-how-do-i-learn-and-master-sinatra/</link>
+      <link>http://rubylearning.com/2009/07/17/nick-plante-how-do-i-learn-and-master-sinatra/</link>
       <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/07/17/nick-plante-how-do-i-learn-and-master-sinatra/</guid>
+      <guid>http://rubylearning.com/2009/07/17/nick-plante-how-do-i-learn-and-master-sinatra/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;sixth&lt;/strong&gt; installment on the RL blog, of a mini series –
 “&lt;strong&gt;How do I learn and master Sinatra?&lt;/strong&gt;” – by top Rubyists using
 &lt;em&gt;Sinatra&lt;/em&gt;. The interview series will provide insight and commentary from
@@ -1556,10 +1556,10 @@ get to deploy your app, with full technical support from their team!&lt;/p&gt;
     
     <item>
       <title>Chris Strom: How do I learn and master Sinatra?</title>
-      <link>http://rubylearning.com/blog/2009/07/15/chris-strom-how-do-i-learn-and-master-sinatra/</link>
+      <link>http://rubylearning.com/2009/07/15/chris-strom-how-do-i-learn-and-master-sinatra/</link>
       <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/07/15/chris-strom-how-do-i-learn-and-master-sinatra/</guid>
+      <guid>http://rubylearning.com/2009/07/15/chris-strom-how-do-i-learn-and-master-sinatra/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;fifth&lt;/strong&gt; installment on the RL blog, of a mini series –
 “&lt;strong&gt;How do I learn and master Sinatra?&lt;/strong&gt;” – by top Rubyists using
 &lt;em&gt;Sinatra&lt;/em&gt;. The interview series will provide insight and commentary from
@@ -1722,10 +1722,10 @@ get to deploy your app, with full technical support from their team!&lt;/p&gt;
     
     <item>
       <title>Karel Minarik: How do I learn and master Sinatra?</title>
-      <link>http://rubylearning.com/blog/2009/07/13/karel-minarik-how-do-i-learn-and-master-sinatra/</link>
+      <link>http://rubylearning.com/2009/07/13/karel-minarik-how-do-i-learn-and-master-sinatra/</link>
       <pubDate>Mon, 13 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/07/13/karel-minarik-how-do-i-learn-and-master-sinatra/</guid>
+      <guid>http://rubylearning.com/2009/07/13/karel-minarik-how-do-i-learn-and-master-sinatra/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;fourth&lt;/strong&gt; installment on the RL blog, of a mini series –
 “&lt;strong&gt;How do I learn and master Sinatra?&lt;/strong&gt;” – by top Rubyists using
 &lt;em&gt;Sinatra&lt;/em&gt;. The interview series will provide insight and commentary from
@@ -1924,10 +1924,10 @@ get to deploy your app, with full technical support from their team!&lt;/p&gt;
     
     <item>
       <title>Graham Ashton: How do I learn and master Sinatra?</title>
-      <link>http://rubylearning.com/blog/2009/07/10/graham-ashton-how-do-i-learn-and-master-sinatra/</link>
+      <link>http://rubylearning.com/2009/07/10/graham-ashton-how-do-i-learn-and-master-sinatra/</link>
       <pubDate>Fri, 10 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/07/10/graham-ashton-how-do-i-learn-and-master-sinatra/</guid>
+      <guid>http://rubylearning.com/2009/07/10/graham-ashton-how-do-i-learn-and-master-sinatra/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;third&lt;/strong&gt; installment on the RL blog, of a mini series –
 “&lt;strong&gt;How do I learn and master Sinatra?&lt;/strong&gt;” – by top Rubyists using
 &lt;em&gt;Sinatra&lt;/em&gt;. The interview series will provide insight and commentary from
@@ -2082,10 +2082,10 @@ get to deploy your app, with full technical support from their team!&lt;/p&gt;
     
     <item>
       <title>Jeremy Evans: How do I learn and master Sinatra?</title>
-      <link>http://rubylearning.com/blog/2009/07/08/jeremy-evans-how-do-i-learn-and-master-sinatra/</link>
+      <link>http://rubylearning.com/2009/07/08/jeremy-evans-how-do-i-learn-and-master-sinatra/</link>
       <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/07/08/jeremy-evans-how-do-i-learn-and-master-sinatra/</guid>
+      <guid>http://rubylearning.com/2009/07/08/jeremy-evans-how-do-i-learn-and-master-sinatra/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;second&lt;/strong&gt; installment on the RL blog, of a mini series –
 “&lt;strong&gt;How do I learn and master Sinatra?&lt;/strong&gt;” – by top Rubyists using
 &lt;em&gt;Sinatra&lt;/em&gt;. The interview series will provide insight and commentary from
@@ -2238,10 +2238,10 @@ code&lt;/a&gt;.
     
     <item>
       <title>How do I learn and master Sinatra?</title>
-      <link>http://rubylearning.com/blog/2009/07/06/how-do-i-learn-and-master-sinatra/</link>
+      <link>http://rubylearning.com/2009/07/06/how-do-i-learn-and-master-sinatra/</link>
       <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/07/06/how-do-i-learn-and-master-sinatra/</guid>
+      <guid>http://rubylearning.com/2009/07/06/how-do-i-learn-and-master-sinatra/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;first&lt;/strong&gt; installment on the RL blog, of a mini series –
 “&lt;strong&gt;How do I learn and master Sinatra?&lt;/strong&gt;” – by top Rubyists using
 &lt;em&gt;Sinatra&lt;/em&gt;. The interview series will provide insight and commentary from

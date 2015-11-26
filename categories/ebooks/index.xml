@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ebooks on RubyLearning Blog</title>
-    <link>http://rubylearning.com/blog/categories/ebooks/</link>
+    <link>http://rubylearning.com/categories/ebooks/</link>
     <description>Recent content in Ebooks on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 May 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/blog/categories/ebooks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/categories/ebooks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ruby eBooks</title>
-      <link>http://rubylearning.com/blog/2007/05/08/ruby-ebooks/</link>
+      <link>http://rubylearning.com/2007/05/08/ruby-ebooks/</link>
       <pubDate>Tue, 08 May 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2007/05/08/ruby-ebooks/</guid>
+      <guid>http://rubylearning.com/2007/05/08/ruby-ebooks/</guid>
       <description>&lt;p&gt;Ruby is growing in popularity. For those looking at learning Ruby, there
 are many online resources available. In case you want to learn Ruby
 offline, then here is a list of all the free, &lt;strong&gt;Ruby eBooks&lt;/strong&gt; available
