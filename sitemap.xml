@@ -58,12 +58,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/25/rpcfn-shift-subtitle-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</loc>
     <lastmod>2015-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/25/rpcfn-shift-subtitle-reprint/</loc>
     <lastmod>2015-01-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,22 +78,22 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</loc>
-    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://rubylearning.com/blog/2015/01/07/interview-aaron-quint-on-sinatra-reprint/</loc>
+    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -468,12 +468,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/10/01/rpcfn-japanese-mosaic-problem---14/</loc>
+    <loc>http://rubylearning.com/blog/2010/10/01/an-introduction-to-eventmachine-and-how-to-avoid-callback-spaghetti/</loc>
     <lastmod>2010-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/10/01/an-introduction-to-eventmachine-and-how-to-avoid-callback-spaghetti/</loc>
+    <loc>http://rubylearning.com/blog/2010/10/01/rpcfn-japanese-mosaic-problem---14/</loc>
     <lastmod>2010-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -643,12 +643,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</loc>
+    <loc>http://rubylearning.com/blog/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</loc>
     <lastmod>2010-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</loc>
+    <loc>http://rubylearning.com/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</loc>
     <lastmod>2010-03-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -813,12 +813,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/07/15/chris-strom-how-do-i-learn-and-master-sinatra/</loc>
+    <loc>http://rubylearning.com/blog/2009/07/15/interview-author-antonio-cangiano/</loc>
     <lastmod>2009-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/07/15/interview-author-antonio-cangiano/</loc>
+    <loc>http://rubylearning.com/blog/2009/07/15/chris-strom-how-do-i-learn-and-master-sinatra/</loc>
     <lastmod>2009-07-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -893,12 +893,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/06/09/the-future-of-ruby-is-fail/</loc>
+    <loc>http://rubylearning.com/blog/2009/06/09/interview-author-david-black/</loc>
     <lastmod>2009-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/06/09/interview-author-david-black/</loc>
+    <loc>http://rubylearning.com/blog/2009/06/09/the-future-of-ruby-is-fail/</loc>
     <lastmod>2009-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -998,12 +998,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/19/rubylearnings-sponsor-1st-easy-limited/</loc>
+    <loc>http://rubylearning.com/blog/2009/03/19/can-you-suggest-new-course-contents/</loc>
     <lastmod>2009-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/19/can-you-suggest-new-course-contents/</loc>
+    <loc>http://rubylearning.com/blog/2009/03/19/rubylearnings-sponsor-1st-easy-limited/</loc>
     <lastmod>2009-03-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1338,12 +1338,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2008/04/14/appreciating-ruby-bloggers/</loc>
+    <loc>http://rubylearning.com/blog/2008/04/14/web-transformations-1.0-2.0-3.0-but-what-is-it/</loc>
     <lastmod>2008-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2008/04/14/web-transformations-1.0-2.0-3.0-but-what-is-it/</loc>
+    <loc>http://rubylearning.com/blog/2008/04/14/appreciating-ruby-bloggers/</loc>
     <lastmod>2008-04-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -1598,12 +1598,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/04/11/interview-shashank-date/</loc>
+    <loc>http://rubylearning.com/blog/2007/04/11/ruby-quirks/</loc>
     <lastmod>2007-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/04/11/ruby-quirks/</loc>
+    <loc>http://rubylearning.com/blog/2007/04/11/interview-shashank-date/</loc>
     <lastmod>2007-04-11T00:00:00+00:00</lastmod>
   </url>
   
