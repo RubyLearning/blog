@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on RubyLearning Blog</title>
-    <link>http://rubylearning.com/post/</link>
+    <link>http://rubylearning.com/blog/post/</link>
     <description>Recent content in Posts on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Oct 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Learn Ruby programming - 64th batch</title>
-      <link>http://rubylearning.com/2015/10/11/learn-ruby-programming---64th-batch/</link>
+      <link>http://rubylearning.com/blog/2015/10/11/learn-ruby-programming---64th-batch/</link>
       <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/10/11/learn-ruby-programming---64th-batch/</guid>
+      <guid>http://rubylearning.com/blog/2015/10/11/learn-ruby-programming---64th-batch/</guid>
       <description>
 
 &lt;p&gt;Registrations are now open for RubyLearning&amp;rsquo;s &lt;em&gt;long-running and popular&lt;/em&gt;
@@ -169,7 +169,7 @@ pay US $44.95 by clicking on the PayPal button&lt;/p&gt;
 
 &lt;h2 id=&#34;how-does-the-course-work:0abd26cdb3a9774f40682720c8206489&#34;&gt;How does the course work?&lt;/h2&gt;
 
-&lt;p&gt;For details on how the course works, refer &lt;a href=&#34;http://rubylearning.com/how-the-course-works/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For details on how the course works, refer &lt;a href=&#34;http://rubylearning.com/blog/how-the-course-works/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;At the end of this course you should have all the knowledge to explore
 the wonderful world of Ruby on your own.&lt;/p&gt;
@@ -180,10 +180,10 @@ the wonderful world of Ruby on your own.&lt;/p&gt;
     
     <item>
       <title>Learn Ruby The Hard Way: A Book Review</title>
-      <link>http://rubylearning.com/2015/04/27/learn-ruby-the-hard-way-a-book-review/</link>
+      <link>http://rubylearning.com/blog/2015/04/27/learn-ruby-the-hard-way-a-book-review/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/04/27/learn-ruby-the-hard-way-a-book-review/</guid>
+      <guid>http://rubylearning.com/blog/2015/04/27/learn-ruby-the-hard-way-a-book-review/</guid>
       <description>
 
 &lt;p&gt;A book review of &lt;strong&gt;Learn Ruby the Hard Way - Third Edition&lt;/strong&gt;.&lt;/br&gt;
@@ -284,10 +284,10 @@ other languages.&lt;/p&gt;
     
     <item>
       <title>Do You Know How To Use cURL</title>
-      <link>http://rubylearning.com/2015/04/16/do-you-know-how-to-use-curl/</link>
+      <link>http://rubylearning.com/blog/2015/04/16/do-you-know-how-to-use-curl/</link>
       <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/04/16/do-you-know-how-to-use-curl/</guid>
+      <guid>http://rubylearning.com/blog/2015/04/16/do-you-know-how-to-use-curl/</guid>
       <description>
 
 &lt;h2 id=&#34;downloading-and-installing-curl:ecd8e27567a98a924278b0bb8f7e4877&#34;&gt;Downloading and installing cURL&lt;/h2&gt;
@@ -376,10 +376,10 @@ cURL:&lt;/p&gt;
     
     <item>
       <title>RubyLearning Tutorial Translated To Arabic</title>
-      <link>http://rubylearning.com/2015/04/06/rubylearning-tutorial-translated-to-arabic/</link>
+      <link>http://rubylearning.com/blog/2015/04/06/rubylearning-tutorial-translated-to-arabic/</link>
       <pubDate>Mon, 06 Apr 2015 00:32:34 -0400</pubDate>
       
-      <guid>http://rubylearning.com/2015/04/06/rubylearning-tutorial-translated-to-arabic/</guid>
+      <guid>http://rubylearning.com/blog/2015/04/06/rubylearning-tutorial-translated-to-arabic/</guid>
       <description>&lt;p&gt;Ali Osm is young Libyan programmer, and started programming in 2011.&lt;/p&gt;
 
 &lt;p&gt;In 2014 he saw the Ruby programming language and liked it, and so he decided to
@@ -387,7 +387,7 @@ create the &lt;a href=&#34;http://ruby3arabi.com&#34;&gt;Ruby3arabi.com&lt;/a&gt
 Ruby language to become popular in the Arabic programmers community.  Here is
 Ali Osm telling us about what is going on.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/blog/media/ruby3arabi-brand_30.png&#34; alt=&#34;Ruby3arabi&#34; title=&#34;Image of Ruby3arabi
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/blog/blog/media/ruby3arabi-brand_30.png&#34; alt=&#34;Ruby3arabi&#34; title=&#34;Image of Ruby3arabi
 Website Icon&#34; /&gt;
 &lt;/p&gt;
 
@@ -414,10 +414,10 @@ exchange experience.&lt;/p&gt;
     
     <item>
       <title>Comment Types in Ruby</title>
-      <link>http://rubylearning.com/2015/03/20/comment-types-in-ruby/</link>
+      <link>http://rubylearning.com/blog/2015/03/20/comment-types-in-ruby/</link>
       <pubDate>Fri, 20 Mar 2015 01:15:34 -0400</pubDate>
       
-      <guid>http://rubylearning.com/2015/03/20/comment-types-in-ruby/</guid>
+      <guid>http://rubylearning.com/blog/2015/03/20/comment-types-in-ruby/</guid>
       <description>
 
 &lt;p&gt;There are basically two types of comments in Ruby.  And they work the
@@ -508,10 +508,10 @@ all.  But we still need them!  What is your comment style?&lt;/p&gt;
     
     <item>
       <title>Learn Ruby programming - 60th batch</title>
-      <link>http://rubylearning.com/2015/03/11/learn-ruby-programming---60th-batch/</link>
+      <link>http://rubylearning.com/blog/2015/03/11/learn-ruby-programming---60th-batch/</link>
       <pubDate>Wed, 11 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/03/11/learn-ruby-programming---60th-batch/</guid>
+      <guid>http://rubylearning.com/blog/2015/03/11/learn-ruby-programming---60th-batch/</guid>
       <description>
 
 &lt;p&gt;Registrations are now open for RubyLearning&amp;rsquo;s &lt;em&gt;long-awaited and popular&lt;/em&gt;
@@ -666,7 +666,7 @@ pay US \$ 44.95 by clicking on the PayPal button
 
 &lt;h2 id=&#34;how-does-the-course-work:3246cb27615219d089c54a16de682ca1&#34;&gt;How does the course work?&lt;/h2&gt;
 
-&lt;p&gt;For details on how the course works, refer &lt;a href=&#34;http://rubylearning.com/how-the-course-works/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For details on how the course works, refer &lt;a href=&#34;http://rubylearning.com/blog/how-the-course-works/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;At the end of this course you should have all the knowledge to explore
 the wonderful world of Ruby on your own.&lt;/p&gt;
@@ -677,10 +677,10 @@ the wonderful world of Ruby on your own.&lt;/p&gt;
     
     <item>
       <title>Ruby Wizardry - A Book Review</title>
-      <link>http://rubylearning.com/2015/03/09/ruby-wizardry---a-book-review/</link>
+      <link>http://rubylearning.com/blog/2015/03/09/ruby-wizardry---a-book-review/</link>
       <pubDate>Mon, 09 Mar 2015 04:32:42 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/03/09/ruby-wizardry---a-book-review/</guid>
+      <guid>http://rubylearning.com/blog/2015/03/09/ruby-wizardry---a-book-review/</guid>
       <description>
 
 &lt;h3 id=&#34;it-all-starts-at-the-beginning:e6fe5e88f71fd2ba6db1ee63e7b912f3&#34;&gt;It all starts at the beginning.&lt;/h3&gt;
@@ -689,7 +689,7 @@ the wonderful world of Ruby on your own.&lt;/p&gt;
 of some mischievous hooligans and how this kingdom is saved by, well,
 you will have to read it to see.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/blog/media/ruby_wizardry_front_cover.png&#34; alt=&#34;Ruby Wizardry&#34; title=&#34;Ruby Wizardry&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/blog/blog/media/ruby_wizardry_front_cover.png&#34; alt=&#34;Ruby Wizardry&#34; title=&#34;Ruby Wizardry&#34; /&gt;
 &lt;/p&gt;
 
 &lt;h2 id=&#34;introduction:e6fe5e88f71fd2ba6db1ee63e7b912f3&#34;&gt;Introduction&lt;/h2&gt;
@@ -765,10 +765,10 @@ this generation reminisces about how they learned to program.&lt;/p&gt;
     
     <item>
       <title>Meet Volt: a Promising Ruby Framework for Dynamic Applications</title>
-      <link>http://rubylearning.com/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/</link>
+      <link>http://rubylearning.com/blog/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/</link>
       <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/</guid>
+      <guid>http://rubylearning.com/blog/2015/02/11/meet-volt-a-promising-ruby-framework-for-dynamic-applications/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;By Amaury Andres Peniche Gonzalez – Software Engineer at
@@ -1002,10 +1002,10 @@ developed.
     
     <item>
       <title>Felipe Elias Philipp Winner RPCFN - 1 (Reprint)</title>
-      <link>http://rubylearning.com/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</link>
+      <link>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</link>
       <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</guid>
+      <guid>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This article first appeared on 8th Oct. 2009 but the original is not accessible; hence the reprint.
@@ -1068,10 +1068,10 @@ developed.
     
     <item>
       <title>RPCFN: Average Arrival Time For A Flight - 2 Reprint</title>
-      <link>http://rubylearning.com/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</link>
+      <link>http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</link>
       <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</guid>
+      <guid>http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This article first appeared on 8th Oct. 2009 but the original is not accessible; hence the reprint.
@@ -1535,10 +1535,10 @@ developed.
     
     <item>
       <title>RPCFN: Ruby Programming Challenge For Newbies (Reprint)</title>
-      <link>http://rubylearning.com/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</link>
+      <link>http://rubylearning.com/blog/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</link>
       <pubDate>Sun, 25 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</guid>
+      <guid>http://rubylearning.com/blog/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     RPCFN: Ruby Programming Challenge For Newbies
@@ -1670,10 +1670,10 @@ developed.
     
     <item>
       <title>RPCFN: Shift Subtitle Reprint</title>
-      <link>http://rubylearning.com/2015/01/25/rpcfn-shift-subtitle-reprint/</link>
+      <link>http://rubylearning.com/blog/2015/01/25/rpcfn-shift-subtitle-reprint/</link>
       <pubDate>Sun, 25 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/01/25/rpcfn-shift-subtitle-reprint/</guid>
+      <guid>http://rubylearning.com/blog/2015/01/25/rpcfn-shift-subtitle-reprint/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     Ruby Programming Challenge For Newbies
@@ -2146,10 +2146,10 @@ puts b.usec
     
     <item>
       <title>What are the Twelve Rules of Sinatra? (Reprint)</title>
-      <link>http://rubylearning.com/2015/01/24/what-are-the-twelve-rules-of-sinatra-reprint/</link>
+      <link>http://rubylearning.com/blog/2015/01/24/what-are-the-twelve-rules-of-sinatra-reprint/</link>
       <pubDate>Sat, 24 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/01/24/what-are-the-twelve-rules-of-sinatra-reprint/</guid>
+      <guid>http://rubylearning.com/blog/2015/01/24/what-are-the-twelve-rules-of-sinatra-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This article first appeared on 19th July. 2009 but the original is not accessible; hence the reprint.
@@ -2212,10 +2212,10 @@ puts b.usec
     
     <item>
       <title>Poll: Ruby Problems for Beginners and Prizes (Reprint)</title>
-      <link>http://rubylearning.com/2015/01/13/poll-ruby-problems-for-beginners-and-prizes-reprint/</link>
+      <link>http://rubylearning.com/blog/2015/01/13/poll-ruby-problems-for-beginners-and-prizes-reprint/</link>
       <pubDate>Tue, 13 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/01/13/poll-ruby-problems-for-beginners-and-prizes-reprint/</guid>
+      <guid>http://rubylearning.com/blog/2015/01/13/poll-ruby-problems-for-beginners-and-prizes-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This article first appeared on 13th Sept. 2009 but the original is not accessible; hence the reprint.
@@ -2287,10 +2287,10 @@ puts b.usec
     
     <item>
       <title>20&#43; Rubyists are using Sinatra - Do you? (Reprint)</title>
-      <link>http://rubylearning.com/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</link>
+      <link>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</guid>
+      <guid>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: This first appeared on 29th June 2009 and is being reprinted

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruby On Rails on RubyLearning Blog</title>
-    <link>http://rubylearning.com/categories/ruby-on-rails/</link>
+    <link>http://rubylearning.com/blog/categories/ruby-on-rails/</link>
     <description>Recent content in Ruby On Rails on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Jul 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/categories/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Minimal I18n with Rails 3.2</title>
-      <link>http://rubylearning.com/2012/07/24/minimal-i18n-with-rails-3.2/</link>
+      <link>http://rubylearning.com/blog/2012/07/24/minimal-i18n-with-rails-3.2/</link>
       <pubDate>Tue, 24 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2012/07/24/minimal-i18n-with-rails-3.2/</guid>
+      <guid>http://rubylearning.com/blog/2012/07/24/minimal-i18n-with-rails-3.2/</guid>
       <description>
 
 &lt;p class=&#34;update&#34;&gt;
@@ -781,10 +781,10 @@ There is a lot more you can tweak in your Rails application but this covers what
     
     <item>
       <title>Performance Testing Rails Applications: How To?</title>
-      <link>http://rubylearning.com/2011/08/14/performance-testing-rails-applications-how-to/</link>
+      <link>http://rubylearning.com/blog/2011/08/14/performance-testing-rails-applications-how-to/</link>
       <pubDate>Sun, 14 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2011/08/14/performance-testing-rails-applications-how-to/</guid>
+      <guid>http://rubylearning.com/blog/2011/08/14/performance-testing-rails-applications-how-to/</guid>
       <description>&lt;div&gt;
   &lt;h2&gt;
     Performance Testing Rails Applications: How To?
@@ -1103,10 +1103,10 @@ LoginTest#test_login (105 ms warmup)
     
     <item>
       <title>20&#43; Rubyists to Follow on Google&#43;</title>
-      <link>http://rubylearning.com/2011/07/01/20-rubyists-to-follow-on-google/</link>
+      <link>http://rubylearning.com/blog/2011/07/01/20-rubyists-to-follow-on-google/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2011/07/01/20-rubyists-to-follow-on-google/</guid>
+      <guid>http://rubylearning.com/blog/2011/07/01/20-rubyists-to-follow-on-google/</guid>
       <description>&lt;div style=&#34;width:image 560 px; font-size:80%; text-align:center;&#34;&gt;
   &lt;img src=&#34;http://rubylearning.com/data/googleplus.jpg&#34; alt=&#34;Google+&#34; width=&#34;560&#34; style=&#34;padding-bottom:0.5em;&#34; /&gt;&lt;br /&gt;Google+
 &lt;/div&gt;
@@ -1427,10 +1427,10 @@ LoginTest#test_login (105 ms warmup)
     
     <item>
       <title>Interview: Michael Hartl, author of the Ruby on Rails Tutorial (railstutorial.org)</title>
-      <link>http://rubylearning.com/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</link>
+      <link>http://rubylearning.com/blog/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</link>
       <pubDate>Fri, 18 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</guid>
+      <guid>http://rubylearning.com/blog/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</guid>
       <description>&lt;div&gt;
   &lt;p class=&#34;alert&#34;&gt;
     RubyLearning participants talk to Michael Hartl the author of the Ruby on Rails Tutorial (&lt;a href=&#34;http://ruby.railstutorial.org/&#34;&gt;railstutorial.org&lt;/a&gt;).
@@ -1557,10 +1557,10 @@ LoginTest#test_login (105 ms warmup)
     
     <item>
       <title>Rails Drinkup Pune &amp;#8211; Jan 28th</title>
-      <link>http://rubylearning.com/2011/01/27/rails-drinkup-pune-</link>
+      <link>http://rubylearning.com/blog/2011/01/27/rails-drinkup-pune-</link>
       <pubDate>Thu, 27 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2011/01/27/rails-drinkup-pune-</guid>
+      <guid>http://rubylearning.com/blog/2011/01/27/rails-drinkup-pune-</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     Rails Drinkup Pune &amp;#8211; Jan 28th
@@ -1600,10 +1600,10 @@ LoginTest#test_login (105 ms warmup)
     
     <item>
       <title>ROR based websites made by Indian companies</title>
-      <link>http://rubylearning.com/2010/07/18/ror-based-websites-made-by-indian-companies/</link>
+      <link>http://rubylearning.com/blog/2010/07/18/ror-based-websites-made-by-indian-companies/</link>
       <pubDate>Sun, 18 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/07/18/ror-based-websites-made-by-indian-companies/</guid>
+      <guid>http://rubylearning.com/blog/2010/07/18/ror-based-websites-made-by-indian-companies/</guid>
       <description>
 
 &lt;p&gt;As a sequel to my post &lt;a href=&#34;http://rubylearning.com/blog/2010/02/08/indian-ruby-on-rails-portfolio/&#34;&gt;Indian Ruby on Rails Portfolio&lt;/a&gt;,
@@ -1859,10 +1859,10 @@ local businesses. The site was created in 2009.&lt;/p&gt;
     
     <item>
       <title>RubyLearning Associates and Participants on Twitter and Facebook</title>
-      <link>http://rubylearning.com/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</link>
+      <link>http://rubylearning.com/blog/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</link>
       <pubDate>Fri, 09 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</guid>
+      <guid>http://rubylearning.com/blog/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</guid>
       <description>
 
 &lt;h2 id=&#34;rubylearning-associates-and-participants-on-twitter-and-facebook:c8429096bb847ee20e9d305b4b011f86&#34;&gt;RubyLearning Associates and Participants on Twitter and Facebook&lt;/h2&gt;
@@ -2444,10 +2444,10 @@ gmail.com.&lt;/p&gt;
     
     <item>
       <title>Showcasing RubyLearning&#39;s Awesome Rubyists</title>
-      <link>http://rubylearning.com/2010/02/22/showcasing-rubylearnings-awesome-rubyists/</link>
+      <link>http://rubylearning.com/blog/2010/02/22/showcasing-rubylearnings-awesome-rubyists/</link>
       <pubDate>Mon, 22 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/02/22/showcasing-rubylearnings-awesome-rubyists/</guid>
+      <guid>http://rubylearning.com/blog/2010/02/22/showcasing-rubylearnings-awesome-rubyists/</guid>
       <description>
 
 &lt;h2 id=&#34;showcasing-rubylearning-s-awesome-rubyists:4755ae7af3551e8c405ce9b8b0777a02&#34;&gt;Showcasing RubyLearning’s Awesome Rubyists&lt;/h2&gt;
@@ -3070,10 +3070,10 @@ email me at &lt;strong&gt;satish [dot] talim [at] gmail.com&lt;/strong&gt;.&lt;/
     
     <item>
       <title>Indian Ruby on Rails Portfolio</title>
-      <link>http://rubylearning.com/2010/02/08/indian-ruby-on-rails-portfolio/</link>
+      <link>http://rubylearning.com/blog/2010/02/08/indian-ruby-on-rails-portfolio/</link>
       <pubDate>Mon, 08 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/02/08/indian-ruby-on-rails-portfolio/</guid>
+      <guid>http://rubylearning.com/blog/2010/02/08/indian-ruby-on-rails-portfolio/</guid>
       <description>
 
 &lt;h2 id=&#34;indian-ruby-on-rails-portfolio:86fc8c50597bb51bd4a9e6d0a8ac1774&#34;&gt;Indian Ruby on Rails Portfolio&lt;/h2&gt;
@@ -3784,10 +3784,10 @@ please send me the following -&lt;/p&gt;
     
     <item>
       <title>Interview: Author Antonio Cangiano</title>
-      <link>http://rubylearning.com/2009/07/15/interview-author-antonio-cangiano/</link>
+      <link>http://rubylearning.com/blog/2009/07/15/interview-author-antonio-cangiano/</link>
       <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/07/15/interview-author-antonio-cangiano/</guid>
+      <guid>http://rubylearning.com/blog/2009/07/15/interview-author-antonio-cangiano/</guid>
       <description>&lt;p&gt;Our Book Promotion: “&lt;strong&gt;Ruby on Rails for Microsoft Developers&lt;/strong&gt;” has
 just started. Win one of four books to be given out for active
 participation. The coolest thing? Author &lt;strong&gt;Antonio Cangiano&lt;/strong&gt; will be on
@@ -3884,10 +3884,10 @@ Antonio would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Interview: Author Eldon Alameda</title>
-      <link>http://rubylearning.com/2009/06/15/interview-author-eldon-alameda/</link>
+      <link>http://rubylearning.com/blog/2009/06/15/interview-author-eldon-alameda/</link>
       <pubDate>Mon, 15 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/06/15/interview-author-eldon-alameda/</guid>
+      <guid>http://rubylearning.com/blog/2009/06/15/interview-author-eldon-alameda/</guid>
       <description>&lt;div&gt;
   &lt;p class=&#34;alert&#34;&gt;
     Our Book Promotion: &amp;#8220;&lt;strong&gt;Foundation Rails 2&lt;/strong&gt;&amp;#8221; starts soon. Win one of four books to be given out for active participation. The coolest thing? Author &lt;b&gt;Eldon Alameda&lt;/b&gt; will be on site to answer questions! &lt;a href=&#34;http://rubylearning.com/blog/2009/06/10/book-promotion-foundation-rails-2/&#34;&gt;Click here&lt;/a&gt; for more details. Here, in this brief interview, Satish Talim of RubyLearning talks to Eldon Alameda.
@@ -3984,10 +3984,10 @@ Antonio would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>A Quick Chat with Chetan Mittal of Mortar Systems</title>
-      <link>http://rubylearning.com/2009/06/13/a-quick-chat-with-chetan-mittal-of-mortar-systems/</link>
+      <link>http://rubylearning.com/blog/2009/06/13/a-quick-chat-with-chetan-mittal-of-mortar-systems/</link>
       <pubDate>Sat, 13 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/06/13/a-quick-chat-with-chetan-mittal-of-mortar-systems/</guid>
+      <guid>http://rubylearning.com/blog/2009/06/13/a-quick-chat-with-chetan-mittal-of-mortar-systems/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;img class=&#34;alignright&#34; title=&#34;Chetan Mittal&#34; src=&#34;http://www.rubylearning.com/images/bio-photo.gif&#34; alt=&#34;Chetan Mittal&#34; /&gt;
@@ -4038,10 +4038,10 @@ Antonio would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Book Promotion: Foundation Rails 2</title>
-      <link>http://rubylearning.com/2009/06/10/book-promotion-foundation-rails-2/</link>
+      <link>http://rubylearning.com/blog/2009/06/10/book-promotion-foundation-rails-2/</link>
       <pubDate>Wed, 10 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/06/10/book-promotion-foundation-rails-2/</guid>
+      <guid>http://rubylearning.com/blog/2009/06/10/book-promotion-foundation-rails-2/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     Book Promotion: Foundation Rails 2
@@ -4092,10 +4092,10 @@ Antonio would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>The Future of Ruby is Fail!</title>
-      <link>http://rubylearning.com/2009/06/09/the-future-of-ruby-is-fail/</link>
+      <link>http://rubylearning.com/blog/2009/06/09/the-future-of-ruby-is-fail/</link>
       <pubDate>Tue, 09 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/06/09/the-future-of-ruby-is-fail/</guid>
+      <guid>http://rubylearning.com/blog/2009/06/09/the-future-of-ruby-is-fail/</guid>
       <description>
 
 &lt;h2 id=&#34;the-future-of-ruby-is-fail:f1cc04954d56997687c319f15df949e6&#34;&gt;The Future of Ruby is Fail!&lt;/h2&gt;
@@ -4589,10 +4589,10 @@ successful career with your Ruby skills.&lt;/p&gt;
     
     <item>
       <title>10&#43; Ruby Rails companies in Pune, India</title>
-      <link>http://rubylearning.com/2009/06/05/10-ruby-rails-companies-in-pune-india/</link>
+      <link>http://rubylearning.com/blog/2009/06/05/10-ruby-rails-companies-in-pune-india/</link>
       <pubDate>Fri, 05 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/06/05/10-ruby-rails-companies-in-pune-india/</guid>
+      <guid>http://rubylearning.com/blog/2009/06/05/10-ruby-rails-companies-in-pune-india/</guid>
       <description>
 
 &lt;h2 id=&#34;10-ruby-rails-companies-in-pune-india:73e4cebbaf57b8494265b47e266579ef&#34;&gt;10+ Ruby Rails companies in Pune, India&lt;/h2&gt;

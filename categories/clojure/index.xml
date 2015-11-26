@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clojure on RubyLearning Blog</title>
-    <link>http://rubylearning.com/categories/clojure/</link>
+    <link>http://rubylearning.com/blog/categories/clojure/</link>
     <description>Recent content in Clojure on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Sep 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/categories/clojure/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/clojure/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Programming Challenge for Newbies in Clojure and Python too?</title>
-      <link>http://rubylearning.com/2010/09/02/programming-challenge-for-newbies-in-clojure-and-python-too/</link>
+      <link>http://rubylearning.com/blog/2010/09/02/programming-challenge-for-newbies-in-clojure-and-python-too/</link>
       <pubDate>Thu, 02 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/09/02/programming-challenge-for-newbies-in-clojure-and-python-too/</guid>
+      <guid>http://rubylearning.com/blog/2010/09/02/programming-challenge-for-newbies-in-clojure-and-python-too/</guid>
       <description>
 
 &lt;h2 id=&#34;programming-challenge-for-newbies-in-clojure-and-python-too:7050656c8ff6592bfe712a9a911d0369&#34;&gt;Programming Challenge for Newbies in Clojure and Python too?&lt;/h2&gt;
@@ -68,10 +68,10 @@ specific language feature.&lt;/li&gt;
     
     <item>
       <title>Clojure: A Chat with Andrew Boekhoff</title>
-      <link>http://rubylearning.com/2010/07/29/clojure-a-chat-with-andrew-boekhoff/</link>
+      <link>http://rubylearning.com/blog/2010/07/29/clojure-a-chat-with-andrew-boekhoff/</link>
       <pubDate>Thu, 29 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/07/29/clojure-a-chat-with-andrew-boekhoff/</guid>
+      <guid>http://rubylearning.com/blog/2010/07/29/clojure-a-chat-with-andrew-boekhoff/</guid>
       <description>&lt;p&gt;In this brief interview, Satish Talim of RubyLearning talks to &lt;strong&gt;Andrew
 Boekhoff&lt;/strong&gt;, author of
 &lt;a href=&#34;http://github.com/somnium/congomongo&#34;&gt;CongoMongo&lt;/a&gt;, a toolkit for using
@@ -131,10 +131,10 @@ would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Clojure Tips from the Experts</title>
-      <link>http://rubylearning.com/2010/07/26/clojure-tips-from-the-experts/</link>
+      <link>http://rubylearning.com/blog/2010/07/26/clojure-tips-from-the-experts/</link>
       <pubDate>Mon, 26 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/07/26/clojure-tips-from-the-experts/</guid>
+      <guid>http://rubylearning.com/blog/2010/07/26/clojure-tips-from-the-experts/</guid>
       <description>
 
 &lt;p&gt;RubyLearning wrote to a lot of experts, gathering their best tips on
@@ -644,10 +644,10 @@ to this post.&lt;/p&gt;
     
     <item>
       <title>Popular Posts on Clojure from RubyLearning</title>
-      <link>http://rubylearning.com/2010/07/24/popular-posts-on-clojure-from-rubylearning/</link>
+      <link>http://rubylearning.com/blog/2010/07/24/popular-posts-on-clojure-from-rubylearning/</link>
       <pubDate>Sat, 24 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/07/24/popular-posts-on-clojure-from-rubylearning/</guid>
+      <guid>http://rubylearning.com/blog/2010/07/24/popular-posts-on-clojure-from-rubylearning/</guid>
       <description>&lt;p&gt;Many Rubyists today are talking about and exploring Clojure and I wanted
 to share a list of some popular posts on Clojure from RubyLearning.
 Enjoy!&lt;/p&gt;
@@ -673,10 +673,10 @@ Experts&lt;/a&gt;.&lt;/li&gt;
     
     <item>
       <title>RubyLearning Associates and Participants on Twitter and Facebook</title>
-      <link>http://rubylearning.com/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</link>
+      <link>http://rubylearning.com/blog/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</link>
       <pubDate>Fri, 09 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</guid>
+      <guid>http://rubylearning.com/blog/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</guid>
       <description>
 
 &lt;h2 id=&#34;rubylearning-associates-and-participants-on-twitter-and-facebook:c8429096bb847ee20e9d305b4b011f86&#34;&gt;RubyLearning Associates and Participants on Twitter and Facebook&lt;/h2&gt;
@@ -1258,10 +1258,10 @@ gmail.com.&lt;/p&gt;
     
     <item>
       <title>Book Promotion: The Joy of Clojure</title>
-      <link>http://rubylearning.com/2010/05/08/book-promotion-the-joy-of-clojure/</link>
+      <link>http://rubylearning.com/blog/2010/05/08/book-promotion-the-joy-of-clojure/</link>
       <pubDate>Sat, 08 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/05/08/book-promotion-the-joy-of-clojure/</guid>
+      <guid>http://rubylearning.com/blog/2010/05/08/book-promotion-the-joy-of-clojure/</guid>
       <description>
 
 &lt;h2 id=&#34;book-promotion-the-joy-of-clojure:25485a31d404219193dcf4bd6386001b&#34;&gt;Book Promotion: The Joy of Clojure&lt;/h2&gt;
@@ -1315,10 +1315,10 @@ promotion, contact: satish.talim [at] gmail [dot] com&lt;/p&gt;
     
     <item>
       <title>20&#43; Clojurians to Follow on Twitter</title>
-      <link>http://rubylearning.com/2010/04/15/20-clojurians-to-follow-on-twitter/</link>
+      <link>http://rubylearning.com/blog/2010/04/15/20-clojurians-to-follow-on-twitter/</link>
       <pubDate>Thu, 15 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/04/15/20-clojurians-to-follow-on-twitter/</guid>
+      <guid>http://rubylearning.com/blog/2010/04/15/20-clojurians-to-follow-on-twitter/</guid>
       <description>
 
 &lt;h2 id=&#34;what-s-clojure:ef1240f8c915d5b66487f10ecb698455&#34;&gt;What’s Clojure?&lt;/h2&gt;
@@ -1436,10 +1436,10 @@ Twitter profile in the comments.&lt;/p&gt;
     
     <item>
       <title>Rich Hickey talks to RubyLearning&#39;s Clojure Course Participants</title>
-      <link>http://rubylearning.com/2010/04/06/rich-hickey-talks-to-rubylearnings-clojure-course-participants/</link>
+      <link>http://rubylearning.com/blog/2010/04/06/rich-hickey-talks-to-rubylearnings-clojure-course-participants/</link>
       <pubDate>Tue, 06 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/04/06/rich-hickey-talks-to-rubylearnings-clojure-course-participants/</guid>
+      <guid>http://rubylearning.com/blog/2010/04/06/rich-hickey-talks-to-rubylearnings-clojure-course-participants/</guid>
       <description>&lt;p&gt;On the eve of the first free, online “&lt;strong&gt;&lt;a href=&#34;http://rubylearning.com/blog/2010/03/09/clojure-101-a-new-course/&#34;&gt;Clojure
 101&lt;/a&gt;&lt;/strong&gt;”
 course, Michael Kohl of RubyLearning caught up with &lt;strong&gt;Rich Hickey&lt;/strong&gt;, the
@@ -1527,10 +1527,10 @@ be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Amit Rathore talks to RubyLearning&#39;s Clojure Course Participants</title>
-      <link>http://rubylearning.com/2010/03/18/amit-rathore-talks-to-rubylearnings-clojure-course-participants/</link>
+      <link>http://rubylearning.com/blog/2010/03/18/amit-rathore-talks-to-rubylearnings-clojure-course-participants/</link>
       <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/03/18/amit-rathore-talks-to-rubylearnings-clojure-course-participants/</guid>
+      <guid>http://rubylearning.com/blog/2010/03/18/amit-rathore-talks-to-rubylearnings-clojure-course-participants/</guid>
       <description>&lt;p&gt;On the eve of the first free, online “&lt;strong&gt;&lt;a href=&#34;http://rubylearning.com/blog/2010/03/09/clojure-101-a-new-course/&#34;&gt;Clojure
 101&lt;/a&gt;&lt;/strong&gt;”
 course, Michael Kohl of RubyLearning caught up with &lt;strong&gt;Amit Rathore&lt;/strong&gt;,
@@ -1714,10 +1714,10 @@ be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Michael Fogus talks to RubyLearning - Clojure Course Participants</title>
-      <link>http://rubylearning.com/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</link>
+      <link>http://rubylearning.com/blog/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</link>
       <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</guid>
+      <guid>http://rubylearning.com/blog/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</guid>
       <description>&lt;p&gt;On the eve of the first free, online “&lt;strong&gt;&lt;a href=&#34;http://rubylearning.com/blog/2010/03/09/clojure-101-a-new-course/&#34;&gt;Clojure
 101&lt;/a&gt;&lt;/strong&gt;”
 course, Michael Kohl of RubyLearning caught up with &lt;strong&gt;Michael Fogus&lt;/strong&gt;,
@@ -1905,10 +1905,10 @@ be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Stuart Halloway talks to RubyLearning&#39;s Clojure Course Participants</title>
-      <link>http://rubylearning.com/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</link>
+      <link>http://rubylearning.com/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</link>
       <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</guid>
+      <guid>http://rubylearning.com/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</guid>
       <description>&lt;p&gt;On the eve of the first free, online “&lt;strong&gt;Clojure 101&lt;/strong&gt;” course, Michael
 Kohl of RubyLearning caught up with &lt;strong&gt;Stuart Halloway&lt;/strong&gt;, author of
 &lt;a href=&#34;http://www.pragprog.com/titles/shcloj/programming-clojure&#34;&gt;Programming

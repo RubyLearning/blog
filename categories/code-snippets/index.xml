@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code Snippets on RubyLearning Blog</title>
-    <link>http://rubylearning.com/categories/code-snippets/</link>
+    <link>http://rubylearning.com/blog/categories/code-snippets/</link>
     <description>Recent content in Code Snippets on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Oct 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/categories/code-snippets/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/code-snippets/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>RPCFN: Average Arrival Time For A Flight - 2 repost</title>
-      <link>http://rubylearning.com/2009/10/08/rpcfn-average-arrival-time-for-a-flight---2-repost/</link>
+      <link>http://rubylearning.com/blog/2009/10/08/rpcfn-average-arrival-time-for-a-flight---2-repost/</link>
       <pubDate>Thu, 08 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/10/08/rpcfn-average-arrival-time-for-a-flight---2-repost/</guid>
+      <guid>http://rubylearning.com/blog/2009/10/08/rpcfn-average-arrival-time-for-a-flight---2-repost/</guid>
       <description>
 
 &lt;h2 id=&#34;ruby-programming-challenge-for-newbies:f21d0dccff3cef355e2212eafc89f107&#34;&gt;Ruby Programming Challenge For Newbies&lt;/h2&gt;
@@ -334,10 +334,10 @@ UK&lt;/strong&gt; is scheduled for 1st Jan. 2010.&lt;/li&gt;
     
     <item>
       <title>Cookie-based Sessions in Sinatra</title>
-      <link>http://rubylearning.com/2009/09/30/cookie-based-sessions-in-sinatra/</link>
+      <link>http://rubylearning.com/blog/2009/09/30/cookie-based-sessions-in-sinatra/</link>
       <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/09/30/cookie-based-sessions-in-sinatra/</guid>
+      <guid>http://rubylearning.com/blog/2009/09/30/cookie-based-sessions-in-sinatra/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/jjcicchelli.jpg&#34; alt=&#34;Julio Javier
@@ -560,10 +560,10 @@ So go ahead and rock &amp;amp; code!&lt;/p&gt;
     
     <item>
       <title>Poll: Ruby Problems for Beginners and Prizes</title>
-      <link>http://rubylearning.com/2009/09/13/poll-ruby-problems-for-beginners-and-prizes/</link>
+      <link>http://rubylearning.com/blog/2009/09/13/poll-ruby-problems-for-beginners-and-prizes/</link>
       <pubDate>Sun, 13 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/09/13/poll-ruby-problems-for-beginners-and-prizes/</guid>
+      <guid>http://rubylearning.com/blog/2009/09/13/poll-ruby-problems-for-beginners-and-prizes/</guid>
       <description>&lt;p&gt;Many RubyLearning participants wrote in asking RubyLearning to start a
 weekly post containing a problem to be solved using Ruby. A problem will
 be posted here every week / fortnight and anyone is free to offer their
@@ -621,10 +621,10 @@ asked, evaluation criteria etc.) as comments below.&lt;/p&gt;
     
     <item>
       <title>TMail: Sending email</title>
-      <link>http://rubylearning.com/2008/08/21/tmail-sending-email/</link>
+      <link>http://rubylearning.com/blog/2008/08/21/tmail-sending-email/</link>
       <pubDate>Thu, 21 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/08/21/tmail-sending-email/</guid>
+      <guid>http://rubylearning.com/blog/2008/08/21/tmail-sending-email/</guid>
       <description>&lt;div&gt;
   &lt;blockquote class=&#34;right&#34;&gt;
     &lt;p&gt;
@@ -719,10 +719,10 @@ end&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Ruby and Twitter</title>
-      <link>http://rubylearning.com/2008/03/24/ruby-and-twitter/</link>
+      <link>http://rubylearning.com/blog/2008/03/24/ruby-and-twitter/</link>
       <pubDate>Mon, 24 Mar 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/03/24/ruby-and-twitter/</guid>
+      <guid>http://rubylearning.com/blog/2008/03/24/ruby-and-twitter/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;strong&gt;&lt;a href=&#34;http://twitter.com/home&#34;&gt;Twitter&lt;/a&gt;&lt;/strong&gt; is a service for friends, family, and coâ€“workers to communicate and stay connected through the exchange of quick, frequent answers to one simple question: What are you doing?
@@ -781,10 +781,10 @@ end
     
     <item>
       <title>&#34;AkitaOnRails&#34; On Ruby Symbols</title>
-      <link>http://rubylearning.com/2007/11/26/akitaonrails-on-ruby-symbols/</link>
+      <link>http://rubylearning.com/blog/2007/11/26/akitaonrails-on-ruby-symbols/</link>
       <pubDate>Mon, 26 Nov 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2007/11/26/akitaonrails-on-ruby-symbols/</guid>
+      <guid>http://rubylearning.com/blog/2007/11/26/akitaonrails-on-ruby-symbols/</guid>
       <description>&lt;p&gt;&lt;em&gt;RubyLearning recently caught with &lt;strong&gt;Fabio Akita&lt;/strong&gt; from Brazil and got
 his viewpoint on one of the vexing areas for beginners in Ruby –
 &lt;strong&gt;Symbols&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -997,10 +997,10 @@ Symbols&lt;/a&gt;&lt;/p&gt;
     
     <item>
       <title>Ruby MySQL Tutorial</title>
-      <link>http://rubylearning.com/2007/05/14/ruby-mysql-tutorial/</link>
+      <link>http://rubylearning.com/blog/2007/05/14/ruby-mysql-tutorial/</link>
       <pubDate>Mon, 14 May 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2007/05/14/ruby-mysql-tutorial/</guid>
+      <guid>http://rubylearning.com/blog/2007/05/14/ruby-mysql-tutorial/</guid>
       <description>&lt;p&gt;This brief &lt;strong&gt;Ruby MySQL Tutorial&lt;/strong&gt; shows you how you can connect to
 MySQL in Ruby. MySQL support in Ruby was made possible by Tomita
 Masahiro. He has developed a pure Ruby binding called Ruby/MySQL. We
@@ -1074,10 +1074,10 @@ Tutorial&lt;/a&gt;&lt;/p&gt;
     
     <item>
       <title>Ruby Quirks</title>
-      <link>http://rubylearning.com/2007/04/11/ruby-quirks/</link>
+      <link>http://rubylearning.com/blog/2007/04/11/ruby-quirks/</link>
       <pubDate>Wed, 11 Apr 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2007/04/11/ruby-quirks/</guid>
+      <guid>http://rubylearning.com/blog/2007/04/11/ruby-quirks/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ruby Quirks&lt;/strong&gt; – peculiarity of behavior? I know this topic is
 debatable and remember &amp;ldquo;one man&amp;rsquo;s meat is another man&amp;rsquo;s poison!&amp;rdquo; I plan
 to write down here (in no particular order), some of the little Ruby
@@ -1314,10 +1314,10 @@ instantly put it on the internet.&lt;/p&gt;
     
     <item>
       <title>Ruby Snips</title>
-      <link>http://rubylearning.com/2007/02/24/ruby-snips/</link>
+      <link>http://rubylearning.com/blog/2007/02/24/ruby-snips/</link>
       <pubDate>Sat, 24 Feb 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2007/02/24/ruby-snips/</guid>
+      <guid>http://rubylearning.com/blog/2007/02/24/ruby-snips/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.puneruby.com/blog/?p=94&#34;&gt;Robert Evans&lt;/a&gt; has come up with the
 &lt;strong&gt;&lt;a href=&#34;http://rubysnips.com/&#34;&gt;Ruby Snips&lt;/a&gt;&lt;/strong&gt; site. In his words:&lt;/p&gt;
 
@@ -1344,10 +1344,10 @@ Snips&lt;/a&gt;&lt;/p&gt;
     
     <item>
       <title>Your favourite bit of Ruby code?</title>
-      <link>http://rubylearning.com/2007/02/09/your-favourite-bit-of-ruby-code/</link>
+      <link>http://rubylearning.com/blog/2007/02/09/your-favourite-bit-of-ruby-code/</link>
       <pubDate>Fri, 09 Feb 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2007/02/09/your-favourite-bit-of-ruby-code/</guid>
+      <guid>http://rubylearning.com/blog/2007/02/09/your-favourite-bit-of-ruby-code/</guid>
       <description>&lt;p&gt;An interesting thread at Ruby_talk is &amp;lsquo;Your favorite bit of Ruby code.&amp;rsquo;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -1378,10 +1378,10 @@ puts 6.factorial
     
     <item>
       <title>Convert bytes to megabytes</title>
-      <link>http://rubylearning.com/2007/02/06/convert-bytes-to-megabytes/</link>
+      <link>http://rubylearning.com/blog/2007/02/06/convert-bytes-to-megabytes/</link>
       <pubDate>Tue, 06 Feb 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2007/02/06/convert-bytes-to-megabytes/</guid>
+      <guid>http://rubylearning.com/blog/2007/02/06/convert-bytes-to-megabytes/</guid>
       <description>&lt;p&gt;In one of my projects, I need to find the file-size in megabytes again
 and again. This simple method helps me to convert the size of a file in
 bytes to megabytes. This is useful for very large files.&lt;/p&gt;

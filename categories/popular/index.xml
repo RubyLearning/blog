@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Popular on RubyLearning Blog</title>
-    <link>http://rubylearning.com/categories/popular/</link>
+    <link>http://rubylearning.com/blog/categories/popular/</link>
     <description>Recent content in Popular on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/categories/popular/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/popular/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>RPCFN: Average Arrival Time For A Flight - 2 Reprint</title>
-      <link>http://rubylearning.com/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</link>
+      <link>http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</link>
       <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</guid>
+      <guid>http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This article first appeared on 8th Oct. 2009 but the original is not accessible; hence the reprint.
@@ -478,10 +478,10 @@
     
     <item>
       <title>Follow 10&#43; Rubyists using Sinatra on Twitter (Reprint)</title>
-      <link>http://rubylearning.com/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</link>
+      <link>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</guid>
+      <guid>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This first appeared on 24th June 2009 and is being reprinted as the original is not accessible.
@@ -701,10 +701,10 @@
     
     <item>
       <title>Do you know how to write an internal DSL in Ruby?</title>
-      <link>http://rubylearning.com/2011/10/02/do-you-know-how-to-write-an-internal-dsl-in-ruby/</link>
+      <link>http://rubylearning.com/blog/2011/10/02/do-you-know-how-to-write-an-internal-dsl-in-ruby/</link>
       <pubDate>Sun, 02 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2011/10/02/do-you-know-how-to-write-an-internal-dsl-in-ruby/</guid>
+      <guid>http://rubylearning.com/blog/2011/10/02/do-you-know-how-to-write-an-internal-dsl-in-ruby/</guid>
       <description>&lt;div&gt;
   &lt;p class=&#34;alert&#34;&gt;
     Almost all Ruby programming newbies would love to get their hands wet writing a Ruby DSL. This article explains how you can write a simple Ruby DSL.
@@ -948,10 +948,10 @@ Anderssen&#39;s Opening Andersspike: 1. a3 g6 2. g4
     
     <item>
       <title>How do I keep multiple Ruby projects separate?</title>
-      <link>http://rubylearning.com/2010/12/20/how-do-i-keep-multiple-ruby-projects-separate/</link>
+      <link>http://rubylearning.com/blog/2010/12/20/how-do-i-keep-multiple-ruby-projects-separate/</link>
       <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/12/20/how-do-i-keep-multiple-ruby-projects-separate/</guid>
+      <guid>http://rubylearning.com/blog/2010/12/20/how-do-i-keep-multiple-ruby-projects-separate/</guid>
       <description>
 
 &lt;h2 id=&#34;how-do-i-keep-multiple-ruby-projects-separate:e46ce811565e3df9611640804f7d8d1e&#34;&gt;How do I keep multiple Ruby projects separate?&lt;/h2&gt;
@@ -1188,10 +1188,10 @@ give feedback in the comments section of this post. Thanks!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Getting started with Heroku</title>
-      <link>http://rubylearning.com/2010/12/15/getting-started-with-heroku/</link>
+      <link>http://rubylearning.com/blog/2010/12/15/getting-started-with-heroku/</link>
       <pubDate>Wed, 15 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/12/15/getting-started-with-heroku/</guid>
+      <guid>http://rubylearning.com/blog/2010/12/15/getting-started-with-heroku/</guid>
       <description>
 
 &lt;h2 id=&#34;getting-started-with-heroku:e1de9e228454d1bb97c6dc0a02f63488&#34;&gt;Getting started with Heroku&lt;/h2&gt;
@@ -1541,10 +1541,10 @@ this post. Thanks and Good Luck!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Don&#39;t Know Metaprogramming In Ruby?</title>
-      <link>http://rubylearning.com/2010/11/23/dont-know-metaprogramming-in-ruby/</link>
+      <link>http://rubylearning.com/blog/2010/11/23/dont-know-metaprogramming-in-ruby/</link>
       <pubDate>Tue, 23 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/11/23/dont-know-metaprogramming-in-ruby/</guid>
+      <guid>http://rubylearning.com/blog/2010/11/23/dont-know-metaprogramming-in-ruby/</guid>
       <description>
 
 &lt;p&gt;This guest post is by &lt;strong&gt;Gavin Morrice&lt;/strong&gt;, Managing Director of &lt;a href=&#34;http://katanacode.com&#34;&gt;Katana
@@ -2074,10 +2074,10 @@ here&lt;/a&gt;.&lt;/p&gt;
     
     <item>
       <title>Do YOU know Resque?</title>
-      <link>http://rubylearning.com/2010/11/08/do-you-know-resque/</link>
+      <link>http://rubylearning.com/blog/2010/11/08/do-you-know-resque/</link>
       <pubDate>Mon, 08 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/11/08/do-you-know-resque/</guid>
+      <guid>http://rubylearning.com/blog/2010/11/08/do-you-know-resque/</guid>
       <description>&lt;p&gt;This guest post is by &lt;strong&gt;&lt;a href=&#34;http://redsquirrel.com/dave&#34;&gt;Dave Hoover&lt;/a&gt;&lt;/strong&gt;,
 who authored the book &lt;a href=&#34;http://oreilly.com/catalog/9780596518387&#34;&gt;Apprenticeship Patterns: Guidance for the
 Aspiring Software Craftsman&lt;/a&gt;
@@ -2361,21 +2361,21 @@ give feedback in the comments section of this post. Thanks!&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Do also read&lt;/em&gt; these awesome Guest Posts:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/blog/2010/11/03/do-you-understand-rubys-objects-messages-and-blocks/&#34;&gt;Do You Understand Ruby’s Objects, Messages and Blocks?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/blog/2010/11/02/how-does-one-use-design-patterns-in-ruby/&#34;&gt;How Does One Use Design Patterns In Ruby?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/blog/2010/10/26/do-you-know-whats-new-in-ruby-1-9/&#34;&gt;Do you know what’s new in Ruby 1.9?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/blog/2010/10/25/the-value-of-a-personal-bug-log/&#34;&gt;The value of a personal bug log&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/blog/2010/10/18/do-you-enjoy-your-code-quality/&#34;&gt;Do You Enjoy Your Code Quality?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/blog/blog/2010/11/03/do-you-understand-rubys-objects-messages-and-blocks/&#34;&gt;Do You Understand Ruby’s Objects, Messages and Blocks?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/blog/blog/2010/11/02/how-does-one-use-design-patterns-in-ruby/&#34;&gt;How Does One Use Design Patterns In Ruby?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/blog/blog/2010/10/26/do-you-know-whats-new-in-ruby-1-9/&#34;&gt;Do you know what’s new in Ruby 1.9?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/blog/blog/2010/10/25/the-value-of-a-personal-bug-log/&#34;&gt;The value of a personal bug log&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/blog/blog/2010/10/18/do-you-enjoy-your-code-quality/&#34;&gt;Do You Enjoy Your Code Quality?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Do You Enjoy Your Code Quality?</title>
-      <link>http://rubylearning.com/2010/10/18/do-you-enjoy-your-code-quality/</link>
+      <link>http://rubylearning.com/blog/2010/10/18/do-you-enjoy-your-code-quality/</link>
       <pubDate>Mon, 18 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/10/18/do-you-enjoy-your-code-quality/</guid>
+      <guid>http://rubylearning.com/blog/2010/10/18/do-you-enjoy-your-code-quality/</guid>
       <description>
 
 &lt;p&gt;This guest post is by &lt;strong&gt;James Schorr&lt;/strong&gt;, who has been developing software
@@ -2590,10 +2590,10 @@ give feedback in the comments section of this post. Thanks!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Do YOU know Ruby&#39;s &#34;Chainsaw&#34; method?</title>
-      <link>http://rubylearning.com/2010/10/07/do-you-know-rubys-chainsaw-method/</link>
+      <link>http://rubylearning.com/blog/2010/10/07/do-you-know-rubys-chainsaw-method/</link>
       <pubDate>Thu, 07 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/10/07/do-you-know-rubys-chainsaw-method/</guid>
+      <guid>http://rubylearning.com/blog/2010/10/07/do-you-know-rubys-chainsaw-method/</guid>
       <description>
 
 &lt;p&gt;This guest post is contributed by &lt;strong&gt;&lt;a href=&#34;http://rubylearning.com/blog/2009/07/01/interview-author-paolo-perrotta/&#34;&gt;Paolo
@@ -2771,10 +2771,10 @@ language)&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>An Introduction to Outside-in Development</title>
-      <link>http://rubylearning.com/2010/10/05/an-introduction-to-outside-in-development/</link>
+      <link>http://rubylearning.com/blog/2010/10/05/an-introduction-to-outside-in-development/</link>
       <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/10/05/an-introduction-to-outside-in-development/</guid>
+      <guid>http://rubylearning.com/blog/2010/10/05/an-introduction-to-outside-in-development/</guid>
       <description>
 
 &lt;p&gt;This guest post is contributed by &lt;strong&gt;Harold Giménez&lt;/strong&gt;, who is a web
@@ -3606,10 +3606,10 @@ language)&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>An introduction to eventmachine, and how to avoid callback spaghetti</title>
-      <link>http://rubylearning.com/2010/10/01/an-introduction-to-eventmachine-and-how-to-avoid-callback-spaghetti/</link>
+      <link>http://rubylearning.com/blog/2010/10/01/an-introduction-to-eventmachine-and-how-to-avoid-callback-spaghetti/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/10/01/an-introduction-to-eventmachine-and-how-to-avoid-callback-spaghetti/</guid>
+      <guid>http://rubylearning.com/blog/2010/10/01/an-introduction-to-eventmachine-and-how-to-avoid-callback-spaghetti/</guid>
       <description>
 
 &lt;p&gt;This guest post is contributed by &lt;strong&gt;&lt;a href=&#34;http://mloughran.com/&#34;&gt;Martyn
@@ -4119,10 +4119,10 @@ language)&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>14 Ways To Have Fun Coding Ruby</title>
-      <link>http://rubylearning.com/2010/09/22/14-ways-to-have-fun-coding-ruby/</link>
+      <link>http://rubylearning.com/blog/2010/09/22/14-ways-to-have-fun-coding-ruby/</link>
       <pubDate>Wed, 22 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/09/22/14-ways-to-have-fun-coding-ruby/</guid>
+      <guid>http://rubylearning.com/blog/2010/09/22/14-ways-to-have-fun-coding-ruby/</guid>
       <description>
 
 &lt;p&gt;This guest post is contributed by &lt;strong&gt;Jeff Schoolcraft&lt;/strong&gt;, who runs &lt;a href=&#34;http://thequeue.net/&#34;&gt;The
@@ -4318,10 +4318,10 @@ language)&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>Best of RubyLearning Posts for Ruby Beginners</title>
-      <link>http://rubylearning.com/2008/07/31/best-of-rubylearning-posts-for-ruby-beginners/</link>
+      <link>http://rubylearning.com/blog/2008/07/31/best-of-rubylearning-posts-for-ruby-beginners/</link>
       <pubDate>Thu, 31 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/07/31/best-of-rubylearning-posts-for-ruby-beginners/</guid>
+      <guid>http://rubylearning.com/blog/2008/07/31/best-of-rubylearning-posts-for-ruby-beginners/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     Here&amp;#8217;s a digest of RubyLearning&amp;#8217;s best posts for Ruby beginners. These include (with the latest posts first):
@@ -4375,10 +4375,10 @@ language)&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>Charles Nutter talks to RubyLearning Participants</title>
-      <link>http://rubylearning.com/2008/07/21/charles-nutter-talks-to-rubylearning-participants/</link>
+      <link>http://rubylearning.com/blog/2008/07/21/charles-nutter-talks-to-rubylearning-participants/</link>
       <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/07/21/charles-nutter-talks-to-rubylearning-participants/</guid>
+      <guid>http://rubylearning.com/blog/2008/07/21/charles-nutter-talks-to-rubylearning-participants/</guid>
       <description>&lt;div style=&#34;float: right; margin-left: 10px; margin-bottom: 10px;&#34;&gt;
   &lt;a href=&#34;http://rubylearning.com/images/nutter.jpg&#34; title=&#34;Charles Nutter&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/nutter.jpg&#34; alt=&#34;Charles Nutter&#34; /&gt;&lt;/a&gt;
 &lt;/div&gt;
@@ -4459,10 +4459,10 @@ language)&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>&#34;AkitaOnRails&#34; Advises A Young Ruby Beginner</title>
-      <link>http://rubylearning.com/2008/04/29/akitaonrails-advises-a-young-ruby-beginner/</link>
+      <link>http://rubylearning.com/blog/2008/04/29/akitaonrails-advises-a-young-ruby-beginner/</link>
       <pubDate>Tue, 29 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/04/29/akitaonrails-advises-a-young-ruby-beginner/</guid>
+      <guid>http://rubylearning.com/blog/2008/04/29/akitaonrails-advises-a-young-ruby-beginner/</guid>
       <description>&lt;div&gt;
   &lt;p class=&#34;block&#34;&gt;
     &lt;img class=&#34;alignleft&#34; title=&#34;Fabio Akita&#34; src=&#34;http://www.rubylearning.com/images/akita.jpg&#34; alt=&#34;Fabio Akita&#34; /&gt;&lt;strong&gt;Fabio Akita&lt;/strong&gt; is a Brazilian Rails enthusiast, also known online as &amp;#8220;AkitaOnRails&amp;#8221;. He regularly write posts on his own &lt;a href=&#34;http://www.akitaonrails.com/&#34;&gt;blog&lt;/a&gt; and had published the very first book tailored for the Brazilian audience called &amp;#8220;Repensando a Web com Rails&amp;#8221;. He is now a full-time Ruby on Rails developer working as Brazil Rails Practice Manager for the Utah company Surgeworks LLC.

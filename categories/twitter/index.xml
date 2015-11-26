@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Twitter on RubyLearning Blog</title>
-    <link>http://rubylearning.com/categories/twitter/</link>
+    <link>http://rubylearning.com/blog/categories/twitter/</link>
     <description>Recent content in Twitter on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Jul 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/categories/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/twitter/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>RubyLearning Associates and Participants on Twitter and Facebook</title>
-      <link>http://rubylearning.com/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</link>
+      <link>http://rubylearning.com/blog/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</link>
       <pubDate>Fri, 09 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</guid>
+      <guid>http://rubylearning.com/blog/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</guid>
       <description>
 
 &lt;h2 id=&#34;rubylearning-associates-and-participants-on-twitter-and-facebook:c8429096bb847ee20e9d305b4b011f86&#34;&gt;RubyLearning Associates and Participants on Twitter and Facebook&lt;/h2&gt;
@@ -596,10 +596,10 @@ gmail.com.&lt;/p&gt;
     
     <item>
       <title>20&#43; Clojurians to Follow on Twitter</title>
-      <link>http://rubylearning.com/2010/04/15/20-clojurians-to-follow-on-twitter/</link>
+      <link>http://rubylearning.com/blog/2010/04/15/20-clojurians-to-follow-on-twitter/</link>
       <pubDate>Thu, 15 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/04/15/20-clojurians-to-follow-on-twitter/</guid>
+      <guid>http://rubylearning.com/blog/2010/04/15/20-clojurians-to-follow-on-twitter/</guid>
       <description>
 
 &lt;h2 id=&#34;what-s-clojure:ef1240f8c915d5b66487f10ecb698455&#34;&gt;What’s Clojure?&lt;/h2&gt;
@@ -717,10 +717,10 @@ Twitter profile in the comments.&lt;/p&gt;
     
     <item>
       <title>Shorty Awards: Honoring The Best People and Organizations on Twitter</title>
-      <link>http://rubylearning.com/2010/01/06/shorty-awards-honoring-the-best-people-and-organizations-on-twitter/</link>
+      <link>http://rubylearning.com/blog/2010/01/06/shorty-awards-honoring-the-best-people-and-organizations-on-twitter/</link>
       <pubDate>Wed, 06 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/01/06/shorty-awards-honoring-the-best-people-and-organizations-on-twitter/</guid>
+      <guid>http://rubylearning.com/blog/2010/01/06/shorty-awards-honoring-the-best-people-and-organizations-on-twitter/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;“Hollywood has the Oscars. Broadway has the Tonys. Now Twitter has
 the…Shorty Awards” – The New York Times&lt;/p&gt;
@@ -758,10 +758,10 @@ won this category in
     
     <item>
       <title>Follow Cost: A Sinatra app for Twitter</title>
-      <link>http://rubylearning.com/2009/04/28/follow-cost-a-sinatra-app-for-twitter/</link>
+      <link>http://rubylearning.com/blog/2009/04/28/follow-cost-a-sinatra-app-for-twitter/</link>
       <pubDate>Tue, 28 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/04/28/follow-cost-a-sinatra-app-for-twitter/</guid>
+      <guid>http://rubylearning.com/blog/2009/04/28/follow-cost-a-sinatra-app-for-twitter/</guid>
       <description>&lt;p&gt;RubyLearning caught up with &lt;strong&gt;Luke Francl&lt;/strong&gt; and &lt;strong&gt;Barry Hess&lt;/strong&gt; creators
 of &lt;a href=&#34;http://followcost.com/&#34;&gt;Follow Cost&lt;/a&gt; – a &lt;strong&gt;Twitter&lt;/strong&gt; tool to help
 people decide if following someone is worth it, and talked to them about
@@ -882,10 +882,10 @@ details&lt;/a&gt;.
     
     <item>
       <title>RubyLearning&#39;s Sponsor: Railsware</title>
-      <link>http://rubylearning.com/2009/03/22/rubylearnings-sponsor-railsware/</link>
+      <link>http://rubylearning.com/blog/2009/03/22/rubylearnings-sponsor-railsware/</link>
       <pubDate>Sun, 22 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/03/22/rubylearnings-sponsor-railsware/</guid>
+      <guid>http://rubylearning.com/blog/2009/03/22/rubylearnings-sponsor-railsware/</guid>
       <description>&lt;p&gt;It’s time to thank RubyLearning’s sponsor –
 &lt;a href=&#34;http://www.railsware.com/&#34;&gt;Railsware&lt;/a&gt;.&lt;/p&gt;
 
@@ -927,10 +927,10 @@ as well as Twitter? Railsware gives every startup-idea a fast scalable
     
     <item>
       <title>Interview - Michael Morin Creator of Using Twitter with Ruby Course</title>
-      <link>http://rubylearning.com/2009/03/17/interview---michael-morin-creator-of-using-twitter-with-ruby-course/</link>
+      <link>http://rubylearning.com/blog/2009/03/17/interview---michael-morin-creator-of-using-twitter-with-ruby-course/</link>
       <pubDate>Tue, 17 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/03/17/interview---michael-morin-creator-of-using-twitter-with-ruby-course/</guid>
+      <guid>http://rubylearning.com/blog/2009/03/17/interview---michael-morin-creator-of-using-twitter-with-ruby-course/</guid>
       <description>&lt;p&gt;The first ever &lt;em&gt;free&lt;/em&gt;, online “&lt;strong&gt;Using Twitter with Ruby&lt;/strong&gt;” course
 starts 18th April 2009 at
 &lt;a href=&#34;http://rubylearning.org/class/&#34;&gt;RubyLearning.org&lt;/a&gt;. Satish Talim of
@@ -1054,10 +1054,10 @@ necessarily reflect those of
     
     <item>
       <title>Who are the Top 5 Twitter Graded Rubyists?</title>
-      <link>http://rubylearning.com/2009/03/02/who-are-the-top-5-twitter-graded-rubyists/</link>
+      <link>http://rubylearning.com/blog/2009/03/02/who-are-the-top-5-twitter-graded-rubyists/</link>
       <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/03/02/who-are-the-top-5-twitter-graded-rubyists/</guid>
+      <guid>http://rubylearning.com/blog/2009/03/02/who-are-the-top-5-twitter-graded-rubyists/</guid>
       <description>
 
 &lt;p&gt;As a follow-up to our earlier post “&lt;a href=&#34;http://rubylearning.com/blog/2008/10/29/50-rubyists-to-follow-on-twitter/&#34;&gt;50+ Rubyists to Follow on
@@ -1106,10 +1106,10 @@ youâ€™re not already.&lt;/p&gt;
     
     <item>
       <title>Can YOU help RubyLearning win this award?</title>
-      <link>http://rubylearning.com/2009/01/14/can-you-help-rubylearning-win-this-award/</link>
+      <link>http://rubylearning.com/blog/2009/01/14/can-you-help-rubylearning-win-this-award/</link>
       <pubDate>Wed, 14 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/01/14/can-you-help-rubylearning-win-this-award/</guid>
+      <guid>http://rubylearning.com/blog/2009/01/14/can-you-help-rubylearning-win-this-award/</guid>
       <description>
 
 &lt;p&gt;Hollywood has the Oscars. Broadway has the Tonys. &lt;strong&gt;Now Twitter has the

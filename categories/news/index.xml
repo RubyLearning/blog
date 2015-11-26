@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on RubyLearning Blog</title>
-    <link>http://rubylearning.com/categories/news/</link>
+    <link>http://rubylearning.com/blog/categories/news/</link>
     <description>Recent content in News on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Nov 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Rubyists.EU: Stairway to the European Ruby Community Integration</title>
-      <link>http://rubylearning.com/2009/11/06/rubyists.eu-stairway-to-the-european-ruby-community-integration/</link>
+      <link>http://rubylearning.com/blog/2009/11/06/rubyists.eu-stairway-to-the-european-ruby-community-integration/</link>
       <pubDate>Fri, 06 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/11/06/rubyists.eu-stairway-to-the-european-ruby-community-integration/</guid>
+      <guid>http://rubylearning.com/blog/2009/11/06/rubyists.eu-stairway-to-the-european-ruby-community-integration/</guid>
       <description>&lt;p&gt;A Guest Post By &lt;a href=&#34;http://twitter.com/dream_warrior&#34;&gt;Mariela Dimitrova&lt;/a&gt;,
 &lt;a href=&#34;http://twitter.com/gusma&#34;&gt;Gustavo Malamud&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/monsieur_rock&#34;&gt;Javier
 Cicchelli&lt;/a&gt;.&lt;/p&gt;
@@ -201,10 +201,10 @@ community in Europe.&lt;/p&gt;
     
     <item>
       <title>Rails Summit Latin America 2009</title>
-      <link>http://rubylearning.com/2009/09/26/rails-summit-latin-america-2009/</link>
+      <link>http://rubylearning.com/blog/2009/09/26/rails-summit-latin-america-2009/</link>
       <pubDate>Sat, 26 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/09/26/rails-summit-latin-america-2009/</guid>
+      <guid>http://rubylearning.com/blog/2009/09/26/rails-summit-latin-america-2009/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.railssummit.com.br/&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/rails_summit_2009.png&#34; alt=&#34;Rails Summit Latin America
 2009&#34; title=&#34;Rails Summit Latin America 2009&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -234,10 +234,10 @@ business network and, of course, learn even more about Ruby and Rails.&lt;/p&gt;
     
     <item>
       <title>How can YOU take YOUR Ruby to the next level?</title>
-      <link>http://rubylearning.com/2008/09/03/how-can-you-take-your-ruby-to-the-next-level/</link>
+      <link>http://rubylearning.com/blog/2008/09/03/how-can-you-take-your-ruby-to-the-next-level/</link>
       <pubDate>Wed, 03 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/09/03/how-can-you-take-your-ruby-to-the-next-level/</guid>
+      <guid>http://rubylearning.com/blog/2008/09/03/how-can-you-take-your-ruby-to-the-next-level/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;a title=&#34;Covers Intermediate Ruby programming&#34; href=&#34;http://intermediateruby.rubylearning.org/&#34;&gt;&lt;img class=&#34;alignright&#34; src=&#34;http://rubylearning.com/images/rubybook.jpg&#34; style=&#34;border: 0px none ;&#34; alt=&#34;Covers Intermediate Ruby programming&#34; /&gt;&lt;/a&gt;
@@ -294,10 +294,10 @@ business network and, of course, learn even more about Ruby and Rails.&lt;/p&gt;
     
     <item>
       <title>Thanks to RubyLearning Sponsor FiveRuns</title>
-      <link>http://rubylearning.com/2008/08/02/thanks-to-rubylearning-sponsor-fiveruns/</link>
+      <link>http://rubylearning.com/blog/2008/08/02/thanks-to-rubylearning-sponsor-fiveruns/</link>
       <pubDate>Sat, 02 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/08/02/thanks-to-rubylearning-sponsor-fiveruns/</guid>
+      <guid>http://rubylearning.com/blog/2008/08/02/thanks-to-rubylearning-sponsor-fiveruns/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     It&amp;#8217;s time to thank RubyLearning&amp;#8217;s excellent sponsors!
@@ -323,10 +323,10 @@ business network and, of course, learn even more about Ruby and Rails.&lt;/p&gt;
     
     <item>
       <title>Ruby Study Notes Book</title>
-      <link>http://rubylearning.com/2008/05/04/ruby-study-notes-book/</link>
+      <link>http://rubylearning.com/blog/2008/05/04/ruby-study-notes-book/</link>
       <pubDate>Sun, 04 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/05/04/ruby-study-notes-book/</guid>
+      <guid>http://rubylearning.com/blog/2008/05/04/ruby-study-notes-book/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;strong&gt;The Ruby Study Notes eBook&lt;/strong&gt; has been downloaded over 14500 times. For a long time there was a constant request of creating the Ruby Study Notes in print form and finally with the help of Lulu.com, I did it!
@@ -346,10 +346,10 @@ business network and, of course, learn even more about Ruby and Rails.&lt;/p&gt;
     
     <item>
       <title>Rails TakeFive Interview</title>
-      <link>http://rubylearning.com/2008/03/29/rails-takefive-interview/</link>
+      <link>http://rubylearning.com/blog/2008/03/29/rails-takefive-interview/</link>
       <pubDate>Sat, 29 Mar 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/03/29/rails-takefive-interview/</guid>
+      <guid>http://rubylearning.com/blog/2008/03/29/rails-takefive-interview/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     It was fun being interviewed by &lt;a href=&#34;http://blog.fiveruns.com/2008/3/28/rails-application-monitoring-takefive-five-questions-with-satish-talim&#34;&gt;FiveRuns Blog&lt;/a&gt;. FiveRuns exists for the express purpose of delivering affordable and radically simplified tools for monitoring applications and their supporting infrastructure with a focus on Ruby on Rails.
@@ -366,10 +366,10 @@ business network and, of course, learn even more about Ruby and Rails.&lt;/p&gt;
     
     <item>
       <title>Ruby Turns 15 on 24th Feb.</title>
-      <link>http://rubylearning.com/2008/02/23/ruby-turns-15-on-24th-feb./</link>
+      <link>http://rubylearning.com/blog/2008/02/23/ruby-turns-15-on-24th-feb./</link>
       <pubDate>Sat, 23 Feb 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/02/23/ruby-turns-15-on-24th-feb./</guid>
+      <guid>http://rubylearning.com/blog/2008/02/23/ruby-turns-15-on-24th-feb./</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;a href=&#34;http://www.oreillynet.com/fyi/blog/2008/02/ruby_turns_15_and_other_import.html&#34;&gt;Kathryn Barrett&lt;/a&gt; reports that this month marks Rubyâ€™s 15th birthday. Yukihiro â€œMatzâ€ Matsumotoâ€“creator of Ruby confirmed that Ruby was conceptualized and named on Feb. 24, 1993. Mark your calendars. While this doesnâ€™t yet qualify Ruby as an old-timer among programming languages, itâ€™s a good indication that itâ€™s here to stay and probably doesnâ€™t deserve to be called a newcomer any more.
@@ -382,10 +382,10 @@ business network and, of course, learn even more about Ruby and Rails.&lt;/p&gt;
     
     <item>
       <title>University of Pune: Ruby Programming</title>
-      <link>http://rubylearning.com/2008/02/22/university-of-pune-ruby-programming/</link>
+      <link>http://rubylearning.com/blog/2008/02/22/university-of-pune-ruby-programming/</link>
       <pubDate>Fri, 22 Feb 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/02/22/university-of-pune-ruby-programming/</guid>
+      <guid>http://rubylearning.com/blog/2008/02/22/university-of-pune-ruby-programming/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     With the growing popularity of the Ruby Programming language in India, the University of Pune proposes to introduce &lt;a href=&#34;http://www.unipune.ernet.in/doc/circular/AcademicCircular/RevisedSyllabus/Management/MCMNewSyllabus%5B1%5D.pdf&#34;&gt;Ruby Programming&lt;/a&gt; as part of the Masters in Computer Management (MCM) post-graduate course, from June 2008.
@@ -402,10 +402,10 @@ business network and, of course, learn even more about Ruby and Rails.&lt;/p&gt;
     
     <item>
       <title>Third edition of &#34;Programming Ruby&#34; now in beta</title>
-      <link>http://rubylearning.com/2007/12/14/third-edition-of-programming-ruby-now-in-beta/</link>
+      <link>http://rubylearning.com/blog/2007/12/14/third-edition-of-programming-ruby-now-in-beta/</link>
       <pubDate>Fri, 14 Dec 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2007/12/14/third-edition-of-programming-ruby-now-in-beta/</guid>
+      <guid>http://rubylearning.com/blog/2007/12/14/third-edition-of-programming-ruby-now-in-beta/</guid>
       <description>&lt;p&gt;Dave Thomas just announced that the &lt;a href=&#34;http://pragprog.com/titles/ruby3&#34;&gt;Third
 Edition&lt;/a&gt; of the PickAxe has just
 entered beta. Each edition of the book tracks the latest Ruby release,
@@ -435,10 +435,10 @@ Ruby&lt;/a&gt;,
     
     <item>
       <title>Ruby Usage Trend in Indian Cities</title>
-      <link>http://rubylearning.com/2007/11/29/ruby-usage-trend-in-indian-cities/</link>
+      <link>http://rubylearning.com/blog/2007/11/29/ruby-usage-trend-in-indian-cities/</link>
       <pubDate>Thu, 29 Nov 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2007/11/29/ruby-usage-trend-in-indian-cities/</guid>
+      <guid>http://rubylearning.com/blog/2007/11/29/ruby-usage-trend-in-indian-cities/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;http://rubylearning.com/&#34;&gt;RubyLearning.com&lt;/a&gt; site has been active
 for some time now and the users of my site are normally people learning
 the Ruby programming language. For the last two years, I have been
@@ -492,10 +492,10 @@ Usage&lt;/a&gt;,
     
     <item>
       <title>Rails Hosting In India</title>
-      <link>http://rubylearning.com/2007/09/15/rails-hosting-in-india/</link>
+      <link>http://rubylearning.com/blog/2007/09/15/rails-hosting-in-india/</link>
       <pubDate>Sat, 15 Sep 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2007/09/15/rails-hosting-in-india/</guid>
+      <guid>http://rubylearning.com/blog/2007/09/15/rails-hosting-in-india/</guid>
       <description>&lt;p&gt;I have been asked time and again about ‘&lt;strong&gt;Rails Hosting In India&lt;/strong&gt;‘ and
 thought it best that I list down the Rails Hosts that I have heard of,
 in India.&lt;/p&gt;
@@ -538,10 +538,10 @@ Hosting&lt;/a&gt;&lt;/p&gt;
     
     <item>
       <title>PLUG MASHUP</title>
-      <link>http://rubylearning.com/2007/09/14/plug-mashup/</link>
+      <link>http://rubylearning.com/blog/2007/09/14/plug-mashup/</link>
       <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2007/09/14/plug-mashup/</guid>
+      <guid>http://rubylearning.com/blog/2007/09/14/plug-mashup/</guid>
       <description>&lt;p&gt;The Pune GNU/Linux Users Group have announced ‘&lt;strong&gt;PLUG MASHUP&lt;/strong&gt;‘, a
 technology event which includes a Hack-a-thon and a mashup camp to be
 held on October 13th and 14th, 2007 at Bhaskaracharya Pratishthan, Pune,
@@ -568,10 +568,10 @@ MASHUP&lt;/a&gt;,
     
     <item>
       <title>Survserv: Rails based Real Time Outbreak Detection System</title>
-      <link>http://rubylearning.com/2007/09/10/survserv-rails-based-real-time-outbreak-detection-system/</link>
+      <link>http://rubylearning.com/blog/2007/09/10/survserv-rails-based-real-time-outbreak-detection-system/</link>
       <pubDate>Mon, 10 Sep 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2007/09/10/survserv-rails-based-real-time-outbreak-detection-system/</guid>
+      <guid>http://rubylearning.com/blog/2007/09/10/survserv-rails-based-real-time-outbreak-detection-system/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.rubylearning.com/images/ab.jpg&#34; title=&#34;Arindam Basu&#34;&gt;&lt;img src=&#34;http://www.rubylearning.com/images/ab.jpg&#34; alt=&#34;Arindam
 Basu&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -665,10 +665,10 @@ Berkeley&lt;/a&gt;&lt;/p&gt;
     
     <item>
       <title>The Ruby Logo Contest</title>
-      <link>http://rubylearning.com/2007/09/03/the-ruby-logo-contest/</link>
+      <link>http://rubylearning.com/blog/2007/09/03/the-ruby-logo-contest/</link>
       <pubDate>Mon, 03 Sep 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2007/09/03/the-ruby-logo-contest/</guid>
+      <guid>http://rubylearning.com/blog/2007/09/03/the-ruby-logo-contest/</guid>
       <description>
 
 &lt;p&gt;The Ruby Association has announced ‘&lt;strong&gt;The Ruby Logo Contest&lt;/strong&gt;‘. An
@@ -699,10 +699,10 @@ Contest&lt;/a&gt;&lt;/p&gt;
     
     <item>
       <title>RubyLearning.com Forum</title>
-      <link>http://rubylearning.com/2007/08/17/rubylearning.com-forum/</link>
+      <link>http://rubylearning.com/blog/2007/08/17/rubylearning.com-forum/</link>
       <pubDate>Fri, 17 Aug 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2007/08/17/rubylearning.com-forum/</guid>
+      <guid>http://rubylearning.com/blog/2007/08/17/rubylearning.com-forum/</guid>
       <description>&lt;p&gt;You demanded it. You have it! The RubyLearning.com
 Forum is up and running. (No longer in this form)&lt;/p&gt;
 

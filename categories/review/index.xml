@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Review on RubyLearning Blog</title>
-    <link>http://rubylearning.com/categories/review/</link>
+    <link>http://rubylearning.com/blog/categories/review/</link>
     <description>Recent content in Review on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Apr 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/categories/review/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Learn Ruby The Hard Way: A Book Review</title>
-      <link>http://rubylearning.com/2015/04/27/learn-ruby-the-hard-way-a-book-review/</link>
+      <link>http://rubylearning.com/blog/2015/04/27/learn-ruby-the-hard-way-a-book-review/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/04/27/learn-ruby-the-hard-way-a-book-review/</guid>
+      <guid>http://rubylearning.com/blog/2015/04/27/learn-ruby-the-hard-way-a-book-review/</guid>
       <description>
 
 &lt;p&gt;A book review of &lt;strong&gt;Learn Ruby the Hard Way - Third Edition&lt;/strong&gt;.&lt;/br&gt;
@@ -115,10 +115,10 @@ other languages.&lt;/p&gt;
     
     <item>
       <title>Ruby Wizardry - A Book Review</title>
-      <link>http://rubylearning.com/2015/03/09/ruby-wizardry---a-book-review/</link>
+      <link>http://rubylearning.com/blog/2015/03/09/ruby-wizardry---a-book-review/</link>
       <pubDate>Mon, 09 Mar 2015 04:32:42 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/03/09/ruby-wizardry---a-book-review/</guid>
+      <guid>http://rubylearning.com/blog/2015/03/09/ruby-wizardry---a-book-review/</guid>
       <description>
 
 &lt;h3 id=&#34;it-all-starts-at-the-beginning:e6fe5e88f71fd2ba6db1ee63e7b912f3&#34;&gt;It all starts at the beginning.&lt;/h3&gt;
@@ -127,7 +127,7 @@ other languages.&lt;/p&gt;
 of some mischievous hooligans and how this kingdom is saved by, well,
 you will have to read it to see.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/blog/media/ruby_wizardry_front_cover.png&#34; alt=&#34;Ruby Wizardry&#34; title=&#34;Ruby Wizardry&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/blog/blog/media/ruby_wizardry_front_cover.png&#34; alt=&#34;Ruby Wizardry&#34; title=&#34;Ruby Wizardry&#34; /&gt;
 &lt;/p&gt;
 
 &lt;h2 id=&#34;introduction:e6fe5e88f71fd2ba6db1ee63e7b912f3&#34;&gt;Introduction&lt;/h2&gt;

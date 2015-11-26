@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security on RubyLearning Blog</title>
-    <link>http://rubylearning.com/categories/security/</link>
+    <link>http://rubylearning.com/blog/categories/security/</link>
     <description>Recent content in Security on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Jul 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/categories/security/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/security/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Ongoing Vigil of Software Security</title>
-      <link>http://rubylearning.com/2012/07/23/the-ongoing-vigil-of-software-security/</link>
+      <link>http://rubylearning.com/blog/2012/07/23/the-ongoing-vigil-of-software-security/</link>
       <pubDate>Mon, 23 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2012/07/23/the-ongoing-vigil-of-software-security/</guid>
+      <guid>http://rubylearning.com/blog/2012/07/23/the-ongoing-vigil-of-software-security/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     The Ongoing Vigil of Software Security

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poll on RubyLearning Blog</title>
-    <link>http://rubylearning.com/categories/poll/</link>
+    <link>http://rubylearning.com/blog/categories/poll/</link>
     <description>Recent content in Poll on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Sep 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/categories/poll/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/poll/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Poll: Ruby Problems for Beginners and Prizes</title>
-      <link>http://rubylearning.com/2009/09/13/poll-ruby-problems-for-beginners-and-prizes/</link>
+      <link>http://rubylearning.com/blog/2009/09/13/poll-ruby-problems-for-beginners-and-prizes/</link>
       <pubDate>Sun, 13 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/09/13/poll-ruby-problems-for-beginners-and-prizes/</guid>
+      <guid>http://rubylearning.com/blog/2009/09/13/poll-ruby-problems-for-beginners-and-prizes/</guid>
       <description>&lt;p&gt;Many RubyLearning participants wrote in asking RubyLearning to start a
 weekly post containing a problem to be solved using Ruby. A problem will
 be posted here every week / fortnight and anyone is free to offer their
@@ -72,10 +72,10 @@ asked, evaluation criteria etc.) as comments below.&lt;/p&gt;
     
     <item>
       <title>Can you help RubyLearning with your suggestions?</title>
-      <link>http://rubylearning.com/2008/11/15/can-you-help-rubylearning-with-your-suggestions/</link>
+      <link>http://rubylearning.com/blog/2008/11/15/can-you-help-rubylearning-with-your-suggestions/</link>
       <pubDate>Sat, 15 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/11/15/can-you-help-rubylearning-with-your-suggestions/</guid>
+      <guid>http://rubylearning.com/blog/2008/11/15/can-you-help-rubylearning-with-your-suggestions/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     New Course Offerings

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shorty Awards on RubyLearning Blog</title>
-    <link>http://rubylearning.com/categories/shorty-awards/</link>
+    <link>http://rubylearning.com/blog/categories/shorty-awards/</link>
     <description>Recent content in Shorty Awards on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Jan 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/categories/shorty-awards/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/shorty-awards/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Shorty Awards: Honoring The Best People and Organizations on Twitter</title>
-      <link>http://rubylearning.com/2010/01/06/shorty-awards-honoring-the-best-people-and-organizations-on-twitter/</link>
+      <link>http://rubylearning.com/blog/2010/01/06/shorty-awards-honoring-the-best-people-and-organizations-on-twitter/</link>
       <pubDate>Wed, 06 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/01/06/shorty-awards-honoring-the-best-people-and-organizations-on-twitter/</guid>
+      <guid>http://rubylearning.com/blog/2010/01/06/shorty-awards-honoring-the-best-people-and-organizations-on-twitter/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;“Hollywood has the Oscars. Broadway has the Tonys. Now Twitter has
 the…Shorty Awards” – The New York Times&lt;/p&gt;
@@ -52,10 +52,10 @@ won this category in
     
     <item>
       <title>Will RubyLearning be present at the Shorty Awards Acceptance Ceremony?</title>
-      <link>http://rubylearning.com/2009/01/27/will-rubylearning-be-present-at-the-shorty-awards-acceptance-ceremony/</link>
+      <link>http://rubylearning.com/blog/2009/01/27/will-rubylearning-be-present-at-the-shorty-awards-acceptance-ceremony/</link>
       <pubDate>Tue, 27 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/01/27/will-rubylearning-be-present-at-the-shorty-awards-acceptance-ceremony/</guid>
+      <guid>http://rubylearning.com/blog/2009/01/27/will-rubylearning-be-present-at-the-shorty-awards-acceptance-ceremony/</guid>
       <description>&lt;p&gt;The votes have been cast and the &lt;a href=&#34;http://www.shortyawards.com/&#34;&gt;Shorty
 Awards&lt;/a&gt; have come to an end. The official
 results are in, and RubyLearning is a winner of the Shorty Award in the

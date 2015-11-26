@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Training on RubyLearning Blog</title>
-    <link>http://rubylearning.com/categories/training/</link>
+    <link>http://rubylearning.com/blog/categories/training/</link>
     <description>Recent content in Training on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Oct 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/categories/training/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/training/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Learn Ruby programming - 64th batch</title>
-      <link>http://rubylearning.com/2015/10/11/learn-ruby-programming---64th-batch/</link>
+      <link>http://rubylearning.com/blog/2015/10/11/learn-ruby-programming---64th-batch/</link>
       <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/10/11/learn-ruby-programming---64th-batch/</guid>
+      <guid>http://rubylearning.com/blog/2015/10/11/learn-ruby-programming---64th-batch/</guid>
       <description>
 
 &lt;p&gt;Registrations are now open for RubyLearning&amp;rsquo;s &lt;em&gt;long-running and popular&lt;/em&gt;
@@ -169,7 +169,7 @@ pay US $44.95 by clicking on the PayPal button&lt;/p&gt;
 
 &lt;h2 id=&#34;how-does-the-course-work:0abd26cdb3a9774f40682720c8206489&#34;&gt;How does the course work?&lt;/h2&gt;
 
-&lt;p&gt;For details on how the course works, refer &lt;a href=&#34;http://rubylearning.com/how-the-course-works/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For details on how the course works, refer &lt;a href=&#34;http://rubylearning.com/blog/how-the-course-works/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;At the end of this course you should have all the knowledge to explore
 the wonderful world of Ruby on your own.&lt;/p&gt;
@@ -180,10 +180,10 @@ the wonderful world of Ruby on your own.&lt;/p&gt;
     
     <item>
       <title>Learn Ruby programming - 60th batch</title>
-      <link>http://rubylearning.com/2015/03/11/learn-ruby-programming---60th-batch/</link>
+      <link>http://rubylearning.com/blog/2015/03/11/learn-ruby-programming---60th-batch/</link>
       <pubDate>Wed, 11 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2015/03/11/learn-ruby-programming---60th-batch/</guid>
+      <guid>http://rubylearning.com/blog/2015/03/11/learn-ruby-programming---60th-batch/</guid>
       <description>
 
 &lt;p&gt;Registrations are now open for RubyLearning&amp;rsquo;s &lt;em&gt;long-awaited and popular&lt;/em&gt;
@@ -338,7 +338,7 @@ pay US \$ 44.95 by clicking on the PayPal button
 
 &lt;h2 id=&#34;how-does-the-course-work:3246cb27615219d089c54a16de682ca1&#34;&gt;How does the course work?&lt;/h2&gt;
 
-&lt;p&gt;For details on how the course works, refer &lt;a href=&#34;http://rubylearning.com/how-the-course-works/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For details on how the course works, refer &lt;a href=&#34;http://rubylearning.com/blog/how-the-course-works/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;At the end of this course you should have all the knowledge to explore
 the wonderful world of Ruby on your own.&lt;/p&gt;
@@ -349,10 +349,10 @@ the wonderful world of Ruby on your own.&lt;/p&gt;
     
     <item>
       <title>Want to create a Sinatra Web Service?</title>
-      <link>http://rubylearning.com/2009/06/23/want-to-create-a-sinatra-web-service/</link>
+      <link>http://rubylearning.com/blog/2009/06/23/want-to-create-a-sinatra-web-service/</link>
       <pubDate>Tue, 23 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/06/23/want-to-create-a-sinatra-web-service/</guid>
+      <guid>http://rubylearning.com/blog/2009/06/23/want-to-create-a-sinatra-web-service/</guid>
       <description>&lt;div&gt;
   &lt;p class=&#34;alert&#34;&gt;
     With &lt;strong&gt;Sinatra&lt;/strong&gt; you can quickly create your own tiny web-applications in Ruby and write lots of small services.
@@ -495,10 +495,10 @@ zebra&lt;/pre&gt;
     
     <item>
       <title>Can YOU suggest new course contents?</title>
-      <link>http://rubylearning.com/2009/03/19/can-you-suggest-new-course-contents/</link>
+      <link>http://rubylearning.com/blog/2009/03/19/can-you-suggest-new-course-contents/</link>
       <pubDate>Thu, 19 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/03/19/can-you-suggest-new-course-contents/</guid>
+      <guid>http://rubylearning.com/blog/2009/03/19/can-you-suggest-new-course-contents/</guid>
       <description>&lt;p&gt;We’re rapidly expanding our course offerings here at RubyLearning,
 trying to keep up with the enormous and ever-growing interest in
 “everything” &lt;strong&gt;Ruby&lt;/strong&gt;. We have recently introduced four new courses
@@ -531,10 +531,10 @@ won’t take more than a minute or two.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Interview: Chris Wanstrath of GitHub</title>
-      <link>http://rubylearning.com/2009/02/21/interview-chris-wanstrath-of-github/</link>
+      <link>http://rubylearning.com/blog/2009/02/21/interview-chris-wanstrath-of-github/</link>
       <pubDate>Sat, 21 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/02/21/interview-chris-wanstrath-of-github/</guid>
+      <guid>http://rubylearning.com/blog/2009/02/21/interview-chris-wanstrath-of-github/</guid>
       <description>&lt;p&gt;On the eve of the first ever free, online course on “Git and GitHub”,
 Satish Talim of RubyLearning caught up with &lt;strong&gt;Chris Wanstrath&lt;/strong&gt; and
 talked to him, in this short interview.&lt;/p&gt;
@@ -607,10 +607,10 @@ necessarily reflect those of
     
     <item>
       <title>Will RubyLearning be present at the Shorty Awards Acceptance Ceremony?</title>
-      <link>http://rubylearning.com/2009/01/27/will-rubylearning-be-present-at-the-shorty-awards-acceptance-ceremony/</link>
+      <link>http://rubylearning.com/blog/2009/01/27/will-rubylearning-be-present-at-the-shorty-awards-acceptance-ceremony/</link>
       <pubDate>Tue, 27 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/01/27/will-rubylearning-be-present-at-the-shorty-awards-acceptance-ceremony/</guid>
+      <guid>http://rubylearning.com/blog/2009/01/27/will-rubylearning-be-present-at-the-shorty-awards-acceptance-ceremony/</guid>
       <description>&lt;p&gt;The votes have been cast and the &lt;a href=&#34;http://www.shortyawards.com/&#34;&gt;Shorty
 Awards&lt;/a&gt; have come to an end. The official
 results are in, and RubyLearning is a winner of the Shorty Award in the
@@ -745,10 +745,10 @@ speech to Shorty Awards for the 11th Feb. award ceremony in New York.
     
     <item>
       <title>Can you help RubyLearning with your suggestions?</title>
-      <link>http://rubylearning.com/2008/11/15/can-you-help-rubylearning-with-your-suggestions/</link>
+      <link>http://rubylearning.com/blog/2008/11/15/can-you-help-rubylearning-with-your-suggestions/</link>
       <pubDate>Sat, 15 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/11/15/can-you-help-rubylearning-with-your-suggestions/</guid>
+      <guid>http://rubylearning.com/blog/2008/11/15/can-you-help-rubylearning-with-your-suggestions/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     New Course Offerings
@@ -798,10 +798,10 @@ speech to Shorty Awards for the 11th Feb. award ceremony in New York.
     
     <item>
       <title>Little Known Ways to Ruby Mastery by Stuart Halloway</title>
-      <link>http://rubylearning.com/2008/10/14/little-known-ways-to-ruby-mastery-by-stuart-halloway/</link>
+      <link>http://rubylearning.com/blog/2008/10/14/little-known-ways-to-ruby-mastery-by-stuart-halloway/</link>
       <pubDate>Tue, 14 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/10/14/little-known-ways-to-ruby-mastery-by-stuart-halloway/</guid>
+      <guid>http://rubylearning.com/blog/2008/10/14/little-known-ways-to-ruby-mastery-by-stuart-halloway/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     A weekly series from the Ruby Masters
@@ -946,10 +946,10 @@ speech to Shorty Awards for the 11th Feb. award ceremony in New York.
     
     <item>
       <title>Little Known Ways to Ruby Mastery by Dr Nic Williams</title>
-      <link>http://rubylearning.com/2008/10/07/little-known-ways-to-ruby-mastery-by-dr-nic-williams/</link>
+      <link>http://rubylearning.com/blog/2008/10/07/little-known-ways-to-ruby-mastery-by-dr-nic-williams/</link>
       <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/10/07/little-known-ways-to-ruby-mastery-by-dr-nic-williams/</guid>
+      <guid>http://rubylearning.com/blog/2008/10/07/little-known-ways-to-ruby-mastery-by-dr-nic-williams/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     A weekly series from the Ruby Masters
@@ -1141,10 +1141,10 @@ speech to Shorty Awards for the 11th Feb. award ceremony in New York.
     
     <item>
       <title>Little Known Ways to Ruby Mastery by James Edward Gray II</title>
-      <link>http://rubylearning.com/2008/09/30/little-known-ways-to-ruby-mastery-by-james-edward-gray-ii/</link>
+      <link>http://rubylearning.com/blog/2008/09/30/little-known-ways-to-ruby-mastery-by-james-edward-gray-ii/</link>
       <pubDate>Tue, 30 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/09/30/little-known-ways-to-ruby-mastery-by-james-edward-gray-ii/</guid>
+      <guid>http://rubylearning.com/blog/2008/09/30/little-known-ways-to-ruby-mastery-by-james-edward-gray-ii/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     A weekly series from the Ruby Masters
@@ -1311,10 +1311,10 @@ speech to Shorty Awards for the 11th Feb. award ceremony in New York.
     
     <item>
       <title>Little Known Ways to Ruby Mastery by Jamie van Dyke</title>
-      <link>http://rubylearning.com/2008/09/23/little-known-ways-to-ruby-mastery-by-jamie-van-dyke/</link>
+      <link>http://rubylearning.com/blog/2008/09/23/little-known-ways-to-ruby-mastery-by-jamie-van-dyke/</link>
       <pubDate>Tue, 23 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/09/23/little-known-ways-to-ruby-mastery-by-jamie-van-dyke/</guid>
+      <guid>http://rubylearning.com/blog/2008/09/23/little-known-ways-to-ruby-mastery-by-jamie-van-dyke/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     A weekly series from the Ruby Masters
@@ -1467,10 +1467,10 @@ speech to Shorty Awards for the 11th Feb. award ceremony in New York.
     
     <item>
       <title>How can YOU take YOUR Ruby to the next level?</title>
-      <link>http://rubylearning.com/2008/09/03/how-can-you-take-your-ruby-to-the-next-level/</link>
+      <link>http://rubylearning.com/blog/2008/09/03/how-can-you-take-your-ruby-to-the-next-level/</link>
       <pubDate>Wed, 03 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/09/03/how-can-you-take-your-ruby-to-the-next-level/</guid>
+      <guid>http://rubylearning.com/blog/2008/09/03/how-can-you-take-your-ruby-to-the-next-level/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;a title=&#34;Covers Intermediate Ruby programming&#34; href=&#34;http://intermediateruby.rubylearning.org/&#34;&gt;&lt;img class=&#34;alignright&#34; src=&#34;http://rubylearning.com/images/rubybook.jpg&#34; style=&#34;border: 0px none ;&#34; alt=&#34;Covers Intermediate Ruby programming&#34; /&gt;&lt;/a&gt;
@@ -1527,10 +1527,10 @@ speech to Shorty Awards for the 11th Feb. award ceremony in New York.
     
     <item>
       <title>Which 21 topics would YOU suggest for an Advanced Ruby Course and why?</title>
-      <link>http://rubylearning.com/2008/08/26/which-21-topics-would-you-suggest-for-an-advanced-ruby-course-and-why/</link>
+      <link>http://rubylearning.com/blog/2008/08/26/which-21-topics-would-you-suggest-for-an-advanced-ruby-course-and-why/</link>
       <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/08/26/which-21-topics-would-you-suggest-for-an-advanced-ruby-course-and-why/</guid>
+      <guid>http://rubylearning.com/blog/2008/08/26/which-21-topics-would-you-suggest-for-an-advanced-ruby-course-and-why/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;span class=&#34;drop_cap&#34;&gt;T&lt;/span&gt;here have been some heavy discussions at &lt;a href=&#34;http://rubylearning.org/&#34;&gt;RubyLearning&lt;/a&gt; about what all should be covered in an &lt;strong&gt;Advanced Ruby Course&lt;/strong&gt;. Many topics have been suggested along with a &amp;#8216;for&amp;#8217; and &amp;#8216;against&amp;#8217; each topic, but nothing concrete has come out. I&amp;#8217;d like the topics to be more relevant to the &amp;#8216;&lt;em&gt;Real World Ruby&lt;/em&gt;&amp;#8216; which any programmer with a &lt;a href=&#34;http://book.rubylearning.org/&#34;&gt;basic knowledge of Ruby&lt;/a&gt; could master and use. At our Free Core Ruby Programming Course we cover the &lt;a href=&#34;http://rubylearning.com/satishtalim/tutorial.html&#34;&gt;following topics&lt;/a&gt;.
@@ -1579,10 +1579,10 @@ speech to Shorty Awards for the 11th Feb. award ceremony in New York.
     
     <item>
       <title>TMail: Sending email</title>
-      <link>http://rubylearning.com/2008/08/21/tmail-sending-email/</link>
+      <link>http://rubylearning.com/blog/2008/08/21/tmail-sending-email/</link>
       <pubDate>Thu, 21 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/08/21/tmail-sending-email/</guid>
+      <guid>http://rubylearning.com/blog/2008/08/21/tmail-sending-email/</guid>
       <description>&lt;div&gt;
   &lt;blockquote class=&#34;right&#34;&gt;
     &lt;p&gt;
@@ -1677,10 +1677,10 @@ end&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>&#34;AkitaOnRails&#34; Advises A Young Ruby Beginner</title>
-      <link>http://rubylearning.com/2008/04/29/akitaonrails-advises-a-young-ruby-beginner/</link>
+      <link>http://rubylearning.com/blog/2008/04/29/akitaonrails-advises-a-young-ruby-beginner/</link>
       <pubDate>Tue, 29 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2008/04/29/akitaonrails-advises-a-young-ruby-beginner/</guid>
+      <guid>http://rubylearning.com/blog/2008/04/29/akitaonrails-advises-a-young-ruby-beginner/</guid>
       <description>&lt;div&gt;
   &lt;p class=&#34;block&#34;&gt;
     &lt;img class=&#34;alignleft&#34; title=&#34;Fabio Akita&#34; src=&#34;http://www.rubylearning.com/images/akita.jpg&#34; alt=&#34;Fabio Akita&#34; /&gt;&lt;strong&gt;Fabio Akita&lt;/strong&gt; is a Brazilian Rails enthusiast, also known online as &amp;#8220;AkitaOnRails&amp;#8221;. He regularly write posts on his own &lt;a href=&#34;http://www.akitaonrails.com/&#34;&gt;blog&lt;/a&gt; and had published the very first book tailored for the Brazilian audience called &amp;#8220;Repensando a Web com Rails&amp;#8221;. He is now a full-time Ruby on Rails developer working as Brazil Rails Practice Manager for the Utah company Surgeworks LLC.

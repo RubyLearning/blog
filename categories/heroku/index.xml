@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heroku on RubyLearning Blog</title>
-    <link>http://rubylearning.com/categories/heroku/</link>
+    <link>http://rubylearning.com/blog/categories/heroku/</link>
     <description>Recent content in Heroku on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Sep 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/categories/heroku/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/heroku/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How do I use Sinatra to access the Google&#43; API?</title>
-      <link>http://rubylearning.com/2011/09/20/how-do-i-use-sinatra-to-access-the-google-api/</link>
+      <link>http://rubylearning.com/blog/2011/09/20/how-do-i-use-sinatra-to-access-the-google-api/</link>
       <pubDate>Tue, 20 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2011/09/20/how-do-i-use-sinatra-to-access-the-google-api/</guid>
+      <guid>http://rubylearning.com/blog/2011/09/20/how-do-i-use-sinatra-to-access-the-google-api/</guid>
       <description>&lt;div&gt;
   &lt;h2&gt;
     How do I use Sinatra to access the Google+ API?
@@ -99,8 +99,8 @@
     &amp;lt;meta http-equiv=&#34;Content-Type&#34; content=&#34;text/html; charset=utf-8&#34; /&amp;gt;
     &amp;lt;meta name=&#34;description&#34; content=&#34;RubyLearning.org&#34; /&amp;gt;
     &amp;lt;meta name=&#34;keywords&#34; content=&#34;rubylearning,ruby,ruby programming,ruby course,sinatra course&#34; /&amp;gt;
-    &amp;lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;http://rubylearning.com/stylesheets/style.css&#34; /&amp;gt;
-    &amp;lt;link rel=&#34;icon&#34; type=&#34;image/ico&#34; href=&#34;http://rubylearning.com/images/favicon.ico&#34; /&amp;gt;
+    &amp;lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;http://rubylearning.com/blog/stylesheets/style.css&#34; /&amp;gt;
+    &amp;lt;link rel=&#34;icon&#34; type=&#34;image/ico&#34; href=&#34;http://rubylearning.com/blog/images/favicon.ico&#34; /&amp;gt;
   &amp;lt;/head&amp;gt;
   &amp;lt;body&amp;gt;
     &amp;lt;%= yield %&amp;gt;
@@ -473,10 +473,10 @@ properties.each { |key, value| puts &#34;#{key} equals #{value}&#34; }
     
     <item>
       <title>Getting started with Heroku</title>
-      <link>http://rubylearning.com/2010/12/15/getting-started-with-heroku/</link>
+      <link>http://rubylearning.com/blog/2010/12/15/getting-started-with-heroku/</link>
       <pubDate>Wed, 15 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2010/12/15/getting-started-with-heroku/</guid>
+      <guid>http://rubylearning.com/blog/2010/12/15/getting-started-with-heroku/</guid>
       <description>
 
 &lt;h2 id=&#34;getting-started-with-heroku:e1de9e228454d1bb97c6dc0a02f63488&#34;&gt;Getting started with Heroku&lt;/h2&gt;
@@ -826,10 +826,10 @@ this post. Thanks and Good Luck!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Happynerds - Programming Links for Kids</title>
-      <link>http://rubylearning.com/2009/12/21/happynerds---programming-links-for-kids/</link>
+      <link>http://rubylearning.com/blog/2009/12/21/happynerds---programming-links-for-kids/</link>
       <pubDate>Mon, 21 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/12/21/happynerds---programming-links-for-kids/</guid>
+      <guid>http://rubylearning.com/blog/2009/12/21/happynerds---programming-links-for-kids/</guid>
       <description>&lt;p&gt;&lt;strong&gt;A guest post by &lt;a href=&#34;http://citizen428.net&#34;&gt;Michael Kohl&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/michael_kohl.jpg&#34; alt=&#34;Michael Kohl&#34; title=&#34;Michael Kohl&#34; /&gt;
@@ -891,10 +891,10 @@ will be easy and fun once I get around to do it!&lt;/p&gt;
     
     <item>
       <title>Interview: Aaron Quint on Sinatra</title>
-      <link>http://rubylearning.com/2009/03/20/interview-aaron-quint-on-sinatra/</link>
+      <link>http://rubylearning.com/blog/2009/03/20/interview-aaron-quint-on-sinatra/</link>
       <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/03/20/interview-aaron-quint-on-sinatra/</guid>
+      <guid>http://rubylearning.com/blog/2009/03/20/interview-aaron-quint-on-sinatra/</guid>
       <description>&lt;p&gt;On the eve of the first ever online “&lt;strong&gt;Introduction to Sinatra&lt;/strong&gt;”
 course, Satish Talim of RubyLearning caught up with &lt;strong&gt;Aaron Quint&lt;/strong&gt; and
 talked to him on &lt;strong&gt;Sinatra&lt;/strong&gt;, in this interview.&lt;/p&gt;
@@ -1029,10 +1029,10 @@ details&lt;/a&gt;.
     
     <item>
       <title>Interview: Ryan Tomayko on Sinatra</title>
-      <link>http://rubylearning.com/2009/03/20/interview-ryan-tomayko-on-sinatra/</link>
+      <link>http://rubylearning.com/blog/2009/03/20/interview-ryan-tomayko-on-sinatra/</link>
       <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/03/20/interview-ryan-tomayko-on-sinatra/</guid>
+      <guid>http://rubylearning.com/blog/2009/03/20/interview-ryan-tomayko-on-sinatra/</guid>
       <description>&lt;p&gt;On the eve of the first ever online “&lt;strong&gt;Introduction to Sinatra&lt;/strong&gt;”
 course, Satish Talim of RubyLearning caught up with &lt;strong&gt;Ryan Tomayko&lt;/strong&gt; and
 talked to him on &lt;strong&gt;Sinatra&lt;/strong&gt;, in this interview.&lt;/p&gt;
@@ -1272,10 +1272,10 @@ details&lt;/a&gt;.
     
     <item>
       <title>Interview: Adam Wiggins on Heroku</title>
-      <link>http://rubylearning.com/2009/03/13/interview-adam-wiggins-on-heroku/</link>
+      <link>http://rubylearning.com/blog/2009/03/13/interview-adam-wiggins-on-heroku/</link>
       <pubDate>Fri, 13 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/2009/03/13/interview-adam-wiggins-on-heroku/</guid>
+      <guid>http://rubylearning.com/blog/2009/03/13/interview-adam-wiggins-on-heroku/</guid>
       <description>&lt;p&gt;On the eve of the first ever online “&lt;strong&gt;Introduction to Sinatra&lt;/strong&gt;”
 course, Satish Talim and Victor H. Goff III of RubyLearning caught up
 with &lt;strong&gt;Adam Wiggins&lt;/strong&gt; and talked to him on &lt;strong&gt;Heroku&lt;/strong&gt; (pronounced
