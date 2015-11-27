@@ -48,22 +48,22 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</loc>
-    <lastmod>2015-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</loc>
     <lastmod>2015-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/25/rpcfn-shift-subtitle-reprint/</loc>
-    <lastmod>2015-01-25T00:00:00+00:00</lastmod>
+    <loc>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</loc>
+    <lastmod>2015-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://rubylearning.com/blog/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</loc>
+    <lastmod>2015-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rubylearning.com/blog/2015/01/25/rpcfn-shift-subtitle-reprint/</loc>
     <lastmod>2015-01-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,17 +78,17 @@
   </url>
   
   <url>
+    <loc>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</loc>
+    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</loc>
-    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -353,12 +353,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/12/15/rubylearning-ebooks-sale-proceeds-for-cry-india----will-you-join-me/</loc>
+    <loc>http://rubylearning.com/blog/2010/12/15/getting-started-with-heroku/</loc>
     <lastmod>2010-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/12/15/getting-started-with-heroku/</loc>
+    <loc>http://rubylearning.com/blog/2010/12/15/rubylearning-ebooks-sale-proceeds-for-cry-india----will-you-join-me/</loc>
     <lastmod>2010-12-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -608,12 +608,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/04/29/rpcfn-interactive-fiction---9/</loc>
+    <loc>http://rubylearning.com/blog/2010/04/29/paul-barry-winner-rpcfn---8/</loc>
     <lastmod>2010-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/04/29/paul-barry-winner-rpcfn---8/</loc>
+    <loc>http://rubylearning.com/blog/2010/04/29/rpcfn-interactive-fiction---9/</loc>
     <lastmod>2010-04-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -988,22 +988,22 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/20/interview-ryan-tomayko-on-sinatra/</loc>
-    <lastmod>2009-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://rubylearning.com/blog/2009/03/20/interview-aaron-quint-on-sinatra/</loc>
     <lastmod>2009-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/19/rubylearnings-sponsor-1st-easy-limited/</loc>
-    <lastmod>2009-03-19T00:00:00+00:00</lastmod>
+    <loc>http://rubylearning.com/blog/2009/03/20/interview-ryan-tomayko-on-sinatra/</loc>
+    <lastmod>2009-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://rubylearning.com/blog/2009/03/19/can-you-suggest-new-course-contents/</loc>
+    <lastmod>2009-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rubylearning.com/blog/2009/03/19/rubylearnings-sponsor-1st-easy-limited/</loc>
     <lastmod>2009-03-19T00:00:00+00:00</lastmod>
   </url>
   
