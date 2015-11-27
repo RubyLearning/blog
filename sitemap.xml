@@ -48,12 +48,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</loc>
     <lastmod>2015-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</loc>
     <lastmod>2015-01-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,17 +78,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</loc>
-    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</loc>
-    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</loc>
+    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -99,6 +94,11 @@
   
   <url>
     <loc>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</loc>
+    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -608,12 +608,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/04/29/paul-barry-winner-rpcfn---8/</loc>
+    <loc>http://rubylearning.com/blog/2010/04/29/rpcfn-interactive-fiction---9/</loc>
     <lastmod>2010-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/04/29/rpcfn-interactive-fiction---9/</loc>
+    <loc>http://rubylearning.com/blog/2010/04/29/paul-barry-winner-rpcfn---8/</loc>
     <lastmod>2010-04-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -643,12 +643,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</loc>
+    <loc>http://rubylearning.com/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</loc>
     <lastmod>2010-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</loc>
+    <loc>http://rubylearning.com/blog/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</loc>
     <lastmod>2010-03-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -988,22 +988,22 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/20/interview-aaron-quint-on-sinatra/</loc>
-    <lastmod>2009-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://rubylearning.com/blog/2009/03/20/interview-ryan-tomayko-on-sinatra/</loc>
     <lastmod>2009-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/19/can-you-suggest-new-course-contents/</loc>
-    <lastmod>2009-03-19T00:00:00+00:00</lastmod>
+    <loc>http://rubylearning.com/blog/2009/03/20/interview-aaron-quint-on-sinatra/</loc>
+    <lastmod>2009-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://rubylearning.com/blog/2009/03/19/rubylearnings-sponsor-1st-easy-limited/</loc>
+    <lastmod>2009-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rubylearning.com/blog/2009/03/19/can-you-suggest-new-course-contents/</loc>
     <lastmod>2009-03-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1023,12 +1023,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/10/rubylearnings-sponsor-rails-kits/</loc>
+    <loc>http://rubylearning.com/blog/2009/03/10/rubylearnings-sponsor-blue-box-group/</loc>
     <lastmod>2009-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/10/rubylearnings-sponsor-blue-box-group/</loc>
+    <loc>http://rubylearning.com/blog/2009/03/10/rubylearnings-sponsor-rails-kits/</loc>
     <lastmod>2009-03-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -1338,12 +1338,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2008/04/14/appreciating-ruby-bloggers/</loc>
+    <loc>http://rubylearning.com/blog/2008/04/14/web-transformations-1.0-2.0-3.0-but-what-is-it/</loc>
     <lastmod>2008-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2008/04/14/web-transformations-1.0-2.0-3.0-but-what-is-it/</loc>
+    <loc>http://rubylearning.com/blog/2008/04/14/appreciating-ruby-bloggers/</loc>
     <lastmod>2008-04-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -1598,12 +1598,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/04/11/ruby-quirks/</loc>
+    <loc>http://rubylearning.com/blog/2007/04/11/interview-shashank-date/</loc>
     <lastmod>2007-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/04/11/interview-shashank-date/</loc>
+    <loc>http://rubylearning.com/blog/2007/04/11/ruby-quirks/</loc>
     <lastmod>2007-04-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -1693,12 +1693,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/02/06/convert-bytes-to-megabytes/</loc>
+    <loc>http://rubylearning.com/blog/2007/02/06/update-to-rails-1.2.2/</loc>
     <lastmod>2007-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/02/06/update-to-rails-1.2.2/</loc>
+    <loc>http://rubylearning.com/blog/2007/02/06/convert-bytes-to-megabytes/</loc>
     <lastmod>2007-02-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -1713,12 +1713,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/01/26/company-name-approval/</loc>
+    <loc>http://rubylearning.com/blog/2007/01/26/locating-office-space/</loc>
     <lastmod>2007-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/01/26/locating-office-space/</loc>
+    <loc>http://rubylearning.com/blog/2007/01/26/company-name-approval/</loc>
     <lastmod>2007-01-26T00:00:00+00:00</lastmod>
   </url>
   
