@@ -57,7 +57,7 @@ motivation and drive to get going."
 
 ## What's Ruby?
 
-![Ruby](http://rubylearning.com/images/rubylogo.png "License: http://creativecommons.org/licenses/by-sa/2.5/")
+![Ruby](http://rubylearning.com/images/ruby_350.png "License: http://creativecommons.org/licenses/by-sa/2.5/")
 
 According to
 [http://www.ruby-lang.org/en/](http://www.ruby-lang.org/en/) - "Ruby is
