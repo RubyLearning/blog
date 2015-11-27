@@ -78,12 +78,7 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</loc>
-    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/interview-aaron-quint-on-sinatra-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,12 +88,17 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/07/interview-aaron-quint-on-sinatra-reprint/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</loc>
+    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -608,12 +608,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/04/29/paul-barry-winner-rpcfn---8/</loc>
+    <loc>http://rubylearning.com/blog/2010/04/29/rpcfn-interactive-fiction---9/</loc>
     <lastmod>2010-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/04/29/rpcfn-interactive-fiction---9/</loc>
+    <loc>http://rubylearning.com/blog/2010/04/29/paul-barry-winner-rpcfn---8/</loc>
     <lastmod>2010-04-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -628,12 +628,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/04/06/rich-hickey-talks-to-rubylearnings-clojure-course-participants/</loc>
+    <loc>http://rubylearning.com/blog/2010/04/06/dmitriy-nagirnyak-winner-rpcfn---7/</loc>
     <lastmod>2010-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/04/06/dmitriy-nagirnyak-winner-rpcfn---7/</loc>
+    <loc>http://rubylearning.com/blog/2010/04/06/rich-hickey-talks-to-rubylearnings-clojure-course-participants/</loc>
     <lastmod>2010-04-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -643,12 +643,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</loc>
+    <loc>http://rubylearning.com/blog/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</loc>
     <lastmod>2010-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</loc>
+    <loc>http://rubylearning.com/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</loc>
     <lastmod>2010-03-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -738,12 +738,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/10/08/felipe-elias-philipp-winner-rpcfn---1/</loc>
+    <loc>http://rubylearning.com/blog/2009/10/08/rpcfn-average-arrival-time-for-a-flight---2-repost/</loc>
     <lastmod>2009-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/10/08/rpcfn-average-arrival-time-for-a-flight---2-repost/</loc>
+    <loc>http://rubylearning.com/blog/2009/10/08/felipe-elias-philipp-winner-rpcfn---1/</loc>
     <lastmod>2009-10-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -998,12 +998,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/19/can-you-suggest-new-course-contents/</loc>
+    <loc>http://rubylearning.com/blog/2009/03/19/rubylearnings-sponsor-1st-easy-limited/</loc>
     <lastmod>2009-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/19/rubylearnings-sponsor-1st-easy-limited/</loc>
+    <loc>http://rubylearning.com/blog/2009/03/19/can-you-suggest-new-course-contents/</loc>
     <lastmod>2009-03-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1318,12 +1318,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2008/04/22/ruby-interview-adam-keys-of-fiveruns/</loc>
+    <loc>http://rubylearning.com/blog/2008/04/22/looking-for-1001-ways-to-promote-my-ruby-ebook/</loc>
     <lastmod>2008-04-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2008/04/22/looking-for-1001-ways-to-promote-my-ruby-ebook/</loc>
+    <loc>http://rubylearning.com/blog/2008/04/22/ruby-interview-adam-keys-of-fiveruns/</loc>
     <lastmod>2008-04-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -1658,12 +1658,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/02/24/write-ruby-code-faster-with-ed-for-windows/</loc>
+    <loc>http://rubylearning.com/blog/2007/02/24/ruby-snips/</loc>
     <lastmod>2007-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/02/24/ruby-snips/</loc>
+    <loc>http://rubylearning.com/blog/2007/02/24/write-ruby-code-faster-with-ed-for-windows/</loc>
     <lastmod>2007-02-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -1713,12 +1713,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/01/26/locating-office-space/</loc>
+    <loc>http://rubylearning.com/blog/2007/01/26/company-name-approval/</loc>
     <lastmod>2007-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/01/26/company-name-approval/</loc>
+    <loc>http://rubylearning.com/blog/2007/01/26/locating-office-space/</loc>
     <lastmod>2007-01-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -1728,12 +1728,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/01/20/setting-up-an-it-company-in-india/</loc>
+    <loc>http://rubylearning.com/blog/2007/01/20/kidzworld-one-of-the-largest-ruby-on-rails-sites-ever-deployed/</loc>
     <lastmod>2007-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/01/20/kidzworld-one-of-the-largest-ruby-on-rails-sites-ever-deployed/</loc>
+    <loc>http://rubylearning.com/blog/2007/01/20/setting-up-an-it-company-in-india/</loc>
     <lastmod>2007-01-20T00:00:00+00:00</lastmod>
   </url>
   
