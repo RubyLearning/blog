@@ -58,12 +58,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/25/rpcfn-shift-subtitle-reprint/</loc>
     <lastmod>2015-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/25/rpcfn-shift-subtitle-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</loc>
     <lastmod>2015-01-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,12 +78,7 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</loc>
-    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,12 +88,17 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</loc>
+    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -608,12 +608,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/04/29/rpcfn-interactive-fiction---9/</loc>
+    <loc>http://rubylearning.com/blog/2010/04/29/paul-barry-winner-rpcfn---8/</loc>
     <lastmod>2010-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/04/29/paul-barry-winner-rpcfn---8/</loc>
+    <loc>http://rubylearning.com/blog/2010/04/29/rpcfn-interactive-fiction---9/</loc>
     <lastmod>2010-04-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -628,12 +628,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/04/06/dmitriy-nagirnyak-winner-rpcfn---7/</loc>
+    <loc>http://rubylearning.com/blog/2010/04/06/rich-hickey-talks-to-rubylearnings-clojure-course-participants/</loc>
     <lastmod>2010-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/04/06/rich-hickey-talks-to-rubylearnings-clojure-course-participants/</loc>
+    <loc>http://rubylearning.com/blog/2010/04/06/dmitriy-nagirnyak-winner-rpcfn---7/</loc>
     <lastmod>2010-04-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -643,12 +643,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</loc>
+    <loc>http://rubylearning.com/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</loc>
     <lastmod>2010-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</loc>
+    <loc>http://rubylearning.com/blog/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</loc>
     <lastmod>2010-03-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -988,22 +988,22 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/20/interview-aaron-quint-on-sinatra/</loc>
-    <lastmod>2009-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://rubylearning.com/blog/2009/03/20/interview-ryan-tomayko-on-sinatra/</loc>
     <lastmod>2009-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/19/rubylearnings-sponsor-1st-easy-limited/</loc>
-    <lastmod>2009-03-19T00:00:00+00:00</lastmod>
+    <loc>http://rubylearning.com/blog/2009/03/20/interview-aaron-quint-on-sinatra/</loc>
+    <lastmod>2009-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://rubylearning.com/blog/2009/03/19/can-you-suggest-new-course-contents/</loc>
+    <lastmod>2009-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rubylearning.com/blog/2009/03/19/rubylearnings-sponsor-1st-easy-limited/</loc>
     <lastmod>2009-03-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1653,12 +1653,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/02/24/ruby/gtk2/</loc>
+    <loc>http://rubylearning.com/blog/2007/02/24/ruby-snips/</loc>
     <lastmod>2007-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/02/24/ruby-snips/</loc>
+    <loc>http://rubylearning.com/blog/2007/02/24/ruby/gtk2/</loc>
     <lastmod>2007-02-24T00:00:00+00:00</lastmod>
   </url>
   
