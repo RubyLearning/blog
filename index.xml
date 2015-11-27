@@ -1001,6 +1001,72 @@ developed.
     </item>
     
     <item>
+      <title>Felipe Elias Philipp Winner RPCFN - 1 (Reprint)</title>
+      <link>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</link>
+      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</guid>
+      <description>&lt;div&gt;
+  &lt;p&gt;
+    &lt;b&gt;Note&lt;/b&gt;: This article first appeared on 8th Oct. 2009 but the original is not accessible; hence the reprint.
+  &lt;/p&gt;
+  
+  &lt;p class=&#34;alert&#34;&gt;
+    In this brief interview, Satish Talim of RubyLearning talks to &lt;b&gt;Felipe Elias Philipp of Brazil&lt;/b&gt;, winner of the first-ever &lt;a href=&#34;http://rubylearning.com/blog/2015/01/25/rpcfn-shift-subtitle-1-reprint/&#34;&gt;Ruby Programming Challenge For Newbies&lt;/a&gt;.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;img class=&#34;alignright&#34; title=&#34;Felipe Elias Philipp&#34; src=&#34;http://www.rubylearning.com/images/profile2-125x125.jpg&#34; alt=&#34;Felipe Elias Philipp&#34; width=&#34;125&#34; height=&#34;125&#34; /&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Welcome Felipe and thanks for taking out time to share your thoughts. For the benefit of the readers, could you tell us something about your self?&lt;/span&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;strong&gt;Felipe&gt;&gt;&lt;/strong&gt; Thanks Satish for the opportunity. Well, about me&amp;#8230; I&amp;#8217;m a Brazilian guy, a web developer and a Mac user. I&amp;#8217;m 22 years old and I started to program at school, since I was 16. Since then, programming has become my life and I can&amp;#8217;t imagine myself doing any other thing.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; How did you get involved with Ruby programming?&lt;/span&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;strong&gt;Felipe&gt;&gt;&lt;/strong&gt; I discovered Ruby through Rails on a well-known website by Brazilians: iMasters. I was just amazed as it was so easy to understand the Ruby code and I could solve the problems in a very simple way. This got me very motivated and I became more interested in the subject. At that time, I was working with ASP and I was deciding whether to learn Java or .NET. By then, I had realized that Ruby was simpler and I decided to learn it.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Could you name three features of Ruby that you like the most, as compared to other languages? Why?&lt;/span&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;strong&gt;Felipe&gt;&gt;&lt;/strong&gt; One of the things that caught my attention was the fact that Ruby is an extremely dynamic language. The way I can open classes and add my own methods is one of the features I like most. Creating DSLs was something I had never seen before and which I found very interesting. These are some of the features I remember at the moment, although I like almost everything in the language.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; How was experience of taking part in the Ruby Programming Challenge For Newbies (RPCFN)?&lt;/span&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;strong&gt;Felipe&gt;&gt;&lt;/strong&gt; Despite knowing Ruby for almost two years, I had never written more than 50 lines of code. I had not found a project that motivated me to practice. However the &lt;strong&gt;RPCFN&lt;/strong&gt; aroused me! Also, I enjoyed the challenge very much. I recommend everybody to take part in the &lt;strong&gt;RPCFN&lt;/strong&gt;. Even if you know the language, there is always something new to learn. I intend to participate in all the forthcoming challenges.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; What are your future plans?&lt;/span&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;strong&gt;Felipe&gt;&gt;&lt;/strong&gt; I want to study Ruby and Rails deeper, and also learn other languages (Python and Erlang are already on my list). In the short ter, I intend to share whatever I learn about Ruby and about programming in general; perhaps starting my own blog or something else.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;em&gt;Thank you Felipe. In case you have any queries and/or questions, kindly post your questions here (as comments to this blog post) and Felipe would be glad to answer.&lt;/em&gt;&lt;/span&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>RPCFN: Average Arrival Time For A Flight - 2 Reprint</title>
       <link>http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</link>
       <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
@@ -1463,72 +1529,6 @@ developed.
       The (#5) challenge by &lt;b&gt;&lt;a href=&#34;http://rubyinside.com/&#34;&gt;Peter Cooper&lt;/a&gt;, UK&lt;/b&gt; is scheduled for 1st Jan. 2010.
     &lt;/li&gt;
   &lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Felipe Elias Philipp Winner RPCFN - 1 (Reprint)</title>
-      <link>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</link>
-      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</guid>
-      <description>&lt;div&gt;
-  &lt;p&gt;
-    &lt;b&gt;Note&lt;/b&gt;: This article first appeared on 8th Oct. 2009 but the original is not accessible; hence the reprint.
-  &lt;/p&gt;
-  
-  &lt;p class=&#34;alert&#34;&gt;
-    In this brief interview, Satish Talim of RubyLearning talks to &lt;b&gt;Felipe Elias Philipp of Brazil&lt;/b&gt;, winner of the first-ever &lt;a href=&#34;http://rubylearning.com/blog/2015/01/25/rpcfn-shift-subtitle-1-reprint/&#34;&gt;Ruby Programming Challenge For Newbies&lt;/a&gt;.
-  &lt;/p&gt;
-  
-  &lt;p&gt;
-    &lt;img class=&#34;alignright&#34; title=&#34;Felipe Elias Philipp&#34; src=&#34;http://www.rubylearning.com/images/profile2-125x125.jpg&#34; alt=&#34;Felipe Elias Philipp&#34; width=&#34;125&#34; height=&#34;125&#34; /&gt;
-  &lt;/p&gt;
-  
-  &lt;p&gt;
-    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Welcome Felipe and thanks for taking out time to share your thoughts. For the benefit of the readers, could you tell us something about your self?&lt;/span&gt;
-  &lt;/p&gt;
-  
-  &lt;p&gt;
-    &lt;strong&gt;Felipe&gt;&gt;&lt;/strong&gt; Thanks Satish for the opportunity. Well, about me&amp;#8230; I&amp;#8217;m a Brazilian guy, a web developer and a Mac user. I&amp;#8217;m 22 years old and I started to program at school, since I was 16. Since then, programming has become my life and I can&amp;#8217;t imagine myself doing any other thing.
-  &lt;/p&gt;
-  
-  &lt;p&gt;
-    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; How did you get involved with Ruby programming?&lt;/span&gt;
-  &lt;/p&gt;
-  
-  &lt;p&gt;
-    &lt;strong&gt;Felipe&gt;&gt;&lt;/strong&gt; I discovered Ruby through Rails on a well-known website by Brazilians: iMasters. I was just amazed as it was so easy to understand the Ruby code and I could solve the problems in a very simple way. This got me very motivated and I became more interested in the subject. At that time, I was working with ASP and I was deciding whether to learn Java or .NET. By then, I had realized that Ruby was simpler and I decided to learn it.
-  &lt;/p&gt;
-  
-  &lt;p&gt;
-    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Could you name three features of Ruby that you like the most, as compared to other languages? Why?&lt;/span&gt;
-  &lt;/p&gt;
-  
-  &lt;p&gt;
-    &lt;strong&gt;Felipe&gt;&gt;&lt;/strong&gt; One of the things that caught my attention was the fact that Ruby is an extremely dynamic language. The way I can open classes and add my own methods is one of the features I like most. Creating DSLs was something I had never seen before and which I found very interesting. These are some of the features I remember at the moment, although I like almost everything in the language.
-  &lt;/p&gt;
-  
-  &lt;p&gt;
-    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; How was experience of taking part in the Ruby Programming Challenge For Newbies (RPCFN)?&lt;/span&gt;
-  &lt;/p&gt;
-  
-  &lt;p&gt;
-    &lt;strong&gt;Felipe&gt;&gt;&lt;/strong&gt; Despite knowing Ruby for almost two years, I had never written more than 50 lines of code. I had not found a project that motivated me to practice. However the &lt;strong&gt;RPCFN&lt;/strong&gt; aroused me! Also, I enjoyed the challenge very much. I recommend everybody to take part in the &lt;strong&gt;RPCFN&lt;/strong&gt;. Even if you know the language, there is always something new to learn. I intend to participate in all the forthcoming challenges.
-  &lt;/p&gt;
-  
-  &lt;p&gt;
-    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; What are your future plans?&lt;/span&gt;
-  &lt;/p&gt;
-  
-  &lt;p&gt;
-    &lt;strong&gt;Felipe&gt;&gt;&lt;/strong&gt; I want to study Ruby and Rails deeper, and also learn other languages (Python and Erlang are already on my list). In the short ter, I intend to share whatever I learn about Ruby and about programming in general; perhaps starting my own blog or something else.
-  &lt;/p&gt;
-  
-  &lt;p&gt;
-    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;em&gt;Thank you Felipe. In case you have any queries and/or questions, kindly post your questions here (as comments to this blog post) and Felipe would be glad to answer.&lt;/em&gt;&lt;/span&gt;
-  &lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
