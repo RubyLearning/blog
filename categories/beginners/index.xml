@@ -179,175 +179,6 @@ the wonderful world of Ruby on your own.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Learn Ruby programming - 60th batch</title>
-      <link>http://rubylearning.com/blog/2015/03/11/learn-ruby-programming---60th-batch/</link>
-      <pubDate>Wed, 11 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://rubylearning.com/blog/2015/03/11/learn-ruby-programming---60th-batch/</guid>
-      <description>
-
-&lt;p&gt;Registrations are now open for RubyLearning&amp;rsquo;s &lt;em&gt;long-awaited and popular&lt;/em&gt;
-Ruby programming course. This is an intensive, online course for
-&lt;em&gt;beginners&lt;/em&gt; that helps you get started with &lt;strong&gt;Ruby&lt;/strong&gt; programming. The
-course starts on &lt;strong&gt;Saturday, 11 Apr 2015&lt;/strong&gt; and runs for seven weeks.&lt;/p&gt;
-
-&lt;h2 id=&#34;course-fee-and-discount:3246cb27615219d089c54a16de682ca1&#34;&gt;Course Fee and Discount&lt;/h2&gt;
-
-&lt;p&gt;Please &lt;a href=&#34;http://rubylearning.org/classes/login/index.php&#34;&gt;create a new
-account&lt;/a&gt; first and then
-pay US\$ 44.95 by clicking on the PayPal button
-&lt;a href=&#34;http://rubylearning.org/classes/enrol/index.php?id=58&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/paypal_ruby.gif&#34; alt=&#34;Paypal&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: If you do not have a PayPal account and would like to pay by
-credit card on PayPal then do email me at satish [at] rubylearning.org.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Download &lt;a href=&#34;http://rubylearning.com/data/AdviceRuby.zip&#34;&gt;&amp;lsquo;Advice for Ruby
-Beginners&amp;rsquo;&lt;/a&gt; as a .zip file.&lt;/p&gt;
-
-&lt;p&gt;Here is what &lt;strong&gt;Sandra Randall (Butler)&lt;/strong&gt;, a participant who just
-graduated, has to say – “You kindly offered me the opportunity to join
-your Ruby course. I&amp;rsquo;m new to development and found the course, even
-though basic for programmers, a little tricky for me. I managed to
-complete all of the assessments and really learnt a lot. Thank you very
-much for the opportunity. It has really given me the push I needed to
-learn Ruby and I&amp;rsquo;m currently treading my way through both the pickaxe
-and Agile Development books and enjoying it. I&amp;rsquo;ve recently been offered
-a position as a Junior Systems Developer at a local Software house in
-South Africa – all thanks to the push you gave me which gave me the
-motivation and drive to get going.”&lt;/p&gt;
-
-&lt;h2 id=&#34;what-s-ruby:3246cb27615219d089c54a16de682ca1&#34;&gt;What&amp;rsquo;s Ruby?&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/rubylogo.png&#34; alt=&#34;Ruby&#34; title=&#34;License: http://creativecommons.org/licenses/by-sa/2.5/&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;According to
-&lt;a href=&#34;http://www.ruby-lang.org/en/&#34;&gt;http://www.ruby-lang.org/en/&lt;/a&gt; – “Ruby is
-a dynamic, open source programming language with a focus on simplicity
-and productivity. Ruby&amp;rsquo;s elegant syntax is natural to read and easy to
-write.”&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Yukihiro Matsumoto&lt;/strong&gt;, the creator of Ruby, in &lt;strong&gt;&lt;a href=&#34;http://linuxdevcenter.com/pub/a/linux/2001/11/29/ruby.html&#34;&gt;an
-interview&lt;/a&gt;&lt;/strong&gt;
-says -&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I believe people want to express themselves when they program. They
-don&amp;rsquo;t want to fight with the language. Programming languages must feel
-natural to programmers. I tried to make people enjoy programming and
-concentrate on the fun and creative part of programming when they use
-Ruby.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;what-will-i-learn:3246cb27615219d089c54a16de682ca1&#34;&gt;What Will I Learn?&lt;/h2&gt;
-
-&lt;p&gt;In the Ruby programming course, you will learn the &lt;a href=&#34;http://rubylearning.com/satishtalim/tutorial.html&#34;&gt;essential features
-of Ruby&lt;/a&gt; that you
-will end up using every day. You will also be introduced to Git, GitHub,
-HTTP concepts, RubyGems, Rack and Heroku.&lt;/p&gt;
-
-&lt;h2 id=&#34;some-highlights:3246cb27615219d089c54a16de682ca1&#34;&gt;Some Highlights&lt;/h2&gt;
-
-&lt;h3 id=&#34;rubylearning-s-irc-channel:3246cb27615219d089c54a16de682ca1&#34;&gt;RubyLearning’s IRC Channel&lt;/h3&gt;
-
-&lt;p&gt;Some of the mentors and students hang out at RubyLearning’s IRC
-(irc.freenode.net) channel (#rubylearning.org) for both technical and
-non-technical discussions. Everyone benefits with the active discussions
-on Ruby with the mentors.&lt;/p&gt;
-
-&lt;h3 id=&#34;google-hangouts:3246cb27615219d089c54a16de682ca1&#34;&gt;Google Hangouts&lt;/h3&gt;
-
-&lt;p&gt;There is a Hangout Event that is open for students, for drop-in hangouts
-where students can pair program with mentors or with each other. This is
-often where you can get help with your system, editor, and general
-environment. Anything that can help you with your coding environment
-that you are having problems with are usually discussed interactively
-here.&lt;/p&gt;
-
-&lt;h3 id=&#34;git-repositories:3246cb27615219d089c54a16de682ca1&#34;&gt;Git Repositories&lt;/h3&gt;
-
-&lt;p&gt;Shared (private) repositories available for those that want to learn git
-and the revision controlled programming workflow. This allows students
-that want to collaborate while learning. This is a great way to record
-your progress while learning Ruby.&lt;/p&gt;
-
-&lt;h3 id=&#34;ebook:3246cb27615219d089c54a16de682ca1&#34;&gt;eBook&lt;/h3&gt;
-
-&lt;p&gt;The course is based on the &lt;strong&gt;The Ultimate Guide to Ruby Programming&lt;/strong&gt;
-eBook. This book is &lt;a href=&#34;http://book.rubylearning.org/&#34;&gt;priced at US \$
-9.95&lt;/a&gt;. However, the &lt;a href=&#34;http://www.amazon.com/gp/product/B0062X2I68/ref=as_li_tf_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B0062X2I68&amp;amp;linkCode=as2&amp;amp;tag=satishtalimsw-20&#34;&gt;Kindle
-edition&lt;/a&gt;
-of the eBook is available for US\$ 6.&lt;/p&gt;
-
-&lt;h3 id=&#34;challenges-and-side-tracks:3246cb27615219d089c54a16de682ca1&#34;&gt;Challenges and Side Tracks&lt;/h3&gt;
-
-&lt;p&gt;This is course material not found in the RubyLearning Study Notes nor in
-the E-Book! Depending on participation levels, we throw a Ruby coding
-challenge in the mix, right for the level we are at. We have been known
-to give out a prize or two for the &amp;lsquo;best&amp;rsquo; solution.&lt;/p&gt;
-
-&lt;h2 id=&#34;who-s-it-for:3246cb27615219d089c54a16de682ca1&#34;&gt;Who&amp;rsquo;s It For?&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;A &lt;em&gt;beginner&lt;/em&gt; with some knowledge of programming.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;You can read what past participants / online magazines have to say about
-the course.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/other/testimonials.html&#34;&gt;Testimonials&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.forbes.com/sites/women2/2012/07/07/how-i-learned-to-code/print/&#34;&gt;Forbes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://natashatherobot.com/rubylearning-core-ruby-review/&#34;&gt;Natasha
-Murashev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://katpreneur.tumblr.com/post/27084326683/i-am-not-young-enough-to-know-everything&#34;&gt;Katerina
-Jackson-Suchkova&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://maniempire.blogspot.in/2011/07/ruby-pair-programming.html&#34;&gt;Mani Maran
-M&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;mentors:3246cb27615219d089c54a16de682ca1&#34;&gt;Mentors&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://satishtalim.com/&#34;&gt;Satish Talim&lt;/a&gt;, Michael Kohl, Satoshi Asakawa,
-Victor Goff III and others from the RubyLearning team.&lt;/p&gt;
-
-&lt;h2 id=&#34;dates:3246cb27615219d089c54a16de682ca1&#34;&gt;Dates&lt;/h2&gt;
-
-&lt;p&gt;The course starts on &lt;strong&gt;Saturday, 11th Apr 2015&lt;/strong&gt; and runs for seven
-weeks.&lt;/p&gt;
-
-&lt;h2 id=&#34;how-do-i-register-and-pay-the-course-fees:3246cb27615219d089c54a16de682ca1&#34;&gt;How do I register and pay the course fees?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You can pay the course fees either by Paypal or send cash via
-&lt;a href=&#34;http://www.westernunion.com/info/selectCountry.asp&#34;&gt;Western Union Money
-Transfer&lt;/a&gt; or by
-bank transfer (if you are in India). The fees collected helps
-RubyLearning maintain the site, this Ruby course, the Ruby eBook,
-and provide quality content to you.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To pay the Course Fee:&lt;/p&gt;
-
-&lt;p&gt;Please &lt;a href=&#34;http://rubylearning.org/classes/login/index.php&#34;&gt;create a new
-account&lt;/a&gt; first and then
-pay US \$ 44.95 by clicking on the PayPal button
-&lt;a href=&#34;http://rubylearning.org/classes/enrol/index.php?id=58&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/paypal_ruby.gif&#34; alt=&#34;Paypal&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;how-does-the-course-work:3246cb27615219d089c54a16de682ca1&#34;&gt;How does the course work?&lt;/h2&gt;
-
-&lt;p&gt;For details on how the course works, refer &lt;a href=&#34;http://rubylearning.com/blog/how-the-course-works/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;At the end of this course you should have all the knowledge to explore
-the wonderful world of Ruby on your own.&lt;/p&gt;
-
-&lt;p&gt;Remember, the idea is to have fun learning Ruby.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Felipe Elias Philipp Winner RPCFN - 1 (Reprint)</title>
       <link>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</link>
       <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
@@ -3306,6 +3137,412 @@ Hal Fulton&lt;/li&gt;
 
 &lt;p&gt;&lt;em&gt;Feel free to ask questions and give feedback in the comments section of
 this post. Thanks!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sinatra and Google Currency API - Part 2</title>
+      <link>http://rubylearning.com/blog/2013/09/13/sinatra-and-google-currency-api---part-2/</link>
+      <pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubylearning.com/blog/2013/09/13/sinatra-and-google-currency-api---part-2/</guid>
+      <description>&lt;div&gt;
+  &lt;h2&gt;
+    Sinatra and Google Currency API &amp;#8211; Part 2
+  &lt;/h2&gt;
+  
+  &lt;p class=&#34;update&#34;&gt;
+    This guest post is by &lt;b&gt;Girish Sonawane&lt;/b&gt;, a self-taught programmer. He came across Ruby in 2008 and has since been working full-time on Ruby. He worked as a Rails freelancer and later co-founded &lt;a href=&#34;http://cuberoot.in/&#34;&gt;Cube Root&lt;/a&gt;, an exclusive Ruby on Rails software boutique catering to outsourced work. His interests are everything related to technology or science. You can reach him at &lt;a href=&#34;mailto:girish@cuberoot.in&#34;&gt;girish@cuberoot.in&lt;/a&gt; or via twitter @girishso.
+  &lt;/p&gt;
+  
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;img class=&#34;alignright&#34; alt=&#34;Girish Sonawane&#34; src=&#34;http://rubylearning.com/images/girishsonawane.png&#34; width=&#34;125&#34; height=&#34;125&#34; /&gt; &lt;strong&gt;&lt;span class=&#34;drop_cap&#34;&gt;I&lt;/span&gt;&lt;/strong&gt;n this two-part series, I will show you how to use Google currency conversion API and use it in a small Sinatra app. In &lt;a href=&#34;http://rubylearning.com/blog/2013/09/04/sinatra-and-google-currency-api-part-1/&#34;&gt;Part 1&lt;/a&gt; we built a small function to access the Google API for currency conversion. This is Part 2, where we will build a small Sinatra app using the function we created in Part 1.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    The source code for this series is available on &lt;a href=&#34;https://github.com/girishso/goog_currency_tutorial&#34;&gt;Github&lt;/a&gt;, with commits for each step. This little library is available as a Ruby Gem at &lt;a href=&#34;https://rubygems.org/gems/goog_currency&#34;&gt;GoogCurrency&lt;/a&gt;.
+  &lt;/p&gt;
+  
+  &lt;h3&gt;
+    Wireframes
+  &lt;/h3&gt;
+  
+  &lt;p&gt;
+    We will have two screens, one with a form where a user can submit data and another showing the result.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;code&gt;Home page&lt;/code&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;img src=&#34;http://rubylearning.com/images/bloghome.png&#34; width=&#34;600&#34; title=&#34;Home&#34; alt=&#34;Home&#34; /&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;code&gt;Results page&lt;/code&gt;&lt;br /&gt; &lt;img src=&#34;http://rubylearning.com/images/blogresult.png&#34; width=&#34;600&#34; title=&#34;Result&#34; alt=&#34;Results&#34; /&gt;
+  &lt;/p&gt;
+  
+  &lt;h3&gt;
+    Sinatra
+  &lt;/h3&gt;
+  
+  &lt;p&gt;
+    Since this is a very basic app, we are going to use Sinatra in classic style. We need following files.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;code&gt;Gemfile&lt;/code&gt; for all the gem dependencies.
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1 source &#39;https://rubygems.org&#39;
+2
+3 gem &#34;rest-client&#34;, &#34;1.6.7&#34;
+4 gem &#34;json&#34;, &#34;1.8.0&#34;
+5 gem &#34;rspec&#34;, &#34;2.14.1&#34;
+6 gem &#34;fakeweb&#34;, &#34;1.3.0&#34;
+7 gem &#34;sinatra&#34;, &#34;1.4.3&#34;
+8 gem &#34;capybara&#34;, &#34;2.1.0&#34;
+9 gem &#34;haml&#34;
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    &lt;code&gt;config.ru&lt;/code&gt; required to run the app on Rack servers like Passenger, Heroku etc.
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1 require &#39;bundler&#39;
+2 Bundler.require
+3 require &#39;./app&#39;
+4 run Sinatra::Application
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    &lt;code&gt;Bundler.require&lt;/code&gt; will require all the gems listed in our Gemfile and made available to our Sinatra app.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Let&amp;#8217;s create an empty &lt;code&gt;app.rb&lt;/code&gt;, the main Sinatra app file with &lt;code&gt;touch app.rb&lt;/code&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Continuing with the same spirit as Part 1, we are going to test drive this app. We are going to use &lt;code&gt;capybara&lt;/code&gt; for acceptance tests.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;code&gt;spec/acceptance_spec.rb&lt;/code&gt;
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1  require &#39;bundler&#39;
+2  Bundler.require
+3
+4  disable :run
+5  set :root, File.dirname(__FILE__) + &#34;/..&#34;
+6  require Sinatra::Application.root + &#39;/app&#39;
+7
+8  Capybara.app = Sinatra::Application
+9
+10 RSpec.configure do |config|
+11   config.include Capybara::DSL
+12 end
+13
+14 describe &#39;currency converter&#39; do
+15   it &#34;loads currency converter form&#34;
+16   it &#34;converts currencies&#34;
+17   it &#34;handles errors&#34;
+18 end
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    Line 4, disables the web server, we don&amp;#8217;t need a webserver for specs. Line 8, tells &lt;code&gt;capybara&lt;/code&gt; it&amp;#8217;s a Sinatra app. Line 11, makes &lt;code&gt;capybara&lt;/code&gt; DSL available to our specs.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Line 15, 16, 17, adds three pending specs.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    If we execute our spec now with &lt;code&gt;rspec spec/acceptance_spec.rb&lt;/code&gt;, it says:
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1  ***
+2
+3  Pending:
+4    currency converter loads currency converter form
+5      # Not yet implemented
+6      # ./spec/acceptance_spec.rb:15
+7    currency converter converts currencies
+8      # Not yet implemented
+9      # ./spec/acceptance_spec.rb:16
+10   currency converter handles errors
+11     # Not yet implemented
+12     # ./spec/acceptance_spec.rb:17
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    Let&amp;#8217;s define the first spec and make it pass.
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1 it &#34;loads currency converter form&#34; do
+2     visit &#34;/&#34;
+3     page.should have_content(&#34;Currency Converter&#34;)
+4     find(&#39;form&#39;).should have_button(&#39;Convert&#39;)
+5   end
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    &lt;code&gt;capybara&lt;/code&gt; simulates user interactions with the website. &lt;code&gt;visit &#34;/&#34;&lt;/code&gt; takes the user to the home page of the site as expected. Line 3, checks for existence of &amp;#8220;Currency Converter&amp;#8221; text on the page. Line 4, expects a &lt;code&gt;form&lt;/code&gt; with the &lt;code&gt;Convert&lt;/code&gt; button.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Typically, there is no need of such granular level testing, but this tells us if the test suite is working as expected.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Executing the spec fails with:
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1 expected #has_content?(&#34;Currency Converter&#34;) to return true, got false
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    Now to make this spec pass, let&amp;#8217;s modify &lt;code&gt;app.rb&lt;/code&gt;:
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1 get &#34;/&#34; do
+2     haml :&#34;index&#34;
+3   end
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    &lt;code&gt;get &#34;/&#34;&lt;/code&gt; loads the home page. We are using &lt;code&gt;haml&lt;/code&gt; view templates instead of &lt;code&gt;erb&lt;/code&gt;. It expects &lt;code&gt;views/index.haml&lt;/code&gt; in views folder. Let&amp;#8217;s add it.
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1 %h1 Currency Converter
+2
+3   %form(action = &#34;/convert&#34; method = &#34;post&#34;)
+4
+5       %input#convert(type=&#34;submit&#34; value=&#34;Convert&#34;)
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    Let&amp;#8217;s also add a layout &lt;code&gt;views/layout.haml&lt;/code&gt;:
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1 !!!
+2   %html
+3     %head
+4       %title Currency Conversion Tutorial
+5     %body
+6       = yield
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    Executing specs with &lt;code&gt;rspec spec/acceptance_spec.rb&lt;/code&gt; passes the spec. We are good to go with the next pending spec.
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1  valid_response =&amp;lt;&amp;lt;-VALID
+2    {lhs: &#34;1 U.S. dollar&#34;,rhs: &#34;54.836587 Indian rupees&#34;,error: &#34;&#34;,icc: true}
+3    VALID
+4    .
+5    .
+6    .
+7    it &#34;converts currencies&#34; do
+8      FakeWeb.register_uri(:get,
+9                         &#34;http://www.google.com/ig/calculator?hl=en&amp;#038;q=1USD=?INR&#34;,
+10                        :status =&gt; &#34;200&#34;,
+11                        :body =&gt; valid_response)
+12     visit &#39;/&#39;
+13
+14     fill_in &#34;amount&#34;, :with =&gt; 1
+15     select &#34;USD&#34;, :from =&gt; &#34;from&#34;
+16     select &#34;INR&#34;, :from =&gt; &#34;to&#34;
+17     click_button &#39;Convert&#39;
+18
+19     find(&#34;#result&#34;).should have_content(&#39;54.836587&#39;)
+20   end
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    We are again using &lt;code&gt;fakeweb&lt;/code&gt; gem to simulate the Google API interaction, Line 8.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    We are simulating user converting 1 USD to INR, using &lt;code&gt;capyabara&lt;/code&gt; DSL to simulate the user interactions
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Line 12, visit home page.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Line 14, Fill &lt;code&gt;amount&lt;/code&gt; input field with 1.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Line 15, select &lt;code&gt;USD&lt;/code&gt; from &lt;code&gt;from&lt;/code&gt; currencies select box.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Line 16, select &lt;code&gt;INR&lt;/code&gt; from &lt;code&gt;to&lt;/code&gt; currencies select box.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Line 18, click button &amp;#8220;Convert&amp;#8221;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Line 20, we expect to have &lt;code&gt;#result&lt;/code&gt; with the converted amount.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Executing spec fails with:
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1 Unable to find field &#34;amount&#34;
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    Let&amp;#8217;s go ahead and add the &lt;code&gt;amount&lt;/code&gt; field and other fields as well in &lt;code&gt;index.haml&lt;/code&gt;.
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1  %h1 Currency Converter
+2
+3  %form(action = &#34;/convert&#34; method = &#34;post&#34;)
+4    %fieldset
+5      %legend
+6      From
+7      %input#amount(name=&#34;amount&#34;)
+8
+9      %select#from(name=&#34;from&#34;)
+10       %option(value=&#34;inr&#34;) INR
+11       %option(value=&#34;usd&#34;) USD
+12       %option(value=&#34;eur&#34;) EUR
+13
+14     To
+15     %select#to(name=&#34;to&#34;)
+16       %option(value=&#34;inr&#34;) INR
+17       %option(value=&#34;usd&#34;) USD
+18       %option(value=&#34;eur&#34;) EUR
+19
+20     %input#convert(type=&#34;submit&#34; value=&#34;Convert&#34;)
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    Executing the spec now fails with:
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1 Unable to find css &#34;#result&#34;
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    To fix this, we need to add &lt;code&gt;post &#34;/convert&#34;&lt;/code&gt; handler in &lt;code&gt;app.rb&lt;/code&gt;:
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1 post &#34;/convert&#34; do
+2   @result = GoogCurrency.send(&#34;#{params[:from]}_to_#{params[:to]}&#34;.to_sym, params[:amount])
+3   haml :&#34;convert&#34;
+4 end
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    Line 2, we are generating the GoogCurrency method to call dynamically. &lt;code&gt;params[:form]&lt;/code&gt;, &lt;code&gt;params[:to]&lt;/code&gt; have the from and to currencies respectively. &lt;code&gt;params[:amount]&lt;/code&gt; has the amount to convert. &lt;code&gt;&#34;#{params[:from]}_to_#{params[:to]}&#34;&lt;/code&gt; gets converted to &lt;code&gt;usd_to_inr&lt;/code&gt; in our case. But how do we invoke this method? In Ruby, we don&amp;#8217;t invoke methods, we send a message to the object and the object responds to the message. To invoke this method we &lt;code&gt;send&lt;/code&gt; message &lt;code&gt;usd_to_inr&lt;/code&gt; to &lt;code&gt;GoogCurrency&lt;/code&gt;, along with the method parameter (&lt;code&gt;amount&lt;/code&gt;).
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Then we render &lt;code&gt;haml&lt;/code&gt; template &lt;code&gt;convert&lt;/code&gt;.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;code&gt;convert.haml&lt;/code&gt;
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1 %div
+2   #{params[:amount]} #{params[:from]} =
+3   %span#result= @result
+4   #{params[:to]}
+5
+6 %a(href=&#34;/&#34;) Back
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    The spec now passes.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Now, we only have one more spec left i.e. &amp;#8220;currency converter handles errors&amp;#8221;. Let&amp;#8217;s get at it.
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1  it &#34;handles errors&#34; do
+2      invalid_response =&amp;lt;&amp;lt;-INVALID
+3      {lhs: &#34;&#34;,rhs: &#34;&#34;,error: &#34;4&#34;,icc: false}
+4      INVALID
+5      FakeWeb.register_uri(:get,
+6                           &#34;http://www.google.com/ig/calculator?hl=en&amp;#038;q=xyzUSD=?INR&#34;,
+7                           :status =&gt; &#34;200&#34;,
+8                           :body =&gt; invalid_response)
+9
+10     visit &#39;/&#39;
+11
+12     fill_in &#34;amount&#34;, :with =&gt; &#34;xyz&#34;
+13     select &#34;USD&#34;, :from =&gt; &#34;from&#34;
+14     select &#34;INR&#34;, :from =&gt; &#34;to&#34;
+15     click_button &#39;Convert&#39;
+16
+17     find(&#34;#error&#34;).should have_content(&#34;An error occurred: 4&#34;)
+18   end
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    It&amp;#8217;s similar to the earlier spec, but &lt;code&gt;Fakeweb&lt;/code&gt; now returns an error response, because the &lt;code&gt;amount&lt;/code&gt; is invalid. Executing the spec now fails with:
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1 Unable to find css &#34;#error&#34;&lt;/pre&gt;
+  
+  &lt;p&gt;
+    To make this spec pass, let&amp;#8217;s handle the exception raised by &lt;code&gt;GoogCurrency&lt;/code&gt; in &lt;code&gt;app.rb&lt;/code&gt;:
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1 post &#34;/convert&#34; do
+2     begin
+3       @result = GoogCurrency.send(&#34;#{params[:from]}_to_#{params[:to]}&#34;.to_sym, params[:amount])
+4     rescue Exception =&gt; ex
+5       @error = ex.message
+6     end
+7     haml :&#34;convert&#34;
+8   end
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    Here, we&amp;#8217;re rescuing the exception and setting &lt;code&gt;@error&lt;/code&gt; instance variable.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Now in &lt;code&gt;convert.haml&lt;/code&gt;, let&amp;#8217;s display the error message.
+  &lt;/p&gt;
+  
+  &lt;pre&gt;1 -if @error
+2   #error= @error
+3 -else
+4   %div
+5     #{params[:amount]} #{params[:from]} =
+6     %span#result= @result
+7     #{params[:to]}
+8
+9 %a(href=&#34;/&#34;) Back
+&lt;/pre&gt;
+  
+  &lt;p&gt;
+    All the specs now pass. Note, we haven&amp;#8217;t opened the browser manually even once! Let&amp;#8217;s do it and &lt;em&gt;hope&lt;/em&gt; everything is fine and dandy! Execute the command &lt;code&gt;rackup -p 4567&lt;/code&gt; and visit &lt;code&gt;localhost:4567&lt;/code&gt;.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    That&amp;#8217;s it!
+  &lt;/p&gt;
+  
+  &lt;p class=&#34;alert&#34;&gt;
+    &lt;em&gt;&lt;b&gt;Feel free to ask questions and give feedback in the comments section of this post&lt;/b&gt;. Thanks!&lt;/em&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     
