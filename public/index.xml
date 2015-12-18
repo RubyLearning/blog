@@ -507,175 +507,6 @@ all.  But we still need them!  What is your comment style?&lt;/p&gt;
     </item>
     
     <item>
-      <title>Learn Ruby programming - 60th batch</title>
-      <link>http://rubylearning.com/blog/2015/03/11/learn-ruby-programming---60th-batch/</link>
-      <pubDate>Wed, 11 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://rubylearning.com/blog/2015/03/11/learn-ruby-programming---60th-batch/</guid>
-      <description>
-
-&lt;p&gt;Registrations are now open for RubyLearning&amp;rsquo;s &lt;em&gt;long-awaited and popular&lt;/em&gt;
-Ruby programming course. This is an intensive, online course for
-&lt;em&gt;beginners&lt;/em&gt; that helps you get started with &lt;strong&gt;Ruby&lt;/strong&gt; programming. The
-course starts on &lt;strong&gt;Saturday, 11 Apr 2015&lt;/strong&gt; and runs for seven weeks.&lt;/p&gt;
-
-&lt;h2 id=&#34;course-fee-and-discount:3246cb27615219d089c54a16de682ca1&#34;&gt;Course Fee and Discount&lt;/h2&gt;
-
-&lt;p&gt;Please &lt;a href=&#34;http://rubylearning.org/classes/login/index.php&#34;&gt;create a new
-account&lt;/a&gt; first and then
-pay US\$ 44.95 by clicking on the PayPal button
-&lt;a href=&#34;http://rubylearning.org/classes/enrol/index.php?id=58&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/paypal_ruby.gif&#34; alt=&#34;Paypal&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: If you do not have a PayPal account and would like to pay by
-credit card on PayPal then do email me at satish [at] rubylearning.org.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Download &lt;a href=&#34;http://rubylearning.com/data/AdviceRuby.zip&#34;&gt;&amp;lsquo;Advice for Ruby
-Beginners&amp;rsquo;&lt;/a&gt; as a .zip file.&lt;/p&gt;
-
-&lt;p&gt;Here is what &lt;strong&gt;Sandra Randall (Butler)&lt;/strong&gt;, a participant who just
-graduated, has to say – “You kindly offered me the opportunity to join
-your Ruby course. I&amp;rsquo;m new to development and found the course, even
-though basic for programmers, a little tricky for me. I managed to
-complete all of the assessments and really learnt a lot. Thank you very
-much for the opportunity. It has really given me the push I needed to
-learn Ruby and I&amp;rsquo;m currently treading my way through both the pickaxe
-and Agile Development books and enjoying it. I&amp;rsquo;ve recently been offered
-a position as a Junior Systems Developer at a local Software house in
-South Africa – all thanks to the push you gave me which gave me the
-motivation and drive to get going.”&lt;/p&gt;
-
-&lt;h2 id=&#34;what-s-ruby:3246cb27615219d089c54a16de682ca1&#34;&gt;What&amp;rsquo;s Ruby?&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/rubylogo.png&#34; alt=&#34;Ruby&#34; title=&#34;License: http://creativecommons.org/licenses/by-sa/2.5/&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;According to
-&lt;a href=&#34;http://www.ruby-lang.org/en/&#34;&gt;http://www.ruby-lang.org/en/&lt;/a&gt; – “Ruby is
-a dynamic, open source programming language with a focus on simplicity
-and productivity. Ruby&amp;rsquo;s elegant syntax is natural to read and easy to
-write.”&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Yukihiro Matsumoto&lt;/strong&gt;, the creator of Ruby, in &lt;strong&gt;&lt;a href=&#34;http://linuxdevcenter.com/pub/a/linux/2001/11/29/ruby.html&#34;&gt;an
-interview&lt;/a&gt;&lt;/strong&gt;
-says -&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I believe people want to express themselves when they program. They
-don&amp;rsquo;t want to fight with the language. Programming languages must feel
-natural to programmers. I tried to make people enjoy programming and
-concentrate on the fun and creative part of programming when they use
-Ruby.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;what-will-i-learn:3246cb27615219d089c54a16de682ca1&#34;&gt;What Will I Learn?&lt;/h2&gt;
-
-&lt;p&gt;In the Ruby programming course, you will learn the &lt;a href=&#34;http://rubylearning.com/satishtalim/tutorial.html&#34;&gt;essential features
-of Ruby&lt;/a&gt; that you
-will end up using every day. You will also be introduced to Git, GitHub,
-HTTP concepts, RubyGems, Rack and Heroku.&lt;/p&gt;
-
-&lt;h2 id=&#34;some-highlights:3246cb27615219d089c54a16de682ca1&#34;&gt;Some Highlights&lt;/h2&gt;
-
-&lt;h3 id=&#34;rubylearning-s-irc-channel:3246cb27615219d089c54a16de682ca1&#34;&gt;RubyLearning’s IRC Channel&lt;/h3&gt;
-
-&lt;p&gt;Some of the mentors and students hang out at RubyLearning’s IRC
-(irc.freenode.net) channel (#rubylearning.org) for both technical and
-non-technical discussions. Everyone benefits with the active discussions
-on Ruby with the mentors.&lt;/p&gt;
-
-&lt;h3 id=&#34;google-hangouts:3246cb27615219d089c54a16de682ca1&#34;&gt;Google Hangouts&lt;/h3&gt;
-
-&lt;p&gt;There is a Hangout Event that is open for students, for drop-in hangouts
-where students can pair program with mentors or with each other. This is
-often where you can get help with your system, editor, and general
-environment. Anything that can help you with your coding environment
-that you are having problems with are usually discussed interactively
-here.&lt;/p&gt;
-
-&lt;h3 id=&#34;git-repositories:3246cb27615219d089c54a16de682ca1&#34;&gt;Git Repositories&lt;/h3&gt;
-
-&lt;p&gt;Shared (private) repositories available for those that want to learn git
-and the revision controlled programming workflow. This allows students
-that want to collaborate while learning. This is a great way to record
-your progress while learning Ruby.&lt;/p&gt;
-
-&lt;h3 id=&#34;ebook:3246cb27615219d089c54a16de682ca1&#34;&gt;eBook&lt;/h3&gt;
-
-&lt;p&gt;The course is based on the &lt;strong&gt;The Ultimate Guide to Ruby Programming&lt;/strong&gt;
-eBook. This book is &lt;a href=&#34;http://book.rubylearning.org/&#34;&gt;priced at US \$
-9.95&lt;/a&gt;. However, the &lt;a href=&#34;http://www.amazon.com/gp/product/B0062X2I68/ref=as_li_tf_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B0062X2I68&amp;amp;linkCode=as2&amp;amp;tag=satishtalimsw-20&#34;&gt;Kindle
-edition&lt;/a&gt;
-of the eBook is available for US\$ 6.&lt;/p&gt;
-
-&lt;h3 id=&#34;challenges-and-side-tracks:3246cb27615219d089c54a16de682ca1&#34;&gt;Challenges and Side Tracks&lt;/h3&gt;
-
-&lt;p&gt;This is course material not found in the RubyLearning Study Notes nor in
-the E-Book! Depending on participation levels, we throw a Ruby coding
-challenge in the mix, right for the level we are at. We have been known
-to give out a prize or two for the &amp;lsquo;best&amp;rsquo; solution.&lt;/p&gt;
-
-&lt;h2 id=&#34;who-s-it-for:3246cb27615219d089c54a16de682ca1&#34;&gt;Who&amp;rsquo;s It For?&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;A &lt;em&gt;beginner&lt;/em&gt; with some knowledge of programming.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;You can read what past participants / online magazines have to say about
-the course.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/other/testimonials.html&#34;&gt;Testimonials&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.forbes.com/sites/women2/2012/07/07/how-i-learned-to-code/print/&#34;&gt;Forbes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://natashatherobot.com/rubylearning-core-ruby-review/&#34;&gt;Natasha
-Murashev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://katpreneur.tumblr.com/post/27084326683/i-am-not-young-enough-to-know-everything&#34;&gt;Katerina
-Jackson-Suchkova&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://maniempire.blogspot.in/2011/07/ruby-pair-programming.html&#34;&gt;Mani Maran
-M&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;mentors:3246cb27615219d089c54a16de682ca1&#34;&gt;Mentors&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://satishtalim.com/&#34;&gt;Satish Talim&lt;/a&gt;, Michael Kohl, Satoshi Asakawa,
-Victor Goff III and others from the RubyLearning team.&lt;/p&gt;
-
-&lt;h2 id=&#34;dates:3246cb27615219d089c54a16de682ca1&#34;&gt;Dates&lt;/h2&gt;
-
-&lt;p&gt;The course starts on &lt;strong&gt;Saturday, 11th Apr 2015&lt;/strong&gt; and runs for seven
-weeks.&lt;/p&gt;
-
-&lt;h2 id=&#34;how-do-i-register-and-pay-the-course-fees:3246cb27615219d089c54a16de682ca1&#34;&gt;How do I register and pay the course fees?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You can pay the course fees either by Paypal or send cash via
-&lt;a href=&#34;http://www.westernunion.com/info/selectCountry.asp&#34;&gt;Western Union Money
-Transfer&lt;/a&gt; or by
-bank transfer (if you are in India). The fees collected helps
-RubyLearning maintain the site, this Ruby course, the Ruby eBook,
-and provide quality content to you.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To pay the Course Fee:&lt;/p&gt;
-
-&lt;p&gt;Please &lt;a href=&#34;http://rubylearning.org/classes/login/index.php&#34;&gt;create a new
-account&lt;/a&gt; first and then
-pay US \$ 44.95 by clicking on the PayPal button
-&lt;a href=&#34;http://rubylearning.org/classes/enrol/index.php?id=58&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/paypal_ruby.gif&#34; alt=&#34;Paypal&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;how-does-the-course-work:3246cb27615219d089c54a16de682ca1&#34;&gt;How does the course work?&lt;/h2&gt;
-
-&lt;p&gt;For details on how the course works, refer &lt;a href=&#34;http://rubylearning.com/blog/how-the-course-works/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;At the end of this course you should have all the knowledge to explore
-the wonderful world of Ruby on your own.&lt;/p&gt;
-
-&lt;p&gt;Remember, the idea is to have fun learning Ruby.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Ruby Wizardry - A Book Review</title>
       <link>http://rubylearning.com/blog/2015/03/09/ruby-wizardry---a-book-review/</link>
       <pubDate>Mon, 09 Mar 2015 04:32:42 +0000</pubDate>
@@ -2410,6 +2241,388 @@ puts b.usec
     &lt;strong&gt;&lt;em&gt;Post supported by 1st Easy Limited&lt;/em&gt;:&lt;/strong&gt; UK based 1st Easy Limited offer Sinatra and Rails hosting running on a Phusion Passenger (mod_rails) and LAMP stack. If you want to try your hand at developing with Sinatra, why not let them arrange a &lt;a href=&#34;http://www.1steasy.com/ruby-on-rails.htm#try&#34;&gt;trial hosting account&lt;/a&gt; for you? You&amp;#8217;ll get to deploy your app, with full technical support from their team!
   &lt;/p&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>20&#43; Rubyists are using Sinatra - Do you? (Reprint)</title>
+      <link>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</link>
+      <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: This first appeared on 29th June 2009 and is being reprinted
+as the original is not accessible.&lt;/p&gt;
+
+&lt;h3 id=&#34;20-rubyists-are-using-sinatra-do-you:b9d73662ccbad47811ad53b639d84c77&#34;&gt;20+ Rubyists are using Sinatra – Do you?&lt;/h3&gt;
+
+&lt;p&gt;With &lt;strong&gt;Sinatra&lt;/strong&gt; you can quickly create your own tiny web-applications
+in Ruby and write lots of small services. RubyLearning caught up with
+some Rubyists working with Sinatra and asked them as to why, how and
+where they use &lt;em&gt;Sinatra&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/AaronQuint.jpg&#34; alt=&#34;Aaron
+Quint&#34; title=&#34;Aaron Quint&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/aq&#34;&gt;Aaron
+Quint&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; I’ve been using Sinatra all over the
+place. With &lt;a href=&#34;http://code.quirkey.com/vegas/&#34;&gt;Vegas&lt;/a&gt; I’ve been using it
+as a way to provide simple web interfaces to existing code. I’ve also
+been using it to prototype new application ideas. When not using
+Sinatra, I’ve been using some of the same basic ideas in JavaScript with
+&lt;a href=&#34;http://code.quirkey.com/sammy/&#34;&gt;Sammy.js&lt;/a&gt;. In general, Sinatra is just
+fun to use as it provides the most direct and clean route to get an idea
+or a piece of code on the web. &lt;a href=&#34;http://rubylearning.com/blog/2009/03/20/interview-aaron-quint-on-sinatra/&#34;&gt;Read Aaron’s interview on
+Sinatra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/AdamKeys.jpg&#34; alt=&#34;Adam
+Keys&#34; title=&#34;Adam Keys&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/therealadam&#34;&gt;Adam
+Keys&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; I’m using Sinatra for two
+things. For personal stuff, I always reach for Sinatra when I want to
+prototype an idea. It’s easy to get something in place so I can iterate
+on the idea quickly. Sinatra is great for deploying prototypes too!&lt;/p&gt;
+
+&lt;p&gt;At FiveRuns, we use Sinatra as the API endpoint for Dash. We’ve got
+hundreds of clients in our public beta sending custom metrics to Dash
+once a minute. Sinatra has handled this load with aplomb. Further,
+because our API is just a few URL endpoints, Sinatra’s minimal API is a
+perfect match for our needs. &lt;a href=&#34;http://rubylearning.com/blog/2009/03/03/interview-adam-keys-on-sinatra/&#34;&gt;Read Adam’s interview on
+Sinatra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/nelstrom-125.jpg&#34; alt=&#34;Andrew
+Neil&#34; title=&#34;Andrew Neil&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/nelstrom&#34;&gt;Andrew
+Neil&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; &lt;a href=&#34;http://all-sorts.org/&#34;&gt;All
+Sorts&lt;/a&gt; searches Twitter every minute for the
+&lt;a href=&#34;http://search.twitter.com/search?q=%23collectivenouns&#34;&gt;#collectivenouns&lt;/a&gt;
+hashtag, then parses matching tweets to identify collective nouns. The
+requirements were very simple – no user log in, no CRUD, only a handful
+of models and routes – so Sinatra was the perfect choice for this
+project. I took Nick Plante’s
+&lt;a href=&#34;http://github.com/zapnap/retweet/tree/master&#34;&gt;retweet&lt;/a&gt; source as a
+starting point, which proved to be an excellent introduction to Sinatra
+and DataMapper. Part of the appeal, of course, was to dabble with new
+technologies. The live site runs on passenger, with Rack::Cache taking
+care of the caching.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/bruno.jpg&#34; alt=&#34;Bruno
+Miranda&#34; title=&#34;Bruno Miranda&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/brupm&#34;&gt;Bruno
+Miranda&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; I am using Sinatra on a url
+shortner app that I wrote at &lt;a href=&#34;http://s.bopia.com/&#34;&gt;s.bopia.com&lt;/a&gt; as well
+as a proxy app that processes beanstalkd queue items for
+&lt;a href=&#34;http://mx.msn.cyloop.com/&#34;&gt;mx.msn.cyloop.com&lt;/a&gt;. Sinatra is a great tool
+to accomplish small tasks as a minimal layer on top of http protocol.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/chris_strom.jpg&#34; alt=&#34;Chris
+Strom&#34; title=&#34;Chris Strom&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/eee_c&#34;&gt;Chris
+Strom&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; I am using Sinatra most
+prominently to serve up my family’s cookbook, backed by a CouchDB store.
+Excruciating details on how I do this are contained in a series of blog
+posts starting with:
+&lt;a href=&#34;http://japhr.blogspot.com/2009/03/my-chain.html&#34;&gt;http://japhr.blogspot.com/2009/03/my-chain.htm&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I chose Sinatra because it felt close to the metal — especially
+important because I did not want anything interfering with CouchDB. I
+continue to use Sinatra because it complements my BDD workflow
+exceedingly well. Sinatra’s lean DSL encourages me to produce similarly
+beautiful code. Sinatra never gets in my way. Sinatra goes out of its
+way to make my life simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/CoreyDonohoe.jpg&#34; alt=&#34;Corey
+Donohoe&#34; title=&#34;Corey Donohoe&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/atmos&#34;&gt;Corey
+Donohoe&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; Sinatra is great for building
+non-trivial rack middleware. &lt;a href=&#34;http://www.engineyard.com/&#34;&gt;We’re mainly using
+Sinatra&lt;/a&gt; for integration applications
+between existing pieces of software. Instead of working on a monolithic
+app we’re writing a fleet of microapps to handle arising business needs.
+We feel that Sinatra gets in the way less frequently than most other
+frameworks. With cucumber and good development practices we’re using the
+same top notch testing tools the Rails guys are using. In my &lt;a href=&#34;http://atmos.org/index.php/about/&#34;&gt;personal
+hacking&lt;/a&gt; I’ve been using it as the
+basis for twitter microapps leveraging twitter’s oauth API.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/doug_sparling.jpg&#34; alt=&#34;Doug
+Sparling&#34; title=&#34;Doug Sparling&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/scriptrunner&#34;&gt;Doug
+Sparling&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; In my former company,
+we had started using &lt;em&gt;Sinatra for web services&lt;/em&gt; and in one instance, a
+small app used for mobile advertising that doesn’t use the database.&lt;/p&gt;
+
+&lt;p&gt;​1) &lt;strong&gt;Why?&lt;/strong&gt; – We don’t always need the full Rails stack, particularly
+with web services and anything that doesn’t require the database. It’s
+also useful for use with legacy databases, which we have to deal with. I
+can use Datamapper, which is thread safe (though I haven’t seen any
+performance issues with Rails, which we usually cache anyway).\
+2) &lt;strong&gt;How?&lt;/strong&gt; – We use Mongrel clusters for our Rails web sites, but with
+the Sinatra apps we’re using Passenger. For our Sinatra web services, I
+use Datamapper ORM. I have one internal web service in Rails 2.3.2, but
+I’m looking at moving it to Sinatra as well.\
+3) &lt;strong&gt;Where?&lt;/strong&gt; – Mostly internal web services at the moment, but I’m sure
+we’ll look at it for external services as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/jeremy-125.jpg&#34; alt=&#34;Jeremy
+Evans&#34; title=&#34;Jeremy Evans&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://code.jeremyevans.net/&#34;&gt;Jeremy
+Evans&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; I use Sinatra on quite a few
+projects, mostly for small applications. At work, we use it to handle
+the dynamic portion of our mostly static public website, and for some
+internal applications. Personally, I use it in
+&lt;a href=&#34;http://github.com/jeremyevans/giftsmas/tree/master&#34;&gt;Giftsmas&lt;/a&gt;, my open
+source gift-tracking application, and in a couple of other sites I
+maintain.&lt;/p&gt;
+
+&lt;p&gt;I use Sinatra because it is simple and flexible. It doesn’t require
+boilerplate code, and lets you focus on the needs of your application.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/graham-ashton.jpeg&#34; alt=&#34;Graham
+Ashton&#34; title=&#34;Graham Ashton&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://grahamashton.net/&#34;&gt;Graham
+Ashton&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; I first tried Sinatra during an
+in house “hack week” at &lt;a href=&#34;http://www.wordtracker.com/&#34;&gt;Wordtracker&lt;/a&gt; (one
+of my main Rails clients). We used Sinatra to great effect to throw up a
+user interface for a new keyword research tool that we’d come up with
+during hack week. Sinatra was very accessible – the docs are well
+written and the mailing list is friendly. I quickly gained a lot of
+confidence in the framework by reading the code, which is succinct and
+easy to follow (I wish more projects would follow the advice of the
+Linux kernel coding style and wrap their code at 80 columns – it
+encourages legibility).&lt;/p&gt;
+
+&lt;p&gt;After that experience Sinatra was an obvious choice for Nesta, my &lt;a href=&#34;http://effectif.com/nesta&#34;&gt;file
+based CMS&lt;/a&gt;. It’s a simple app and Sinatra is
+a perfect fit for it. I had the application up and running in a matter
+of days, and I really enjoyed writing it. The goal of Nesta was to build
+a CMS that people could easily modify to suit their own web sites, and
+Sinatra makes it very easy for people to do that. There’s not a lot of
+ceremony.&lt;/p&gt;
+
+&lt;p&gt;I still use Rails for larger apps, but I’m now turning to Sinatra first
+whenever I want to try something out, or if I’m not sure where a new
+application is going. It’s more fun.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/hasham_small.jpg&#34; alt=&#34;Hasham
+Malik&#34; title=&#34;Hasham Malik&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/hasham2&#34;&gt;Hasham
+Malik&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; I have recently started
+development with the Sinatra micro framework while working at
+&lt;a href=&#34;http://www.cambridgedocs.com/&#34;&gt;CambridgeDocs&lt;/a&gt;. Earlier we have used PHP
+/ Ruby on Rails for server-side back ends of native iphone applications
+that we have been developing. Sinatra lets you create REST based
+services with minimalistic approach which is ideal of mobile back ends.
+Sinatra is also lean and fast and at the same time it gives you the
+liberty to use whichever ORM / templating system you want. Sinatra has
+this positive vibe among Rubyists these days with 1.0 nearing its
+release its great time to learn this new framework.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://grayproductions.net/images/james_headshot_square.jpg&#34; alt=&#34;James Edward Gray
+II&#34; title=&#34;James Edward Gray II&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/JEG2&#34;&gt;James
+Edward Gray II&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; At &lt;a href=&#34;http://highgroove.com/&#34;&gt;Highgroove
+Studios&lt;/a&gt;, Sinatra is a vital part of the
+architecture of our monitoring application,
+&lt;a href=&#34;http://scoutapp.com/&#34;&gt;Scout&lt;/a&gt;. We provide the API the agents use to
+check-in with data via the micro framework. This is nice because it
+separates the two functions of the application, allowing us to do things
+like deploy an application update without interrupting the API service.
+Still Sinatra gives us a touch more abstraction than something like
+Rails Metal would and that makes working on the API a little easier.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/face_small2.jpg&#34; alt=&#34;Jeremy
+Raines&#34; title=&#34;Jeremy Raines&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/jraines&#34;&gt;Jeremy
+Raines&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; I’m a web developer in Park
+City, Utah. I got started using Sinatra because I was interested in REST
+and I like the way Sinatra maps controller actions to HTTP verbs. I also
+love its lightweight simplicity. It’s great for doing small API based
+webapps and mashups. Most of my Sinatra apps use Ruby scripts fired by
+cron jobs to pull data from other webservices into a SQLite database,
+and serve content with Sinatra. I’ll be using it more in my work with
+Purple Raincloud, a new social media consultancy here in Utah. I’m
+@jraines on Twitter, and my homepage is at
+&lt;a href=&#34;http://jeremyraines.com/&#34;&gt;jeremyraines.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/jjcicchelli.jpg&#34; alt=&#34;Julio Javier
+Cicchelli&#34; title=&#34;Julio Javier Cicchelli&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/monsieur_rock&#34;&gt;Julio
+Javier Cicchelli&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; First of all,
+I like the idea to write about Sinatra and, especially, to show its
+practical uses to the masses. There are a whole lot of Rails developers
+but nobody seems to be taking Sinatra quite seriously (at least, this is
+what I’ve been noticing in websites such as
+&lt;a href=&#34;http://jobs.rubynow.com/&#34;&gt;jobs.rubynow.com&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;I’ve just founded a company called “&lt;a href=&#34;http://rock-n-code.com/&#34;&gt;Rock &amp;amp;
+Code&lt;/a&gt;” in Amsterdam, The Netherlands that
+offers solutions developed on Sinatra (instead of Rails or even Merb) to
+my partners. Why you would ask? Sinatra have definitely broken the MVC
+paradigm (widely implemented by frameworks such as Rails, Merb, Django,
+Spring, etc.) and decided to give total control back to the developer by
+allowing him to build almost any kind of web-based solution (no matter
+the complexity) in a very simple manner on top of the abstracted HTTP
+layer it implements from Rack. Furthermore, Sinatra applications can
+make use of the existing gem library instead of consuming plug-ins
+specifically-designed for a particular framework. How my company is
+using Sinatra? I’m currently developing RESTful web services that uses
+CouchDB and communicates with clients written in both MacRuby and iPhone
+(in the near future) using JSON but I’ve planned to use Sinatra in web
+development and also server interfacing. Where can it be applied? I
+believe that Sinatra suits perfectly for prototyping, client-server
+applications, SOA applications and interfacing servers, for starters.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/karmi_mugshot.jpg&#34; alt=&#34;Karel
+Minarík&#34; title=&#34;Karel Minarík&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/karmiq&#34;&gt;Karel
+Minarík&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; Sinatra powers &lt;a href=&#34;http://www.restafari.org/&#34;&gt;my
+blog&lt;/a&gt;, deployment automation, internal apps
+and is generally the tool of choice whenever I need to build a web app
+without overhead. Sinatra excels when doing “freestyle coding” — it’s a
+sort of a blank canvas: you’re bound only by HTTP and your Ruby
+knowledge. Sinatra doesn’t force anything on you, which can lead to
+awesome or evil code, in equal measures — and that’s part of its charm
+to me. Sinatra exposes you to Rack intensely, though, which brings
+rather different mindset for building web applications then the
+prevailing “monolithic” style. See eg.
+&lt;a href=&#34;http://github.com/rack/rack-contrib/tree/master&#34;&gt;www.github.com/rack/rack-contrib&lt;/a&gt;
+for inspiration.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://twitter.com/cypher&#34;&gt;Markus Prinz&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; I use Sinatra because
+it concentrates on one area, and does that very well, leaving the rest
+up to me. So whenever I have some idea that requires a web app, I can
+try it out very quickly with Sinatra with a minimum of fuss. And since
+Sinatra is not a one-size-fits-all solution, but instead essentially a
+library, I have a great deal of flexibility in using it. That means I
+can try out new approaches to things like data storage, and use
+something like Tokyo Cabinet/Tokyo Tyrant or CouchDB instead of a
+relational database. But I can also use Sinatra as a component in a
+larger application to offer a web interface, without interfering with
+the rest of the application.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://highgroove.com/images/about/mtodd.jpg&#34; alt=&#34;Matt
+Todd&#34; title=&#34;Matt Todd&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/mtodd&#34;&gt;Matt
+Todd&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; We at @highgroove (&lt;a href=&#34;http://highgroove.com/&#34;&gt;Highgroove
+Studios&lt;/a&gt;) use Sinatra in a lot of different
+projects for memory-efficient web services. One of our products,
+&lt;a href=&#34;http://scoutapp.com/&#34;&gt;Scout&lt;/a&gt; (@scoutapp) uses it to consume thousands
+of reports constantly. We are able to fine tune our stack with Sinatra
+to keep it minimal, responsive, and powerful.&lt;/p&gt;
+
+&lt;p&gt;Highgroove Studios is Charles Brian Quinn (@seebq), Derek Haynes
+(@dhaynes23), Andre Lewis (@alewis), James Edward Gray II (@JEG2), and
+myself, Matt Todd (@mtodd).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/nap.jpg&#34; alt=&#34;Nick
+Plante&#34; title=&#34;Nick Plante&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/zapnap&#34;&gt;Nick
+Plante&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; We’re using Sinatra for a
+variety of small web sites and services. Why? Because Sinatra is small,
+RESTful, fast, and intuitive. It’s perfect for lightweight apps and
+APIs.&lt;/p&gt;
+
+&lt;p&gt;One of our sites, &lt;a href=&#34;http://rdoc.info/&#34;&gt;rdoc.info&lt;/a&gt;, uses it to generate
+and host documentation for a variety of Ruby libraries, integrating with
+GitHub web hooks to automatically regenerate docs whenever projects are
+updated. We could have used Rails, but the additional overhead, helpers,
+and other extras that come pre-packaged with it just weren’t necessary.
+In fact, they would have probably gotten in our way.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://tweetdreams.org/&#34;&gt;Tweetdreams&lt;/a&gt; is another small Sinatra-based
+project that we launched earlier this year. It’s a Twitter dream
+journal. There really isn’t much to it, which is sort of the beauty of
+it. The source is available on GitHub as
+“&lt;a href=&#34;http://github.com/zapnap/retweet/tree/master&#34;&gt;retweet&lt;/a&gt;” and it’s been
+used as the basis for a number of other Twitter-oriented projects
+including the &lt;a href=&#34;http://all-sorts.org/&#34;&gt;http://all-sorts.org&lt;/a&gt; linguistic
+experiment created by Andrew Neil.&lt;/p&gt;
+
+&lt;p&gt;I should note that both of these projects use DataMapper and Haml, too.
+Sinatra is ORM and templating language agnostic, which can be another
+bonus if you already have a predefined set of tools that you’re familiar
+with and want to use.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/petercooper.jpg&#34; alt=&#34;Peter
+Cooper&#34; title=&#34;Peter Cooper&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/peterc&#34;&gt;Peter
+Cooper&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; As I don’t work on big
+projects, I’m using Sinatra for everything now, where I would have used
+Rails before. It’s nearly all local or private stuff for now but I’d
+like to be able to release more community projects using it in due
+course. I love Sinatra because it’s less opinionated and more Ruby-like
+than Rails. It might take me a little longer to achieve certain results
+but I can “plug and play” code, libraries, and frameworks wherever I
+like with it, rather than have to work around tightly coupled
+“conventions.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/PiyushGupta.jpg&#34; alt=&#34;Piyush
+Gupta&#34; title=&#34;Piyush Gupta&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/mba_piyush&#34;&gt;Piyush
+Gupta&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; When your application is
+small, Sinatra helps us to develop applications quickly and easily.
+Sinatra is easy to understand and follow. We have recently used it for a
+twitter mashup called MillionTwitter Follower which is not yet live.
+Expecting it to be live soon.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/sam.jpg&#34; alt=&#34;Sam
+Goebert&#34; title=&#34;Sam Goebert&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/bigcurl&#34;&gt;Sam
+Goebert&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt;
+&lt;a href=&#34;http://www.bigcurl.de/&#34;&gt;Bigcurl&lt;/a&gt; uses Sinatra to power its &lt;a href=&#34;http://www.httpush.com/&#34;&gt;HTTPush
+API&lt;/a&gt;, which is a hosted gateway to the Apple
+Push Notification Service. Our complete api frontend is implemented
+using Sinatra. This gave us a tremendous boost during development of the
+API specification. We were able to experiment more as the code has very
+few lines. Second reason we went with Sinatra was memory consumption,
+since we span lot of instances over the course of a day this was crucial
+to get the maximum out of a machine but maintaining the beauty in code.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/sau.jpg&#34; alt=&#34;Sau Sheong
+Chang&#34; title=&#34;Sau Sheong Chang&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/sausheong&#34;&gt;Sau
+Sheong Chang&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; I picked up Sinatra
+first when I was writing my &lt;a href=&#34;http://blog.saush.com/2009/03/write-an-internet-search-engine-with-200-lines-of-ruby-code/&#34;&gt;search
+engine&lt;/a&gt;
+and I was looking for a simple way to write my search engine interface.
+The simplicity of Sinatra blew me away and I was soon knee-deep into
+writing more apps on Sinatra. After a few more applications, I was
+convinced that Sinatra is the way to write web applications as it is
+meant to be. Today I use it to write quick and simple web applications,
+often in combination with DataMapper, that serve as front-end interfaces
+for larger systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/saurabhpurnaye.jpg&#34; alt=&#34;Saurabh
+Purnaye&#34; title=&#34;Saurabh Purnaye&#34; /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://twitter.com/saurabhp&#34;&gt;Saurabh
+Purnaye&lt;/a&gt;&amp;gt;&amp;gt;&lt;/strong&gt; I work for Synechron, Pune.
+The applications we create are mostly UI based (html/css/jquery and
+flex), and I need web services to respond to the calls from UI – that’s
+where I use Sinatra. Sinatra is really fast and easy for providing
+RESTful web service solutions. There are many options while working with
+Sinatra – for example Database: ORM (datamapper/active record),
+Templating: (erb/haml/builder), http caching, filters, helpers and error
+handling. One of it’s best features is it comes with Rack middleware.
+For the last 6 months I am using Sinatra and I feel very happy to work
+with it.&lt;/p&gt;
+
+&lt;h3 id=&#34;do-you-use-sinatra:b9d73662ccbad47811ad53b639d84c77&#34;&gt;Do YOU use Sinatra?&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ad.ly/refer/2014322399&#34;&gt;&lt;img src=&#34;http://ad.ly/static/images/referral/square.gif&#34; alt=&#34;Twitter&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are a Rubyist using Sinatra, &lt;em&gt;we would like to know as to why,
+how and where you are using Sinatra&lt;/em&gt;. Post this as a blog comment.
+Thanks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Post supported by 1st Easy Limited&lt;/em&gt;:&lt;/strong&gt; UK based 1st Easy Limited
+offer Sinatra and Rails hosting running on a Phusion Passenger
+(mod_rails) and LAMP stack. If you want to get to know them first, or
+simply want to try out your Sinatra or Rails skills, &lt;a href=&#34;http://www.1steasy.com/ruby-on-rails.htm#try&#34;&gt;let them arrange a
+free trial hosting
+account&lt;/a&gt; for you – full
+technical support from their team is included!&lt;/p&gt;
 </description>
     </item>
     
