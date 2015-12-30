@@ -73,11 +73,6 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</loc>
-    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
@@ -94,6 +89,11 @@
   
   <url>
     <loc>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</loc>
+    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -348,12 +348,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/12/15/getting-started-with-heroku/</loc>
+    <loc>http://rubylearning.com/blog/2010/12/15/rubylearning-ebooks-sale-proceeds-for-cry-india----will-you-join-me/</loc>
     <lastmod>2010-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/12/15/rubylearning-ebooks-sale-proceeds-for-cry-india----will-you-join-me/</loc>
+    <loc>http://rubylearning.com/blog/2010/12/15/getting-started-with-heroku/</loc>
     <lastmod>2010-12-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -393,12 +393,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/11/08/how-does-your-code-smell/</loc>
+    <loc>http://rubylearning.com/blog/2010/11/08/do-you-know-resque/</loc>
     <lastmod>2010-11-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/11/08/do-you-know-resque/</loc>
+    <loc>http://rubylearning.com/blog/2010/11/08/how-does-your-code-smell/</loc>
     <lastmod>2010-11-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -483,12 +483,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/09/28/the-ruby-movement/</loc>
+    <loc>http://rubylearning.com/blog/2010/09/28/win-a-prize-by-telling-us-about-your-top-3-most-useful-ruby-gems/</loc>
     <lastmod>2010-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2010/09/28/win-a-prize-by-telling-us-about-your-top-3-most-useful-ruby-gems/</loc>
+    <loc>http://rubylearning.com/blog/2010/09/28/the-ruby-movement/</loc>
     <lastmod>2010-09-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -918,12 +918,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/05/20/interview-author-david-griffiths/</loc>
+    <loc>http://rubylearning.com/blog/2009/05/20/book-promotion-head-first-rails/</loc>
     <lastmod>2009-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/05/20/book-promotion-head-first-rails/</loc>
+    <loc>http://rubylearning.com/blog/2009/05/20/interview-author-david-griffiths/</loc>
     <lastmod>2009-05-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -1313,12 +1313,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2008/04/22/looking-for-1001-ways-to-promote-my-ruby-ebook/</loc>
+    <loc>http://rubylearning.com/blog/2008/04/22/ruby-interview-adam-keys-of-fiveruns/</loc>
     <lastmod>2008-04-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2008/04/22/ruby-interview-adam-keys-of-fiveruns/</loc>
+    <loc>http://rubylearning.com/blog/2008/04/22/looking-for-1001-ways-to-promote-my-ruby-ebook/</loc>
     <lastmod>2008-04-22T00:00:00+00:00</lastmod>
   </url>
   
