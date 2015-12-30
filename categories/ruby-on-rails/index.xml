@@ -22,7 +22,7 @@ This guest post is by &lt;strong&gt;Fabio Akita&lt;/strong&gt;, also known as &l
 &lt;/p&gt;
 
 &lt;p class=&#34;block&#34;&gt;
-&lt;img class=&#34;alignright&#34; src=&#34;http://www.rubylearning.com/images/akita.jpg&#34; alt=&#34;Fabio Akita&#34; width=&#34;125&#34; height=&#34;125&#34; /&gt; &lt;span class=&#34;drop_cap&#34;&gt;I&lt;/span&gt;f you don&#39;t know me, I&#39;m natural from Brazil where we speak Brazilian Portuguese. If you&#39;re from outside of the USA, it&#39;s likely that you bump into the same issues as I do when writing apps that wants to achieve worldwide repercussion: internationalization and localization. Problem is, most developers are careless about it and start writing code with English and Portuguese all mixed up. And when the time comes to explicitly support both, we have to go deep intervention in the code to extract all the particular language bits into manageable structures.
+&lt;img class=&#34;alignright&#34; src=&#34;http://rubylearning.com/images/akita.jpg&#34; alt=&#34;Fabio Akita&#34; width=&#34;125&#34; height=&#34;125&#34; /&gt; &lt;span class=&#34;drop_cap&#34;&gt;I&lt;/span&gt;f you don&#39;t know me, I&#39;m natural from Brazil where we speak Brazilian Portuguese. If you&#39;re from outside of the USA, it&#39;s likely that you bump into the same issues as I do when writing apps that wants to achieve worldwide repercussion: internationalization and localization. Problem is, most developers are careless about it and start writing code with English and Portuguese all mixed up. And when the time comes to explicitly support both, we have to go deep intervention in the code to extract all the particular language bits into manageable structures.
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -727,7 +727,7 @@ The &lt;tt&gt;url_for&lt;/tt&gt; helper will create links that return to the cur
 
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;!-- Find these graphics 
+&lt;!-- Find these graphics
 &lt;p&gt;
 This is the result you will see:
 &lt;/p&gt;
@@ -2462,7 +2462,7 @@ to the next level.&lt;/p&gt;
 
 &lt;p&gt;&amp;ndash; Alvaro Pereyra Rabanal&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/yaraher&#34;&gt;&lt;img src=&#34;http://www.rubylearning.com/images/apr.jpg&#34; alt=&#34;Alvaro Pereyra Rabanal&#34; title=&#34;Alvaro Pereyra Rabanal&#34; /&gt;
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/yaraher&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/apr.jpg&#34; alt=&#34;Alvaro Pereyra Rabanal&#34; title=&#34;Alvaro Pereyra Rabanal&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://twitter.com/yaraher&#34;&gt;Alvaro Pereyra Rabanal&lt;/a&gt;&lt;/strong&gt; is based in
@@ -2562,7 +2562,7 @@ Aberdeen, Scotland, UK.&lt;/li&gt;
 
 &lt;h3 id=&#34;dan-wanek:4755ae7af3551e8c405ce9b8b0777a02&#34;&gt;Dan Wanek&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://distributed-frostbite.blogspot.com/&#34;&gt;&lt;img src=&#34;http://www.rubylearning.com/images/dw.jpg&#34; alt=&#34;Dan
+&lt;p&gt;&lt;a href=&#34;http://distributed-frostbite.blogspot.com/&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/dw.jpg&#34; alt=&#34;Dan
 Wanek&#34; title=&#34;Dan Wanek&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
@@ -2675,7 +2675,7 @@ climbing, drums, chess, anime/mangas, Japanese language.&lt;/li&gt;
 
 &lt;h3 id=&#34;felipe-elias-philipp:4755ae7af3551e8c405ce9b8b0777a02&#34;&gt;Felipe Elias Philipp&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/felipeelias&#34;&gt;&lt;img src=&#34;http://www.rubylearning.com/images/profile2-125x125.jpg&#34; alt=&#34;Felipe Elias
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/felipeelias&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/profile2-125x125.jpg&#34; alt=&#34;Felipe Elias
 Philipp&#34; title=&#34;Felipe Elias Philipp&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
@@ -2793,7 +2793,7 @@ in some community development endeavors in Baltimore.&lt;/li&gt;
 
 &lt;h3 id=&#34;julio-javier-cicchelli:4755ae7af3551e8c405ce9b8b0777a02&#34;&gt;Julio Javier Cicchelli&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://javiercicchelli.info/&#34;&gt;&lt;img src=&#34;http://www.rubylearning.com/images/jjcicchelli.jpg&#34; alt=&#34;Julio Javier
+&lt;p&gt;&lt;a href=&#34;http://javiercicchelli.info/&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/jjcicchelli.jpg&#34; alt=&#34;Julio Javier
 Cicchelli&#34; title=&#34;Julio Javier Cicchelli&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
@@ -2973,7 +2973,7 @@ Listening to Music.&lt;/li&gt;
 
 &lt;h3 id=&#34;saurabh-purnaye:4755ae7af3551e8c405ce9b8b0777a02&#34;&gt;Saurabh Purnaye&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://smsonrails.blogspot.com/&#34;&gt;&lt;img src=&#34;http://www.rubylearning.com/images/saurabhpurnaye.jpg&#34; alt=&#34;Saurabh
+&lt;p&gt;&lt;a href=&#34;http://smsonrails.blogspot.com/&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/saurabhpurnaye.jpg&#34; alt=&#34;Saurabh
 Purnaye&#34; title=&#34;Saurabh Purnaye&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
@@ -3990,45 +3990,45 @@ Antonio would be glad to answer.&lt;/em&gt;&lt;/p&gt;
       <guid>http://rubylearning.com/blog/2009/06/13/a-quick-chat-with-chetan-mittal-of-mortar-systems/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
-    &lt;img class=&#34;alignright&#34; title=&#34;Chetan Mittal&#34; src=&#34;http://www.rubylearning.com/images/bio-photo.gif&#34; alt=&#34;Chetan Mittal&#34; /&gt;
+    &lt;img class=&#34;alignright&#34; title=&#34;Chetan Mittal&#34; src=&#34;http://rubylearning.com/images/bio-photo.gif&#34; alt=&#34;Chetan Mittal&#34; /&gt;
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Chetan, could you tell us something about yourself &amp;#8211; your background, where you are based?&lt;/span&gt;
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;strong&gt;Chetan&gt;&gt;&lt;/strong&gt; I am born and raised in Chandigarh, India&amp;#8217;s most beautiful city. I am a computer engineer by both qualification and profession, and a MBA from Melbourne Business School (UQ/MtEliza). In 2000 I moved to Australia; worked and stayed there for six years before coming back to India in 2006, year I put my hands on Rails, to start Mortar Systems. I have worked on government projects in Australia for different verticals such as Transport, Healthcare etc.
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Could you tell us a little more about your company?&lt;/span&gt;
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;strong&gt;Chetan&gt;&gt;&lt;/strong&gt; Mortar Systems is a small IT boutique where we provide services such as product engineering, web/mobile development and business IT consulting to small and micro enterprises for verticals ranging from retail to high-tech. The technologies we use are open-source such as &lt;strong&gt;Ruby&lt;/strong&gt;, Java, Python, SugarCRM etc. We are also partner with SUN in their Startup Essential program for India; with this we can provide discounted software / hardware for our product engineering customers.
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     Typically we follow Agile model and craftsmanship practices. We have experience in providing Scrum and XP training / consulting to some of the IT shops in India.
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Getting back to your comnpany, what are your future plans?&lt;/span&gt;
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;strong&gt;Chetan&gt;&gt;&lt;/strong&gt; Currently we are a team 4 developers, thus our future plan for the next 2 years is to grow this team to at least 50, and build up some expertise in any of the two verticals of our target market. We have successfully signed up a 3 years contract with an outsourced Sales firm, so finger crossed!
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Anything else you would like to add?&lt;/span&gt;
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;strong&gt;Chetan&gt;&gt;&lt;/strong&gt; I would like to add my thoughts on the current IT resources market in India. Nowadays I see a lot of startups coming out of India but not many out of them making it big on international (or even national) circuit. The problem I foresee is that most of these startups are unable to get good team members because the college graduates (not IITs, NITs) just don&amp;#8217;t want to work for them, or just are not skilled enough. I can&amp;#8217;t say much on when the education standards in India will rise, but would like to point out a few startups portals like &lt;a href=&#34;http://workforastartup.in/&#34;&gt;http://workforastartup.in&lt;/a&gt; or others which can help Indian startups to hire really potential talent.
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;em&gt;Thank you Chetan.&lt;/em&gt;&lt;/span&gt;
   &lt;/p&gt;
@@ -4121,7 +4121,7 @@ from Pragmatic Technology Solutions.&lt;/em&gt;&lt;/p&gt;
 community are talking about it. What’s your quick reaction to this
 statement?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/rege.jpg&#34; alt=&#34;Gautam
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/rege.jpg&#34; alt=&#34;Gautam
 Rege&#34; title=&#34;Gautam Rege&#34; /&gt;
 &lt;strong&gt;Gautam
 Rege&amp;gt;&amp;gt;&lt;/strong&gt; Since you asked for my quick reaction, my answer is an
@@ -4139,7 +4139,7 @@ who co-founded Josh Software with me feels that Ruby will ride on the
 Rails popularity. There are more takers for Rails and hence Ruby, than
 the other way round. So, as Rails gets popular, Ruby lives on!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/shabbir.png&#34; alt=&#34;Shabbir
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/shabbir.png&#34; alt=&#34;Shabbir
 Merchant&#34; title=&#34;Shabbir Merchant&#34; /&gt;
 &lt;strong&gt;Shabbir
 Merchant&amp;gt;&amp;gt;&lt;/strong&gt; I think 3-5 years is a long time, but I already see that
@@ -4151,7 +4151,7 @@ mass penetration will not happen unless big companies like IBM, HP, Sun
 endorse it in a big way. Currently they are heavily invested in Java and
 a move to Ruby would be very challenging.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/Ashutosh.png&#34; alt=&#34;Ashutosh
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/Ashutosh.png&#34; alt=&#34;Ashutosh
 Ambekar&#34; title=&#34;Ashutosh Ambekar&#34; /&gt;
 &lt;strong&gt;Ashutosh
 Ambekar&amp;gt;&amp;gt;&lt;/strong&gt; No! Ruby won’t fail. It has been around for 10 years and
@@ -4165,7 +4165,7 @@ community bringing in frameworks based on Ruby (Ruby on Rails, Sinatra
 etc), I do not think Ruby will fail, it will evolve and will fuel rapid
 application development using meta-programming.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/NickAdams.png&#34; alt=&#34;Nick
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/NickAdams.png&#34; alt=&#34;Nick
 Adams&#34; title=&#34;Nick Adams&#34; /&gt;
 &lt;strong&gt;Nick
 Adams&amp;gt;&amp;gt;&lt;/strong&gt; My first reaction would be to ask: ‘What do we mean by
@@ -4177,7 +4177,7 @@ see growth in many other areas, notably in web application development.
 I do not sense a failure for Ruby in the short or medium term. My quick
 reaction is surprise that there is talk in the community of a ‘fail’!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/Deven.jpg&#34; alt=&#34;Devendra
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/Deven.jpg&#34; alt=&#34;Devendra
 Deshmukh&#34; title=&#34;Devendra Deshmukh&#34; /&gt;
 &lt;strong&gt;Devendra
 Deshmukh&amp;gt;&amp;gt;&lt;/strong&gt; Very innovative and thought provocative blog post title.

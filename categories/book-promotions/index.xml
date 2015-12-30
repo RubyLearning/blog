@@ -251,7 +251,7 @@ here&lt;/a&gt;
 for more details. Here, in this brief interview, Satish Talim of
 RubyLearning talks to Peter Cooper.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.rubylearning.com/images/petercooper.jpg&#34; alt=&#34;Peter
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/petercooper.jpg&#34; alt=&#34;Peter
 Cooper&#34; title=&#34;Peter Cooper&#34; /&gt;
 &lt;/p&gt;
 
@@ -771,67 +771,67 @@ promotion, contact: mail [at] satishtalim [dot] com&lt;/p&gt;
   &lt;p class=&#34;alert&#34;&gt;
     Our Book Promotion: &amp;#8220;&lt;strong&gt;The Well-Grounded Rubyist&lt;/strong&gt;&amp;#8221; starts today. Win one of four books to be given out for active participation. The coolest thing? Author &lt;b&gt;David A. Black&lt;/b&gt; will be on site to answer questions! &lt;a href=&#34;http://rubylearning.com/blog/2009/05/29/book-promotion-the-well-grounded-rubyist/&#34;&gt;Click here&lt;/a&gt; for more details. Here, in this brief interview, Satish Talim of RubyLearning talks to David A. Black.
   &lt;/p&gt;
-  
+
   &lt;p&gt;
-    &lt;img class=&#34;alignright&#34; title=&#34;David A. Black. Photo credit: James Duncan Davidson&#34; src=&#34;http://www.rubylearning.com/images/david.jpg&#34; alt=&#34;David A. Black&#34; /&gt;
+    &lt;img class=&#34;alignright&#34; title=&#34;David A. Black. Photo credit: James Duncan Davidson&#34; src=&#34;http://rubylearning.com/images/david.jpg&#34; alt=&#34;David A. Black&#34; /&gt;
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; David, could you tell us something about yourself &amp;#8211; your background, where you are based?&lt;/span&gt;
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;strong&gt;David&gt;&gt;&lt;/strong&gt; I&amp;#8217;m from Connecticut originally, and I live in New Jersey. My first computer programming experiences were with a PDP-8 and PDP-10, in the early 1970s. I was thirteen years old, and in those days, unlike today, a thirteen-year-old programmer was a rarity! I didn&amp;#8217;t do much with computers in later years until the late 1980s, when I got my first PC and gravitated to programming again. Meanwhile, I was starting an academic career in a different field, and taught college from 1992 to 2005. I then made the decision to leave the university and devote myself full-time to Ruby and Rails development, training, and writing.
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;img class=&#34;alignright&#34; title=&#34;The Well-Grounded Rubyist&#34; src=&#34;http://rubylearning.com/images/twgrcover.jpg&#34; alt=&#34;The Well-Grounded Rubyist&#34; /&gt;
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Who&amp;#8217;s the audience for your book &amp;#8211; The Well-Grounded Rubyist? Does it teach Ruby programming or is it a reference book?&lt;/span&gt;
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;strong&gt;David&gt;&gt;&lt;/strong&gt; The Well-Grounded Rubyist is for programmers who are new to Ruby, as well as people who have done some work with Ruby and now want to learn it more deeply and systematically. It&amp;#8217;s definitely a teaching book rather than a Ruby reference work &amp;#8212; not that it doesn&amp;#8217;t cover lots of language features and techniques, but its purpose is to bring you to a deep understanding of how things work in Ruby, and to give you the foundation you need for a long-term, ongoing relationship with the language.
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     I think of myself as having switched careers from teacher to computer programmer, but at the same time, there&amp;#8217;s definitely a teacher part of me that&amp;#8217;s always there. I love explaining things to people and helping them &amp;#8220;get it&amp;#8221;, and writing a book like this is the perfect way to combine my programmer and teacher sides. That&amp;#8217;s also why I do a lot of Ruby and Rails training, and why I truly enjoy it.
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; How different is this book from your other book &amp;#8211; &amp;#8220;Ruby for Rails&amp;#8221;?&lt;/span&gt;
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;strong&gt;David&gt;&gt;&lt;/strong&gt; TWGR is what I have described as a &amp;#8220;repurposing&amp;#8221; of R4R. Of course the main difference is that TWGR doesn&amp;#8217;t talk about Rails. But it also covers a lot more of Ruby, and brings it up to date by focusing on Ruby 1.9.1.
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     In working on TWGR I&amp;#8217;ve drawn on material from R4R, but everything has been revisited, revised, and updated. There was no automatic cut-and-paste from R4R. It was important to me for TWGR to stand entirely on its own &amp;#8212; and the fact that it&amp;#8217;s about a different version of Ruby, as well as being more inclusive, reinforced that need.
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     In fact, when I started working on TWGR I thought it would be easier than it turned out to be. Just take out Rails, add some new material, update everything, and there it is! It turned out to be much harder than that, and it took longer than I expected. But that turned out to be a blessing in disguise, since the book&amp;#8217;s appearance has coincided nicely with Ruby 1.9.1, the first stable version of Ruby 1.9.
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; I know that it is too early to say, but looking back are there some topics that you now wish should have been covered or dropped from the book?&lt;/span&gt;
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;strong&gt;David&gt;&gt;&lt;/strong&gt; Nothing so far, though as you say it&amp;#8217;s still early &lt;img src=&#34;http://rubylearning.com/blog/wp-includes/images/smilies/icon_smile.gif&#34; alt=&#34;:-)&#34; class=&#34;wp-smiley&#34; /&gt; There&amp;#8217;s always judgment involved in choosing topics and deciding what to emphasize. My guiding principle has been to try to leave the reader in a position where, even though there&amp;#8217;s more to learn, there won&amp;#8217;t be any big surprises: everything you learn about Ruby later on will relate in some way to what you&amp;#8217;ve learned in the book.
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Anything else you would like to add?&lt;/span&gt;
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;strong&gt;David&gt;&gt;&lt;/strong&gt; Only to thank you for inviting me to talk about the book, and that I hope everyone learns from it and enjoys it!
   &lt;/p&gt;
-  
+
   &lt;p&gt;
     &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;em&gt;Thank you David. In case you have any queries and/or questions, kindly post your questions here (as comments to this blog post) and David would be glad to answer.&lt;/em&gt;&lt;/span&gt;
   &lt;/p&gt;
