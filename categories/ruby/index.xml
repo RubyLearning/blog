@@ -6,177 +6,8 @@
     <description>Recent content in Ruby on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rubylearning.com/blog/categories/ruby/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Learn Ruby programming - 64th batch</title>
-      <link>http://rubylearning.com/blog/2015/10/11/learn-ruby-programming---64th-batch/</link>
-      <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://rubylearning.com/blog/2015/10/11/learn-ruby-programming---64th-batch/</guid>
-      <description>
-
-&lt;p&gt;Registrations are now open for RubyLearning&amp;rsquo;s &lt;em&gt;long-running and popular&lt;/em&gt;
-Ruby programming course. This is an intensive, online course for
-&lt;em&gt;beginners&lt;/em&gt; that helps you get started with &lt;strong&gt;Ruby&lt;/strong&gt; programming. The
-course starts on &lt;strong&gt;Saturday, 5 December 2015&lt;/strong&gt; and runs for seven weeks.&lt;/p&gt;
-
-&lt;h2 id=&#34;course-fee-and-discount:0abd26cdb3a9774f40682720c8206489&#34;&gt;Course Fee and Discount&lt;/h2&gt;
-
-&lt;p&gt;Please &lt;a href=&#34;http://rubylearning.org/classes/login/index.php&#34;&gt;create a new
-account&lt;/a&gt; first and then
-pay US $44.95 by clicking on the PayPal button
-&lt;a href=&#34;http://rubylearning.org/classes/enrol/index.php?id=63&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/paypal_ruby.gif&#34; alt=&#34;Paypal&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: If you do not have a PayPal account and would like to pay by
-credit card on PayPal then do email me at satish [at] rubylearning.org.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Download &lt;a href=&#34;http://rubylearning.com/data/AdviceRuby.zip&#34;&gt;&amp;lsquo;Advice for Ruby
-Beginners&amp;rsquo;&lt;/a&gt; as a .zip file.&lt;/p&gt;
-
-&lt;p&gt;Here is what &lt;strong&gt;Sandra Randall (Butler)&lt;/strong&gt;, a participant who just
-graduated, has to say - &amp;ldquo;You kindly offered me the opportunity to join
-your Ruby course. I&amp;rsquo;m new to development and found the course, even
-though basic for programmers, a little tricky for me. I managed to
-complete all of the assessments and really learnt a lot. Thank you very
-much for the opportunity. It has really given me the push I needed to
-learn Ruby and I&amp;rsquo;m currently treading my way through both the pickaxe
-and Agile Development books and enjoying it. I&amp;rsquo;ve recently been offered
-a position as a Junior Systems Developer at a local Software house in
-South Africa - all thanks to the push you gave me which gave me the
-motivation and drive to get going.&amp;rdquo;&lt;/p&gt;
-
-&lt;h2 id=&#34;what-s-ruby:0abd26cdb3a9774f40682720c8206489&#34;&gt;What&amp;rsquo;s Ruby?&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/ruby_350.png&#34; alt=&#34;Ruby&#34; title=&#34;License: http://creativecommons.org/licenses/by-sa/2.5/&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;According to
-&lt;a href=&#34;http://www.ruby-lang.org/en/&#34;&gt;http://www.ruby-lang.org/en/&lt;/a&gt; - &amp;ldquo;Ruby is
-a dynamic, open source programming language with a focus on simplicity
-and productivity. Ruby&amp;rsquo;s elegant syntax is natural to read and easy to
-write.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Yukihiro Matsumoto&lt;/strong&gt;, the creator of Ruby, in &lt;strong&gt;&lt;a href=&#34;http://linuxdevcenter.com/pub/a/linux/2001/11/29/ruby.html&#34;&gt;an
-interview&lt;/a&gt;&lt;/strong&gt;
-says -&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I believe people want to express themselves when they program. They
-don&amp;rsquo;t want to fight with the language. Programming languages must feel
-natural to programmers. I tried to make people enjoy programming and
-concentrate on the fun and creative part of programming when they use
-Ruby.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;what-will-i-learn:0abd26cdb3a9774f40682720c8206489&#34;&gt;What Will I Learn?&lt;/h2&gt;
-
-&lt;p&gt;In the Ruby programming course, you will learn the &lt;a href=&#34;http://rubylearning.com/satishtalim/tutorial.html&#34;&gt;essential features
-of Ruby&lt;/a&gt; that you
-will end up using every day. You will also be introduced to Git, GitHub,
-HTTP concepts, RubyGems, Rack and Heroku.&lt;/p&gt;
-
-&lt;h2 id=&#34;some-highlights:0abd26cdb3a9774f40682720c8206489&#34;&gt;Some Highlights&lt;/h2&gt;
-
-&lt;h3 id=&#34;rubylearning-s-irc-channel:0abd26cdb3a9774f40682720c8206489&#34;&gt;RubyLearning&amp;rsquo;s IRC Channel&lt;/h3&gt;
-
-&lt;p&gt;Some of the mentors and students hang out at RubyLearning&amp;rsquo;s IRC
-(irc.freenode.net) channel (#rubylearning.org) for both technical and
-non-technical discussions. Everyone benefits with the active discussions
-on Ruby with the mentors.&lt;/p&gt;
-
-&lt;h3 id=&#34;google-hangouts:0abd26cdb3a9774f40682720c8206489&#34;&gt;Google Hangouts&lt;/h3&gt;
-
-&lt;p&gt;There is a Hangout Event that is open for students, for drop-in hangouts
-where students can pair program with mentors or with each other. This is
-often where you can get help with your system, editor, and general
-environment. Anything that can help you with your coding environment
-that you are having problems with are usually discussed interactively
-here.&lt;/p&gt;
-
-&lt;h3 id=&#34;git-repositories:0abd26cdb3a9774f40682720c8206489&#34;&gt;Git Repositories&lt;/h3&gt;
-
-&lt;p&gt;Shared (private) repositories available for those that want to learn git
-and the revision controlled programming workflow. This allows students
-that want to collaborate while learning. This is a great way to record
-your progress while learning Ruby.&lt;/p&gt;
-
-&lt;h3 id=&#34;ebook:0abd26cdb3a9774f40682720c8206489&#34;&gt;eBook&lt;/h3&gt;
-
-&lt;p&gt;The course is based on the &lt;strong&gt;The Ultimate Guide to Ruby Programming&lt;/strong&gt;
-eBook. This book is &lt;a href=&#34;http://book.rubylearning.org/&#34;&gt;priced at US $9.95&lt;/a&gt;.
-However, the &lt;a href=&#34;http://www.amazon.com/gp/product/B0062X2I68/ref=as_li_tf_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B0062X2I68&amp;amp;linkCode=as2&amp;amp;tag=satishtalimsw-20&#34;&gt;Kindle
-edition&lt;/a&gt;
-of the eBook is available for US $6.00.&lt;/p&gt;
-
-&lt;h3 id=&#34;challenges-and-side-tracks:0abd26cdb3a9774f40682720c8206489&#34;&gt;Challenges and Side Tracks&lt;/h3&gt;
-
-&lt;p&gt;This is course material not found in the RubyLearning Study Notes nor in
-the E-Book! Depending on participation levels, we throw a Ruby coding
-challenge in the mix, right for the level we are at. We have been known
-to give out a prize or two for the &amp;lsquo;best&amp;rsquo; solution.&lt;/p&gt;
-
-&lt;h2 id=&#34;who-s-it-for:0abd26cdb3a9774f40682720c8206489&#34;&gt;Who&amp;rsquo;s It For?&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;A &lt;em&gt;beginner&lt;/em&gt; with some knowledge of programming.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;You can read what past participants / online magazines have to say about
-the course.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/other/testimonials.html&#34;&gt;Testimonials&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.forbes.com/sites/women2/2012/07/07/how-i-learned-to-code/print/&#34;&gt;Forbes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://natashatherobot.com/rubylearning-core-ruby-review/&#34;&gt;Natasha
-Murashev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://katpreneur.tumblr.com/post/27084326683/i-am-not-young-enough-to-know-everything&#34;&gt;Katerina
-Jackson-Suchkova&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://maniempire.blogspot.in/2011/07/ruby-pair-programming.html&#34;&gt;Mani Maran
-M&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;mentors:0abd26cdb3a9774f40682720c8206489&#34;&gt;Mentors&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://satishtalim.com/&#34;&gt;Satish Talim&lt;/a&gt;, Michael Kohl, Satoshi Asakawa,
-Victor Goff III and others from the RubyLearning team.&lt;/p&gt;
-
-&lt;h2 id=&#34;dates:0abd26cdb3a9774f40682720c8206489&#34;&gt;Dates&lt;/h2&gt;
-
-&lt;p&gt;The course starts on &lt;strong&gt;Saturday, 5th of December 2015&lt;/strong&gt; and runs for seven
-weeks.&lt;/p&gt;
-
-&lt;h2 id=&#34;how-do-i-register-and-pay-the-course-fees:0abd26cdb3a9774f40682720c8206489&#34;&gt;How do I register and pay the course fees?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You can pay the course fees either by Paypal or send cash via
-&lt;a href=&#34;http://www.westernunion.com/info/selectCountry.asp&#34;&gt;Western Union Money
-Transfer&lt;/a&gt; or by
-bank transfer (if you are in India). The fees collected helps
-RubyLearning maintain the site, this Ruby course, the Ruby eBook,
-and provide quality content to you.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To pay the Course Fee:
-&lt;a href=&#34;http://rubylearning.org/classes/enrol/index.php?id=63&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/paypal_ruby.gif&#34; alt=&#34;Paypal&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Please &lt;a href=&#34;http://rubylearning.org/classes/login/index.php&#34;&gt;create a new
-account&lt;/a&gt; first and then
-pay US $44.95 by clicking on the PayPal button&lt;/p&gt;
-
-&lt;h2 id=&#34;how-does-the-course-work:0abd26cdb3a9774f40682720c8206489&#34;&gt;How does the course work?&lt;/h2&gt;
-
-&lt;p&gt;For details on how the course works, refer &lt;a href=&#34;http://rubylearning.com/blog/how-the-course-works/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;At the end of this course you should have all the knowledge to explore
-the wonderful world of Ruby on your own.&lt;/p&gt;
-
-&lt;p&gt;Remember, the idea is to have fun learning Ruby.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Learn Ruby The Hard Way: A Book Review</title>
@@ -2830,6 +2661,181 @@ technical support from their team is included!&lt;/p&gt;
   &amp;lt;/ol&amp;gt;
 &amp;lt;/div&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Karel Minarik: How do I learn and master Sinatra? (Reprint)</title>
+      <link>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</link>
+      <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</guid>
+      <description>&lt;div&gt;
+  &lt;p&gt;
+    &lt;b&gt;Note&lt;/b&gt;: This is reprint of the blog post that appeared on 13th July 2009, as the original is not accessible.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;update&#34;&gt;
+    Welcome to the &lt;b&gt;fourth&lt;/b&gt; installment on the &lt;abbr title=&#34;RubyLearning&#34;&gt;RL&lt;/abbr&gt; blog, of a mini series &amp;#8211; &amp;#8220;&lt;strong&gt;How do I learn and master Sinatra?&lt;/strong&gt;&amp;#8221; &amp;#8211; by top Rubyists using &lt;em&gt;Sinatra&lt;/em&gt;. The interview series will provide insight and commentary from these notable &lt;em&gt;Sinatra&lt;/em&gt; developers, with the goal of facilitating and providing answers to the questions Ruby beginners face on &lt;em&gt;how to learn and master Sinatra&lt;/em&gt;.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Karel Minarik, could you tell us something about yourself &amp;#8211; your background, where you are based?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;img class=&#34;alignright&#34; title=&#34;Karel Minarik&#34; src=&#34;http://rubylearning.com/images/karmi_mugshot.jpg&#34; alt=&#34;Karel Minarik&#34; /&gt;&lt;strong&gt;Karel Minarik&gt;&gt;&lt;/strong&gt; I&amp;#8217;m Karel Minarik, web designer and developer living in Prague, Czech Republic. I have graduated in Philosophy, not Computer Science, which may explain why I love Ruby a lot, and why I prefer solving &amp;#8220;naming things&amp;#8221; over &amp;#8220;cache invalidation&amp;#8221; problems. I earn my bread by designing interfaces, writing Ruby, JavaScript, HTML/CSS and giving people advice or teaching them new tricks. I blog in undecipherable intervals on &lt;a href=&#34;http://www.restafari.org/&#34;&gt;Restafari.org&lt;/a&gt; and publish code regularly at &lt;a href=&#34;http://github.com/karmi/&#34;&gt;Github&lt;/a&gt;.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Are there any pre-requisites for a person to start learning Sinatra?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;strong&gt;Karel&gt;&gt;&lt;/strong&gt; Very few: you just need to know Ruby a little bit. The rest you can and will learn along the way. In fact, &lt;span style=&#34;background-color: #FFFFCC;&#34;&gt;Sinatra is wonderful teaching tool to deepen your knowledge of Ruby as a general programming language, web application architectures, HTTP and REST principles, concept of middlewares, and so on&lt;/span&gt;. As a wonderful teaching/learning tool it&amp;#8217;s truly on par with _why&amp;#8217;s Shoes.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; How should one start learning Sinatra?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;strong&gt;Karel&gt;&gt;&lt;/strong&gt; You should start with the &lt;a href=&#34;http://github.com/sinatra/sinatra/blob/master/README.rdoc&#34;&gt;README&lt;/a&gt;, which contains almost everything you need to know in its 500 or so lines. Then you should definitely glance over sourcecode of some Sinatra applications &amp;#8220;&lt;a href=&#34;http://www.sinatrarb.com/wild.html&#34;&gt;in the wild&lt;/a&gt;&amp;#8220;.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Some of the noteworthy examples would be eg. simple website in waferbaby&amp;#8217;s &lt;a href=&#34;http://github.com/waferbaby/usesthis/tree/master&#34;&gt;usesthis&lt;/a&gt;, background processing tutorial in bmizerany&amp;#8217;s &lt;a href=&#34;http://github.com/bmizerany/sinatra-dj/tree/master&#34;&gt;sinatra-dj&lt;/a&gt;, clever use of Ruby&amp;#8217;s blocks/closures in pjhyett&amp;#8217;s &lt;a href=&#34;http://github.com/pjhyett/github-services/tree/master&#34;&gt;github-services&lt;/a&gt; or ultra minimal apps in ichverstehe&amp;#8217;s &lt;a href=&#34;http://github.com/ichverstehe/gaze/blob/master/bin/gaze&#34;&gt;gaze&lt;/a&gt; or gnugeek&amp;#8217;s &lt;a href=&#34;http://github.com/gnugeek/tophat/tree/master&#34;&gt;tophat&lt;/a&gt;. These examples really elucidate compact and minimal nature of Sinatra.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Then you should sketch something rather small and well defined: web frontend for some Ruby code you have, a web API for some of your services, &amp;#8230;
+  &lt;/p&gt;
+
+  &lt;blockquote class=&#34;right&#34;&gt;
+    &lt;p&gt;
+      Sinatra &amp;#8211; quickly create tiny web apps and services
+    &lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Which area of Sinatra should a beginner pay particular attention to?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;strong&gt;Karel&gt;&gt;&lt;/strong&gt; Beginners should pay attention to Sinatra&amp;#8217;s DSL itself: helpers, filters, last_modified and etag support, etc, so they&amp;#8217;re not reinventing the mic and truly make use of it&amp;#8217;s API. More advanced programmers should focus on Rack integration, using Rack middlewares such as &lt;b&gt;Rack::Auth&lt;/b&gt; or &lt;b&gt;Rack::Mime&lt;/b&gt; in your Sinatra app and running Sinatra apps themselves as middlewares. This opens different possibilities of service integration &amp;#8211; have a look on Jon Crosby&amp;#8217;s wonderful explanation in his &lt;a href=&#34;http://mwrc2009.confreaks.com/13-mar-2009-11-05-in-a-world-of-middleware-who-needs-monolithic-applications-jon-crosby.html&#34;&gt;MWRC talk&lt;/a&gt;.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Is the official documentation on Sinatra good enough for a beginner? Are there areas which need improvement or need to be re-written&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;strong&gt;Karel&gt;&gt;&lt;/strong&gt; Sinatra&amp;#8217;s &lt;a href=&#34;http://www.sinatrarb.com/documentation.html&#34;&gt;documentation&lt;/a&gt; is pretty extensive at the moment, covering everything from basics to testing your applications and writing extensions. It&amp;#8217;s just a bit scattered at the moment, eg. deployment is covered in the &lt;a href=&#34;http://www.sinatrarb.com/book.html#deployment&#34;&gt;Sinatra Book&lt;/a&gt; started by Chris Schneider. There&amp;#8217;s still some lack of thorough documentation about Rack integration.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Sequel, DataMapper, ActiveRecord &amp;#8211; which one would you recommend to use with Sinatra and why?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;strong&gt;Karel&gt;&gt;&lt;/strong&gt; I prefer ActiveRecord for anything talking to a relational database, because of it&amp;#8217;s clever API, stability, general knowledge and large user base. Don&amp;#8217;t forget that Sinatra is nice playground for experiments with other ORM&amp;#8217;s, key/value stores, etc, though!
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;img class=&#34;alignright&#34; src=&#34;http://rubylearning.com/images/sinatralogo.jpg&#34; alt=&#34;Sinatra Icon&#34; title=&#34;Sinatra micro-framework&#34; /&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Is an understanding of Rack important while learning Sinatra? Why? Which area of Rack should one be really comfortable with?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;strong&gt;Karel&gt;&gt;&lt;/strong&gt; No, you could start learning Sinatra completely oblivious of something called &amp;#8220;Rack&amp;#8221;.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    However, you can use plethora of various &lt;a href=&#34;http://rack.rubyforge.org/doc/Rack.html&#34;&gt;bundled&lt;/a&gt; or &lt;a href=&#34;http://github.com/rack/rack-contrib&#34;&gt;third-party&lt;/a&gt; Rack middlewares very easily by simple &amp;#8216;&lt;b&gt;use Rack::Utils&lt;/b&gt;&amp;#8216; or &amp;#8216;&lt;b&gt;use Rack::Locale&lt;/b&gt;&amp;#8216; declaration for adding some advanced functionality to your application.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    And when you plan to plug Sinatra powered app into a Rails one, for instance, or want to &amp;#8220;mount&amp;#8221; various separated web applications at different endpoints, you should definitely have a detailed look on Rack itself.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; How should one hone one&amp;#8217;s skills in Sinatra?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;strong&gt;Karel&gt;&gt;&lt;/strong&gt; By reading huge amounts of code available on Github. That&amp;#8217;s a sure way how to discover clever solutions and open your mind. (Be sure to include credits if you reuse some code and release your stuff, though.)
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    But the most important thing is to focus on Ruby as an expressive programming language, and to _not_ think about browser first. Think first about the domain of your application and how it translates to Ruby, not about how it should &amp;#8220;look&amp;#8221; or behave in a browser. That&amp;#8217;s very important, but comes next. And don&amp;#8217;t forget it&amp;#8217;s really easy to code test-first in Ruby and in Sinatra.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; What type of projects should a beginner work on to gain more expertise in Sinatra?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;strong&gt;Karel&gt;&gt;&lt;/strong&gt; Smallish apps, where Rails would force it&amp;#8217;s conventions on you or which are not primarily focused on database access. Something like cschneid&amp;#8217;s &lt;a href=&#34;http://irclogger.com/&#34;&gt;irclogger&lt;/a&gt;, quirkey&amp;#8217;s &lt;a href=&#34;http://log.quirkey.com/&#34;&gt;columnlog&lt;/a&gt; or entp&amp;#8217;s &lt;a href=&#34;http://calendaraboutnothing.com/&#34;&gt;Calendar About Nothing&lt;/a&gt; &amp;#8212; all very tight, minimal and very elegant apps.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Could you suggest some web services that a Sinatra beginner could develop himself / herself?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;strong&gt;Karel&gt;&gt;&lt;/strong&gt; The sweet spot for Sinatra is something along the lines of already mentioned apps. Some ideas I could throw in:
+  &lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;
+      An app to display metrics about your team activity in a Git repository: who commited most, who commited most lines of code, etc., leveraging power of &lt;a href=&#34;http://github.com/mojombo/grit&#34;&gt;Grit&lt;/a&gt;.
+    &lt;/li&gt;
+    &lt;li&gt;
+      A web frontend for some command-line tool like &amp;#8216;top&amp;#8217; or &amp;#8216;df&amp;#8217; for your servers.
+    &lt;/li&gt;
+    &lt;li&gt;
+      Simple web hook for &lt;a href=&#34;http://github.com/guides/post-receive-hooks&#34;&gt;Github&amp;#8217;s post-receive hooks&lt;/a&gt;, notifiying your developer mailing-list, Jabber, deploying new code to staging server or playing a tune.
+    &lt;/li&gt;
+    &lt;li&gt;
+      More advanced example could be an app to show currently deployed versions of your applications, using small Sinatra apps on each host to emit various metrics like deployed revision and it&amp;#8217;s age, system load, etc in JSON and a Sinatra app to gather the data &amp;#8212; &amp;#8220;emulating&amp;#8221; services like NewRelic, Scout or FiveRun&amp;#8217;s Dash.
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;strong&gt;Satish&gt;&gt;&lt;/strong&gt; Anything else you would like to add?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;strong&gt;Karel&gt;&gt;&lt;/strong&gt; Do come to the #sinatra IRC channel on Freenode when you get stuck. There&amp;#8217;s usually lots of people from different timezones, so it&amp;#8217;s very likely that we&amp;#8217;ll get you out of trouble fast. Just please read the README first and don&amp;#8217;t name your application file &amp;#8220;sinatra.rb&amp;#8221; &lt;img src=&#34;http://rubylearning.com/blog/wp-includes/images/smilies/icon_smile.gif&#34; alt=&#34;:)&#34; class=&#34;wp-smiley&#34; /&gt; Have fun with Ruby and Sinatra!
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#CC3333;&#34;&gt;&lt;em&gt;Thank you Karel. In case you have any queries and/or questions, kindly post your questions here (as comments to this blog post) and Karel would be glad to answer.&lt;/em&gt;&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;Others in this series:&lt;/b&gt;
+  &lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;a href=&#34;http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/&#34;&gt;Corey Donohoe&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;a href=&#34;http://rubylearning.com/blog/2009/07/08/jeremy-evans-how-do-i-learn-and-master-sinatra/&#34;&gt;Jeremy Evans&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;a href=&#34;http://rubylearning.com/blog/2009/07/10/graham-ashton-how-do-i-learn-and-master-sinatra/&#34;&gt;Graham Ashton&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p class=&#34;alert&#34;&gt;
+    &lt;strong&gt;&lt;em&gt;Post supported by 1st Easy Limited&lt;/em&gt;:&lt;/strong&gt; UK based 1st Easy Limited offer Sinatra and Rails hosting running on a Phusion Passenger (mod_rails) and LAMP stack. If you want to try your hand at developing with Sinatra, why not let them arrange a &lt;a href=&#34;http://www.1steasy.com/ruby-on-rails.htm#try&#34;&gt;trial hosting account&lt;/a&gt; for you? You&amp;#8217;ll get to deploy your app, with full technical support from their team!
+  &lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     

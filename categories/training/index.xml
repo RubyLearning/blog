@@ -6,177 +6,8 @@
     <description>Recent content in Training on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2009 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rubylearning.com/blog/categories/training/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Learn Ruby programming - 64th batch</title>
-      <link>http://rubylearning.com/blog/2015/10/11/learn-ruby-programming---64th-batch/</link>
-      <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://rubylearning.com/blog/2015/10/11/learn-ruby-programming---64th-batch/</guid>
-      <description>
-
-&lt;p&gt;Registrations are now open for RubyLearning&amp;rsquo;s &lt;em&gt;long-running and popular&lt;/em&gt;
-Ruby programming course. This is an intensive, online course for
-&lt;em&gt;beginners&lt;/em&gt; that helps you get started with &lt;strong&gt;Ruby&lt;/strong&gt; programming. The
-course starts on &lt;strong&gt;Saturday, 5 December 2015&lt;/strong&gt; and runs for seven weeks.&lt;/p&gt;
-
-&lt;h2 id=&#34;course-fee-and-discount:0abd26cdb3a9774f40682720c8206489&#34;&gt;Course Fee and Discount&lt;/h2&gt;
-
-&lt;p&gt;Please &lt;a href=&#34;http://rubylearning.org/classes/login/index.php&#34;&gt;create a new
-account&lt;/a&gt; first and then
-pay US $44.95 by clicking on the PayPal button
-&lt;a href=&#34;http://rubylearning.org/classes/enrol/index.php?id=63&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/paypal_ruby.gif&#34; alt=&#34;Paypal&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: If you do not have a PayPal account and would like to pay by
-credit card on PayPal then do email me at satish [at] rubylearning.org.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Download &lt;a href=&#34;http://rubylearning.com/data/AdviceRuby.zip&#34;&gt;&amp;lsquo;Advice for Ruby
-Beginners&amp;rsquo;&lt;/a&gt; as a .zip file.&lt;/p&gt;
-
-&lt;p&gt;Here is what &lt;strong&gt;Sandra Randall (Butler)&lt;/strong&gt;, a participant who just
-graduated, has to say - &amp;ldquo;You kindly offered me the opportunity to join
-your Ruby course. I&amp;rsquo;m new to development and found the course, even
-though basic for programmers, a little tricky for me. I managed to
-complete all of the assessments and really learnt a lot. Thank you very
-much for the opportunity. It has really given me the push I needed to
-learn Ruby and I&amp;rsquo;m currently treading my way through both the pickaxe
-and Agile Development books and enjoying it. I&amp;rsquo;ve recently been offered
-a position as a Junior Systems Developer at a local Software house in
-South Africa - all thanks to the push you gave me which gave me the
-motivation and drive to get going.&amp;rdquo;&lt;/p&gt;
-
-&lt;h2 id=&#34;what-s-ruby:0abd26cdb3a9774f40682720c8206489&#34;&gt;What&amp;rsquo;s Ruby?&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/ruby_350.png&#34; alt=&#34;Ruby&#34; title=&#34;License: http://creativecommons.org/licenses/by-sa/2.5/&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;According to
-&lt;a href=&#34;http://www.ruby-lang.org/en/&#34;&gt;http://www.ruby-lang.org/en/&lt;/a&gt; - &amp;ldquo;Ruby is
-a dynamic, open source programming language with a focus on simplicity
-and productivity. Ruby&amp;rsquo;s elegant syntax is natural to read and easy to
-write.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Yukihiro Matsumoto&lt;/strong&gt;, the creator of Ruby, in &lt;strong&gt;&lt;a href=&#34;http://linuxdevcenter.com/pub/a/linux/2001/11/29/ruby.html&#34;&gt;an
-interview&lt;/a&gt;&lt;/strong&gt;
-says -&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I believe people want to express themselves when they program. They
-don&amp;rsquo;t want to fight with the language. Programming languages must feel
-natural to programmers. I tried to make people enjoy programming and
-concentrate on the fun and creative part of programming when they use
-Ruby.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;what-will-i-learn:0abd26cdb3a9774f40682720c8206489&#34;&gt;What Will I Learn?&lt;/h2&gt;
-
-&lt;p&gt;In the Ruby programming course, you will learn the &lt;a href=&#34;http://rubylearning.com/satishtalim/tutorial.html&#34;&gt;essential features
-of Ruby&lt;/a&gt; that you
-will end up using every day. You will also be introduced to Git, GitHub,
-HTTP concepts, RubyGems, Rack and Heroku.&lt;/p&gt;
-
-&lt;h2 id=&#34;some-highlights:0abd26cdb3a9774f40682720c8206489&#34;&gt;Some Highlights&lt;/h2&gt;
-
-&lt;h3 id=&#34;rubylearning-s-irc-channel:0abd26cdb3a9774f40682720c8206489&#34;&gt;RubyLearning&amp;rsquo;s IRC Channel&lt;/h3&gt;
-
-&lt;p&gt;Some of the mentors and students hang out at RubyLearning&amp;rsquo;s IRC
-(irc.freenode.net) channel (#rubylearning.org) for both technical and
-non-technical discussions. Everyone benefits with the active discussions
-on Ruby with the mentors.&lt;/p&gt;
-
-&lt;h3 id=&#34;google-hangouts:0abd26cdb3a9774f40682720c8206489&#34;&gt;Google Hangouts&lt;/h3&gt;
-
-&lt;p&gt;There is a Hangout Event that is open for students, for drop-in hangouts
-where students can pair program with mentors or with each other. This is
-often where you can get help with your system, editor, and general
-environment. Anything that can help you with your coding environment
-that you are having problems with are usually discussed interactively
-here.&lt;/p&gt;
-
-&lt;h3 id=&#34;git-repositories:0abd26cdb3a9774f40682720c8206489&#34;&gt;Git Repositories&lt;/h3&gt;
-
-&lt;p&gt;Shared (private) repositories available for those that want to learn git
-and the revision controlled programming workflow. This allows students
-that want to collaborate while learning. This is a great way to record
-your progress while learning Ruby.&lt;/p&gt;
-
-&lt;h3 id=&#34;ebook:0abd26cdb3a9774f40682720c8206489&#34;&gt;eBook&lt;/h3&gt;
-
-&lt;p&gt;The course is based on the &lt;strong&gt;The Ultimate Guide to Ruby Programming&lt;/strong&gt;
-eBook. This book is &lt;a href=&#34;http://book.rubylearning.org/&#34;&gt;priced at US $9.95&lt;/a&gt;.
-However, the &lt;a href=&#34;http://www.amazon.com/gp/product/B0062X2I68/ref=as_li_tf_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B0062X2I68&amp;amp;linkCode=as2&amp;amp;tag=satishtalimsw-20&#34;&gt;Kindle
-edition&lt;/a&gt;
-of the eBook is available for US $6.00.&lt;/p&gt;
-
-&lt;h3 id=&#34;challenges-and-side-tracks:0abd26cdb3a9774f40682720c8206489&#34;&gt;Challenges and Side Tracks&lt;/h3&gt;
-
-&lt;p&gt;This is course material not found in the RubyLearning Study Notes nor in
-the E-Book! Depending on participation levels, we throw a Ruby coding
-challenge in the mix, right for the level we are at. We have been known
-to give out a prize or two for the &amp;lsquo;best&amp;rsquo; solution.&lt;/p&gt;
-
-&lt;h2 id=&#34;who-s-it-for:0abd26cdb3a9774f40682720c8206489&#34;&gt;Who&amp;rsquo;s It For?&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;A &lt;em&gt;beginner&lt;/em&gt; with some knowledge of programming.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;You can read what past participants / online magazines have to say about
-the course.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/other/testimonials.html&#34;&gt;Testimonials&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.forbes.com/sites/women2/2012/07/07/how-i-learned-to-code/print/&#34;&gt;Forbes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://natashatherobot.com/rubylearning-core-ruby-review/&#34;&gt;Natasha
-Murashev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://katpreneur.tumblr.com/post/27084326683/i-am-not-young-enough-to-know-everything&#34;&gt;Katerina
-Jackson-Suchkova&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://maniempire.blogspot.in/2011/07/ruby-pair-programming.html&#34;&gt;Mani Maran
-M&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;mentors:0abd26cdb3a9774f40682720c8206489&#34;&gt;Mentors&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://satishtalim.com/&#34;&gt;Satish Talim&lt;/a&gt;, Michael Kohl, Satoshi Asakawa,
-Victor Goff III and others from the RubyLearning team.&lt;/p&gt;
-
-&lt;h2 id=&#34;dates:0abd26cdb3a9774f40682720c8206489&#34;&gt;Dates&lt;/h2&gt;
-
-&lt;p&gt;The course starts on &lt;strong&gt;Saturday, 5th of December 2015&lt;/strong&gt; and runs for seven
-weeks.&lt;/p&gt;
-
-&lt;h2 id=&#34;how-do-i-register-and-pay-the-course-fees:0abd26cdb3a9774f40682720c8206489&#34;&gt;How do I register and pay the course fees?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You can pay the course fees either by Paypal or send cash via
-&lt;a href=&#34;http://www.westernunion.com/info/selectCountry.asp&#34;&gt;Western Union Money
-Transfer&lt;/a&gt; or by
-bank transfer (if you are in India). The fees collected helps
-RubyLearning maintain the site, this Ruby course, the Ruby eBook,
-and provide quality content to you.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To pay the Course Fee:
-&lt;a href=&#34;http://rubylearning.org/classes/enrol/index.php?id=63&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/paypal_ruby.gif&#34; alt=&#34;Paypal&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Please &lt;a href=&#34;http://rubylearning.org/classes/login/index.php&#34;&gt;create a new
-account&lt;/a&gt; first and then
-pay US $44.95 by clicking on the PayPal button&lt;/p&gt;
-
-&lt;h2 id=&#34;how-does-the-course-work:0abd26cdb3a9774f40682720c8206489&#34;&gt;How does the course work?&lt;/h2&gt;
-
-&lt;p&gt;For details on how the course works, refer &lt;a href=&#34;http://rubylearning.com/blog/how-the-course-works/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;At the end of this course you should have all the knowledge to explore
-the wonderful world of Ruby on your own.&lt;/p&gt;
-
-&lt;p&gt;Remember, the idea is to have fun learning Ruby.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Want to create a Sinatra Web Service?</title>
@@ -1779,6 +1610,26 @@ end
 &lt;/div&gt;
 
 &lt;p&gt;Technorati Tags: &lt;a href=&#34;http://technorati.com/tag/Ruby&#34; rel=&#34;tag&#34;&gt;Ruby&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/Twitter&#34; rel=&#34;tag&#34;&gt; Twitter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Pune: Ruby Programming</title>
+      <link>http://rubylearning.com/blog/2008/02/22/university-of-pune-ruby-programming/</link>
+      <pubDate>Fri, 22 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubylearning.com/blog/2008/02/22/university-of-pune-ruby-programming/</guid>
+      <description>&lt;div&gt;
+  &lt;p&gt;
+    With the growing popularity of the Ruby Programming language in India, the University of Pune proposes to introduce &lt;a href=&#34;http://www.unipune.ernet.in/doc/circular/AcademicCircular/RevisedSyllabus/Management/MCMNewSyllabus%5B1%5D.pdf&#34;&gt;Ruby Programming&lt;/a&gt; as part of the Masters in Computer Management (MCM) post-graduate course, from June 2008.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    The University has uploaded the new syllabus on the web so that students, members of the public and experts may &lt;a href=&#34;mailto:syllabi@unipune.ernet.in&#34;&gt;post their comments&lt;/a&gt;.
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Technorati Tags: &lt;a href=&#34;http://technorati.com/tag/MCM&#34; rel=&#34;tag&#34;&gt;MCM&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/Ruby+programming&#34; rel=&#34;tag&#34;&gt;Ruby programming&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/University+of+Pune&#34; rel=&#34;tag&#34;&gt;University of Pune&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/University+of+Pune%3A+Ruby+Programming&#34; rel=&#34;tag&#34;&gt;University of Pune: Ruby Programming&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

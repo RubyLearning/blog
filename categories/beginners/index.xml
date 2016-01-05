@@ -6,177 +6,8 @@
     <description>Recent content in Beginners on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rubylearning.com/blog/categories/beginners/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Learn Ruby programming - 64th batch</title>
-      <link>http://rubylearning.com/blog/2015/10/11/learn-ruby-programming---64th-batch/</link>
-      <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://rubylearning.com/blog/2015/10/11/learn-ruby-programming---64th-batch/</guid>
-      <description>
-
-&lt;p&gt;Registrations are now open for RubyLearning&amp;rsquo;s &lt;em&gt;long-running and popular&lt;/em&gt;
-Ruby programming course. This is an intensive, online course for
-&lt;em&gt;beginners&lt;/em&gt; that helps you get started with &lt;strong&gt;Ruby&lt;/strong&gt; programming. The
-course starts on &lt;strong&gt;Saturday, 5 December 2015&lt;/strong&gt; and runs for seven weeks.&lt;/p&gt;
-
-&lt;h2 id=&#34;course-fee-and-discount:0abd26cdb3a9774f40682720c8206489&#34;&gt;Course Fee and Discount&lt;/h2&gt;
-
-&lt;p&gt;Please &lt;a href=&#34;http://rubylearning.org/classes/login/index.php&#34;&gt;create a new
-account&lt;/a&gt; first and then
-pay US $44.95 by clicking on the PayPal button
-&lt;a href=&#34;http://rubylearning.org/classes/enrol/index.php?id=63&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/paypal_ruby.gif&#34; alt=&#34;Paypal&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: If you do not have a PayPal account and would like to pay by
-credit card on PayPal then do email me at satish [at] rubylearning.org.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Download &lt;a href=&#34;http://rubylearning.com/data/AdviceRuby.zip&#34;&gt;&amp;lsquo;Advice for Ruby
-Beginners&amp;rsquo;&lt;/a&gt; as a .zip file.&lt;/p&gt;
-
-&lt;p&gt;Here is what &lt;strong&gt;Sandra Randall (Butler)&lt;/strong&gt;, a participant who just
-graduated, has to say - &amp;ldquo;You kindly offered me the opportunity to join
-your Ruby course. I&amp;rsquo;m new to development and found the course, even
-though basic for programmers, a little tricky for me. I managed to
-complete all of the assessments and really learnt a lot. Thank you very
-much for the opportunity. It has really given me the push I needed to
-learn Ruby and I&amp;rsquo;m currently treading my way through both the pickaxe
-and Agile Development books and enjoying it. I&amp;rsquo;ve recently been offered
-a position as a Junior Systems Developer at a local Software house in
-South Africa - all thanks to the push you gave me which gave me the
-motivation and drive to get going.&amp;rdquo;&lt;/p&gt;
-
-&lt;h2 id=&#34;what-s-ruby:0abd26cdb3a9774f40682720c8206489&#34;&gt;What&amp;rsquo;s Ruby?&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/ruby_350.png&#34; alt=&#34;Ruby&#34; title=&#34;License: http://creativecommons.org/licenses/by-sa/2.5/&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;According to
-&lt;a href=&#34;http://www.ruby-lang.org/en/&#34;&gt;http://www.ruby-lang.org/en/&lt;/a&gt; - &amp;ldquo;Ruby is
-a dynamic, open source programming language with a focus on simplicity
-and productivity. Ruby&amp;rsquo;s elegant syntax is natural to read and easy to
-write.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Yukihiro Matsumoto&lt;/strong&gt;, the creator of Ruby, in &lt;strong&gt;&lt;a href=&#34;http://linuxdevcenter.com/pub/a/linux/2001/11/29/ruby.html&#34;&gt;an
-interview&lt;/a&gt;&lt;/strong&gt;
-says -&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I believe people want to express themselves when they program. They
-don&amp;rsquo;t want to fight with the language. Programming languages must feel
-natural to programmers. I tried to make people enjoy programming and
-concentrate on the fun and creative part of programming when they use
-Ruby.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;what-will-i-learn:0abd26cdb3a9774f40682720c8206489&#34;&gt;What Will I Learn?&lt;/h2&gt;
-
-&lt;p&gt;In the Ruby programming course, you will learn the &lt;a href=&#34;http://rubylearning.com/satishtalim/tutorial.html&#34;&gt;essential features
-of Ruby&lt;/a&gt; that you
-will end up using every day. You will also be introduced to Git, GitHub,
-HTTP concepts, RubyGems, Rack and Heroku.&lt;/p&gt;
-
-&lt;h2 id=&#34;some-highlights:0abd26cdb3a9774f40682720c8206489&#34;&gt;Some Highlights&lt;/h2&gt;
-
-&lt;h3 id=&#34;rubylearning-s-irc-channel:0abd26cdb3a9774f40682720c8206489&#34;&gt;RubyLearning&amp;rsquo;s IRC Channel&lt;/h3&gt;
-
-&lt;p&gt;Some of the mentors and students hang out at RubyLearning&amp;rsquo;s IRC
-(irc.freenode.net) channel (#rubylearning.org) for both technical and
-non-technical discussions. Everyone benefits with the active discussions
-on Ruby with the mentors.&lt;/p&gt;
-
-&lt;h3 id=&#34;google-hangouts:0abd26cdb3a9774f40682720c8206489&#34;&gt;Google Hangouts&lt;/h3&gt;
-
-&lt;p&gt;There is a Hangout Event that is open for students, for drop-in hangouts
-where students can pair program with mentors or with each other. This is
-often where you can get help with your system, editor, and general
-environment. Anything that can help you with your coding environment
-that you are having problems with are usually discussed interactively
-here.&lt;/p&gt;
-
-&lt;h3 id=&#34;git-repositories:0abd26cdb3a9774f40682720c8206489&#34;&gt;Git Repositories&lt;/h3&gt;
-
-&lt;p&gt;Shared (private) repositories available for those that want to learn git
-and the revision controlled programming workflow. This allows students
-that want to collaborate while learning. This is a great way to record
-your progress while learning Ruby.&lt;/p&gt;
-
-&lt;h3 id=&#34;ebook:0abd26cdb3a9774f40682720c8206489&#34;&gt;eBook&lt;/h3&gt;
-
-&lt;p&gt;The course is based on the &lt;strong&gt;The Ultimate Guide to Ruby Programming&lt;/strong&gt;
-eBook. This book is &lt;a href=&#34;http://book.rubylearning.org/&#34;&gt;priced at US $9.95&lt;/a&gt;.
-However, the &lt;a href=&#34;http://www.amazon.com/gp/product/B0062X2I68/ref=as_li_tf_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B0062X2I68&amp;amp;linkCode=as2&amp;amp;tag=satishtalimsw-20&#34;&gt;Kindle
-edition&lt;/a&gt;
-of the eBook is available for US $6.00.&lt;/p&gt;
-
-&lt;h3 id=&#34;challenges-and-side-tracks:0abd26cdb3a9774f40682720c8206489&#34;&gt;Challenges and Side Tracks&lt;/h3&gt;
-
-&lt;p&gt;This is course material not found in the RubyLearning Study Notes nor in
-the E-Book! Depending on participation levels, we throw a Ruby coding
-challenge in the mix, right for the level we are at. We have been known
-to give out a prize or two for the &amp;lsquo;best&amp;rsquo; solution.&lt;/p&gt;
-
-&lt;h2 id=&#34;who-s-it-for:0abd26cdb3a9774f40682720c8206489&#34;&gt;Who&amp;rsquo;s It For?&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;A &lt;em&gt;beginner&lt;/em&gt; with some knowledge of programming.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;You can read what past participants / online magazines have to say about
-the course.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/other/testimonials.html&#34;&gt;Testimonials&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.forbes.com/sites/women2/2012/07/07/how-i-learned-to-code/print/&#34;&gt;Forbes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://natashatherobot.com/rubylearning-core-ruby-review/&#34;&gt;Natasha
-Murashev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://katpreneur.tumblr.com/post/27084326683/i-am-not-young-enough-to-know-everything&#34;&gt;Katerina
-Jackson-Suchkova&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://maniempire.blogspot.in/2011/07/ruby-pair-programming.html&#34;&gt;Mani Maran
-M&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;mentors:0abd26cdb3a9774f40682720c8206489&#34;&gt;Mentors&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://satishtalim.com/&#34;&gt;Satish Talim&lt;/a&gt;, Michael Kohl, Satoshi Asakawa,
-Victor Goff III and others from the RubyLearning team.&lt;/p&gt;
-
-&lt;h2 id=&#34;dates:0abd26cdb3a9774f40682720c8206489&#34;&gt;Dates&lt;/h2&gt;
-
-&lt;p&gt;The course starts on &lt;strong&gt;Saturday, 5th of December 2015&lt;/strong&gt; and runs for seven
-weeks.&lt;/p&gt;
-
-&lt;h2 id=&#34;how-do-i-register-and-pay-the-course-fees:0abd26cdb3a9774f40682720c8206489&#34;&gt;How do I register and pay the course fees?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You can pay the course fees either by Paypal or send cash via
-&lt;a href=&#34;http://www.westernunion.com/info/selectCountry.asp&#34;&gt;Western Union Money
-Transfer&lt;/a&gt; or by
-bank transfer (if you are in India). The fees collected helps
-RubyLearning maintain the site, this Ruby course, the Ruby eBook,
-and provide quality content to you.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To pay the Course Fee:
-&lt;a href=&#34;http://rubylearning.org/classes/enrol/index.php?id=63&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/paypal_ruby.gif&#34; alt=&#34;Paypal&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Please &lt;a href=&#34;http://rubylearning.org/classes/login/index.php&#34;&gt;create a new
-account&lt;/a&gt; first and then
-pay US $44.95 by clicking on the PayPal button&lt;/p&gt;
-
-&lt;h2 id=&#34;how-does-the-course-work:0abd26cdb3a9774f40682720c8206489&#34;&gt;How does the course work?&lt;/h2&gt;
-
-&lt;p&gt;For details on how the course works, refer &lt;a href=&#34;http://rubylearning.com/blog/how-the-course-works/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;At the end of this course you should have all the knowledge to explore
-the wonderful world of Ruby on your own.&lt;/p&gt;
-
-&lt;p&gt;Remember, the idea is to have fun learning Ruby.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Felipe Elias Philipp Winner RPCFN - 1 (Reprint)</title>
@@ -3541,6 +3372,254 @@ this post. Thanks!&lt;/em&gt;&lt;/p&gt;
   
   &lt;p class=&#34;alert&#34;&gt;
     &lt;em&gt;&lt;b&gt;Feel free to ask questions and give feedback in the comments section of this post&lt;/b&gt;. Thanks!&lt;/em&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sinatra: Some Questions from Ruby Newbies</title>
+      <link>http://rubylearning.com/blog/2013/08/14/sinatra-some-questions-from-ruby-newbies/</link>
+      <pubDate>Wed, 14 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubylearning.com/blog/2013/08/14/sinatra-some-questions-from-ruby-newbies/</guid>
+      <description>&lt;div&gt;
+  &lt;p&gt;
+    Darren Jones in his excellent book &lt;a href=&#34;http://www.amazon.com/gp/product/0987332147/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0987332147&amp;linkCode=as2&amp;tag=satishtalimsw-20&#34;&gt;Jump Start Sinatra&lt;/a&gt; says &amp;#8220;&lt;em&gt;Since its release in 2007, Sinatra has quickly gained in popularity in the Ruby web community due to its elegant simplicity and classy syntax. Everybody who uses it falls in love with its elegant simplicity and classy syntax&lt;/em&gt;.&amp;#8221;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    RubyLearning will be conducting a &amp;#8220;free&amp;#8221; (i.e. pay if you like) &lt;a href=&#34;http://rubylearning.com/blog/2013/08/14/a-free-online-course-on-sinatra/&#34;&gt;online course on Sinatra&lt;/a&gt; from 7th Sept. 2013 and many of the would-be participants (mostly Ruby newbies) would have a plethora of questions related to Sinatra.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;strong&gt;Satish Talim&lt;/strong&gt; of RubyLearning.org talked to Ruby Gurus Andy Lindeman, Carlo Pecchia, Dan Mayer, Darren Jones, Nathan Esquenazi and Sudarshan Shubakar to answer some of the would-be participant&amp;#8217;s questions.
+  &lt;/p&gt;
+
+  &lt;hr align=&#34;center&#34; width=&#34;70%&#34; /&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#0060C0;&#34;&gt;&lt;b&gt;Satish&lt;/b&gt;&gt;&gt; A warm welcome to you all. For the benefit of the would-be Sinatra course participants, could each one of you tell us something about your self?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;img class=&#34;alignleft&#34; title=&#34;Andy Lindeman&#34; src=&#34;http://rubylearning.com/images/andylindeman.jpg&#34; alt=&#34;Andy Lindeman&#34; /&gt;&lt;b&gt;Andy&lt;/b&gt;&gt;&gt; I am a software generalist focused on web and mobile. I like open source and work primarily on RSpec. I work at Big Nerd Ranch, primarily writing web application backends in Ruby and Rails. I dabble a good bit: currently Objective C/iOS, Clojure, Erlang, and client-side JavaScript frameworks are on my radar. I like working on open source and meeting new folks in the community.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;img class=&#34;alignright&#34; title=&#34;Carlo Pecchia&#34; src=&#34;http://rubylearning.com/images/carlopecchia.jpg&#34; alt=&#34;Carlo Pecchia&#34; /&gt;&lt;b&gt;Carlo&lt;/b&gt;&gt;&gt; &lt;a href=&#34;http://carlopecchia.eu/&#34;&gt;I am&lt;/a&gt; an IT engineer mainly interested on agile methodologies and &amp;#8220;good practices&amp;#8221; for developing large and complex systems. I am also interested in web architectures and emerging programming languages.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;img class=&#34;alignleft&#34; title=&#34;Dan Mayer&#34; src=&#34;http://rubylearning.com/images/danmayer.jpg&#34; alt=&#34;Dan Mayer&#34; /&gt;&lt;b&gt;Dan&lt;/b&gt;&gt;&gt; I am a tech lead on the LivingSocial consumer web team. I have been developing Ruby applications since 2007 and often work with both Rails and Sinatra. I believe in trying to keep code small, and breaking applications up into logical components and services. My thoughts on development can be found on &lt;a href=&#34;http://mayerdan.com/&#34;&gt;http://mayerdan.com&lt;/a&gt;. I am on twitter as &lt;a href=&#34;https://twitter.com/danmayer&#34;&gt;@danmayer&lt;/a&gt;
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;img class=&#34;alignright&#34; title=&#34;Darren Jones&#34; src=&#34;http://rubylearning.com/images/darrenjones.jpg&#34; alt=&#34;Darren Jones&#34; /&gt;&lt;b&gt;Darren&lt;/b&gt;&gt;&gt; &lt;a href=&#34;http://daz4126.com/&#34;&gt;I am&lt;/a&gt; the author of &lt;a href=&#34;http://www.amazon.com/gp/product/0987332147/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0987332147&amp;linkCode=as2&amp;tag=satishtalimsw-20&#34;&gt;Jump Start Sinatra&lt;/a&gt;, a short book that helps you to get up to speed with Sinatra over a weekend, published by Sitepoint. I have been using Sinatra since 2009 and used it to build the &lt;a href=&#34;http://cardsinthecloud.com/&#34;&gt;Cards in the Cloud&lt;/a&gt; website. I live in Manchester in the UK where I teach Mathematics and enjoy playing water polo.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;img class=&#34;alignleft&#34; title=&#34;Nathan Esquenazi&#34; src=&#34;http://rubylearning.com/images/nathanesquenazi.jpg&#34; alt=&#34;Nathan Esquenazi&#34; /&gt;&lt;b&gt;Nathan&lt;/b&gt;&gt;&gt; I am one of the creators of the &lt;a href=&#34;http://www.padrinorb.com/&#34;&gt;Padrino framework&lt;/a&gt;, enabling powerful extensions to the Sinatra core and the co-founder of &lt;a href=&#34;http://thecodepath.com/&#34;&gt;CodePath&lt;/a&gt;, providing practical training to engineers interested in learning mobile development.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;img class=&#34;alignright&#34; title=&#34;Sudarshan Shubakar&#34; src=&#34;http://rubylearning.com/images/sudarshanshubakar.jpg&#34; alt=&#34;Sudarshan Shubakar&#34; width=&#34;115&#34; height=&#34;115&#34; /&gt;&lt;b&gt;Sudarshan&lt;/b&gt;&gt;&gt; I am a software developer based out of Pune, India. I enjoy working with design principles and patterns, learning new programming languages and a bit of open source development. I am majorly a Java developer for the past 11 years and have recently started working on Ruby out of interest.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#0060C0;&#34;&gt;&lt;b&gt;Satish&lt;/b&gt;&gt;&gt; What is Sinatra best suited for?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Andy&lt;/b&gt;&gt;&gt; Simple web apps, especially those that are mostly APIs or only have a few views.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Carlo&lt;/b&gt;&gt;&gt; Sinatra is an &amp;#8220;essential&amp;#8221; framework for Ruby based web application. Talking about &amp;#8220;web app&amp;#8221; the point of reference is &amp;#8211; without any doubt &amp;#8211; RubyOnRails (RoR): Sinatra is lightweight compared to it. You have less features, but also less stuff to digest to start with. Personally I&amp;#8217;ve used Sinatra (and I was really satisfied by it) for apps where data complexity and user interactions are not critical points (in my case: internal enterprise app).
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Dan&lt;/b&gt;&gt;&gt; Sinatra is great for smaller applications and apis. Sinatra fits really well when there is a limited front end which uses a lot less of the standard view layer helpers and other features common in Rails. I have personally found that Sinatra is best for APIs and micro sites. If an application with a significant front end is going to be developed, it is often best to start with rails as you will start to home grow and try to replace many common features of rails with your own bad implementations. Finally people often forget how much rails helps in terms of basic security precautions, making it harder to make common mistakes. There is a well known Ruby community quote that I can&amp;#8217;t find attribution for, &amp;#8220;every Ruby web framework eventually becomes a horrible bad and buggy implementation of rails&amp;#8221;.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Darren&lt;/b&gt;&gt;&gt; Putting your Ruby code onto the web! At its heart Sinatra is essentially just a wrapper for making it easy to deal with HTTP requests and responses by providing some very nice helper methods. This means that it is suited for anything that you can write in Ruby. It can handle small projects brilliantly but is also great for larger projects too.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Nathan&lt;/b&gt;&gt;&gt; Sinatra is incredibly well-suited for building REST APIs for mobile clients as well as web back-end services that are paired with modern javascript frameworks like Backbone, AngularJS, Ember, et al.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Sudarshan&lt;/b&gt;&gt;&gt; The Sinatra book &lt;a href=&#34;http://sinatra-book.gittr.com/#introduction&#34;&gt;introduction&lt;/a&gt; says it best by these statements:&lt;br /&gt;* In Sinatra, you can write short ad hoc applications or mature, larger application with the same easiness.&lt;br /&gt;* Sinatra really shines when used for experiments and application mock-ups or for creating a quick interface for your code.&lt;br /&gt;My take on this is that Sinatra gets you started quickly on whatever problem you are trying to solve (with a web/URL based solution) quickly. There is hardly a learning curve and you can have a meaningful implementation of your solution within no time.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Another point where Sinatra is most useful is when you would like finer control over how your application is organized. This &lt;a href=&#34;http://stackoverflow.com/questions/3068114/what-is-the-limit-of-sinatra&#34;&gt;discussion on stackoverflow.com&lt;/a&gt; provides some good inputs on how Sinatra compares to Rails. As one person says in this discussion, there is no limit to what you can do with it.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#0060C0;&#34;&gt;&lt;b&gt;Satish&lt;/b&gt;&gt;&gt; I am a Ruby newbie and if I learn Sinatra, does that help me with Ruby on Rails?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Andy&lt;/b&gt;&gt;&gt; I think it depends on exactly how much you know.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    For folks with little background on programming or web application development at all, I think it&amp;#8217;s a great fit. There&amp;#8217;s not very much &amp;#8220;magic&amp;#8221; and it&amp;#8217;s easy to get up and running quickly.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Carlo&lt;/b&gt;&gt;&gt; Sure! Learning Sinatra gives you all the details about how HTTP protocol is handled; how routing works; how to manage your models; how to talk with a Data Base (noSQL are welcome too); how a template system has to be used; and so on. My suggestion is: start with Sinatra, and *then* consider RoR for &amp;#8220;not small&amp;#8221; projects.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Dan&lt;/b&gt;&gt;&gt; Learning Sinatra is a great way to begin to learn Rails. It will definitely help you learn Rails as it helps you learn Ruby basics as well as common Ruby web development practices. In many ways it is a smaller and simpler way to learn to work with a web framework, which is excellent. I find while this is great for learning, it leads to a less natural project structure and uncommon patterns for larger applications. Actually learning some of the basic web development concepts first in Sinatra would help one to understand why these concepts exist and why they are bit more complicated in Rails.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Darren&lt;/b&gt;&gt;&gt; A little, but it is more useful for improving your Ruby. I think that it would help you understand some of the &amp;#8216;magic&amp;#8217; that Rails does in the background as you have a lot more control with Sinatra.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Nathan&lt;/b&gt;&gt;&gt; Sinatra is an excellent introduction to the Ruby language and to web development. Sinatra has a remarkably short learning curve and as such allows for new developers to tinkering with web apps of all sorts with minimal overhead or confusion. The distinct advantage of learning Sinatra while you are developing your Ruby acumen is that Sinatra is very explicit and simple allowing the expressiveness of Ruby itself to shine through.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Sudarshan&lt;/b&gt;&gt;&gt; Hmm, will Sinatra help one learn Ruby on Rails&amp;#8230; probably not in an obvious manner. However my understanding is that if one tries to build a well-structured MVC application with Sinatra, one would find it easier to appreciate what Rails offers out of the box and why it mandates what it does.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    With Sinatra there is almost no mandate apart from the dsl syntax itself. So you are free to organize your application any way you like.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    If you are trying to learn Rails while you are developing your pet application, my understanding is that you may find it slightly difficult because you may need to deviate from your problem domain to understand the framework. This probably isn&amp;#8217;t true if you are just trying to learn Rails with just a mock application.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    With Sinatra, like I&amp;#8217;ve already mentioned, there is hardly a learning curve and you stay focused on your problem domain.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#0060C0;&#34;&gt;&lt;b&gt;Satish&lt;/b&gt;&gt;&gt; How much Ruby do I have to cover in order to start learning Sinatra?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Andy&lt;/b&gt;&gt;&gt; I think it again depends on what an individual developer&amp;#8217;s background is.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Developers who are new to Ruby but know other object-oriented languages will likely pick up enough Ruby to be proficient very quickly.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    Other developers may need more basics about the structure and basic syntax and semantics of programming languages first.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    That said, I think you could pair a lot of the learning: while introducing a Sinatra concept, also introduce some Ruby concepts.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Carlo&lt;/b&gt;&gt;&gt; At the very beginning &amp;#8220;not too much&amp;#8221;, but if and when you want to code seriously you have to dirty your hands. There is no escape! &lt;img src=&#34;http://rubylearning.com/blog/wp-includes/images/smilies/icon_smile.gif&#34; alt=&#34;:-)&#34; class=&#34;wp-smiley&#34; /&gt;
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Dan&lt;/b&gt;&gt;&gt; I would make sure to cover some Ruby basics firsts:
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    * Running a ruby script&lt;br /&gt;* variables&lt;br /&gt;* method calls&lt;br /&gt;* basic data structures (array, hashes, strings, and numericals)
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    After making sure those basics are understood, I think you could get into Sinatra specifics. It would also likely help to have a basic knowledge of html, CSS, and possibly JSON, if you are planning to cover api endpoints.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Darren&lt;/b&gt;&gt;&gt; Not much at all to get started. But the more Ruby you know, the better your Sinatra applications will be. As I mentioned in my answer to question 1, Sinatra apps are basically just Ruby apps put on the web, so the standard of your Sinatra app will be directly linked to how much Ruby you know. The Sinatra source code is written in Ruby and a great exercise is to read through it (it&amp;#8217;s only around 2000 lines and very well commented). This will help to improve your Ruby skills and help you to understand how Sinatra works.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Nathan&lt;/b&gt;&gt;&gt; Sinatra is entirely built using idiomatic ruby constructs and patterns. That said you can start tinkering with Sinatra well before you have a strong grasp on Ruby. I would recommend taking the time to first familiarize yourself with the basic ruby constructs and then you can quickly dive in and learn by doing.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Sudarshan&lt;/b&gt;&gt;&gt; Have you seen &lt;a href=&#34;http://www.sinatrarb.com/&#34;&gt;http://www.sinatrarb.com/&lt;/a&gt; !!:)
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    I needed a beginner&amp;#8217;s level knowledge of Ruby to start using Sinatra.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    However, when you are learning a new language like Ruby and using something like Sinatra to do so, it is important to understand where the domain of the framework starts blurring and your problem domain begins to shine.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    So you may need to understand Ruby much deeper to efficiently solve the actual problem that you are working on.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#0060C0;&#34;&gt;&lt;b&gt;Satish&lt;/b&gt;&gt;&gt; How important is it for me to know Rack while learning Sinatra?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Andy&lt;/b&gt;&gt;&gt; I think Rack is pretty simple for experienced developers to understand, but understanding why it&amp;#8217;s needed and how it fits is a bit more abstract and difficult. I don&amp;#8217;t think new developers need to understand Rack while learning Sinatra.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Carlo&lt;/b&gt;&gt;&gt; Rack is a very basic and important component, don&amp;#8217;t be afraid by it. I strongly encourage you to take half a day to study it: it&amp;#8217;s time well invested.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Dan&lt;/b&gt;&gt;&gt; While Rack is great, I think it could likely be skipped over at the beginning to allow new users to just think in terms of a Sinatra request and response cycle. It might be a good thing to cover a bit further into the lessons, but to help users get to the first goal to dynamically add information to a page, I don&amp;#8217;t believe knowledge of Rack is really necessary.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Darren&lt;/b&gt;&gt;&gt; I don&amp;#8217;t think you need to know much about Rack, except that Sinatra (and most other Ruby frameworks) uses it extensively in the background. Once you get more confident with Sinatra then you can start to dig a bit deeper into how Rack runs the show in the background, but it isn&amp;#8217;t essential when you first start.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Nathan&lt;/b&gt;&gt;&gt; Rack is the web-server interface that underlies web development in Ruby. Learning about Rack and Rack middleware development will give the developer an insightful look under the hood at how the request/response model of the web interacts in ruby-based web libraries.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Sudarshan&lt;/b&gt;&gt;&gt; It is possible to write simple Sinatra apps in the classic style without using Rack. However as your app begins to gather a bit of complexity, you will want to shift to the Modular style. Here&amp;#8217;s where Rack will help you organize your app better. This is of course apart from the benefit of web server abstraction Rack inherently provides.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&#34;color:#0060C0;&#34;&gt;&lt;b&gt;Satish&lt;/b&gt;&gt;&gt; While developing Sinatra apps which style (Modular or Classic) should I use?&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Andy&lt;/b&gt;&gt;&gt; If the audience is beginners, I&amp;#8217;d start with classic because you have to keep very little context in your head. As the audience becomes more experienced, move toward a more modular approach.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Carlo&lt;/b&gt;&gt;&gt; It depends roughly on your application &amp;#8220;size&amp;#8221;. Modular style gives you more maintainable and readable code. Anyway start with Classic and then when your app grows up, consider switching to Modular style.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Dan&lt;/b&gt;&gt;&gt; I think for teaching beginners, the Classic style is simpler to understand and would be quicker to get students to the learn / reward cycle. Sinatra apps that grow large, is where the modular approach has many advantages. For larger apis, the modular approach is definitely the way to go, but often I find when you are really utilizing that approach it would make sense to just have a full Rails app. I haven&amp;#8217;t ended up building out to many very large Sinatra applications so there might be other advice on this point.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Darren&lt;/b&gt;&gt;&gt; It doesn&amp;#8217;t matter at all. I really like the fact that the Classic style allows you to get started really quickly and build apps with all the code in just a single file. The modular style makes it easier to organize large applications and is a good approach if you are working in teams as each module can be developed independently of the other. Modular apps also make it easier to reuse and share code in other projects.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Nathan&lt;/b&gt;&gt;&gt; While tinkering around learning Sinatra or for extremely simple apps, use classic. For writing middle-wares and production applications, I recommend using Modular. Modular is more explicit and I prefer having my Sinatra apps contained within an explicit class of my choosing. I don&amp;#8217;t see many benefits to using the classic style.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;block&#34;&gt;
+    &lt;b&gt;Sudarshan&lt;/b&gt;&gt;&gt; When you are starting to learn Sinatra, I would recommend using the classic style to get a feel of how things work. If you are building a meaningful application of even moderate complexity, the Modular style will help you keep your code organized. Once you are familiar with the Modular style of organizing your Sinatra app, you may be able to work with the Modular style with ease from the word go.
+  &lt;/p&gt;
+
+  &lt;p class=&#34;alert&#34;&gt;
+    &lt;em&gt;Well, we have set the ball rolling. &lt;b&gt;What&amp;#8217;s your take on this?&lt;/b&gt; Kindly post your thoughts as comments to this blog post. Looking forward to some interesting read.&lt;/em&gt;
   &lt;/p&gt;
 &lt;/div&gt;
 </description>

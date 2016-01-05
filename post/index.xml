@@ -6,177 +6,8 @@
     <description>Recent content in Posts on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rubylearning.com/blog/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Learn Ruby programming - 64th batch</title>
-      <link>http://rubylearning.com/blog/2015/10/11/learn-ruby-programming---64th-batch/</link>
-      <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://rubylearning.com/blog/2015/10/11/learn-ruby-programming---64th-batch/</guid>
-      <description>
-
-&lt;p&gt;Registrations are now open for RubyLearning&amp;rsquo;s &lt;em&gt;long-running and popular&lt;/em&gt;
-Ruby programming course. This is an intensive, online course for
-&lt;em&gt;beginners&lt;/em&gt; that helps you get started with &lt;strong&gt;Ruby&lt;/strong&gt; programming. The
-course starts on &lt;strong&gt;Saturday, 5 December 2015&lt;/strong&gt; and runs for seven weeks.&lt;/p&gt;
-
-&lt;h2 id=&#34;course-fee-and-discount:0abd26cdb3a9774f40682720c8206489&#34;&gt;Course Fee and Discount&lt;/h2&gt;
-
-&lt;p&gt;Please &lt;a href=&#34;http://rubylearning.org/classes/login/index.php&#34;&gt;create a new
-account&lt;/a&gt; first and then
-pay US $44.95 by clicking on the PayPal button
-&lt;a href=&#34;http://rubylearning.org/classes/enrol/index.php?id=63&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/paypal_ruby.gif&#34; alt=&#34;Paypal&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: If you do not have a PayPal account and would like to pay by
-credit card on PayPal then do email me at satish [at] rubylearning.org.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Download &lt;a href=&#34;http://rubylearning.com/data/AdviceRuby.zip&#34;&gt;&amp;lsquo;Advice for Ruby
-Beginners&amp;rsquo;&lt;/a&gt; as a .zip file.&lt;/p&gt;
-
-&lt;p&gt;Here is what &lt;strong&gt;Sandra Randall (Butler)&lt;/strong&gt;, a participant who just
-graduated, has to say - &amp;ldquo;You kindly offered me the opportunity to join
-your Ruby course. I&amp;rsquo;m new to development and found the course, even
-though basic for programmers, a little tricky for me. I managed to
-complete all of the assessments and really learnt a lot. Thank you very
-much for the opportunity. It has really given me the push I needed to
-learn Ruby and I&amp;rsquo;m currently treading my way through both the pickaxe
-and Agile Development books and enjoying it. I&amp;rsquo;ve recently been offered
-a position as a Junior Systems Developer at a local Software house in
-South Africa - all thanks to the push you gave me which gave me the
-motivation and drive to get going.&amp;rdquo;&lt;/p&gt;
-
-&lt;h2 id=&#34;what-s-ruby:0abd26cdb3a9774f40682720c8206489&#34;&gt;What&amp;rsquo;s Ruby?&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/ruby_350.png&#34; alt=&#34;Ruby&#34; title=&#34;License: http://creativecommons.org/licenses/by-sa/2.5/&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;According to
-&lt;a href=&#34;http://www.ruby-lang.org/en/&#34;&gt;http://www.ruby-lang.org/en/&lt;/a&gt; - &amp;ldquo;Ruby is
-a dynamic, open source programming language with a focus on simplicity
-and productivity. Ruby&amp;rsquo;s elegant syntax is natural to read and easy to
-write.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Yukihiro Matsumoto&lt;/strong&gt;, the creator of Ruby, in &lt;strong&gt;&lt;a href=&#34;http://linuxdevcenter.com/pub/a/linux/2001/11/29/ruby.html&#34;&gt;an
-interview&lt;/a&gt;&lt;/strong&gt;
-says -&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I believe people want to express themselves when they program. They
-don&amp;rsquo;t want to fight with the language. Programming languages must feel
-natural to programmers. I tried to make people enjoy programming and
-concentrate on the fun and creative part of programming when they use
-Ruby.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;what-will-i-learn:0abd26cdb3a9774f40682720c8206489&#34;&gt;What Will I Learn?&lt;/h2&gt;
-
-&lt;p&gt;In the Ruby programming course, you will learn the &lt;a href=&#34;http://rubylearning.com/satishtalim/tutorial.html&#34;&gt;essential features
-of Ruby&lt;/a&gt; that you
-will end up using every day. You will also be introduced to Git, GitHub,
-HTTP concepts, RubyGems, Rack and Heroku.&lt;/p&gt;
-
-&lt;h2 id=&#34;some-highlights:0abd26cdb3a9774f40682720c8206489&#34;&gt;Some Highlights&lt;/h2&gt;
-
-&lt;h3 id=&#34;rubylearning-s-irc-channel:0abd26cdb3a9774f40682720c8206489&#34;&gt;RubyLearning&amp;rsquo;s IRC Channel&lt;/h3&gt;
-
-&lt;p&gt;Some of the mentors and students hang out at RubyLearning&amp;rsquo;s IRC
-(irc.freenode.net) channel (#rubylearning.org) for both technical and
-non-technical discussions. Everyone benefits with the active discussions
-on Ruby with the mentors.&lt;/p&gt;
-
-&lt;h3 id=&#34;google-hangouts:0abd26cdb3a9774f40682720c8206489&#34;&gt;Google Hangouts&lt;/h3&gt;
-
-&lt;p&gt;There is a Hangout Event that is open for students, for drop-in hangouts
-where students can pair program with mentors or with each other. This is
-often where you can get help with your system, editor, and general
-environment. Anything that can help you with your coding environment
-that you are having problems with are usually discussed interactively
-here.&lt;/p&gt;
-
-&lt;h3 id=&#34;git-repositories:0abd26cdb3a9774f40682720c8206489&#34;&gt;Git Repositories&lt;/h3&gt;
-
-&lt;p&gt;Shared (private) repositories available for those that want to learn git
-and the revision controlled programming workflow. This allows students
-that want to collaborate while learning. This is a great way to record
-your progress while learning Ruby.&lt;/p&gt;
-
-&lt;h3 id=&#34;ebook:0abd26cdb3a9774f40682720c8206489&#34;&gt;eBook&lt;/h3&gt;
-
-&lt;p&gt;The course is based on the &lt;strong&gt;The Ultimate Guide to Ruby Programming&lt;/strong&gt;
-eBook. This book is &lt;a href=&#34;http://book.rubylearning.org/&#34;&gt;priced at US $9.95&lt;/a&gt;.
-However, the &lt;a href=&#34;http://www.amazon.com/gp/product/B0062X2I68/ref=as_li_tf_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B0062X2I68&amp;amp;linkCode=as2&amp;amp;tag=satishtalimsw-20&#34;&gt;Kindle
-edition&lt;/a&gt;
-of the eBook is available for US $6.00.&lt;/p&gt;
-
-&lt;h3 id=&#34;challenges-and-side-tracks:0abd26cdb3a9774f40682720c8206489&#34;&gt;Challenges and Side Tracks&lt;/h3&gt;
-
-&lt;p&gt;This is course material not found in the RubyLearning Study Notes nor in
-the E-Book! Depending on participation levels, we throw a Ruby coding
-challenge in the mix, right for the level we are at. We have been known
-to give out a prize or two for the &amp;lsquo;best&amp;rsquo; solution.&lt;/p&gt;
-
-&lt;h2 id=&#34;who-s-it-for:0abd26cdb3a9774f40682720c8206489&#34;&gt;Who&amp;rsquo;s It For?&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;A &lt;em&gt;beginner&lt;/em&gt; with some knowledge of programming.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;You can read what past participants / online magazines have to say about
-the course.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/other/testimonials.html&#34;&gt;Testimonials&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.forbes.com/sites/women2/2012/07/07/how-i-learned-to-code/print/&#34;&gt;Forbes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://natashatherobot.com/rubylearning-core-ruby-review/&#34;&gt;Natasha
-Murashev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://katpreneur.tumblr.com/post/27084326683/i-am-not-young-enough-to-know-everything&#34;&gt;Katerina
-Jackson-Suchkova&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://maniempire.blogspot.in/2011/07/ruby-pair-programming.html&#34;&gt;Mani Maran
-M&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;mentors:0abd26cdb3a9774f40682720c8206489&#34;&gt;Mentors&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://satishtalim.com/&#34;&gt;Satish Talim&lt;/a&gt;, Michael Kohl, Satoshi Asakawa,
-Victor Goff III and others from the RubyLearning team.&lt;/p&gt;
-
-&lt;h2 id=&#34;dates:0abd26cdb3a9774f40682720c8206489&#34;&gt;Dates&lt;/h2&gt;
-
-&lt;p&gt;The course starts on &lt;strong&gt;Saturday, 5th of December 2015&lt;/strong&gt; and runs for seven
-weeks.&lt;/p&gt;
-
-&lt;h2 id=&#34;how-do-i-register-and-pay-the-course-fees:0abd26cdb3a9774f40682720c8206489&#34;&gt;How do I register and pay the course fees?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You can pay the course fees either by Paypal or send cash via
-&lt;a href=&#34;http://www.westernunion.com/info/selectCountry.asp&#34;&gt;Western Union Money
-Transfer&lt;/a&gt; or by
-bank transfer (if you are in India). The fees collected helps
-RubyLearning maintain the site, this Ruby course, the Ruby eBook,
-and provide quality content to you.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To pay the Course Fee:
-&lt;a href=&#34;http://rubylearning.org/classes/enrol/index.php?id=63&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/paypal_ruby.gif&#34; alt=&#34;Paypal&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Please &lt;a href=&#34;http://rubylearning.org/classes/login/index.php&#34;&gt;create a new
-account&lt;/a&gt; first and then
-pay US $44.95 by clicking on the PayPal button&lt;/p&gt;
-
-&lt;h2 id=&#34;how-does-the-course-work:0abd26cdb3a9774f40682720c8206489&#34;&gt;How does the course work?&lt;/h2&gt;
-
-&lt;p&gt;For details on how the course works, refer &lt;a href=&#34;http://rubylearning.com/blog/how-the-course-works/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;At the end of this course you should have all the knowledge to explore
-the wonderful world of Ruby on your own.&lt;/p&gt;
-
-&lt;p&gt;Remember, the idea is to have fun learning Ruby.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Learn Ruby The Hard Way: A Book Review</title>
@@ -2621,6 +2452,229 @@ technical support from their team is included!&lt;/p&gt;
   
   &lt;p class=&#34;alert&#34;&gt;
     &lt;strong&gt;&lt;em&gt;Post supported by 1st Easy Limited&lt;/em&gt;:&lt;/strong&gt; UK based 1st Easy Limited offer Sinatra and Rails hosting running on a Phusion Passenger (mod_rails) and LAMP stack. If you want to try your hand at developing with Sinatra, why not let them arrange a &lt;a href=&#34;http://www.1steasy.com/ruby-on-rails.htm#try&#34;&gt;trial hosting account&lt;/a&gt; for you? You&amp;#8217;ll get to deploy your app, with full technical support from their team!
+  &lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Follow 10&#43; Rubyists using Sinatra on Twitter (Reprint)</title>
+      <link>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</link>
+      <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</guid>
+      <description>&lt;div&gt;
+  &lt;p&gt;
+    &lt;b&gt;Note&lt;/b&gt;: This first appeared on 24th June 2009 and is being reprinted as the original is not accessible.
+  &lt;/p&gt;
+  
+  &lt;h3&gt;
+    What&amp;#8217;s Twitter?
+  &lt;/h3&gt;
+  
+  &lt;p&gt;
+    &lt;img class=&#34;alignright&#34; src=&#34;http://rubylearning.com/images/icon_d.png&#34; alt=&#34;Twitter&#34; title=&#34;http://twitter.com/IndianGuru&#34; width=&#34;128&#34; height=&#34;128&#34; /&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;a href=&#34;http://shiftingcareers.blogs.nytimes.com/2008/09/07/how-twitter-can-help-at-work/?excamp=GGSBtwitternews&amp;WT.srch=1&amp;WT.mc_ev=click&amp;WT.mc_id=SB-S-E-GG-NA-S-twitter_news&#34;&gt;The New York Times&lt;/a&gt; says:
+  &lt;/p&gt;
+  
+  &lt;blockquote&gt;
+    &lt;p&gt;
+      &lt;a href=&#34;http://www.twitter.com/&#34;&gt;Twitter&lt;/a&gt; is a simple messaging service that you&amp;#8217;ve either &lt;a href=&#34;http://query.nytimes.com/search/sitesearch?query=twitter&amp;srchst=cse&#34;&gt;heard about a lot&lt;/a&gt; or &lt;a href=&#34;http://kara.allthingsd.com/20080428/twitter-where-nobody-know-your-name/&#34;&gt;not at all&lt;/a&gt;. Either way, it&amp;#8217;s a fun and useful tool, well worth trying if you want to reach potential and existing customers, employees or employers.
+    &lt;/p&gt;
+  &lt;/blockquote&gt;
+  
+  &lt;h3&gt;
+    List of Rubyists Using Sinatra
+  &lt;/h3&gt;
+  
+  &lt;p&gt;
+    This list of over 10 Rubyists using Sinatra, is in alphabetical order, with a link to their Twitter profile. The following list is &lt;em&gt;not&lt;/em&gt; intended to be all-inclusive, but it should give you a great start to following some talented Rubyists using Sinatra.
+  &lt;/p&gt;
+  
+  &lt;ol&gt;
+    &lt;li&gt;
+      Aaron Quint &amp;#8211; &lt;a href=&#34;http://twitter.com/aq&#34;&gt;aq&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Adeel Ahmad &amp;#8211; &lt;a href=&#34;http://twitter.com/_adeel&#34;&gt;_adeel&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Andre Lewis &amp;#8211; &lt;a href=&#34;http://twitter.com/alewis&#34;&gt;alewis&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Andrew Neil &amp;#8211; &lt;a href=&#34;http://twitter.com/nelstrom&#34;&gt;nelstrom&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Arjun Ram &amp;#8211; &lt;a href=&#34;http://twitter.com/arjunram&#34;&gt;arjunram&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      August Lilleaas &amp;#8211; &lt;a href=&#34;http://twitter.com/augustl&#34;&gt;augustl&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Barry Hess &amp;#8211; &lt;a href=&#34;http://twitter.com/bjhess&#34;&gt;bjhess&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Bill Siggelkow &amp;#8211; &lt;a href=&#34;http://twitter.com/bsiggelkow&#34;&gt;bsiggelkow&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;em&gt;Blake Mizerany &amp;#8211; &lt;a href=&#34;http://twitter.com/bmizerany&#34;&gt;bmizerany&lt;/a&gt;&lt;/em&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Brian Deterling &amp;#8211; &lt;a href=&#34;http://twitter.com/bdeter&#34;&gt;bdeter&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Bruno Miranda &amp;#8211; &lt;a href=&#34;http://twitter.com/brupm&#34;&gt;brupm&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Carlos Gabaldon &amp;#8211; &lt;a href=&#34;http://twitter.com/carlosgabaldon&#34;&gt;carlosgabaldon&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Charles Brian Quinn &amp;#8211; &lt;a href=&#34;http://twitter.com/seebq&#34;&gt;seebq&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Chris Strom &amp;#8211; &lt;a href=&#34;http://twitter.com/eee_c&#34;&gt;eee_c&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Corey Donohoe &amp;#8211; &lt;a href=&#34;http://twitter.com/atmos&#34;&gt;atmos&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Damon Clinkscales &amp;#8211; &lt;a href=&#34;http://twitter.com/damon&#34;&gt;damon&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Dan Croak &amp;#8211; &lt;a href=&#34;http://twitter.com/dancroak&#34;&gt;dancroak&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Dan Mayer &amp;#8211; &lt;a href=&#34;http://twitter.com/danmayer&#34;&gt;danmayer&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      David Balatero &amp;#8211; &lt;a href=&#34;http://twitter.com/dbalatero&#34;&gt;dbalatero&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Derek Haynes &amp;#8211; &lt;a href=&#34;http://twitter.com/dhaynes23&#34;&gt;dhaynes23&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Doug Sparling &amp;#8211; &lt;a href=&#34;http://twitter.com/scriptrunner&#34;&gt;scriptrunner&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Foy Savas &amp;#8211; &lt;a href=&#34;http://twitter.com/foysavas&#34;&gt;foysavas&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Graham Ashton &amp;#8211; &lt;a href=&#34;http://twitter.com/grahamashton&#34;&gt;grahamashton&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Hasham Malik &amp;#8211; &lt;a href=&#34;http://twitter.com/hasham2&#34;&gt;hasham2&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      James Edward Gray II &amp;#8211; &lt;a href=&#34;http://twitter.com/JEG2&#34;&gt;JEG2&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Jean-Daniel Tanguay &amp;#8211; &lt;a href=&#34;http://twitter.com/jeedee&#34;&gt;jeedee&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Jeremy Raines &amp;#8211; &lt;a href=&#34;http://twitter.com/jraines&#34;&gt;jraines&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Jordan Bracco &amp;#8211; &lt;a href=&#34;http://twitter.com/webs&#34;&gt;webs&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Jesse Cooke &amp;#8211; &lt;a href=&#34;http://twitter.com/jc00ke&#34;&gt;jc00ke&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Joe Ferris &amp;#8211; &lt;a href=&#34;http://twitter.com/joeferris&#34;&gt;joeferris&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Julio Javier Cicchelli &amp;#8211; &lt;a href=&#34;http://twitter.com/monsieur_rock&#34;&gt;monsieur_rock&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Justin Britten &amp;#8211; &lt;a href=&#34;http://twitter.com/jbritten&#34;&gt;jbritten&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Karel Minarik &amp;#8211; &lt;a href=&#34;http://twitter.com/karmiq&#34;&gt;karmiq&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Logan Koester &amp;#8211; &lt;a href=&#34;http://twitter.com/logankoester&#34;&gt;logankoester&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Luke Francl &amp;#8211; &lt;a href=&#34;http://twitter.com/lof&#34;&gt;lof&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Marcin Kulik &amp;#8211; &lt;a href=&#34;http://twitter.com/sickill&#34;&gt;sickill&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Matt Todd &amp;#8211; &lt;a href=&#34;http://twitter.com/mtodd&#34;&gt;mtodd&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Mike Demers &amp;#8211; &lt;a href=&#34;http://twitter.com/mikedemers&#34;&gt;mikedemers&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Nick Plante &amp;#8211; &lt;a href=&#34;http://twitter.com/zapnap&#34;&gt;zapnap&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Nick Quaranto &amp;#8211; &lt;a href=&#34;http://twitter.com/qrush&#34;&gt;qrush&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Peter Cooper &amp;#8211; &lt;a href=&#34;http://twitter.com/peterc&#34;&gt;peterc&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Piyush Gupta &amp;#8211; &lt;a href=&#34;http://twitter.com/mba_piyush&#34;&gt;mba_piyush&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Richard Taylor &amp;#8211; &lt;a href=&#34;http://twitter.com/moomerman&#34;&gt;moomerman&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Robert Lowe &amp;#8211; &lt;a href=&#34;http://twitter.com/__viral&#34;&gt;__viral&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;em&gt;Ryan Tomayko &amp;#8211; &lt;a href=&#34;http://twitter.com/rtomayko&#34;&gt;rtomayko&lt;/a&gt;&lt;/em&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Sam Goebert &amp;#8211; &lt;a href=&#34;http://twitter.com/bigcurl&#34;&gt;bigcurl&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Sau Sheong Chang &amp;#8211; &lt;a href=&#34;http://twitter.com/sausheong&#34;&gt;sausheong&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Saurabh Purnaye &amp;#8211; &lt;a href=&#34;http://twitter.com/saurabhp&#34;&gt;saurabhp&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Simon Rozet &amp;#8211; &lt;a href=&#34;http://twitter.com/srt&#34;&gt;srt&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Sunny Ripert &amp;#8211; &lt;a href=&#34;http://twitter.com/sunfox&#34;&gt;sunfox&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Trevor Bramble &amp;#8211; &lt;a href=&#34;http://twitter.com/&#34;&gt;TrevorBramble&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      Vishnu Gopal &amp;#8211; &lt;a href=&#34;http://twitter.com/vishnugopal&#34;&gt;vishnugopal&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+  
+  &lt;p class=&#34;note&#34;&gt;
+    The following list is &lt;strong&gt;Not &amp;#8220;Rubyists&amp;#8221; per-se, but should still be of interest&lt;/strong&gt;:
+  &lt;/p&gt;
+  
+  &lt;ol&gt;
+    &lt;li&gt;
+      FiveRuns &amp;#8211; &lt;a href=&#34;http://twitter.com/fiveruns&#34;&gt;fiveruns&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      taazza &amp;#8211; &lt;a href=&#34;http://twitter.com/taazza&#34;&gt;taazza&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      thoughtbot &amp;#8211; &lt;a href=&#34;http://twitter.com/thoughtbot&#34;&gt;thoughtbot&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+  
+  &lt;p&gt;
+    &lt;strong&gt;&lt;span style=&#34;color:red;&#34;&gt;Note:&lt;/span&gt;&lt;/strong&gt; Keep the feedback coming in. We will update the list based on your recommendations.
+  &lt;/p&gt;
+  
+  &lt;p class=&#34;alert&#34;&gt;
+    &lt;strong&gt;Have we missed out any &lt;em&gt;Rubyists who are using Sinatra&lt;/em&gt;?&lt;br /&gt;You can help&lt;/strong&gt;. Please feel free to add a link to a Rubyist&amp;#8217;s Twitter profile. We would love to hear why you think the particular Rubyist is important to Twitter with. Also, do add a link to your Twitter profile in the comments.
   &lt;/p&gt;
 &lt;/div&gt;
 </description>
