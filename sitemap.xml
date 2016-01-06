@@ -38,12 +38,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</loc>
     <lastmod>2015-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</loc>
     <lastmod>2015-01-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,17 +68,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/interview-aaron-quint-on-sinatra-reprint/</loc>
-    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</loc>
-    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</loc>
+    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,7 +83,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/07/interview-aaron-quint-on-sinatra-reprint/</loc>
+    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -803,12 +803,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/07/15/chris-strom-how-do-i-learn-and-master-sinatra/</loc>
+    <loc>http://rubylearning.com/blog/2009/07/15/interview-author-antonio-cangiano/</loc>
     <lastmod>2009-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/07/15/interview-author-antonio-cangiano/</loc>
+    <loc>http://rubylearning.com/blog/2009/07/15/chris-strom-how-do-i-learn-and-master-sinatra/</loc>
     <lastmod>2009-07-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -883,12 +883,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/06/09/the-future-of-ruby-is-fail/</loc>
+    <loc>http://rubylearning.com/blog/2009/06/09/interview-author-david-black/</loc>
     <lastmod>2009-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/06/09/interview-author-david-black/</loc>
+    <loc>http://rubylearning.com/blog/2009/06/09/the-future-of-ruby-is-fail/</loc>
     <lastmod>2009-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -1648,12 +1648,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/02/24/ruby-snips/</loc>
+    <loc>http://rubylearning.com/blog/2007/02/24/write-ruby-code-faster-with-ed-for-windows/</loc>
     <lastmod>2007-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/02/24/write-ruby-code-faster-with-ed-for-windows/</loc>
+    <loc>http://rubylearning.com/blog/2007/02/24/ruby-snips/</loc>
     <lastmod>2007-02-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -1718,12 +1718,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/01/20/kidzworld-one-of-the-largest-ruby-on-rails-sites-ever-deployed/</loc>
+    <loc>http://rubylearning.com/blog/2007/01/20/setting-up-an-it-company-in-india/</loc>
     <lastmod>2007-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/01/20/setting-up-an-it-company-in-india/</loc>
+    <loc>http://rubylearning.com/blog/2007/01/20/kidzworld-one-of-the-largest-ruby-on-rails-sites-ever-deployed/</loc>
     <lastmod>2007-01-20T00:00:00+00:00</lastmod>
   </url>
   
