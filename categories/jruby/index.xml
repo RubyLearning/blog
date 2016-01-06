@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jruby on RubyLearning Blog</title>
-    <link>http://localhost:1313/blog/categories/jruby/</link>
+    <link>http://rubylearning.com/blog/categories/jruby/</link>
     <description>Recent content in Jruby on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Sep 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/jruby/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/jruby/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How do I run a Sinatra app using JRuby?</title>
-      <link>http://localhost:1313/blog/2011/09/03/how-do-i-run-a-sinatra-app-using-jruby/</link>
+      <link>http://rubylearning.com/blog/2011/09/03/how-do-i-run-a-sinatra-app-using-jruby/</link>
       <pubDate>Sat, 03 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2011/09/03/how-do-i-run-a-sinatra-app-using-jruby/</guid>
+      <guid>http://rubylearning.com/blog/2011/09/03/how-do-i-run-a-sinatra-app-using-jruby/</guid>
       <description>&lt;div&gt;
   &lt;h2&gt;
     How do I run a Sinatra app using JRuby?
@@ -166,10 +166,10 @@ require &#34;bundler/setup&#34;
     
     <item>
       <title>Matt Aimonetti: Why on earth would you ignore Merb?</title>
-      <link>http://localhost:1313/blog/2008/12/18/matt-aimonetti-why-on-earth-would-you-ignore-merb/</link>
+      <link>http://rubylearning.com/blog/2008/12/18/matt-aimonetti-why-on-earth-would-you-ignore-merb/</link>
       <pubDate>Thu, 18 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2008/12/18/matt-aimonetti-why-on-earth-would-you-ignore-merb/</guid>
+      <guid>http://rubylearning.com/blog/2008/12/18/matt-aimonetti-why-on-earth-would-you-ignore-merb/</guid>
       <description>&lt;div&gt;
   &lt;p class=&#34;update&#34;&gt;
     &lt;span class=&#34;drop_cap&#34;&gt;I&lt;/span&gt;f you were to ask me, I&amp;#8217;d say that &lt;strong&gt;Merb&lt;/strong&gt; has caught the fancy of Rubyists around the world and it&amp;#8217;s not just hype. Recently &lt;abbr title=&#34;RubyLearning&#34;&gt;RL&lt;/abbr&gt; conducted a &lt;a href=&#34;http://rubylearning.com/blog/2008/11/15/can-you-help-rubylearning-with-your-suggestions/&#34;&gt;poll on new course offerings&lt;/a&gt; where 1000 Rubyists (from over 140 countries) voted. Over 30% requested for an &lt;a href=&#34;http://rubylearning.com/blog/2008/12/06/introduction-to-merb-a-new-course/&#34;&gt;Introductory course on Merb&lt;/a&gt;. RL&amp;#8217;s Satish Talim caught up with &lt;strong&gt;Matt Aimonetti&lt;/strong&gt; (a serious Ruby addict and Merb core team member) to learn more about Merb.
@@ -522,10 +522,10 @@ require &#34;bundler/setup&#34;
     
     <item>
       <title>Can you help RubyLearning with your suggestions?</title>
-      <link>http://localhost:1313/blog/2008/11/15/can-you-help-rubylearning-with-your-suggestions/</link>
+      <link>http://rubylearning.com/blog/2008/11/15/can-you-help-rubylearning-with-your-suggestions/</link>
       <pubDate>Sat, 15 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2008/11/15/can-you-help-rubylearning-with-your-suggestions/</guid>
+      <guid>http://rubylearning.com/blog/2008/11/15/can-you-help-rubylearning-with-your-suggestions/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     New Course Offerings
@@ -575,10 +575,10 @@ require &#34;bundler/setup&#34;
     
     <item>
       <title>Best of RubyLearning Posts for Ruby Beginners</title>
-      <link>http://localhost:1313/blog/2008/07/31/best-of-rubylearning-posts-for-ruby-beginners/</link>
+      <link>http://rubylearning.com/blog/2008/07/31/best-of-rubylearning-posts-for-ruby-beginners/</link>
       <pubDate>Thu, 31 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2008/07/31/best-of-rubylearning-posts-for-ruby-beginners/</guid>
+      <guid>http://rubylearning.com/blog/2008/07/31/best-of-rubylearning-posts-for-ruby-beginners/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     Here&amp;#8217;s a digest of RubyLearning&amp;#8217;s best posts for Ruby beginners. These include (with the latest posts first):
@@ -632,10 +632,10 @@ require &#34;bundler/setup&#34;
     
     <item>
       <title>Using ActiveRecord and JDBC with JRuby - Part 2</title>
-      <link>http://localhost:1313/blog/2008/07/30/using-activerecord-and-jdbc-with-jruby---part-2/</link>
+      <link>http://rubylearning.com/blog/2008/07/30/using-activerecord-and-jdbc-with-jruby---part-2/</link>
       <pubDate>Wed, 30 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2008/07/30/using-activerecord-and-jdbc-with-jruby---part-2/</guid>
+      <guid>http://rubylearning.com/blog/2008/07/30/using-activerecord-and-jdbc-with-jruby---part-2/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     Part 2
@@ -809,10 +809,10 @@ Rubyist.find(:first).destroy&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Using ActiveRecord and JDBC with JRuby</title>
-      <link>http://localhost:1313/blog/2008/07/28/using-activerecord-and-jdbc-with-jruby/</link>
+      <link>http://rubylearning.com/blog/2008/07/28/using-activerecord-and-jdbc-with-jruby/</link>
       <pubDate>Mon, 28 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2008/07/28/using-activerecord-and-jdbc-with-jruby/</guid>
+      <guid>http://rubylearning.com/blog/2008/07/28/using-activerecord-and-jdbc-with-jruby/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     Preamble
@@ -1018,10 +1018,10 @@ Rubyist.find(:first).destroy&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Charles Nutter talks to RubyLearning Participants</title>
-      <link>http://localhost:1313/blog/2008/07/21/charles-nutter-talks-to-rubylearning-participants/</link>
+      <link>http://rubylearning.com/blog/2008/07/21/charles-nutter-talks-to-rubylearning-participants/</link>
       <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2008/07/21/charles-nutter-talks-to-rubylearning-participants/</guid>
+      <guid>http://rubylearning.com/blog/2008/07/21/charles-nutter-talks-to-rubylearning-participants/</guid>
       <description>&lt;div style=&#34;float: right; margin-left: 10px; margin-bottom: 10px;&#34;&gt;
   &lt;a href=&#34;http://rubylearning.com/images/nutter.jpg&#34; title=&#34;Charles Nutter&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/nutter.jpg&#34; alt=&#34;Charles Nutter&#34; /&gt;&lt;/a&gt;
 &lt;/div&gt;
@@ -1102,10 +1102,10 @@ Rubyist.find(:first).destroy&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Interview with Ola Bini &amp;#8211; JRuby Core Developer</title>
-      <link>http://localhost:1313/blog/2007/08/30/interview-with-ola-bini-</link>
+      <link>http://rubylearning.com/blog/2007/08/30/interview-with-ola-bini-</link>
       <pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2007/08/30/interview-with-ola-bini-</guid>
+      <guid>http://rubylearning.com/blog/2007/08/30/interview-with-ola-bini-</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://rubylearning.com/images/ola.jpg&#34; title=&#34;Ola Bini&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/ola.jpg&#34; alt=&#34;Ola
 Bini&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -1218,10 +1218,10 @@ Interviews&lt;/a&gt;&lt;/p&gt;
     
     <item>
       <title>JRuby Inside</title>
-      <link>http://localhost:1313/blog/2007/07/17/jruby-inside/</link>
+      <link>http://rubylearning.com/blog/2007/07/17/jruby-inside/</link>
       <pubDate>Tue, 17 Jul 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2007/07/17/jruby-inside/</guid>
+      <guid>http://rubylearning.com/blog/2007/07/17/jruby-inside/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.petercooper.co.uk/&#34;&gt;Peter Cooper&lt;/a&gt; has done it again! Peter
 has just launched &lt;a href=&#34;http://www.jrubyinside.com/&#34;&gt;JRuby Inside&lt;/a&gt; a new
 “sister” site to his very popular Ruby Inside. JRuby Inside focuses just
@@ -1248,10 +1248,10 @@ Cooper&lt;/a&gt;&lt;/p&gt;
     
     <item>
       <title>Connect JRuby to MySQL using JDBC</title>
-      <link>http://localhost:1313/blog/2007/05/05/connect-jruby-to-mysql-using-jdbc/</link>
+      <link>http://rubylearning.com/blog/2007/05/05/connect-jruby-to-mysql-using-jdbc/</link>
       <pubDate>Sat, 05 May 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2007/05/05/connect-jruby-to-mysql-using-jdbc/</guid>
+      <guid>http://rubylearning.com/blog/2007/05/05/connect-jruby-to-mysql-using-jdbc/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;JRuby&lt;/strong&gt; is a 100% pure-Java implementation of the Ruby programming
@@ -1435,10 +1435,10 @@ JDBC&lt;/a&gt;,
     
     <item>
       <title>Internationalization in JRuby</title>
-      <link>http://localhost:1313/blog/2007/04/30/internationalization-in-jruby/</link>
+      <link>http://rubylearning.com/blog/2007/04/30/internationalization-in-jruby/</link>
       <pubDate>Mon, 30 Apr 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2007/04/30/internationalization-in-jruby/</guid>
+      <guid>http://rubylearning.com/blog/2007/04/30/internationalization-in-jruby/</guid>
       <description>
 
 &lt;p&gt;I have been using and teaching Java since 1995. The other day, I was
@@ -1582,10 +1582,10 @@ JRuby&lt;/a&gt;,
     
     <item>
       <title>JRuby: Caffeinated Ruby</title>
-      <link>http://localhost:1313/blog/2007/04/27/jruby-caffeinated-ruby/</link>
+      <link>http://rubylearning.com/blog/2007/04/27/jruby-caffeinated-ruby/</link>
       <pubDate>Fri, 27 Apr 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2007/04/27/jruby-caffeinated-ruby/</guid>
+      <guid>http://rubylearning.com/blog/2007/04/27/jruby-caffeinated-ruby/</guid>
       <description>
 
 &lt;p&gt;Recently, &lt;strong&gt;&lt;a href=&#34;http://jruby.codehaus.org/&#34;&gt;JRuby&lt;/a&gt;&lt;/strong&gt; has been gaining more

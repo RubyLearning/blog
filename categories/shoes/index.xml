@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shoes on RubyLearning Blog</title>
-    <link>http://localhost:1313/blog/categories/shoes/</link>
+    <link>http://rubylearning.com/blog/categories/shoes/</link>
     <description>Recent content in Shoes on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Jul 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/shoes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/shoes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>RubyLearning Associates and Participants on Twitter and Facebook</title>
-      <link>http://localhost:1313/blog/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</link>
+      <link>http://rubylearning.com/blog/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</link>
       <pubDate>Fri, 09 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</guid>
+      <guid>http://rubylearning.com/blog/2010/07/09/rubylearning-associates-and-participants-on-twitter-and-facebook/</guid>
       <description>
 
 &lt;h2 id=&#34;rubylearning-associates-and-participants-on-twitter-and-facebook:c8429096bb847ee20e9d305b4b011f86&#34;&gt;RubyLearning Associates and Participants on Twitter and Facebook&lt;/h2&gt;

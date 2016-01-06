@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Humor on RubyLearning Blog</title>
-    <link>http://localhost:1313/blog/categories/humor/</link>
+    <link>http://rubylearning.com/blog/categories/humor/</link>
     <description>Recent content in Humor on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Apr 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/humor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/humor/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Looking for 1001 Ways to Promote my Ruby eBook</title>
-      <link>http://localhost:1313/blog/2008/04/22/looking-for-1001-ways-to-promote-my-ruby-ebook/</link>
+      <link>http://rubylearning.com/blog/2008/04/22/looking-for-1001-ways-to-promote-my-ruby-ebook/</link>
       <pubDate>Tue, 22 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2008/04/22/looking-for-1001-ways-to-promote-my-ruby-ebook/</guid>
+      <guid>http://rubylearning.com/blog/2008/04/22/looking-for-1001-ways-to-promote-my-ruby-ebook/</guid>
       <description>&lt;p&gt;I have come up
 with some ideas. Some zany, impractical and okay maybe a bit stupid..
 but some are simple, fun and easy to do. Will you help me come up with
@@ -68,10 +68,10 @@ airâ€¦ (by &lt;a href=&#34;http://blog.skiptree.com/&#34;&gt;Tim Kadom&lt;/a
     
     <item>
       <title>7 Things You Can Do With Ruby</title>
-      <link>http://localhost:1313/blog/2007/05/22/7-things-you-can-do-with-ruby/</link>
+      <link>http://rubylearning.com/blog/2007/05/22/7-things-you-can-do-with-ruby/</link>
       <pubDate>Tue, 22 May 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2007/05/22/7-things-you-can-do-with-ruby/</guid>
+      <guid>http://rubylearning.com/blog/2007/05/22/7-things-you-can-do-with-ruby/</guid>
       <description>&lt;p&gt;So you want to do something with &lt;strong&gt;Ruby&lt;/strong&gt; but think there’s not much you
 can do? Rubbish!&lt;/p&gt;
 

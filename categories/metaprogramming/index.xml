@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Metaprogramming on RubyLearning Blog</title>
-    <link>http://localhost:1313/blog/categories/metaprogramming/</link>
+    <link>http://rubylearning.com/blog/categories/metaprogramming/</link>
     <description>Recent content in Metaprogramming on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Oct 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/metaprogramming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/metaprogramming/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Do you know how to write an internal DSL in Ruby?</title>
-      <link>http://localhost:1313/blog/2011/10/02/do-you-know-how-to-write-an-internal-dsl-in-ruby/</link>
+      <link>http://rubylearning.com/blog/2011/10/02/do-you-know-how-to-write-an-internal-dsl-in-ruby/</link>
       <pubDate>Sun, 02 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2011/10/02/do-you-know-how-to-write-an-internal-dsl-in-ruby/</guid>
+      <guid>http://rubylearning.com/blog/2011/10/02/do-you-know-how-to-write-an-internal-dsl-in-ruby/</guid>
       <description>&lt;div&gt;
   &lt;p class=&#34;alert&#34;&gt;
     Almost all Ruby programming newbies would love to get their hands wet writing a Ruby DSL. This article explains how you can write a simple Ruby DSL.
@@ -258,10 +258,10 @@ Anderssen&#39;s Opening Andersspike: 1. a3 g6 2. g4
     
     <item>
       <title>Don&#39;t Know Metaprogramming In Ruby?</title>
-      <link>http://localhost:1313/blog/2010/11/23/dont-know-metaprogramming-in-ruby/</link>
+      <link>http://rubylearning.com/blog/2010/11/23/dont-know-metaprogramming-in-ruby/</link>
       <pubDate>Tue, 23 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2010/11/23/dont-know-metaprogramming-in-ruby/</guid>
+      <guid>http://rubylearning.com/blog/2010/11/23/dont-know-metaprogramming-in-ruby/</guid>
       <description>
 
 &lt;p&gt;This guest post is by &lt;strong&gt;Gavin Morrice&lt;/strong&gt;, Managing Director of &lt;a href=&#34;http://katanacode.com&#34;&gt;Katana

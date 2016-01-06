@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rhodes on RubyLearning Blog</title>
-    <link>http://localhost:1313/blog/categories/rhodes/</link>
+    <link>http://rubylearning.com/blog/categories/rhodes/</link>
     <description>Recent content in Rhodes on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Jan 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/rhodes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/rhodes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Rails Drinkup Pune &amp;#8211; Jan 28th</title>
-      <link>http://localhost:1313/blog/2011/01/27/rails-drinkup-pune-</link>
+      <link>http://rubylearning.com/blog/2011/01/27/rails-drinkup-pune-</link>
       <pubDate>Thu, 27 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2011/01/27/rails-drinkup-pune-</guid>
+      <guid>http://rubylearning.com/blog/2011/01/27/rails-drinkup-pune-</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     Rails Drinkup Pune &amp;#8211; Jan 28th

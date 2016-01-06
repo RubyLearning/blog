@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Satish Talim on RubyLearning Blog</title>
-    <link>http://localhost:1313/blog/categories/satish-talim/</link>
+    <link>http://rubylearning.com/blog/categories/satish-talim/</link>
     <description>Recent content in Satish Talim on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Apr 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/satish-talim/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubylearning.com/blog/categories/satish-talim/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Do You Know How To Use cURL</title>
-      <link>http://localhost:1313/blog/2015/04/16/do-you-know-how-to-use-curl/</link>
+      <link>http://rubylearning.com/blog/2015/04/16/do-you-know-how-to-use-curl/</link>
       <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/04/16/do-you-know-how-to-use-curl/</guid>
+      <guid>http://rubylearning.com/blog/2015/04/16/do-you-know-how-to-use-curl/</guid>
       <description>
 
 &lt;h2 id=&#34;downloading-and-installing-curl:ecd8e27567a98a924278b0bb8f7e4877&#34;&gt;Downloading and installing cURL&lt;/h2&gt;
