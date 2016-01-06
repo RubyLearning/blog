@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Challenge on RubyLearning Blog</title>
-    <link>http://rubylearning.com/blog/categories/challenge/</link>
+    <link>http://localhost:1313/blog/categories/challenge/</link>
     <description>Recent content in Challenge on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Sep 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/blog/categories/challenge/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/challenge/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ruby Programming Challenge for Newbies FAQ</title>
-      <link>http://rubylearning.com/blog/2009/09/23/ruby-programming-challenge-for-newbies-faq/</link>
+      <link>http://localhost:1313/blog/2009/09/23/ruby-programming-challenge-for-newbies-faq/</link>
       <pubDate>Wed, 23 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/09/23/ruby-programming-challenge-for-newbies-faq/</guid>
+      <guid>http://localhost:1313/blog/2009/09/23/ruby-programming-challenge-for-newbies-faq/</guid>
       <description>
 
 &lt;h2 id=&#34;what-is-the-ruby-programming-challenge-for-newbies-rpcfn:52ed284153bb8e28f4a16f8d92381bd4&#34;&gt;What Is The Ruby Programming Challenge For Newbies (RPCFN)?&lt;/h2&gt;

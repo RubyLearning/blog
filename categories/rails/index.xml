@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rails on RubyLearning Blog</title>
-    <link>http://rubylearning.com/blog/categories/rails/</link>
+    <link>http://localhost:1313/blog/categories/rails/</link>
     <description>Recent content in Rails on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Jan 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/blog/categories/rails/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/rails/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Routing Basics: Ruby on Rails for Front-End Developers</title>
-      <link>http://rubylearning.com/blog/2014/01/29/routing-basics-ruby-on-rails-for-front-end-developers/</link>
+      <link>http://localhost:1313/blog/2014/01/29/routing-basics-ruby-on-rails-for-front-end-developers/</link>
       <pubDate>Wed, 29 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2014/01/29/routing-basics-ruby-on-rails-for-front-end-developers/</guid>
+      <guid>http://localhost:1313/blog/2014/01/29/routing-basics-ruby-on-rails-for-front-end-developers/</guid>
       <description>
 
 &lt;h2 id=&#34;routing-basics-ruby-on-rails-for-front-end-developers:4e7b8dbbe1de83e198d0a24ae124a1b5&#34;&gt;Routing Basics: Ruby on Rails for Front-End Developers&lt;/h2&gt;
@@ -128,10 +128,10 @@ Explained for Front-End Developers&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
     
     <item>
       <title>Minimal I18n with Rails 3.2</title>
-      <link>http://rubylearning.com/blog/2012/07/24/minimal-i18n-with-rails-3.2/</link>
+      <link>http://localhost:1313/blog/2012/07/24/minimal-i18n-with-rails-3.2/</link>
       <pubDate>Tue, 24 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2012/07/24/minimal-i18n-with-rails-3.2/</guid>
+      <guid>http://localhost:1313/blog/2012/07/24/minimal-i18n-with-rails-3.2/</guid>
       <description>
 
 &lt;p class=&#34;update&#34;&gt;
@@ -898,10 +898,10 @@ There is a lot more you can tweak in your Rails application but this covers what
     
     <item>
       <title>Interview: Michael Hartl, author of the Ruby on Rails Tutorial (railstutorial.org)</title>
-      <link>http://rubylearning.com/blog/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</link>
+      <link>http://localhost:1313/blog/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</link>
       <pubDate>Fri, 18 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</guid>
+      <guid>http://localhost:1313/blog/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</guid>
       <description>&lt;div&gt;
   &lt;p class=&#34;alert&#34;&gt;
     RubyLearning participants talk to Michael Hartl the author of the Ruby on Rails Tutorial (&lt;a href=&#34;http://ruby.railstutorial.org/&#34;&gt;railstutorial.org&lt;/a&gt;).
@@ -1028,10 +1028,10 @@ There is a lot more you can tweak in your Rails application but this covers what
     
     <item>
       <title>Indian Ruby on Rails Portfolio</title>
-      <link>http://rubylearning.com/blog/2010/02/08/indian-ruby-on-rails-portfolio/</link>
+      <link>http://localhost:1313/blog/2010/02/08/indian-ruby-on-rails-portfolio/</link>
       <pubDate>Mon, 08 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/02/08/indian-ruby-on-rails-portfolio/</guid>
+      <guid>http://localhost:1313/blog/2010/02/08/indian-ruby-on-rails-portfolio/</guid>
       <description>
 
 &lt;h2 id=&#34;indian-ruby-on-rails-portfolio:86fc8c50597bb51bd4a9e6d0a8ac1774&#34;&gt;Indian Ruby on Rails Portfolio&lt;/h2&gt;
@@ -1742,10 +1742,10 @@ please send me the following -&lt;/p&gt;
     
     <item>
       <title>Rails Summit Latin America 2009</title>
-      <link>http://rubylearning.com/blog/2009/09/26/rails-summit-latin-america-2009/</link>
+      <link>http://localhost:1313/blog/2009/09/26/rails-summit-latin-america-2009/</link>
       <pubDate>Sat, 26 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/09/26/rails-summit-latin-america-2009/</guid>
+      <guid>http://localhost:1313/blog/2009/09/26/rails-summit-latin-america-2009/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.railssummit.com.br/&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/rails_summit_2009.png&#34; alt=&#34;Rails Summit Latin America
 2009&#34; title=&#34;Rails Summit Latin America 2009&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -1775,10 +1775,10 @@ business network and, of course, learn even more about Ruby and Rails.&lt;/p&gt;
     
     <item>
       <title>Interview: Author Antonio Cangiano</title>
-      <link>http://rubylearning.com/blog/2009/07/15/interview-author-antonio-cangiano/</link>
+      <link>http://localhost:1313/blog/2009/07/15/interview-author-antonio-cangiano/</link>
       <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/07/15/interview-author-antonio-cangiano/</guid>
+      <guid>http://localhost:1313/blog/2009/07/15/interview-author-antonio-cangiano/</guid>
       <description>&lt;p&gt;Our Book Promotion: “&lt;strong&gt;Ruby on Rails for Microsoft Developers&lt;/strong&gt;” has
 just started. Win one of four books to be given out for active
 participation. The coolest thing? Author &lt;strong&gt;Antonio Cangiano&lt;/strong&gt; will be on
@@ -1875,10 +1875,10 @@ Antonio would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Interview: Author Eldon Alameda</title>
-      <link>http://rubylearning.com/blog/2009/06/15/interview-author-eldon-alameda/</link>
+      <link>http://localhost:1313/blog/2009/06/15/interview-author-eldon-alameda/</link>
       <pubDate>Mon, 15 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/06/15/interview-author-eldon-alameda/</guid>
+      <guid>http://localhost:1313/blog/2009/06/15/interview-author-eldon-alameda/</guid>
       <description>&lt;div&gt;
   &lt;p class=&#34;alert&#34;&gt;
     Our Book Promotion: &amp;#8220;&lt;strong&gt;Foundation Rails 2&lt;/strong&gt;&amp;#8221; starts soon. Win one of four books to be given out for active participation. The coolest thing? Author &lt;b&gt;Eldon Alameda&lt;/b&gt; will be on site to answer questions! &lt;a href=&#34;http://rubylearning.com/blog/2009/06/10/book-promotion-foundation-rails-2/&#34;&gt;Click here&lt;/a&gt; for more details. Here, in this brief interview, Satish Talim of RubyLearning talks to Eldon Alameda.
@@ -1975,10 +1975,10 @@ Antonio would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>A Quick Chat with Chetan Mittal of Mortar Systems</title>
-      <link>http://rubylearning.com/blog/2009/06/13/a-quick-chat-with-chetan-mittal-of-mortar-systems/</link>
+      <link>http://localhost:1313/blog/2009/06/13/a-quick-chat-with-chetan-mittal-of-mortar-systems/</link>
       <pubDate>Sat, 13 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/06/13/a-quick-chat-with-chetan-mittal-of-mortar-systems/</guid>
+      <guid>http://localhost:1313/blog/2009/06/13/a-quick-chat-with-chetan-mittal-of-mortar-systems/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;img class=&#34;alignright&#34; title=&#34;Chetan Mittal&#34; src=&#34;http://rubylearning.com/images/bio-photo.gif&#34; alt=&#34;Chetan Mittal&#34; /&gt;
@@ -2029,10 +2029,10 @@ Antonio would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Book Promotion: Foundation Rails 2</title>
-      <link>http://rubylearning.com/blog/2009/06/10/book-promotion-foundation-rails-2/</link>
+      <link>http://localhost:1313/blog/2009/06/10/book-promotion-foundation-rails-2/</link>
       <pubDate>Wed, 10 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/06/10/book-promotion-foundation-rails-2/</guid>
+      <guid>http://localhost:1313/blog/2009/06/10/book-promotion-foundation-rails-2/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     Book Promotion: Foundation Rails 2
@@ -2083,10 +2083,10 @@ Antonio would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>The Future of Ruby is Fail!</title>
-      <link>http://rubylearning.com/blog/2009/06/09/the-future-of-ruby-is-fail/</link>
+      <link>http://localhost:1313/blog/2009/06/09/the-future-of-ruby-is-fail/</link>
       <pubDate>Tue, 09 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/06/09/the-future-of-ruby-is-fail/</guid>
+      <guid>http://localhost:1313/blog/2009/06/09/the-future-of-ruby-is-fail/</guid>
       <description>
 
 &lt;h2 id=&#34;the-future-of-ruby-is-fail:f1cc04954d56997687c319f15df949e6&#34;&gt;The Future of Ruby is Fail!&lt;/h2&gt;
@@ -2580,10 +2580,10 @@ successful career with your Ruby skills.&lt;/p&gt;
     
     <item>
       <title>10&#43; Ruby Rails companies in Pune, India</title>
-      <link>http://rubylearning.com/blog/2009/06/05/10-ruby-rails-companies-in-pune-india/</link>
+      <link>http://localhost:1313/blog/2009/06/05/10-ruby-rails-companies-in-pune-india/</link>
       <pubDate>Fri, 05 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/06/05/10-ruby-rails-companies-in-pune-india/</guid>
+      <guid>http://localhost:1313/blog/2009/06/05/10-ruby-rails-companies-in-pune-india/</guid>
       <description>
 
 &lt;h2 id=&#34;10-ruby-rails-companies-in-pune-india:73e4cebbaf57b8494265b47e266579ef&#34;&gt;10+ Ruby Rails companies in Pune, India&lt;/h2&gt;
@@ -2843,10 +2843,10 @@ requested this post.. just to be clear!)&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Book Promotion: Head First Rails</title>
-      <link>http://rubylearning.com/blog/2009/05/20/book-promotion-head-first-rails/</link>
+      <link>http://localhost:1313/blog/2009/05/20/book-promotion-head-first-rails/</link>
       <pubDate>Wed, 20 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/05/20/book-promotion-head-first-rails/</guid>
+      <guid>http://localhost:1313/blog/2009/05/20/book-promotion-head-first-rails/</guid>
       <description>&lt;p&gt;RubyLearning is pleased to announce the promotion of the book “&lt;strong&gt;Head
 First Rails&lt;/strong&gt;” by author David Griffiths.&lt;/p&gt;
 
@@ -2885,10 +2885,10 @@ promotion, contact: mail [at] satishtalim [dot] com&lt;/p&gt;
     
     <item>
       <title>Interview: Author David Griffiths</title>
-      <link>http://rubylearning.com/blog/2009/05/20/interview-author-david-griffiths/</link>
+      <link>http://localhost:1313/blog/2009/05/20/interview-author-david-griffiths/</link>
       <pubDate>Wed, 20 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/05/20/interview-author-david-griffiths/</guid>
+      <guid>http://localhost:1313/blog/2009/05/20/interview-author-david-griffiths/</guid>
       <description>&lt;p&gt;Our Book Promotion: “&lt;strong&gt;Head First Rails&lt;/strong&gt;” starts soon. Win one of four
 books to be given out for active participation. The coolest thing?
 Author &lt;strong&gt;David Griffiths&lt;/strong&gt; will be on site to answer questions! &lt;a href=&#34;http://rubylearning.com/blog/2009/05/20/book-promotion-head-first-rails/&#34;&gt;Click
@@ -3051,10 +3051,10 @@ be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Book Promotion: Rails Test Prescriptions</title>
-      <link>http://rubylearning.com/blog/2009/05/02/book-promotion-rails-test-prescriptions/</link>
+      <link>http://localhost:1313/blog/2009/05/02/book-promotion-rails-test-prescriptions/</link>
       <pubDate>Sat, 02 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/05/02/book-promotion-rails-test-prescriptions/</guid>
+      <guid>http://localhost:1313/blog/2009/05/02/book-promotion-rails-test-prescriptions/</guid>
       <description>&lt;p&gt;RubyLearning is pleased to announce the promotion of the book “&lt;strong&gt;Rails
 Test Prescriptions&lt;/strong&gt;” by author Noel Rappin.&lt;/p&gt;
 
@@ -3092,10 +3092,10 @@ promotion, contact: mail [at] satishtalim [dot] com&lt;/p&gt;
     
     <item>
       <title>Interview: Author Noel Rappin</title>
-      <link>http://rubylearning.com/blog/2009/05/01/interview-author-noel-rappin/</link>
+      <link>http://localhost:1313/blog/2009/05/01/interview-author-noel-rappin/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/05/01/interview-author-noel-rappin/</guid>
+      <guid>http://localhost:1313/blog/2009/05/01/interview-author-noel-rappin/</guid>
       <description>&lt;p&gt;Our second Book Promotion: “&lt;strong&gt;Rails Test Prescriptions&lt;/strong&gt;” starts soon.
 Win one of four books to be given out for active participation. The
 coolest thing? Author &lt;strong&gt;Noel Rappin&lt;/strong&gt; will be on site to answer

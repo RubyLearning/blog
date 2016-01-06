@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interview on RubyLearning Blog</title>
-    <link>http://rubylearning.com/blog/categories/interview/</link>
+    <link>http://localhost:1313/blog/categories/interview/</link>
     <description>Recent content in Interview on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/blog/categories/interview/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/interview/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Interview: Aaron Quint on Sinatra (Reprint)</title>
-      <link>http://rubylearning.com/blog/2015/01/07/interview-aaron-quint-on-sinatra-reprint/</link>
+      <link>http://localhost:1313/blog/2015/01/07/interview-aaron-quint-on-sinatra-reprint/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/07/interview-aaron-quint-on-sinatra-reprint/</guid>
+      <guid>http://localhost:1313/blog/2015/01/07/interview-aaron-quint-on-sinatra-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This article first appeared on 20th March 2009 but the original is not accessible; hence the reprint.
@@ -125,10 +125,10 @@
     
     <item>
       <title>Karel Minarik: How do I learn and master Sinatra? (Reprint)</title>
-      <link>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</link>
+      <link>http://localhost:1313/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</guid>
+      <guid>http://localhost:1313/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This is reprint of the blog post that appeared on 13th July 2009, as the original is not accessible.
@@ -300,10 +300,10 @@
     
     <item>
       <title>Interview: Michael Hartl, author of the Ruby on Rails Tutorial (railstutorial.org)</title>
-      <link>http://rubylearning.com/blog/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</link>
+      <link>http://localhost:1313/blog/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</link>
       <pubDate>Fri, 18 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</guid>
+      <guid>http://localhost:1313/blog/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</guid>
       <description>&lt;div&gt;
   &lt;p class=&#34;alert&#34;&gt;
     RubyLearning participants talk to Michael Hartl the author of the Ruby on Rails Tutorial (&lt;a href=&#34;http://ruby.railstutorial.org/&#34;&gt;railstutorial.org&lt;/a&gt;).
@@ -430,10 +430,10 @@
     
     <item>
       <title>Hampton Catlin on Haml</title>
-      <link>http://rubylearning.com/blog/2010/10/12/hampton-catlin-on-haml/</link>
+      <link>http://localhost:1313/blog/2010/10/12/hampton-catlin-on-haml/</link>
       <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/10/12/hampton-catlin-on-haml/</guid>
+      <guid>http://localhost:1313/blog/2010/10/12/hampton-catlin-on-haml/</guid>
       <description>&lt;p&gt;Recently we asked you about ‘&lt;a href=&#34;http://rubylearning.com/blog/2010/09/28/win-a-prize-by-telling-us-about-your-top-3-most-useful-ruby-gems/&#34;&gt;Your Top 3 Most Useful Ruby
 Gems&lt;/a&gt;‘
 and you all voted &lt;strong&gt;Haml&lt;/strong&gt; to the number 3 spot. In this brief
@@ -520,10 +520,10 @@ Hampton would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Clojure: A Chat with Andrew Boekhoff</title>
-      <link>http://rubylearning.com/blog/2010/07/29/clojure-a-chat-with-andrew-boekhoff/</link>
+      <link>http://localhost:1313/blog/2010/07/29/clojure-a-chat-with-andrew-boekhoff/</link>
       <pubDate>Thu, 29 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/07/29/clojure-a-chat-with-andrew-boekhoff/</guid>
+      <guid>http://localhost:1313/blog/2010/07/29/clojure-a-chat-with-andrew-boekhoff/</guid>
       <description>&lt;p&gt;In this brief interview, Satish Talim of RubyLearning talks to &lt;strong&gt;Andrew
 Boekhoff&lt;/strong&gt;, author of
 &lt;a href=&#34;http://github.com/somnium/congomongo&#34;&gt;CongoMongo&lt;/a&gt;, a toolkit for using
@@ -583,10 +583,10 @@ would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Dmitry Lipovoi Winner RPCFN - 10</title>
-      <link>http://rubylearning.com/blog/2010/07/06/dmitry-lipovoi-winner-rpcfn---10/</link>
+      <link>http://localhost:1313/blog/2010/07/06/dmitry-lipovoi-winner-rpcfn---10/</link>
       <pubDate>Tue, 06 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/07/06/dmitry-lipovoi-winner-rpcfn---10/</guid>
+      <guid>http://localhost:1313/blog/2010/07/06/dmitry-lipovoi-winner-rpcfn---10/</guid>
       <description>&lt;p&gt;In this brief interview, Satish Talim of RubyLearning talks to &lt;strong&gt;Dmitry Lipovoi
 of Russia&lt;/strong&gt;, winner of the tenth &lt;a href=&#34;http://rubylearning.com/blog/2010/05/25/rpcfn-business-hours-10/&#34;&gt;Ruby Programming Challenge For Newbies&lt;/a&gt;.&lt;/p&gt;
 
@@ -674,10 +674,10 @@ would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Benoit Daloze Winner RPCFN - 9</title>
-      <link>http://rubylearning.com/blog/2010/06/01/benoit-daloze-winner-rpcfn---9/</link>
+      <link>http://localhost:1313/blog/2010/06/01/benoit-daloze-winner-rpcfn---9/</link>
       <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/06/01/benoit-daloze-winner-rpcfn---9/</guid>
+      <guid>http://localhost:1313/blog/2010/06/01/benoit-daloze-winner-rpcfn---9/</guid>
       <description>&lt;p&gt;In this brief interview, Satish Talim of RubyLearning talks to &lt;strong&gt;&lt;a href=&#34;http://twitter.com/pjb3&#34;&gt;Benoit
 Daloze&lt;/a&gt; of Belgium&lt;/strong&gt;, winner of the ninth &lt;a href=&#34;http://rubylearning.com/blog/2010/04/29/rpcfn-interactive-fiction-9/&#34;&gt;Ruby
 Programming Challenge For
@@ -762,10 +762,10 @@ would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Paul Barry Winner RPCFN - 8</title>
-      <link>http://rubylearning.com/blog/2010/04/29/paul-barry-winner-rpcfn---8/</link>
+      <link>http://localhost:1313/blog/2010/04/29/paul-barry-winner-rpcfn---8/</link>
       <pubDate>Thu, 29 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/04/29/paul-barry-winner-rpcfn---8/</guid>
+      <guid>http://localhost:1313/blog/2010/04/29/paul-barry-winner-rpcfn---8/</guid>
       <description>&lt;p&gt;In this brief interview, Satish Talim of RubyLearning talks to &lt;strong&gt;&lt;a href=&#34;http://twitter.com/pjb3&#34;&gt;Paul
 Barry&lt;/a&gt; of USA&lt;/strong&gt;, winner of the eighth &lt;a href=&#34;2010/04/07/rpcfn-xml-transformer---8/&#34;&gt;Ruby
 Programming Challenge For
@@ -867,10 +867,10 @@ be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Dmitriy Nagirnyak Winner RPCFN - 7</title>
-      <link>http://rubylearning.com/blog/2010/04/06/dmitriy-nagirnyak-winner-rpcfn---7/</link>
+      <link>http://localhost:1313/blog/2010/04/06/dmitriy-nagirnyak-winner-rpcfn---7/</link>
       <pubDate>Tue, 06 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/04/06/dmitriy-nagirnyak-winner-rpcfn---7/</guid>
+      <guid>http://localhost:1313/blog/2010/04/06/dmitriy-nagirnyak-winner-rpcfn---7/</guid>
       <description>&lt;p&gt;In this brief interview, Satish Talim of RubyLearning talks to &lt;strong&gt;Dmitriy
 Nagirnyak of Australia&lt;/strong&gt;, winner of the seventh &lt;a href=&#34;http://rubylearning.com/blog/2010/02/23/rpcfn-broadsides-7/&#34;&gt;Ruby Programming
 Challenge For
@@ -966,10 +966,10 @@ Dmitriy would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Rich Hickey talks to RubyLearning&#39;s Clojure Course Participants</title>
-      <link>http://rubylearning.com/blog/2010/04/06/rich-hickey-talks-to-rubylearnings-clojure-course-participants/</link>
+      <link>http://localhost:1313/blog/2010/04/06/rich-hickey-talks-to-rubylearnings-clojure-course-participants/</link>
       <pubDate>Tue, 06 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/04/06/rich-hickey-talks-to-rubylearnings-clojure-course-participants/</guid>
+      <guid>http://localhost:1313/blog/2010/04/06/rich-hickey-talks-to-rubylearnings-clojure-course-participants/</guid>
       <description>&lt;p&gt;On the eve of the first free, online “&lt;strong&gt;&lt;a href=&#34;http://rubylearning.com/blog/2010/03/09/clojure-101-a-new-course/&#34;&gt;Clojure
 101&lt;/a&gt;&lt;/strong&gt;”
 course, Michael Kohl of RubyLearning caught up with &lt;strong&gt;Rich Hickey&lt;/strong&gt;, the
@@ -1057,10 +1057,10 @@ be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Amit Rathore talks to RubyLearning&#39;s Clojure Course Participants</title>
-      <link>http://rubylearning.com/blog/2010/03/18/amit-rathore-talks-to-rubylearnings-clojure-course-participants/</link>
+      <link>http://localhost:1313/blog/2010/03/18/amit-rathore-talks-to-rubylearnings-clojure-course-participants/</link>
       <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/03/18/amit-rathore-talks-to-rubylearnings-clojure-course-participants/</guid>
+      <guid>http://localhost:1313/blog/2010/03/18/amit-rathore-talks-to-rubylearnings-clojure-course-participants/</guid>
       <description>&lt;p&gt;On the eve of the first free, online “&lt;strong&gt;&lt;a href=&#34;http://rubylearning.com/blog/2010/03/09/clojure-101-a-new-course/&#34;&gt;Clojure
 101&lt;/a&gt;&lt;/strong&gt;”
 course, Michael Kohl of RubyLearning caught up with &lt;strong&gt;Amit Rathore&lt;/strong&gt;,
@@ -1244,10 +1244,10 @@ be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Michael Fogus talks to RubyLearning - Clojure Course Participants</title>
-      <link>http://rubylearning.com/blog/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</link>
+      <link>http://localhost:1313/blog/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</link>
       <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</guid>
+      <guid>http://localhost:1313/blog/2010/03/10/michael-fogus-talks-to-rubylearning---clojure-course-participants/</guid>
       <description>&lt;p&gt;On the eve of the first free, online “&lt;strong&gt;&lt;a href=&#34;http://rubylearning.com/blog/2010/03/09/clojure-101-a-new-course/&#34;&gt;Clojure
 101&lt;/a&gt;&lt;/strong&gt;”
 course, Michael Kohl of RubyLearning caught up with &lt;strong&gt;Michael Fogus&lt;/strong&gt;,
@@ -1435,10 +1435,10 @@ be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Stuart Halloway talks to RubyLearning&#39;s Clojure Course Participants</title>
-      <link>http://rubylearning.com/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</link>
+      <link>http://localhost:1313/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</link>
       <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</guid>
+      <guid>http://localhost:1313/blog/2010/03/10/stuart-halloway-talks-to-rubylearnings-clojure-course-participants/</guid>
       <description>&lt;p&gt;On the eve of the first free, online “&lt;strong&gt;Clojure 101&lt;/strong&gt;” course, Michael
 Kohl of RubyLearning caught up with &lt;strong&gt;Stuart Halloway&lt;/strong&gt;, author of
 &lt;a href=&#34;http://www.pragprog.com/titles/shcloj/programming-clojure&#34;&gt;Programming
@@ -1527,10 +1527,10 @@ would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Guillaume Petit Winner RPCFN - 6</title>
-      <link>http://rubylearning.com/blog/2010/02/26/guillaume-petit-winner-rpcfn---6/</link>
+      <link>http://localhost:1313/blog/2010/02/26/guillaume-petit-winner-rpcfn---6/</link>
       <pubDate>Fri, 26 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/02/26/guillaume-petit-winner-rpcfn---6/</guid>
+      <guid>http://localhost:1313/blog/2010/02/26/guillaume-petit-winner-rpcfn---6/</guid>
       <description>&lt;p&gt;In this brief interview, Satish Talim of RubyLearning talks to
 &lt;strong&gt;Guillaume Petit of France&lt;/strong&gt;, winner of the sixth
 &lt;a href=&#34;http://rubylearning.com/blog/2010/01/26/rpcfn-fair-distribution-6/&#34;&gt;Ruby Programming Challenge For Newbies&lt;/a&gt;.&lt;/p&gt;
@@ -1612,10 +1612,10 @@ Guillaume would be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Patrick McKenzie Winner RPCFN - 5</title>
-      <link>http://rubylearning.com/blog/2010/01/21/patrick-mckenzie-winner-rpcfn---5/</link>
+      <link>http://localhost:1313/blog/2010/01/21/patrick-mckenzie-winner-rpcfn---5/</link>
       <pubDate>Thu, 21 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/01/21/patrick-mckenzie-winner-rpcfn---5/</guid>
+      <guid>http://localhost:1313/blog/2010/01/21/patrick-mckenzie-winner-rpcfn---5/</guid>
       <description>&lt;p&gt;In this brief interview, Satish Talim of RubyLearning talks to &lt;strong&gt;Patrick
 McKenzie of Japan&lt;/strong&gt;, winner of the fifth &lt;a href=&#34;http://rubylearning.com/blog/2009/12/27/rpcfn-mazes-5/&#34;&gt;Ruby Programming Challenge For
 Newbies&lt;/a&gt;.&lt;/p&gt;

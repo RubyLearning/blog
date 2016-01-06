@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Merb on RubyLearning Blog</title>
-    <link>http://rubylearning.com/blog/categories/merb/</link>
+    <link>http://localhost:1313/blog/categories/merb/</link>
     <description>Recent content in Merb on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Apr 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/blog/categories/merb/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/merb/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SapnaSolutions Transforming Pune City into a Rails Hub</title>
-      <link>http://rubylearning.com/blog/2009/04/09/sapnasolutions-transforming-pune-city-into-a-rails-hub/</link>
+      <link>http://localhost:1313/blog/2009/04/09/sapnasolutions-transforming-pune-city-into-a-rails-hub/</link>
       <pubDate>Thu, 09 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/04/09/sapnasolutions-transforming-pune-city-into-a-rails-hub/</guid>
+      <guid>http://localhost:1313/blog/2009/04/09/sapnasolutions-transforming-pune-city-into-a-rails-hub/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Nick Adams&lt;/strong&gt; is the CTO and Co-Founder of &lt;strong&gt;SapnaSolutions&lt;/strong&gt;.
 SapnaSolutions is on a mission of transforming Pune city into a Ruby on
 Rails hub.&lt;/p&gt;
@@ -128,10 +128,10 @@ be glad to answer.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Interview: Adam Wiggins on Heroku</title>
-      <link>http://rubylearning.com/blog/2009/03/13/interview-adam-wiggins-on-heroku/</link>
+      <link>http://localhost:1313/blog/2009/03/13/interview-adam-wiggins-on-heroku/</link>
       <pubDate>Fri, 13 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2009/03/13/interview-adam-wiggins-on-heroku/</guid>
+      <guid>http://localhost:1313/blog/2009/03/13/interview-adam-wiggins-on-heroku/</guid>
       <description>&lt;p&gt;On the eve of the first ever online “&lt;strong&gt;Introduction to Sinatra&lt;/strong&gt;”
 course, Satish Talim and Victor H. Goff III of RubyLearning caught up
 with &lt;strong&gt;Adam Wiggins&lt;/strong&gt; and talked to him on &lt;strong&gt;Heroku&lt;/strong&gt; (pronounced

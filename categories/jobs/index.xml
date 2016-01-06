@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jobs on RubyLearning Blog</title>
-    <link>http://rubylearning.com/blog/categories/jobs/</link>
+    <link>http://localhost:1313/blog/categories/jobs/</link>
     <description>Recent content in Jobs on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Jan 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/blog/categories/jobs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/jobs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ruby on Rails Engineer at Tupalo.com</title>
-      <link>http://rubylearning.com/blog/2011/01/20/ruby-on-rails-engineer-at-tupalo.com/</link>
+      <link>http://localhost:1313/blog/2011/01/20/ruby-on-rails-engineer-at-tupalo.com/</link>
       <pubDate>Thu, 20 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2011/01/20/ruby-on-rails-engineer-at-tupalo.com/</guid>
+      <guid>http://localhost:1313/blog/2011/01/20/ruby-on-rails-engineer-at-tupalo.com/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     Ruby on Rails Engineer at Tupalo.com
@@ -45,10 +45,10 @@
     
     <item>
       <title>Web 2.0 Developer -- Consultant @ Accenture</title>
-      <link>http://rubylearning.com/blog/2007/08/29/web-2.0-developer----consultant--accenture/</link>
+      <link>http://localhost:1313/blog/2007/08/29/web-2.0-developer----consultant--accenture/</link>
       <pubDate>Wed, 29 Aug 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2007/08/29/web-2.0-developer----consultant--accenture/</guid>
+      <guid>http://localhost:1313/blog/2007/08/29/web-2.0-developer----consultant--accenture/</guid>
       <description>&lt;p&gt;The RubyLearning Job Board has a new job requirement from Accenture,
 Chicago, IL; San Jose, CA.&lt;/p&gt;
 

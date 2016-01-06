@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General on RubyLearning Blog</title>
-    <link>http://rubylearning.com/blog/categories/general/</link>
+    <link>http://localhost:1313/blog/categories/general/</link>
     <description>Recent content in General on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Mar 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/blog/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/general/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>RubyConf India : Hospitality was anything but pleasant at The Lalit resort and spa, Goa</title>
-      <link>http://rubylearning.com/blog/2014/03/26/rubyconf-india--hospitality-was-anything-but-pleasant-at-the-lalit-resort-and-spa-goa/</link>
+      <link>http://localhost:1313/blog/2014/03/26/rubyconf-india--hospitality-was-anything-but-pleasant-at-the-lalit-resort-and-spa-goa/</link>
       <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2014/03/26/rubyconf-india--hospitality-was-anything-but-pleasant-at-the-lalit-resort-and-spa-goa/</guid>
+      <guid>http://localhost:1313/blog/2014/03/26/rubyconf-india--hospitality-was-anything-but-pleasant-at-the-lalit-resort-and-spa-goa/</guid>
       <description>&lt;div&gt;
   &lt;p class=&#34;block&#34;&gt;
     &lt;span class=&#34;drop_cap&#34;&gt;T&lt;/span&gt;his is a re-post of my original blog post &lt;a href=&#34;http://ajeygore.in/rubyconf/the-lalit-goof-up.html&#34;&gt;here&lt;/a&gt;.
@@ -221,10 +221,10 @@
     
     <item>
       <title>Little Functional Programming Lexicon</title>
-      <link>http://rubylearning.com/blog/2014/02/21/little-functional-programming-lexicon/</link>
+      <link>http://localhost:1313/blog/2014/02/21/little-functional-programming-lexicon/</link>
       <pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2014/02/21/little-functional-programming-lexicon/</guid>
+      <guid>http://localhost:1313/blog/2014/02/21/little-functional-programming-lexicon/</guid>
       <description>
 
 &lt;p&gt;This guest post is by &lt;strong&gt;Elise Huard&lt;/strong&gt;, who is working as a freelance
@@ -234,7 +234,7 @@ programmed in Ruby for 6 years before turning to Clojure and Haskell,
 and enjoys exploring the world of functional programming.
 She lives in Berlin, Germany with her family.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/blog/blog/media/elisehuard.jpg&#34; alt=&#34;Elise Huard&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/blog/media/elisehuard.jpg&#34; alt=&#34;Elise Huard&#34; /&gt;
  With
 Clojure, Scala and Haskell on the scene, functional programming is
 getting a lot of attention. I’m going to explain some terms that are
@@ -504,10 +504,10 @@ this post. Thanks!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Learn More About India&#39;s Exciting RubyConfIndia 2013</title>
-      <link>http://rubylearning.com/blog/2013/06/20/learn-more-about-indias-exciting-rubyconfindia-2013/</link>
+      <link>http://localhost:1313/blog/2013/06/20/learn-more-about-indias-exciting-rubyconfindia-2013/</link>
       <pubDate>Thu, 20 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2013/06/20/learn-more-about-indias-exciting-rubyconfindia-2013/</guid>
+      <guid>http://localhost:1313/blog/2013/06/20/learn-more-about-indias-exciting-rubyconfindia-2013/</guid>
       <description>&lt;div&gt;
   &lt;h2&gt;
     Learn More About India&amp;#8217;s Exciting RubyConfIndia 2013
@@ -699,10 +699,10 @@ this post. Thanks!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>7 secrets every developer should know before getting into a manager or lead</title>
-      <link>http://rubylearning.com/blog/2013/05/24/7-secrets-every-developer-should-know-before-getting-into-a-manager-or-lead/</link>
+      <link>http://localhost:1313/blog/2013/05/24/7-secrets-every-developer-should-know-before-getting-into-a-manager-or-lead/</link>
       <pubDate>Fri, 24 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2013/05/24/7-secrets-every-developer-should-know-before-getting-into-a-manager-or-lead/</guid>
+      <guid>http://localhost:1313/blog/2013/05/24/7-secrets-every-developer-should-know-before-getting-into-a-manager-or-lead/</guid>
       <description>&lt;div&gt;
   &lt;h2&gt;
     7 secrets every developer should know before getting into a manager or lead role
@@ -806,10 +806,10 @@ this post. Thanks!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Migration downtime for RubyLearning</title>
-      <link>http://rubylearning.com/blog/2012/01/19/migration-downtime-for-rubylearning/</link>
+      <link>http://localhost:1313/blog/2012/01/19/migration-downtime-for-rubylearning/</link>
       <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2012/01/19/migration-downtime-for-rubylearning/</guid>
+      <guid>http://localhost:1313/blog/2012/01/19/migration-downtime-for-rubylearning/</guid>
       <description>&lt;div&gt;
   &lt;h2&gt;
     Migration downtime for RubyLearning
@@ -828,10 +828,10 @@ this post. Thanks!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Rails Drinkup Pune &amp;#8211; Jan 28th</title>
-      <link>http://rubylearning.com/blog/2011/01/27/rails-drinkup-pune-</link>
+      <link>http://localhost:1313/blog/2011/01/27/rails-drinkup-pune-</link>
       <pubDate>Thu, 27 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2011/01/27/rails-drinkup-pune-</guid>
+      <guid>http://localhost:1313/blog/2011/01/27/rails-drinkup-pune-</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     Rails Drinkup Pune &amp;#8211; Jan 28th
@@ -871,10 +871,10 @@ this post. Thanks!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Rubyists and Companies I am thankful for in 2010</title>
-      <link>http://rubylearning.com/blog/2010/12/18/rubyists-and-companies-i-am-thankful-for-in-2010/</link>
+      <link>http://localhost:1313/blog/2010/12/18/rubyists-and-companies-i-am-thankful-for-in-2010/</link>
       <pubDate>Sat, 18 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/12/18/rubyists-and-companies-i-am-thankful-for-in-2010/</guid>
+      <guid>http://localhost:1313/blog/2010/12/18/rubyists-and-companies-i-am-thankful-for-in-2010/</guid>
       <description>
 
 &lt;p&gt;As 2010 comes to a close, I would like to thank the following awesome
@@ -1083,10 +1083,10 @@ comment here and send a tweet to let them know?&lt;/p&gt;
     
     <item>
       <title>RubyLearning eBook(s) Sale Proceeds for CRY India -- Will You Join Me?</title>
-      <link>http://rubylearning.com/blog/2010/12/15/rubylearning-ebooks-sale-proceeds-for-cry-india----will-you-join-me/</link>
+      <link>http://localhost:1313/blog/2010/12/15/rubylearning-ebooks-sale-proceeds-for-cry-india----will-you-join-me/</link>
       <pubDate>Wed, 15 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/12/15/rubylearning-ebooks-sale-proceeds-for-cry-india----will-you-join-me/</guid>
+      <guid>http://localhost:1313/blog/2010/12/15/rubylearning-ebooks-sale-proceeds-for-cry-india----will-you-join-me/</guid>
       <description>
 
 &lt;p&gt;This month, RubyLearning completes five wonderful years of teaching Ruby
@@ -1167,10 +1167,10 @@ response. I have donated Rs. 10000-00 to CRY India on 2nd Jan. 2011.&lt;/p&gt;
     
     <item>
       <title>The value of a personal bug log</title>
-      <link>http://rubylearning.com/blog/2010/10/25/the-value-of-a-personal-bug-log/</link>
+      <link>http://localhost:1313/blog/2010/10/25/the-value-of-a-personal-bug-log/</link>
       <pubDate>Mon, 25 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/10/25/the-value-of-a-personal-bug-log/</guid>
+      <guid>http://localhost:1313/blog/2010/10/25/the-value-of-a-personal-bug-log/</guid>
       <description>
 
 &lt;h2 id=&#34;the-value-of-a-personal-bug-log:862bec5e1f5fa8db876491c76338735e&#34;&gt;The value of a personal bug log&lt;/h2&gt;
@@ -1272,10 +1272,10 @@ Quality?&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>Let The World Know Who YOU Are!</title>
-      <link>http://rubylearning.com/blog/2010/10/15/let-the-world-know-who-you-are/</link>
+      <link>http://localhost:1313/blog/2010/10/15/let-the-world-know-who-you-are/</link>
       <pubDate>Fri, 15 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/10/15/let-the-world-know-who-you-are/</guid>
+      <guid>http://localhost:1313/blog/2010/10/15/let-the-world-know-who-you-are/</guid>
       <description>
 
 &lt;h2 id=&#34;let-the-world-know-who-you-are:23b5e442252370006ea86b0c812176ba&#34;&gt;Let The World Know Who YOU Are!&lt;/h2&gt;

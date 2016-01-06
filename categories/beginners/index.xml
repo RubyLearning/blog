@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beginners on RubyLearning Blog</title>
-    <link>http://rubylearning.com/blog/categories/beginners/</link>
+    <link>http://localhost:1313/blog/categories/beginners/</link>
     <description>Recent content in Beginners on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/blog/categories/beginners/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/beginners/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Felipe Elias Philipp Winner RPCFN - 1 (Reprint)</title>
-      <link>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</link>
+      <link>http://localhost:1313/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</link>
       <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</guid>
+      <guid>http://localhost:1313/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This article first appeared on 8th Oct. 2009 but the original is not accessible; hence the reprint.
@@ -77,10 +77,10 @@
     
     <item>
       <title>RPCFN: Average Arrival Time For A Flight - 2 Reprint</title>
-      <link>http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</link>
+      <link>http://localhost:1313/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</link>
       <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</guid>
+      <guid>http://localhost:1313/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This article first appeared on 8th Oct. 2009 but the original is not accessible; hence the reprint.
@@ -544,10 +544,10 @@
     
     <item>
       <title>RPCFN: Ruby Programming Challenge For Newbies (Reprint)</title>
-      <link>http://rubylearning.com/blog/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</link>
+      <link>http://localhost:1313/blog/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</link>
       <pubDate>Sun, 25 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</guid>
+      <guid>http://localhost:1313/blog/2015/01/25/rpcfn-ruby-programming-challenge-for-newbies-reprint/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     RPCFN: Ruby Programming Challenge For Newbies
@@ -679,10 +679,10 @@
     
     <item>
       <title>RPCFN: Shift Subtitle Reprint</title>
-      <link>http://rubylearning.com/blog/2015/01/25/rpcfn-shift-subtitle-reprint/</link>
+      <link>http://localhost:1313/blog/2015/01/25/rpcfn-shift-subtitle-reprint/</link>
       <pubDate>Sun, 25 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/25/rpcfn-shift-subtitle-reprint/</guid>
+      <guid>http://localhost:1313/blog/2015/01/25/rpcfn-shift-subtitle-reprint/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     Ruby Programming Challenge For Newbies
@@ -1155,10 +1155,10 @@ puts b.usec
     
     <item>
       <title>What are the Twelve Rules of Sinatra? (Reprint)</title>
-      <link>http://rubylearning.com/blog/2015/01/24/what-are-the-twelve-rules-of-sinatra-reprint/</link>
+      <link>http://localhost:1313/blog/2015/01/24/what-are-the-twelve-rules-of-sinatra-reprint/</link>
       <pubDate>Sat, 24 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/24/what-are-the-twelve-rules-of-sinatra-reprint/</guid>
+      <guid>http://localhost:1313/blog/2015/01/24/what-are-the-twelve-rules-of-sinatra-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This article first appeared on 19th July. 2009 but the original is not accessible; hence the reprint.
@@ -1221,10 +1221,10 @@ puts b.usec
     
     <item>
       <title>20&#43; Rubyists are using Sinatra - Do you? (Reprint)</title>
-      <link>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</link>
+      <link>http://localhost:1313/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</guid>
+      <guid>http://localhost:1313/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: This first appeared on 29th June 2009 and is being reprinted
@@ -1603,10 +1603,10 @@ technical support from their team is included!&lt;/p&gt;
     
     <item>
       <title>Corey Donohoe: How do I learn and master Sinatra?</title>
-      <link>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</link>
+      <link>http://localhost:1313/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</guid>
+      <guid>http://localhost:1313/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: We are re-printing this blog post that appeared on 6th July 2009, as the original post is not accessible.
@@ -1731,10 +1731,10 @@ technical support from their team is included!&lt;/p&gt;
     
     <item>
       <title>Follow 10&#43; Rubyists using Sinatra on Twitter (Reprint)</title>
-      <link>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</link>
+      <link>http://localhost:1313/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</guid>
+      <guid>http://localhost:1313/blog/2015/01/07/follow-10-rubyists-using-sinatra-on-twitter-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This first appeared on 24th June 2009 and is being reprinted as the original is not accessible.
@@ -1954,10 +1954,10 @@ technical support from their team is included!&lt;/p&gt;
     
     <item>
       <title>Interview: Aaron Quint on Sinatra (Reprint)</title>
-      <link>http://rubylearning.com/blog/2015/01/07/interview-aaron-quint-on-sinatra-reprint/</link>
+      <link>http://localhost:1313/blog/2015/01/07/interview-aaron-quint-on-sinatra-reprint/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/07/interview-aaron-quint-on-sinatra-reprint/</guid>
+      <guid>http://localhost:1313/blog/2015/01/07/interview-aaron-quint-on-sinatra-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This article first appeared on 20th March 2009 but the original is not accessible; hence the reprint.
@@ -2068,10 +2068,10 @@ technical support from their team is included!&lt;/p&gt;
     
     <item>
       <title>Karel Minarik: How do I learn and master Sinatra? (Reprint)</title>
-      <link>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</link>
+      <link>http://localhost:1313/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</guid>
+      <guid>http://localhost:1313/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This is reprint of the blog post that appeared on 13th July 2009, as the original is not accessible.
@@ -2243,10 +2243,10 @@ technical support from their team is included!&lt;/p&gt;
     
     <item>
       <title>Little Functional Programming Lexicon</title>
-      <link>http://rubylearning.com/blog/2014/02/21/little-functional-programming-lexicon/</link>
+      <link>http://localhost:1313/blog/2014/02/21/little-functional-programming-lexicon/</link>
       <pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2014/02/21/little-functional-programming-lexicon/</guid>
+      <guid>http://localhost:1313/blog/2014/02/21/little-functional-programming-lexicon/</guid>
       <description>
 
 &lt;p&gt;This guest post is by &lt;strong&gt;Elise Huard&lt;/strong&gt;, who is working as a freelance
@@ -2256,7 +2256,7 @@ programmed in Ruby for 6 years before turning to Clojure and Haskell,
 and enjoys exploring the world of functional programming.
 She lives in Berlin, Germany with her family.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/blog/blog/media/elisehuard.jpg&#34; alt=&#34;Elise Huard&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/blog/media/elisehuard.jpg&#34; alt=&#34;Elise Huard&#34; /&gt;
  With
 Clojure, Scala and Haskell on the scene, functional programming is
 getting a lot of attention. I’m going to explain some terms that are
@@ -2526,10 +2526,10 @@ this post. Thanks!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Routing Basics: Ruby on Rails for Front-End Developers</title>
-      <link>http://rubylearning.com/blog/2014/01/29/routing-basics-ruby-on-rails-for-front-end-developers/</link>
+      <link>http://localhost:1313/blog/2014/01/29/routing-basics-ruby-on-rails-for-front-end-developers/</link>
       <pubDate>Wed, 29 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2014/01/29/routing-basics-ruby-on-rails-for-front-end-developers/</guid>
+      <guid>http://localhost:1313/blog/2014/01/29/routing-basics-ruby-on-rails-for-front-end-developers/</guid>
       <description>
 
 &lt;h2 id=&#34;routing-basics-ruby-on-rails-for-front-end-developers:4e7b8dbbe1de83e198d0a24ae124a1b5&#34;&gt;Routing Basics: Ruby on Rails for Front-End Developers&lt;/h2&gt;
@@ -2643,10 +2643,10 @@ Explained for Front-End Developers&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
     
     <item>
       <title>From Lousy to Beautiful</title>
-      <link>http://rubylearning.com/blog/2014/01/24/from-lousy-to-beautiful/</link>
+      <link>http://localhost:1313/blog/2014/01/24/from-lousy-to-beautiful/</link>
       <pubDate>Fri, 24 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2014/01/24/from-lousy-to-beautiful/</guid>
+      <guid>http://localhost:1313/blog/2014/01/24/from-lousy-to-beautiful/</guid>
       <description>
 
 &lt;p&gt;This guest post is by &lt;strong&gt;James Schorr&lt;/strong&gt;, who has been developing software
@@ -2973,10 +2973,10 @@ this post. Thanks!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Sinatra and Google Currency API - Part 2</title>
-      <link>http://rubylearning.com/blog/2013/09/13/sinatra-and-google-currency-api---part-2/</link>
+      <link>http://localhost:1313/blog/2013/09/13/sinatra-and-google-currency-api---part-2/</link>
       <pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2013/09/13/sinatra-and-google-currency-api---part-2/</guid>
+      <guid>http://localhost:1313/blog/2013/09/13/sinatra-and-google-currency-api---part-2/</guid>
       <description>&lt;div&gt;
   &lt;h2&gt;
     Sinatra and Google Currency API &amp;#8211; Part 2
@@ -3379,10 +3379,10 @@ this post. Thanks!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Sinatra: Some Questions from Ruby Newbies</title>
-      <link>http://rubylearning.com/blog/2013/08/14/sinatra-some-questions-from-ruby-newbies/</link>
+      <link>http://localhost:1313/blog/2013/08/14/sinatra-some-questions-from-ruby-newbies/</link>
       <pubDate>Wed, 14 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2013/08/14/sinatra-some-questions-from-ruby-newbies/</guid>
+      <guid>http://localhost:1313/blog/2013/08/14/sinatra-some-questions-from-ruby-newbies/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     Darren Jones in his excellent book &lt;a href=&#34;http://www.amazon.com/gp/product/0987332147/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0987332147&amp;linkCode=as2&amp;tag=satishtalimsw-20&#34;&gt;Jump Start Sinatra&lt;/a&gt; says &amp;#8220;&lt;em&gt;Since its release in 2007, Sinatra has quickly gained in popularity in the Ruby web community due to its elegant simplicity and classy syntax. Everybody who uses it falls in love with its elegant simplicity and classy syntax&lt;/em&gt;.&amp;#8221;

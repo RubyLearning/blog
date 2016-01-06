@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quora on RubyLearning Blog</title>
-    <link>http://rubylearning.com/blog/categories/quora/</link>
+    <link>http://localhost:1313/blog/categories/quora/</link>
     <description>Recent content in Quora on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Jan 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/blog/categories/quora/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/quora/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>20&#43; Rubyists to Follow on Quora</title>
-      <link>http://rubylearning.com/blog/2011/01/12/20-rubyists-to-follow-on-quora/</link>
+      <link>http://localhost:1313/blog/2011/01/12/20-rubyists-to-follow-on-quora/</link>
       <pubDate>Wed, 12 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2011/01/12/20-rubyists-to-follow-on-quora/</guid>
+      <guid>http://localhost:1313/blog/2011/01/12/20-rubyists-to-follow-on-quora/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     What&amp;#8217;s Quora?

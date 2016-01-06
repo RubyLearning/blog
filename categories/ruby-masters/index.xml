@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruby Masters on RubyLearning Blog</title>
-    <link>http://rubylearning.com/blog/categories/ruby-masters/</link>
+    <link>http://localhost:1313/blog/categories/ruby-masters/</link>
     <description>Recent content in Ruby Masters on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubylearning.com/blog/categories/ruby-masters/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/ruby-masters/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Corey Donohoe: How do I learn and master Sinatra?</title>
-      <link>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</link>
+      <link>http://localhost:1313/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</guid>
+      <guid>http://localhost:1313/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: We are re-printing this blog post that appeared on 6th July 2009, as the original post is not accessible.
@@ -139,10 +139,10 @@
     
     <item>
       <title>Karel Minarik: How do I learn and master Sinatra? (Reprint)</title>
-      <link>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</link>
+      <link>http://localhost:1313/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</guid>
+      <guid>http://localhost:1313/blog/2015/01/07/karel-minarik-how-do-i-learn-and-master-sinatra-reprint/</guid>
       <description>&lt;div&gt;
   &lt;p&gt;
     &lt;b&gt;Note&lt;/b&gt;: This is reprint of the blog post that appeared on 13th July 2009, as the original is not accessible.
@@ -314,10 +314,10 @@
     
     <item>
       <title>How do I benchmark Ruby code?</title>
-      <link>http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/</link>
+      <link>http://localhost:1313/blog/2013/06/19/how-do-i-benchmark-ruby-code/</link>
       <pubDate>Wed, 19 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/</guid>
+      <guid>http://localhost:1313/blog/2013/06/19/how-do-i-benchmark-ruby-code/</guid>
       <description>
 
 &lt;p&gt;This guest post is by Jesse Storimer. Hes the author of &lt;a href=&#34;http://www.jstorimer.com/products/working-with-unix-processes&#34;&gt;Working With Unix Processes&lt;/a&gt;,
@@ -492,10 +492,10 @@ give feedback in the comments section of this post. Thanks!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Ruby Matrix, the Forgotten Library</title>
-      <link>http://rubylearning.com/blog/2013/04/04/ruby-matrix-the-forgotten-library/</link>
+      <link>http://localhost:1313/blog/2013/04/04/ruby-matrix-the-forgotten-library/</link>
       <pubDate>Thu, 04 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2013/04/04/ruby-matrix-the-forgotten-library/</guid>
+      <guid>http://localhost:1313/blog/2013/04/04/ruby-matrix-the-forgotten-library/</guid>
       <description>&lt;div&gt;
   &lt;h2&gt;
     Ruby Matrix, the Forgotten Library
@@ -687,10 +687,10 @@ give feedback in the comments section of this post. Thanks!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Questions on Ruby? Ask An Expert at RubyLearning</title>
-      <link>http://rubylearning.com/blog/2011/11/24/questions-on-ruby-ask-an-expert-at-rubylearning/</link>
+      <link>http://localhost:1313/blog/2011/11/24/questions-on-ruby-ask-an-expert-at-rubylearning/</link>
       <pubDate>Thu, 24 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2011/11/24/questions-on-ruby-ask-an-expert-at-rubylearning/</guid>
+      <guid>http://localhost:1313/blog/2011/11/24/questions-on-ruby-ask-an-expert-at-rubylearning/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     Questions on Ruby? Ask An Expert at RubyLearning
@@ -770,10 +770,10 @@ give feedback in the comments section of this post. Thanks!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Performance Testing Rails Applications: How To?</title>
-      <link>http://rubylearning.com/blog/2011/08/14/performance-testing-rails-applications-how-to/</link>
+      <link>http://localhost:1313/blog/2011/08/14/performance-testing-rails-applications-how-to/</link>
       <pubDate>Sun, 14 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2011/08/14/performance-testing-rails-applications-how-to/</guid>
+      <guid>http://localhost:1313/blog/2011/08/14/performance-testing-rails-applications-how-to/</guid>
       <description>&lt;div&gt;
   &lt;h2&gt;
     Performance Testing Rails Applications: How To?
@@ -1092,10 +1092,10 @@ LoginTest#test_login (105 ms warmup)
     
     <item>
       <title>How do I test my code with Minitest?</title>
-      <link>http://rubylearning.com/blog/2011/07/28/how-do-i-test-my-code-with-minitest/</link>
+      <link>http://localhost:1313/blog/2011/07/28/how-do-i-test-my-code-with-minitest/</link>
       <pubDate>Thu, 28 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2011/07/28/how-do-i-test-my-code-with-minitest/</guid>
+      <guid>http://localhost:1313/blog/2011/07/28/how-do-i-test-my-code-with-minitest/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     How do I test my code with Minitest?
@@ -1382,10 +1382,10 @@ refute true #=&amp;gt; fail&lt;/pre&gt;
     
     <item>
       <title>How Can We Develop For Tomorrow&#39;s Needs?</title>
-      <link>http://rubylearning.com/blog/2011/07/27/how-can-we-develop-for-tomorrows-needs/</link>
+      <link>http://localhost:1313/blog/2011/07/27/how-can-we-develop-for-tomorrows-needs/</link>
       <pubDate>Wed, 27 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2011/07/27/how-can-we-develop-for-tomorrows-needs/</guid>
+      <guid>http://localhost:1313/blog/2011/07/27/how-can-we-develop-for-tomorrows-needs/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     How Can We Develop For Tomorrow&amp;#8217;s Needs?
@@ -1535,10 +1535,10 @@ refute true #=&amp;gt; fail&lt;/pre&gt;
     
     <item>
       <title>Cryptography Or: How I Learned to Stop Worrying, and Love AES</title>
-      <link>http://rubylearning.com/blog/2011/07/18/cryptography-or-how-i-learned-to-stop-worrying-and-love-aes/</link>
+      <link>http://localhost:1313/blog/2011/07/18/cryptography-or-how-i-learned-to-stop-worrying-and-love-aes/</link>
       <pubDate>Mon, 18 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2011/07/18/cryptography-or-how-i-learned-to-stop-worrying-and-love-aes/</guid>
+      <guid>http://localhost:1313/blog/2011/07/18/cryptography-or-how-i-learned-to-stop-worrying-and-love-aes/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     Cryptography Or: How I Learned to Stop Worrying, and Love AES
@@ -1780,10 +1780,10 @@ puts aes.update(encrypted) + aes.final&lt;/pre&gt;
     
     <item>
       <title>Throw, Catch, Raise, Rescue- I&#39;m so confused!</title>
-      <link>http://rubylearning.com/blog/2011/07/12/throw-catch-raise-rescue--im-so-confused/</link>
+      <link>http://localhost:1313/blog/2011/07/12/throw-catch-raise-rescue--im-so-confused/</link>
       <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2011/07/12/throw-catch-raise-rescue--im-so-confused/</guid>
+      <guid>http://localhost:1313/blog/2011/07/12/throw-catch-raise-rescue--im-so-confused/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     Throw, Catch, Raise, Rescue&amp;#8230; I&amp;#8217;m so confused!
@@ -1938,10 +1938,10 @@ end&lt;/pre&gt;
     
     <item>
       <title>How do I smell Ruby code?</title>
-      <link>http://rubylearning.com/blog/2011/03/01/how-do-i-smell-ruby-code/</link>
+      <link>http://localhost:1313/blog/2011/03/01/how-do-i-smell-ruby-code/</link>
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2011/03/01/how-do-i-smell-ruby-code/</guid>
+      <guid>http://localhost:1313/blog/2011/03/01/how-do-i-smell-ruby-code/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     How do I smell Ruby code?
@@ -2139,10 +2139,10 @@ end
     
     <item>
       <title>Interview: Michael Hartl, author of the Ruby on Rails Tutorial (railstutorial.org)</title>
-      <link>http://rubylearning.com/blog/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</link>
+      <link>http://localhost:1313/blog/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</link>
       <pubDate>Fri, 18 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</guid>
+      <guid>http://localhost:1313/blog/2011/02/18/interview-michael-hartl-author-of-the-ruby-on-rails-tutorial-railstutorial.org/</guid>
       <description>&lt;div&gt;
   &lt;p class=&#34;alert&#34;&gt;
     RubyLearning participants talk to Michael Hartl the author of the Ruby on Rails Tutorial (&lt;a href=&#34;http://ruby.railstutorial.org/&#34;&gt;railstutorial.org&lt;/a&gt;).
@@ -2269,10 +2269,10 @@ end
     
     <item>
       <title>How do I make a command-line tool in Ruby?</title>
-      <link>http://rubylearning.com/blog/2011/01/03/how-do-i-make-a-command-line-tool-in-ruby/</link>
+      <link>http://localhost:1313/blog/2011/01/03/how-do-i-make-a-command-line-tool-in-ruby/</link>
       <pubDate>Mon, 03 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2011/01/03/how-do-i-make-a-command-line-tool-in-ruby/</guid>
+      <guid>http://localhost:1313/blog/2011/01/03/how-do-i-make-a-command-line-tool-in-ruby/</guid>
       <description>&lt;div&gt;
   &lt;h3&gt;
     How do I make a command-line tool in Ruby?
@@ -2665,10 +2665,10 @@ start server
     
     <item>
       <title>Being Awesome with the MongoDB Ruby Driver</title>
-      <link>http://rubylearning.com/blog/2010/12/21/being-awesome-with-the-mongodb-ruby-driver/</link>
+      <link>http://localhost:1313/blog/2010/12/21/being-awesome-with-the-mongodb-ruby-driver/</link>
       <pubDate>Tue, 21 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/12/21/being-awesome-with-the-mongodb-ruby-driver/</guid>
+      <guid>http://localhost:1313/blog/2010/12/21/being-awesome-with-the-mongodb-ruby-driver/</guid>
       <description>
 
 &lt;p&gt;This guest post is by &lt;strong&gt;Ethan Gunderson&lt;/strong&gt;, who is a software developer
@@ -2886,10 +2886,10 @@ Documentation&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>How do I keep multiple Ruby projects separate?</title>
-      <link>http://rubylearning.com/blog/2010/12/20/how-do-i-keep-multiple-ruby-projects-separate/</link>
+      <link>http://localhost:1313/blog/2010/12/20/how-do-i-keep-multiple-ruby-projects-separate/</link>
       <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rubylearning.com/blog/2010/12/20/how-do-i-keep-multiple-ruby-projects-separate/</guid>
+      <guid>http://localhost:1313/blog/2010/12/20/how-do-i-keep-multiple-ruby-projects-separate/</guid>
       <description>
 
 &lt;h2 id=&#34;how-do-i-keep-multiple-ruby-projects-separate:e46ce811565e3df9611640804f7d8d1e&#34;&gt;How do I keep multiple Ruby projects separate?&lt;/h2&gt;
