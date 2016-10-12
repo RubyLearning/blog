@@ -707,7 +707,7 @@ Git remote heroku added
           this, let’s use one of Rack’s built-in middleware – Rack::Reloader. Edit
           <code>config.ru</code> to have:</p>
 
-          <pre><code>require './my\_app'
+          <pre><code>require './my_app'
 use Rack::Reloader
 run MyApp.new
           </code></pre>
@@ -783,7 +783,7 @@ end
 
           <pre><code>def call(env)
   status, headers, body = @appl.call(env)
-  append\_s = &quot;... greetings from RubyLearning!!&quot;
+  append_s = &quot;... greetings from RubyLearning!!&quot;
   new_body = &quot;&quot;
   body.each { |string| new_body &lt;&lt; &quot; &quot; &lt;&lt; string }
   new_body &lt;&lt; &quot; &quot; &lt;&lt; append_s
@@ -820,7 +820,7 @@ end
 
           <p>Edit config.ru to have:</p>
 
-          <pre><code>require './my\_app'
+          <pre><code>require './my_app'
 require './myrackmiddleware'
 use Rack::Reloader
 use MyRackMiddleware
@@ -868,9 +868,9 @@ End
   end
   def call(env)
     start = Time.now
-    status, headers, body = @appl.call(env) \# call our Sinatra app
+    status, headers, body = @appl.call(env) # call our Sinatra app
     stop = Time.now
-    puts &quot;Response Time: \#{stop-start}&quot; \# display on console
+    puts &quot;Response Time: #{stop-start}&quot; # display on console
     [status, headers, body]
   end
 end
