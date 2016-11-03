@@ -6,8 +6,177 @@
     <description>Recent content in Training on RubyLearning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2009 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rubylearning.com/blog/categories/training/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Learn Ruby programming - 64th batch</title>
+      <link>http://rubylearning.com/blog/2015/10/11/learn-ruby-programming---64th-batch/</link>
+      <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubylearning.com/blog/2015/10/11/learn-ruby-programming---64th-batch/</guid>
+      <description>
+
+&lt;p&gt;Registrations are now open for RubyLearning&amp;rsquo;s &lt;em&gt;long-running and popular&lt;/em&gt;
+Ruby programming course. This is an intensive, online course for
+&lt;em&gt;beginners&lt;/em&gt; that helps you get started with &lt;strong&gt;Ruby&lt;/strong&gt; programming. The
+course starts on &lt;strong&gt;Saturday, 5 December 2015&lt;/strong&gt; and runs for seven weeks.&lt;/p&gt;
+
+&lt;h2 id=&#34;course-fee-and-discount:0abd26cdb3a9774f40682720c8206489&#34;&gt;Course Fee and Discount&lt;/h2&gt;
+
+&lt;p&gt;Please &lt;a href=&#34;http://rubylearning.org/classes/login/index.php&#34;&gt;create a new
+account&lt;/a&gt; first and then
+pay US $44.95 by clicking on the PayPal button
+&lt;a href=&#34;http://rubylearning.org/classes/enrol/index.php?id=63&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/paypal_ruby.gif&#34; alt=&#34;Paypal&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: If you do not have a PayPal account and would like to pay by
+credit card on PayPal then do email me at satish [at] rubylearning.org.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Download &lt;a href=&#34;http://rubylearning.com/data/AdviceRuby.zip&#34;&gt;&amp;lsquo;Advice for Ruby
+Beginners&amp;rsquo;&lt;/a&gt; as a .zip file.&lt;/p&gt;
+
+&lt;p&gt;Here is what &lt;strong&gt;Sandra Randall (Butler)&lt;/strong&gt;, a participant who just
+graduated, has to say - &amp;ldquo;You kindly offered me the opportunity to join
+your Ruby course. I&amp;rsquo;m new to development and found the course, even
+though basic for programmers, a little tricky for me. I managed to
+complete all of the assessments and really learnt a lot. Thank you very
+much for the opportunity. It has really given me the push I needed to
+learn Ruby and I&amp;rsquo;m currently treading my way through both the pickaxe
+and Agile Development books and enjoying it. I&amp;rsquo;ve recently been offered
+a position as a Junior Systems Developer at a local Software house in
+South Africa - all thanks to the push you gave me which gave me the
+motivation and drive to get going.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-s-ruby:0abd26cdb3a9774f40682720c8206489&#34;&gt;What&amp;rsquo;s Ruby?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://rubylearning.com/images/ruby_350.png&#34; alt=&#34;Ruby&#34; title=&#34;License: http://creativecommons.org/licenses/by-sa/2.5/&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;According to
+&lt;a href=&#34;http://www.ruby-lang.org/en/&#34;&gt;http://www.ruby-lang.org/en/&lt;/a&gt; - &amp;ldquo;Ruby is
+a dynamic, open source programming language with a focus on simplicity
+and productivity. Ruby&amp;rsquo;s elegant syntax is natural to read and easy to
+write.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Yukihiro Matsumoto&lt;/strong&gt;, the creator of Ruby, in &lt;strong&gt;&lt;a href=&#34;http://linuxdevcenter.com/pub/a/linux/2001/11/29/ruby.html&#34;&gt;an
+interview&lt;/a&gt;&lt;/strong&gt;
+says -&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I believe people want to express themselves when they program. They
+don&amp;rsquo;t want to fight with the language. Programming languages must feel
+natural to programmers. I tried to make people enjoy programming and
+concentrate on the fun and creative part of programming when they use
+Ruby.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;what-will-i-learn:0abd26cdb3a9774f40682720c8206489&#34;&gt;What Will I Learn?&lt;/h2&gt;
+
+&lt;p&gt;In the Ruby programming course, you will learn the &lt;a href=&#34;http://rubylearning.com/satishtalim/tutorial.html&#34;&gt;essential features
+of Ruby&lt;/a&gt; that you
+will end up using every day. You will also be introduced to Git, GitHub,
+HTTP concepts, RubyGems, Rack and Heroku.&lt;/p&gt;
+
+&lt;h2 id=&#34;some-highlights:0abd26cdb3a9774f40682720c8206489&#34;&gt;Some Highlights&lt;/h2&gt;
+
+&lt;h3 id=&#34;rubylearning-s-irc-channel:0abd26cdb3a9774f40682720c8206489&#34;&gt;RubyLearning&amp;rsquo;s IRC Channel&lt;/h3&gt;
+
+&lt;p&gt;Some of the mentors and students hang out at RubyLearning&amp;rsquo;s IRC
+(irc.freenode.net) channel (#rubylearning.org) for both technical and
+non-technical discussions. Everyone benefits with the active discussions
+on Ruby with the mentors.&lt;/p&gt;
+
+&lt;h3 id=&#34;google-hangouts:0abd26cdb3a9774f40682720c8206489&#34;&gt;Google Hangouts&lt;/h3&gt;
+
+&lt;p&gt;There is a Hangout Event that is open for students, for drop-in hangouts
+where students can pair program with mentors or with each other. This is
+often where you can get help with your system, editor, and general
+environment. Anything that can help you with your coding environment
+that you are having problems with are usually discussed interactively
+here.&lt;/p&gt;
+
+&lt;h3 id=&#34;git-repositories:0abd26cdb3a9774f40682720c8206489&#34;&gt;Git Repositories&lt;/h3&gt;
+
+&lt;p&gt;Shared (private) repositories available for those that want to learn git
+and the revision controlled programming workflow. This allows students
+that want to collaborate while learning. This is a great way to record
+your progress while learning Ruby.&lt;/p&gt;
+
+&lt;h3 id=&#34;ebook:0abd26cdb3a9774f40682720c8206489&#34;&gt;eBook&lt;/h3&gt;
+
+&lt;p&gt;The course is based on the &lt;strong&gt;The Ultimate Guide to Ruby Programming&lt;/strong&gt;
+eBook. This book is &lt;a href=&#34;http://book.rubylearning.org/&#34;&gt;priced at US $9.95&lt;/a&gt;.
+However, the &lt;a href=&#34;http://www.amazon.com/gp/product/B0062X2I68/ref=as_li_tf_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B0062X2I68&amp;amp;linkCode=as2&amp;amp;tag=satishtalimsw-20&#34;&gt;Kindle
+edition&lt;/a&gt;
+of the eBook is available for US $6.00.&lt;/p&gt;
+
+&lt;h3 id=&#34;challenges-and-side-tracks:0abd26cdb3a9774f40682720c8206489&#34;&gt;Challenges and Side Tracks&lt;/h3&gt;
+
+&lt;p&gt;This is course material not found in the RubyLearning Study Notes nor in
+the E-Book! Depending on participation levels, we throw a Ruby coding
+challenge in the mix, right for the level we are at. We have been known
+to give out a prize or two for the &amp;lsquo;best&amp;rsquo; solution.&lt;/p&gt;
+
+&lt;h2 id=&#34;who-s-it-for:0abd26cdb3a9774f40682720c8206489&#34;&gt;Who&amp;rsquo;s It For?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;A &lt;em&gt;beginner&lt;/em&gt; with some knowledge of programming.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can read what past participants / online magazines have to say about
+the course.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/other/testimonials.html&#34;&gt;Testimonials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.forbes.com/sites/women2/2012/07/07/how-i-learned-to-code/print/&#34;&gt;Forbes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://natashatherobot.com/rubylearning-core-ruby-review/&#34;&gt;Natasha
+Murashev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://katpreneur.tumblr.com/post/27084326683/i-am-not-young-enough-to-know-everything&#34;&gt;Katerina
+Jackson-Suchkova&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://maniempire.blogspot.in/2011/07/ruby-pair-programming.html&#34;&gt;Mani Maran
+M&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;mentors:0abd26cdb3a9774f40682720c8206489&#34;&gt;Mentors&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://satishtalim.com/&#34;&gt;Satish Talim&lt;/a&gt;, Michael Kohl, Satoshi Asakawa,
+Victor Goff III and others from the RubyLearning team.&lt;/p&gt;
+
+&lt;h2 id=&#34;dates:0abd26cdb3a9774f40682720c8206489&#34;&gt;Dates&lt;/h2&gt;
+
+&lt;p&gt;The course starts on &lt;strong&gt;Saturday, 5th of December 2015&lt;/strong&gt; and runs for seven
+weeks.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-do-i-register-and-pay-the-course-fees:0abd26cdb3a9774f40682720c8206489&#34;&gt;How do I register and pay the course fees?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You can pay the course fees either by Paypal or send cash via
+&lt;a href=&#34;http://www.westernunion.com/info/selectCountry.asp&#34;&gt;Western Union Money
+Transfer&lt;/a&gt; or by
+bank transfer (if you are in India). The fees collected helps
+RubyLearning maintain the site, this Ruby course, the Ruby eBook,
+and provide quality content to you.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To pay the Course Fee:
+&lt;a href=&#34;http://rubylearning.org/classes/enrol/index.php?id=63&#34;&gt;&lt;img src=&#34;http://rubylearning.com/images/paypal_ruby.gif&#34; alt=&#34;Paypal&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Please &lt;a href=&#34;http://rubylearning.org/classes/login/index.php&#34;&gt;create a new
+account&lt;/a&gt; first and then
+pay US $44.95 by clicking on the PayPal button&lt;/p&gt;
+
+&lt;h2 id=&#34;how-does-the-course-work:0abd26cdb3a9774f40682720c8206489&#34;&gt;How does the course work?&lt;/h2&gt;
+
+&lt;p&gt;For details on how the course works, refer &lt;a href=&#34;http://rubylearning.com/blog/how-the-course-works/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;At the end of this course you should have all the knowledge to explore
+the wonderful world of Ruby on your own.&lt;/p&gt;
+
+&lt;p&gt;Remember, the idea is to have fun learning Ruby.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Want to create a Sinatra Web Service?</title>
@@ -1345,41 +1514,41 @@ end&lt;/code&gt;&lt;/pre&gt;
       <guid>http://rubylearning.com/blog/2008/04/29/akitaonrails-advises-a-young-ruby-beginner/</guid>
       <description>&lt;div&gt;
   &lt;p class=&#34;block&#34;&gt;
-    &lt;img class=&#34;alignleft&#34; title=&#34;Fabio Akita&#34; src=&#34;http://rubylearning.com/images/akita.jpg&#34; alt=&#34;Fabio Akita&#34; /&gt;&lt;strong&gt;Fabio Akita&lt;/strong&gt; is a Brazilian Rails enthusiast, also known online as &amp;#8220;AkitaOnRails&amp;#8221;. He regularly write posts on his own &lt;a href=&#34;http://www.akitaonrails.com/&#34;&gt;blog&lt;/a&gt; and had published the very first book tailored for the Brazilian audience called &amp;#8220;Repensando a Web com Rails&amp;#8221;. He is now a full-time Ruby on Rails developer working as Brazil Rails Practice Manager for the Utah company Surgeworks LLC.
+    &lt;img class=&#34;alignleft&#34; title=&#34;Fabio Akita&#34; src=&#34;http://www.rubylearning.com/images/akita.jpg&#34; alt=&#34;Fabio Akita&#34; /&gt;&lt;strong&gt;Fabio Akita&lt;/strong&gt; is a Brazilian Rails enthusiast, also known online as &amp;#8220;AkitaOnRails&amp;#8221;. He regularly write posts on his own &lt;a href=&#34;http://www.akitaonrails.com/&#34;&gt;blog&lt;/a&gt; and had published the very first book tailored for the Brazilian audience called &amp;#8220;Repensando a Web com Rails&amp;#8221;. He is now a full-time Ruby on Rails developer working as Brazil Rails Practice Manager for the Utah company Surgeworks LLC.
   &lt;/p&gt;
   
   &lt;p class=&#34;block&#34;&gt;
-    &lt;img class=&#34;alignright&#34; title=&#34;Paresh Mathur&#34; src=&#34;http://rubylearning.com/images/paresh.gif&#34; alt=&#34;Paresh Mathur&#34; /&gt;&lt;strong&gt;Paresh Mathur&lt;/strong&gt; aka &amp;#8220;Rick&amp;#8221;, is a 16 year young participant &amp;#8211; ceek (cool geek) &amp;#8211; at the &amp;#8216;&lt;a href=&#34;http://rubylearning.org/&#34;&gt;Free Online Ruby Programming Course&lt;/a&gt;&amp;#8216;. &amp;#8216;Rick&amp;#8217; is a student in XII grade at the Kendriya Vidyalaya Cantonment School in Ahmedabad, India. He&amp;#8217;s an open source fan, loves programming and is very active in the course forums. If not studying, Paresh is tinkering on his computer and helping out friends.
+    &lt;img class=&#34;alignright&#34; title=&#34;Paresh Mathur&#34; src=&#34;http://www.rubylearning.com/images/paresh.gif&#34; alt=&#34;Paresh Mathur&#34; /&gt;&lt;strong&gt;Paresh Mathur&lt;/strong&gt; aka &amp;#8220;Rick&amp;#8221;, is a 16 year young participant &amp;#8211; ceek (cool geek) &amp;#8211; at the &amp;#8216;&lt;a href=&#34;http://rubylearning.org/&#34;&gt;Free Online Ruby Programming Course&lt;/a&gt;&amp;#8216;. &amp;#8216;Rick&amp;#8217; is a student in XII grade at the Kendriya Vidyalaya Cantonment School in Ahmedabad, India. He&amp;#8217;s an open source fan, loves programming and is very active in the course forums. If not studying, Paresh is tinkering on his computer and helping out friends.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     &lt;em&gt;Paresh felt that a pro like Fabio should write an article on what one should do after the &amp;#8216;Free Online Ruby Programming Course&amp;#8217;. He was not aware whether such an article existed and if it did, it would be of great help to him.&lt;/em&gt;
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Paresh had two questions for Fabio and Fabio was kind enough to answer and also give his invaluable advice.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     &lt;span style=&#34;color:blue;&#34;&gt;&lt;strong&gt;Paresh&gt;&gt;&lt;/strong&gt; &lt;strong&gt;Further Studies&lt;/strong&gt;: What to do next? Can you recommend things to study after the course, including different frameworks and external libraries? If a free course like Satish&amp;#8217;s is in your mind please do share.&lt;/span&gt;
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     &lt;strong&gt;Fabio&gt;&gt;&lt;/strong&gt; The question is very broad in nature, so I can&amp;#8217;t pinpoint a direct answer.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Satish has an excellent free online Ruby course at &lt;a href=&#34;http://rubylearning.org/&#34;&gt;rubylearning.org&lt;/a&gt;. Satish&amp;#8217;s approach should be replicated more, that&amp;#8217;s for sure, and he is doing a great contribution to the community. So, no, I don&amp;#8217;t know by heart any other online free course comparable to Satish&amp;#8217;s. That said, there are a number of good online resources. One that should be on anyone&amp;#8217;s RSS reader is Ryan Bates&amp;#8217; &amp;#8220;&lt;a href=&#34;http://railscasts.com/&#34;&gt;Railscasts&lt;/a&gt;&amp;#8220;, where he publishes several small screencasts with tips and best practices using Rails. The other great resource is &lt;a href=&#34;http://peepcode.com/&#34;&gt;Peepcode&amp;#8217;s&lt;/a&gt; series of screencasts. Those are not free but are much more elaborate and complete.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     I think these are the &amp;#8216;usual suspects&amp;#8217;. But there is so much more. And on the other hand you have to ask yourself &amp;#8220;&lt;strong&gt;at what level am I?&lt;/strong&gt;&amp;#8220;
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Most screencasts, tutorials, articles on the internet assume that you&amp;#8217;re at least a reasonably educated programmer. By that I mean, you:
   &lt;/p&gt;
-
+  
   &lt;ul&gt;
     &lt;li&gt;
       have a very good understanding on &lt;a href=&#34;http://cgm.cs.mcgill.ca/~godfried/teaching/algorithms-web.html&#34;&gt;Algorithms and Data Structure&lt;/a&gt;.
@@ -1403,83 +1572,83 @@ end&lt;/code&gt;&lt;/pre&gt;
       know &lt;a href=&#34;http://www.googleguide.com/&#34;&gt;how to use Google&lt;/a&gt; (and this is not a joke, many people don&amp;#8217;t!)
     &lt;/li&gt;
   &lt;/ul&gt;
-
+  
   &lt;p&gt;
     The field of Computer Science is very very broad; it is an enormous and ever growing body of knowledge and it is impossible to know everything. That&amp;#8217;s why it is so important to at least focus on the foundations, so you can build your way up on your own. The best programmers learn by themselves the required skills for our craft. Programming is basically a &lt;a href=&#34;http://www.mcbreen.ab.ca/SoftwareCraftsmanship/&#34;&gt;craftsmanship&lt;/a&gt;. The same way no one can teach you how to become a Leonardo Da Vinci; it is obviously difficult to come up with a recipe to become the next &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Art_of_Computer_Programming&#34;&gt;Donald Knuth&lt;/a&gt;.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     That said, you don&amp;#8217;t and you shouldn&amp;#8217;t try to learn every single bullet point, I mentioned above, in deep detail. Remember: I said it is impossible to know the whole. Each bullet point above is a vast and complex body of knowledge by itself. Don&amp;#8217;t try to learn every bit at once, it is time consuming and not valuable.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Instead, educate yourself to at least get to know the basics on each. You don&amp;#8217;t have to become Linus Torvalds to be able to understand the basics on operating systems. Install any Linux distro, read the several tutorials, try to do something useful with it. Then try to solve problems, tweak it, try to make it do different things than what was offered to you out-of-the-box. Try to make it crash and understand why it does so. Trying and error is the best learning process if you are a beginner.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     There is absolutely no set of a fixed number of items that can be listed for you to learn, so you can consider yourself a &lt;strong&gt;good programmer&lt;/strong&gt;. Programming is an art that requires commitment and gives you nothing back: meaning that it never ends. Techniques get obsolete fast, new techniques arise all the time and it is your job, as a programmer, to get to know them.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Read good books, but never consider them absolute truths. Many books have a lot of mistakes and things that can be misinterpreted. Like the classic &lt;a href=&#34;http://en.wikipedia.org/wiki/Gang_of_Four_%28software%29&#34;&gt;Gang of Four&lt;/a&gt; book: it is more of a guideline than a defined set of authoritative techniques that you must use all the time. Different people make different implementations of the same design pattern.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Considering that you already know all this and I am wasting my time &lt;img src=&#34;http://rubylearning.com/blog/wp-includes/images/smilies/icon_smile.gif&#34; alt=&#34;:-)&#34; class=&#34;wp-smiley&#34; /&gt; Let&amp;#8217;s get straight to the Ruby specific topic: you are already an experienced programmer and you just got initial knowledge about Ruby&amp;#8217;s way. What to do next?
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Find yourself an &lt;a href=&#34;http://catb.org/~esr/writings/cathedral-bazaar/&#34;&gt;itch to scratch&lt;/a&gt;. Meaning: find yourself a computer problem for which you may not have a good answer, just yet. You want some new desktop client to better manage your Twitter activities. You want something to hold together all passwords from all your dozen or so social network accounts. Choose whatever you want. It can even be something that already exists but that you think you could do better.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     It shouldn&amp;#8217;t be something too big &amp;#8220;&lt;strong&gt;I want to write the next MySpace in Ruby&lt;/strong&gt;.&amp;#8221; Less ambition. You&amp;#8217;re just getting started. Type in your first &amp;#8220;Hello World&amp;#8221;, see it running and set the stage for more code to come.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Once you do that, you will probably find yourself either doing a lot of code for something that was supposed to be simple, by Ruby standards, and chances are that you are reinventing the wheel. Define the specific problem you are coding right now and research to see if an alternative library doesn&amp;#8217;t exist already. Or you will try to code something and get stuck at some problem you don&amp;#8217;t even know how to start (&amp;#8220;&lt;strong&gt;how do I authenticate into a Twitter account?&lt;/strong&gt;&amp;#8220;).
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     In all cases you have several answers: Google for general research. IRC channels. Google Groups discussion lists. Web-based forums. The Blogosphere. Suit yourself, there is a ton of information available for just about any kind of computer problem. If you are having trouble, chances are someone else has already solved it and was kind enough to document and make it available online. It is just a matter of spending a few minutes researching for it.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Without a small problem to solve, you won&amp;#8217;t be able to warm yourself up quick enough. Reading books is fine, but kind of pointless without real usage. Experience is the best way to learn something. You can read hundreds of books on how to ride a bicycle, but you won&amp;#8217;t learn it until you actually try the real thing and fall down for the first time. Only then you start to appreciate the learning process.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     &lt;span style=&#34;color:blue;&#34;&gt;&lt;strong&gt;Paresh&gt;&gt; Hands on&lt;/strong&gt;: Most people, like me, would like to contribute our time, skills and expertise to a project but invariably are unaware of where and how to do so. Fabio, could you suggest some?&lt;/span&gt;
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     &lt;strong&gt;Fabio&gt;&gt;&lt;/strong&gt; This is another thing that has no real answer. Being very arrogant the short answer is: &amp;#8220;&lt;strong&gt;if you don&amp;#8217;t know how to contribute, you shouldn&amp;#8217;t be thinking about it just yet&lt;/strong&gt;.&amp;#8221;
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Let me reason why is that: contributing to an open source software is far more complex than writing half a dozen lines of code, submitting it and expecting that it will be used. The process is a lot more complex than that.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Understand that open source projects are &lt;a href=&#34;http://www.ruby-lang.org/en/community/&#34;&gt;community-driven&lt;/a&gt;. It means that first of all you should start becoming part of a community. It also assumes that you already know of some project you want to participate in. For that, you can&amp;#8217;t be an internet illiterate.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     One project that you know about is Ruby. Fine, you can start by joining the &lt;a href=&#34;http://www.ruby-forum.com/&#34;&gt;Ruby Core Group&lt;/a&gt;. You can start by downloading Ruby&amp;#8217;s &lt;a href=&#34;http://www.ruby-lang.org/en/downloads/&#34;&gt;source code&lt;/a&gt; (which is in C, mind you). You will quickly find out that each open source group has a lot going on: bug fixes, feature request, politics. Yes, even politics. You have to be nice to your neighbors in order to gain respect. Simply shouting &amp;#8220;&lt;strong&gt;I want my code in!&lt;/strong&gt;&amp;#8221; will lead you no-where.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     You don&amp;#8217;t contribute for recognition, you contribute because you think some project is valuable to you and, once you get experience and knowledge about its inner gears and general community culture, you think you are able to help in some way: fixing bugs, completing documentation, answering other newbie questions at the forums, giving in new ideas. It is the same thing as joining any social group in real life: don&amp;#8217;t think that just because you&amp;#8217;re in everybody has to pay attention on you. Worse: don&amp;#8217;t even think that your solution is better than anyone else. Chances are that your requests are not new, they were already discussed and decisions were already made. Read the CHANGELOGs, read the discussion lists archives. It is very annoying when newbies sign in and start asking random request that are already buried.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Also, make sure you understand the &lt;a href=&#34;http://www.gnu.org/philosophy/philosophy.html&#34;&gt;Philosophy&lt;/a&gt; around open source software. It is not as trivial as one could think. Understand open source &lt;a href=&#34;http://en.wikipedia.org/wiki/Open_source_license&#34;&gt;Licenses&lt;/a&gt;. Chances are, if you are a beginner, that you never read any of those documents. All of them being published in the open, it is not an excuse to not know all of them.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Again, let&amp;#8217;s assume that you already are a programmer well aware of all the culture and what&amp;#8217;s going on around open source projects. You just want to know how to contribute to the Ruby community.
   &lt;/p&gt;
-
+  
   &lt;ul&gt;
     &lt;li&gt;
       Ruby 1.8 is in maintenance mode. There are bugs to be fixed, documentation to be completed. Join the Ruby list and see what they are discussing.
@@ -1497,51 +1666,51 @@ end&lt;/code&gt;&lt;/pre&gt;
       &lt;a href=&#34;http://github.com/popular/forked&#34;&gt;GitHub&lt;/a&gt; is the new kid on the block but it is already hosting several high profile projects. Bear in mind that popular projects means lots of people to deal with, you don&amp;#8217;t want to attract attention without need.
     &lt;/li&gt;
   &lt;/ul&gt;
-
+  
   &lt;p&gt;
     You did realize that the first step for contributing to any open source project is to join their communities, right? It is not enough to download the source code, change a few bits and expect it to show up in the official repository. Open source means commitment to a community. It is totally driven by mutual respect, open discussions.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     If you are a beginner it is good enough to just join the community and follow what&amp;#8217;s going on, passively, until you get a grip on how things work and start posting questions and asking directions. This is socializing-101. There actually is a &lt;a href=&#34;http://www.inet.bg/faq/netiquete.html&#34;&gt;Netiquete&lt;/a&gt; that you really should follow.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     As I said before, look for an &amp;#8216;itch to scratch&amp;#8217;. No one wakes up one day and decides &amp;#8216;I will help some project&amp;#8217;. It is not how it works. The more usual use case is that you&amp;#8217;re using something from somebody else and you get yourself stuck with it. &amp;#8220;&lt;strong&gt;It may be a bug!&lt;/strong&gt;&amp;#8221; But it may not! First thing: you Google over it. You research the discussion forums and mailing lists. You research the bug tracker site (if the project has one). Then, after a lot of researching you realized that it is an undocumented bug. Second step, you make sure it is a bug and are not using the product in the wrong way. You build tests. You debug it. You think twice.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Once you have done all that and know it is a bug, you go to step three and see if it is something you think you&amp;#8217;re able to fix. Either way, you ask the community about it, if no one knows anything about it, you file in a bug ticket. Now you can wait for a fix or, if you really want to contribute, you post all details about the bug, all your debug information and, hopefully either fix it yourself or ask for someone else, more experienced, to fix it.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     It&amp;#8217;s a very organic process and it become second nature to every non-passive programmer reasonably fast. The important thing is to understand that no good programmer lives in isolation: the internet is a living and breathing world-wide community that you must be a part of, in order to become a respectable and good programmer.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     &lt;strong&gt;Conclusion&lt;/strong&gt;:
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     So, you are a beginner programmer. Welcome to the Programming field. There are lots of exciting new things for you to explore and learn. It is even more exciting because it has no defined goal, no finish line, no end at all. You will never get bored because it is ever changing. You can learn at the very least, one new thing every single day.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     You can and should socialize with other experienced programmers. Join communities. Read good books. This is a wonderful craft that can be very rewarding once you get yourself really started.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Understand that there is no such thing as a &amp;#8216;perfect software&amp;#8217; or &amp;#8216;bug free software&amp;#8217;. You will make mistakes, lot&amp;#8217;s of them. And that is okay as far as you recognize them and learn from your mistakes. It is not how many mistakes you make, it is how many of them do you repeat over and over. It is how prepared you are to handle mistakes. There is no such a thing as a &amp;#8216;perfect painting&amp;#8217;. An artist is always tweaking his own skills. That&amp;#8217;s what we do.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     Good luck, Paresh.
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     &lt;span style=&#34;color:blue;&#34;&gt;&lt;em&gt;Thank you Fabio. In case you have any queries, questions on this article, kindly post your questions here and Fabio would be glad to answer.&lt;/em&gt;&lt;/span&gt;
   &lt;/p&gt;
-
+  
   &lt;p&gt;
     &lt;strong&gt;&lt;span style=&#34;color:red;&#34;&gt;Update:&lt;/span&gt;&lt;/strong&gt; Participate in the discussion at &lt;a href=&#34;http://www.dzone.com/links/fabio_akita_advises_a_young_ruby_beginner.html&#34;&gt;DZone&lt;/a&gt;.
   &lt;/p&gt;
@@ -1610,26 +1779,6 @@ end
 &lt;/div&gt;
 
 &lt;p&gt;Technorati Tags: &lt;a href=&#34;http://technorati.com/tag/Ruby&#34; rel=&#34;tag&#34;&gt;Ruby&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/Twitter&#34; rel=&#34;tag&#34;&gt; Twitter&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>University of Pune: Ruby Programming</title>
-      <link>http://rubylearning.com/blog/2008/02/22/university-of-pune-ruby-programming/</link>
-      <pubDate>Fri, 22 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://rubylearning.com/blog/2008/02/22/university-of-pune-ruby-programming/</guid>
-      <description>&lt;div&gt;
-  &lt;p&gt;
-    With the growing popularity of the Ruby Programming language in India, the University of Pune proposes to introduce &lt;a href=&#34;http://www.unipune.ernet.in/doc/circular/AcademicCircular/RevisedSyllabus/Management/MCMNewSyllabus%5B1%5D.pdf&#34;&gt;Ruby Programming&lt;/a&gt; as part of the Masters in Computer Management (MCM) post-graduate course, from June 2008.
-  &lt;/p&gt;
-  
-  &lt;p&gt;
-    The University has uploaded the new syllabus on the web so that students, members of the public and experts may &lt;a href=&#34;mailto:syllabi@unipune.ernet.in&#34;&gt;post their comments&lt;/a&gt;.
-  &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Technorati Tags: &lt;a href=&#34;http://technorati.com/tag/MCM&#34; rel=&#34;tag&#34;&gt;MCM&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/Ruby+programming&#34; rel=&#34;tag&#34;&gt;Ruby programming&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/University+of+Pune&#34; rel=&#34;tag&#34;&gt;University of Pune&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/University+of+Pune%3A+Ruby+Programming&#34; rel=&#34;tag&#34;&gt;University of Pune: Ruby Programming&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

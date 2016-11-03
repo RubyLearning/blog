@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://rubylearning.com/blog/</loc>
-    <lastmod>2015-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2015-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubylearning.com/blog/2015/10/11/learn-ruby-programming---64th-batch/</loc>
+    <lastmod>2015-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,12 +43,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</loc>
     <lastmod>2015-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/26/felipe-elias-philipp-winner-rpcfn---1-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/26/rpcfn-average-arrival-time-for-a-flight---2-reprint/</loc>
     <lastmod>2015-01-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,12 +73,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2015/01/07/corey-donohoe-how-do-i-learn-and-master-sinatra/</loc>
+    <loc>http://rubylearning.com/blog/2015/01/07/20-rubyists-are-using-sinatra---do-you-reprint/</loc>
     <lastmod>2015-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -803,12 +808,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/07/15/interview-author-antonio-cangiano/</loc>
+    <loc>http://rubylearning.com/blog/2009/07/15/chris-strom-how-do-i-learn-and-master-sinatra/</loc>
     <lastmod>2009-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/07/15/chris-strom-how-do-i-learn-and-master-sinatra/</loc>
+    <loc>http://rubylearning.com/blog/2009/07/15/interview-author-antonio-cangiano/</loc>
     <lastmod>2009-07-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -903,12 +908,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/05/24/book-promotion-programming-ruby-1.9/</loc>
+    <loc>http://rubylearning.com/blog/2009/05/24/interview-author-dave-thomas/</loc>
     <lastmod>2009-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/05/24/interview-author-dave-thomas/</loc>
+    <loc>http://rubylearning.com/blog/2009/05/24/book-promotion-programming-ruby-1.9/</loc>
     <lastmod>2009-05-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -988,12 +993,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/19/rubylearnings-sponsor-1st-easy-limited/</loc>
+    <loc>http://rubylearning.com/blog/2009/03/19/can-you-suggest-new-course-contents/</loc>
     <lastmod>2009-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/19/can-you-suggest-new-course-contents/</loc>
+    <loc>http://rubylearning.com/blog/2009/03/19/rubylearnings-sponsor-1st-easy-limited/</loc>
     <lastmod>2009-03-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1013,12 +1018,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/10/rubylearnings-sponsor-blue-box-group/</loc>
+    <loc>http://rubylearning.com/blog/2009/03/10/rubylearnings-sponsor-rails-kits/</loc>
     <lastmod>2009-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2009/03/10/rubylearnings-sponsor-rails-kits/</loc>
+    <loc>http://rubylearning.com/blog/2009/03/10/rubylearnings-sponsor-blue-box-group/</loc>
     <lastmod>2009-03-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -1433,12 +1438,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/08/30/book-deploying-rails-applications/</loc>
+    <loc>http://rubylearning.com/blog/2007/08/30/interview-with-ola-bini-</loc>
     <lastmod>2007-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/08/30/interview-with-ola-bini-</loc>
+    <loc>http://rubylearning.com/blog/2007/08/30/book-deploying-rails-applications/</loc>
     <lastmod>2007-08-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -1643,17 +1648,17 @@
   </url>
   
   <url>
+    <loc>http://rubylearning.com/blog/2007/02/24/ruby-snips/</loc>
+    <lastmod>2007-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://rubylearning.com/blog/2007/02/24/ruby/gtk2/</loc>
     <lastmod>2007-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://rubylearning.com/blog/2007/02/24/write-ruby-code-faster-with-ed-for-windows/</loc>
-    <lastmod>2007-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://rubylearning.com/blog/2007/02/24/ruby-snips/</loc>
     <lastmod>2007-02-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -1718,12 +1723,12 @@
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/01/20/setting-up-an-it-company-in-india/</loc>
+    <loc>http://rubylearning.com/blog/2007/01/20/kidzworld-one-of-the-largest-ruby-on-rails-sites-ever-deployed/</loc>
     <lastmod>2007-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rubylearning.com/blog/2007/01/20/kidzworld-one-of-the-largest-ruby-on-rails-sites-ever-deployed/</loc>
+    <loc>http://rubylearning.com/blog/2007/01/20/setting-up-an-it-company-in-india/</loc>
     <lastmod>2007-01-20T00:00:00+00:00</lastmod>
   </url>
   

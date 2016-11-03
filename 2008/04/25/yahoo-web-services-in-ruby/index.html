@@ -153,77 +153,77 @@
 
             <div>
   <p class="block">
-    <img class="alignleft" title="Jose Carlos Monteiro" src="http://rubylearning.com/images/josecm.jpg" alt="Jose Carlos Monteiro" /><strong><a href="mailto:jose-t-monteiro@telecom.pt">Jose Carlos Monteiro</a></strong> is a Portuguese Ruby enthusiast and a mentor at RubyLearning.org. He has over 11 years of experience in programming with languages such as C, C++, Delphi, Java, Perl, PHP. He is also familiar with coding Unix Shell Scripts and used to working with version control systems (CVS and Subversion). His short-term goal is to acquire new skills, such as becoming more experienced in working with &#8220;modern&#8221; build tools (rake) and continuous integration tools. He also aims to become more familiar in applying modern concepts/methodologies such as TDD/BDD in his day-to-day work.
+    <img class="alignleft" title="Jose Carlos Monteiro" src="http://www.rubylearning.com/images/josecm.jpg" alt="Jose Carlos Monteiro" /><strong><a href="mailto:jose-t-monteiro@telecom.pt">Jose Carlos Monteiro</a></strong> is a Portuguese Ruby enthusiast and a mentor at RubyLearning.org. He has over 11 years of experience in programming with languages such as C, C++, Delphi, Java, Perl, PHP. He is also familiar with coding Unix Shell Scripts and used to working with version control systems (CVS and Subversion). His short-term goal is to acquire new skills, such as becoming more experienced in working with &#8220;modern&#8221; build tools (rake) and continuous integration tools. He also aims to become more familiar in applying modern concepts/methodologies such as TDD/BDD in his day-to-day work.
   </p>
-
+  
   <h3>
     Introduction
   </h3>
-
+  
   <p>
     Yahoo! Web Services are a set of online services that can be used by developers when creating &#8220;mashups&#8221;. These services are like a gateway to the huge amount of available data at Yahoo! The services are provided through a REST-based API, which is well documented at <a href="http://developer.yahoo.com/">Yahoo! Developer Network</a>.
   </p>
-
+  
   <h3>
     Web Services
   </h3>
-
+  
   <p>
     On Wikipedia one can read the following definition about <a href="http://en.wikipedia.org/wiki/Web_service">Web Services</a>: <em>A Web Service is defined by the W3C as &#8216;a software system designed to support inter-operable Machine to Machine interaction over a network.&#8217; Web services are frequently just Web APIs that can be accessed over a network, such as the Internet, and executed on a remote system hosting the requested services</em>.
   </p>
-
+  
   <p>
     A Web Service is an online component that can be used by applications to receive or send data in a well-known XML format. Developers can use them to allow communication to happen between applications running in different operating systems and coded in distinct programming languages, since all communication is done in XML format.
   </p>
-
+  
   <h3>
     RESTful Web Services
   </h3>
-
+  
   <p>
     Again, on Wikipedia one can read the following definition to better understand the concept of <a href="http://en.wikipedia.org/wiki/Representational_State_Transfer">RESTful Web Service</a>: <em>RESTful Web services attempt to emulate HTTP and similar protocols by constraining the interface to a set of well-known, standard operations (e.g., GET, PUT, DELETE). Here, the focus is on interacting with stateful resources, rather than messages or operations</em>.
   </p>
-
+  
   <p>
     A more elaborate description is given on the article about <a href="http://java.sun.com/developer/technicalArticles/WebServices/restful/">RESTful Web Services</a>, available through the Sun Developer Network: <em>In the web services world, REpresentational State Transfer (REST) is a key design idiom that embraces a stateless client-server architecture in which the web services are viewed as resources and can be identified by their URLs. Web service clients that want to use these resources access a particular representation by transferring application content using a small globally defined set of remote methods that describe the action to be performed on the resource. The HTTP methods such as GET and POST are the verbs that the developer can use to describe the necessary create, read, update, and delete (CRUD) actions to be performed. Some may see an analogy to operations in SQL, which also relies on a few common verbs, however, the REST style and HTTP protocol are mutually exclusive, and REST does not require HTTP</em>.
   </p>
-
+  
   <p>
     The term REST is an acronym for <em>REpresentational State Transfer</em> and was coined by Roy Fielding.
   </p>
-
+  
   <h3>
     Mashups
   </h3>
-
+  
   <p>
     One more, the definition of <a href="http://en.wikipedia.org/wiki/Mashup_(web_application_hybrid)">mashup</a> on Wikipedia states that: <em>A mashup is a web application that combines data from more than one source into a single integrated tool. Content used in mashups is typically sourced from a third party via a public interface or API (web services), although some in the community believe that cases where private interfaces are used should not count as mashups. Other methods of sourcing content for mashups include Web feeds (e.g. RSS or Atom), and screen scraping. Many people are experimenting with mashups using Amazon, eBay, Flickr, Google, Microsoft, Yahoo and YouTube APIs, which has led to the creation of the mashup editor</em>.
   </p>
-
+  
   <h3>
     Yahoo! Web Services and Ruby
   </h3>
-
+  
   <p>
     Working with Yahoo! Web Services from Ruby is quite simple. One is only required to include the library Net::HTTP and use an Application ID that is <a href="http://developer.yahoo.com/wsregapp/">obtained from Yahoo! Developer Network</a>. For this how-to, Satish has already registered one such Application ID to be used in the code samples and in the following exercise(s).
   </p>
-
+  
   <p>
     Basically, one decides if the code is to use HTTP GET or HTTP POST methods and then sends a request and waits for a response. This response is in XML format and is well documented for each Yahoo! Web Service. The same goes for the request. By also including the REXML library one is able to handle the XML Response in a more readable way.
   </p>
-
+  
   <p>
     On Yahoo! Developer Network there are already pages with all that&#8217;s required to work with <a href="http://developer.yahoo.com/ruby/ruby-rest.html">Yahoo! Web Services</a> and parsing the <a href="http://developer.yahoo.com/ruby/ruby-xml.html">XML Response</a>. Also, Premshree Pillai has coded the Ruby API for Yahoo! Search Web Services that&#8217;s available inside the Search Developer Kit. The following code samples are taken almost straight from those pages, and don&#8217;t use the Ruby API for Yahoo! Search Web Services.
   </p>
-
+  
   <h3>
     Code Samples
   </h3>
-
+  
   <p>
     <strong>Using REST API with GET method:</strong>
   </p>
-
+  
   <pre><code>&lt;span style="color:blue">require 'net/http'
 
 APPLICATION_ID = 'XIM4jgrV34GXdnMQfjYVcfY6YIMvb4FrOoBmcxAMHrVWrPPte0QDpYgieP5jZKFuCsL9'
@@ -238,15 +238,15 @@ rescue Exception => e
 end
 print xml_result_set.body
 print xml_result_set.to_s + "\n"&lt;/span></code></pre>
-
+  
   <p>
     <strong>Explanation</strong>: The results_limit variable holds the maximum number of ResultSets in the returning response. That response is available on the xml_result_set variable, but to print it, one should call the body() method. The URL is constructed with the <a href="http://search.yahooapis.com/WebSearchService/V1/webSearch">Yahoo! Web Service Search URL</a> and with 3 arguments: appid, query and results. The query argument should be encoded to prevent non-HTML entities to be passed on the method Net::HTTP.get_response().
   </p>
-
+  
   <p>
     <strong>Using REST API with POST method:</strong>
   </p>
-
+  
   <pre><code>&lt;span style="color:blue">require 'net/http'
 
 APPLICATION_ID = 'XIM4jgrV34GXdnMQfjYVcfY6YIMvb4FrOoBmcxAMHrVWrPPte0QDpYgieP5jZKFuCsL9'
@@ -268,15 +268,15 @@ rescue Exception => e
 end
 puts xml_result_set
 puts response&lt;/span></code></pre>
-
+  
   <p>
     <strong>Explanation</strong>: Same thing here as with GET, except that the method to use is Net::HTTP.post_form() which receives 2 arguments: the URL without any arguments and the arguments as a Hash.
   </p>
-
+  
   <p>
     <strong>Using REST API with GET method and parsing the XML Response with REXML:</strong>
   </p>
-
+  
   <pre><code>&lt;span style="color:blue">require 'net/http'
 require 'rexml/document'
 
@@ -313,31 +313,31 @@ titles.each_with_index do | title, index |
   puts
 end
 &lt;/span></code></pre>
-
+  
   <p>
     <strong>Explanation</strong>: Exactly the same code up to the point of output. Now, instead of outputting the XML in raw format we use the class REXML::Document to parse the Result Nodes of the ResultSet into a set of Arrays: titles, summaries, links. This is just an example, since there are plenty more Response Fields that just these 3 and of course one can better control the query with other Request Parameters &#8211; as seen here: <a href="http://developer.yahoo.com/search/web/V1/webSearch.html">http://developer.yahoo.com/search/web/V1/webSearch.html</a>.
   </p>
-
+  
   <h3>
     Exercise
   </h3>
-
+  
   <p>
     Code a class that accesses Yahoo! Web Service Utility getTime &#8211; <a href="http://developer.yahoo.com/util/timeservice/V1/getTime.html">http://developer.yahoo.com/util/timeservice/V1/getTime.html</a> &#8211; which has methods that get the current time in Unix format and in milliseconds. It should have Exception Handling &#8211; when the ApplicationID is invalid or the URL isn&#8217;t properly parsed or the HTTP response is not OK.
   </p>
-
+  
   <p>
     Have fun!
   </p>
-
+  
   <h3>
     Further Reading
   </h3>
-
+  
   <h3>
     List of Yahoo! Web Services
   </h3>
-
+  
   <ul>
     <li>
       <a href="http://www.yahooapis.com/util/">http://www.yahooapis.com/util/</a> &#8211; <strong>Yahoo! Utility Web Services</strong>: The Utility Web Services are little helpers for applications that consume web services.
@@ -367,11 +367,11 @@ end
       <a href="http://www.yahooapis.com/shopping/">http://www.yahooapis.com/shopping/</a> &#8211; <strong>Yahoo! Shopping Web Services</strong>: You can use Yahoo! Shopping Web Services to search their database of millions of product offers and thousands of merchants available through the Yahoo! Shopping site. The API can be used to create applications that provide comparison shopping and product search functionality as well as display user reviews.
     </li>
   </ul>
-
+  
   <h3>
     List of available RubyForgeGems for Yahoo! Web Services
   </h3>
-
+  
   <ul>
     <li>
       <a href="http://rubyforge.org/projects/yahoo/">http://rubyforge.org/projects/yahoo/</a> &#8211; A Ruby client for Yahoo Web Services.
@@ -398,11 +398,11 @@ end
       <a href="http://rubyforge.org/projects/upcoming-rb/">http://rubyforge.org/projects/upcoming-rb/</a> &#8211; A simple wrapper around the Yahoo! Upcoming API. This Project Has Not Released Any Files.
     </li>
   </ul>
-
+  
   <p>
     <em>Thank you Jose for talking to the users of RubyLearning. In case the readers have any queries, questions on this article, kindly post your questions here and Jose would be glad to answer.</em>
   </p>
-
+  
   <ul>
     <li>
       <strong>Note</strong>: The information provided above is derived from the <a href="http://developer.yahoo.com/">Yahoo! Developer Network</a> and all Yahoo! based trademarks and logos are trademarks or registered trademarks of Yahoo.com in the United States and other countries.
@@ -482,7 +482,7 @@ end
 		</ul>
 	</div>
 
-	<p>&copy; 2016 RubyLearning. All rights reserved. </p>
+	<p>&copy; 2015 RubyLearning. All rights reserved. </p>
 </div>
 
     </div>
