@@ -267,9 +267,9 @@ directory clean and tidy.
 
 There are a few gems which were specifically created to help developers
 build their own gems. Among them are the renowned
-[jeweler](https://github.com/technicalpickles/jeweler%20jeweler),
-[hoe](https://github.com/seattlerb/hoe%20hoe) and
-[echoe](https://github.com/fauna/echoe%20echoe). I can’t go into detail
+[jeweler](https://github.com/technicalpickles/jeweler),
+[hoe](https://github.com/seattlerb/hoe) and
+[echoe](https://github.com/fauna/echoe). I can’t go into detail
 in any of these since I’ve never really used them – I started building
 my gem skeleton from scratch right at the beginning. However, some of
 these tools are very helpful so you should **really** take a look and
@@ -279,7 +279,7 @@ see if any fits your needs.
 
 As I mentioned, I’ve been using a gem skeleton for some time now, which
 [you can find at
-GitHub](https://github.com/goncalossilva/gem_template%20gem_template).
+GitHub](https://github.com/goncalossilva/gem_template).
 Every gem I’ve built started with that template, which I kept trying to
 improve over time.
 
