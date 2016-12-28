@@ -532,10 +532,10 @@ You can now press `Ctrl-C` to stop the `WEBrick` server.
 For all practical purposes, a middleware is a rack application that
 wraps up an inner application.
 
-Our middleware is going to do something very simple. We will append some
-text to the body being sent by our inner application. Let us write our
-own middleware. We will create a middleware class called
-MyRackMiddleware. Here’s the skeleton program:
+Our middleware is going to do something very simple. We will append some text to
+the body being sent by our inner application. Let us write our own middleware.
+We will create a middleware class called MyRackMiddleware. Here’s the skeleton
+program, (save as `myrackmiddleware.rb`):
 
     class MyRackMiddleware
       def initialize(appl)
