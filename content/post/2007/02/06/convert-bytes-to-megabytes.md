@@ -25,12 +25,11 @@ bytes to megabytes. This is useful for very large files.
 
 * * * * *
 
-One of the uses for [PDF conversion](http://www.investintech.com/) is
+One of the uses for PDF conversion is
 that by going through the process of [converting PDF to
 Word](http://www.oardc.ohio-state.edu/library/word_to_pdf.html) you’ll
-have a more easily editable document than if you didn’t do [PDF
-conversion](http://www.investintech.com/prod_a2d.htm) and tried to edit
-a PDF file.\
+have a more easily editable document than if you didn’t do PDF
+conversion and tried to edit a PDF file.\
 
 * * * * *
 

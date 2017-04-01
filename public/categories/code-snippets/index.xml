@@ -1399,12 +1399,10 @@ puts bytesToMeg(len).to_s + &#39; MB&#39;  # displays 59.7488174438477 MB
 
 &lt;hr /&gt;
 
-&lt;p&gt;One of the uses for &lt;a href=&#34;http://www.investintech.com/&#34;&gt;PDF conversion&lt;/a&gt; is
+&lt;p&gt;One of the uses for PDF conversion is
 that by going through the process of &lt;a href=&#34;http://www.oardc.ohio-state.edu/library/word_to_pdf.html&#34;&gt;converting PDF to
 Word&lt;/a&gt; you’ll
-have a more easily editable document than if you didn’t do &lt;a href=&#34;http://www.investintech.com/prod_a2d.htm&#34;&gt;PDF
-conversion&lt;/a&gt; and tried to edit
-a PDF file.&lt;/p&gt;
+have a more easily editable document than if you didn’t do PDF conversion and tried to edit a PDF file.&lt;/p&gt;
 
 &lt;hr /&gt;
 

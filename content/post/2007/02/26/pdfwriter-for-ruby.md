@@ -16,12 +16,9 @@ applications may want to offer PDF as one possible download format.
 
 * * * * *
 
-If you need to [convert PDF to Word](http://www.investintech.com/) in
-order to more easily edit your [PDF
-files](http://www.oardc.ohio-state.edu/library/word_to_pdf.html) then a
-specialized piece of [PDF
-converter](http://www.investintech.com/prod_a2d.htm) software is
-probably better than free online ones.
+If you need to convert PDF to Word in order to more easily edit your
+[PDF files](http://www.oardc.ohio-state.edu/library/word_to_pdf.html)
+then a specialized piece of PDF converter software is probably better than free online ones.
 
 * * * * *
 
