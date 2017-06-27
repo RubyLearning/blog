@@ -29,7 +29,7 @@ with his wife and two daughters. Jesse blogs at
 
 ![Jesse Storimer](http://rubylearning.com/images/jessestorimer.jpg)
 **S**o you've got some Ruby code and you want to make it faster. Maybe
-youve already got a new implementation in mind, or maybe youre still
+youve already got a new implementation in mind, or maybe you're still
 cooking that up. But how do you make *certain* that your new
 implementation is faster?
 
@@ -60,9 +60,9 @@ mean:
 ![Benchmark numbers breakdown](http://rubylearning.com/images/benchmark-breakdown.jpg)
 
 Generally, the number farthest to the right is the most important one.
-It tells how long it actually took to perform the operation. If youre
+It tells how long it actually took to perform the operation. If you're
 curious about why the clock time is so high, the other numbers can help
-you drill down to see if youre spending time in system functions or your
+you drill down to see if you're spending time in system functions or your
 own code.
 
 Now that you know what those magic numbers mean, we can move on to the
